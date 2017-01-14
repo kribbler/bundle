@@ -1,0 +1,177 @@
+/* --- events hours list --- */
+#event_hours_list
+{
+	background-color: #FFFFFF;
+    border: 1px solid #DFDFDF;
+	padding: 5px;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+}
+#event_hours_list li
+{
+	margin: 0 15px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+	border-bottom: 1px solid #DFDFDF;
+}
+#event_hours_list li:first-child
+{
+	margin-top: 0;
+}
+#event_hours_list .operation_button
+{
+	float: right;
+	cursor: pointer;
+	margin-top: 3px;
+	margin-left: 10px;
+}
+#event_hours_list .edit_hour_event_loader
+{
+	cursor: default;
+	display: none;
+	margin-top: 0;
+}
+#event_hours_table textarea
+{
+	width: 250px;
+}
+/* --- timetable settings --- */
+#timetable_settings .spinner 
+{
+    float: none;
+    margin: -4px 3px;
+}
+#timetable_settings .color,
+#event_config .color,
+.widget-content .color
+{
+	width: 70px;
+}
+#timetable_settings .color_preview,
+#event_config .color_preview,
+.widget-content .color_preview
+{
+	display: block;
+	float: left;
+	width: 25px;
+	height: 25px;
+	margin: 1px 5px 1px 1px;
+	background: transparent;
+	border: 1px solid #E0E0E0;
+}
+.widget-content .color_preview 
+{
+    display: inline-block;
+    float: none;
+    margin: 1px;
+    vertical-align: top;
+}
+.timetable_shortcode_container .copy_info
+{
+	display: none;
+}
+#timetable_settings .form-table tr:first-child th, 
+#timetable_settings .form-table tr:first-child td 
+{
+    padding-top: 0;
+}
+#timetable_configuration_tabs
+{
+	width: 830px;
+	font-family: 'Open Sans';
+	margin-top: 20px;
+}
+#timetable_settings tr
+{
+	border-bottom: 1px solid #EFEFEF;
+}
+#timetable_settings th,
+#timetable_settings td
+{
+	vertical-align: middle;
+}
+#timetable_settings .form-table .header_row
+{
+	text-align: center;
+	padding-right: 0;
+}
+#timetable_settings .description
+{
+	display: block;
+    margin-left: 20px;
+    width: 300px;
+}
+#timetable_settings  select,
+#timetable_settings .regular-text
+{
+	width: 200px;
+}
+.fontSubsetRow
+{
+	display: none;
+}
+#timetable_configuration_tabs .ui-tabs-panel,
+.timetable_shortcode_container
+{
+	clear: both;
+	box-shadow: 0 2px 0 rgba(0, 0, 0, 0.05);
+	background: #FFF;
+	padding: 20px 30px;
+}
+.timetable_shortcode_container
+{
+	width: 770px;
+	margin-top: 20px;
+}
+#timetable_configuration_tabs .ui-tabs-nav
+{
+	margin: 0;
+	background: #555555;
+    clear: both;
+    float: left;
+    width: 100%;
+}
+#timetable_configuration_tabs .ui-tabs-nav li
+{
+	padding: 0;
+	margin: 0;
+	border: none;
+	display: block;
+	float: left;
+}
+#timetable_configuration_tabs .ui-tabs-nav li a
+{
+	display: block;
+	background: #333;
+	color: #EEE;
+	text-decoration: none;
+	padding: 15px 20px;
+	outline: none;
+	font-size: 14px;
+}
+#timetable_configuration_tabs .ui-tabs-nav li a:hover
+{
+	background: #111;
+	color: #2EA2CC;
+}
+#timetable_configuration_tabs .ui-tabs-nav .ui-tabs-active a,
+#timetable_configuration_tabs .ui-tabs-nav .ui-tabs-active a:hover
+{
+	background: #0074A2;
+	color: #FFF;
+}
+#dummy_content_tick
+{
+	display: none;
+	margin-top: 5px;
+}
+/* --- admin menu --- */
+#adminmenu #menu-posts-timetable_weekdays .menu-icon-post div.wp-menu-image:before
+{
+	content: "\f145";
+}
+#adminmenu #menu-posts-events .menu-icon-post div.wp-menu-image:before
+{
+	content: "\f157";
+}

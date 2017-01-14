@@ -1,0 +1,4147 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPBakery Visual Composer v3.6.14.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-23 15:38+0100\n"
+"PO-Revision-Date: 2013-12-23 15:39+0100\n"
+"Last-Translator: admin <rick@tussendoor.nl>\n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/build.php:50
+msgid "Dowload new version from CodeCanyon."
+msgstr "Download nieuwe versie van CodeCanyon"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/build.php:53
+msgid "Update Visual Composer now."
+msgstr "Update Visual Composer nu"
+
+#: JS_Composer/js_composer/composer/build.php:151
+#, php-format
+msgid ""
+"Hola! Please <a href=\"%s\">activate your copy</a> of Visual Composer to "
+"receive automatic updates."
+msgstr ""
+"Hola! <a href=\"%s\">Activeer alstublieft uw product</a> van Visual Composer "
+"om automatisch updates te ontvangen."
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/build.php:169
+#, php-format
+msgid ""
+"There is a new version of Visual Composer available. <a href=\"http://bit.ly/"
+"vcomposer\" target=\"_blank\">Download version <b>%s</b></a>."
+msgstr ""
+"Er is een recentere versie van Visual Composter beschikbaar. <a href="
+"\"http://bit.ly/vcomposer\" target=\"_blank\">Download versie <b>%s</b></a>."
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/build.php:340
+msgid "Add/remove picture"
+msgstr "Afbeelding toevoegen/verwijderen"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/build.php:341
+msgid "Finish Adding Images"
+msgstr "Afbeeldingen toevoegen afronden"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/build.php:342
+msgid "Add Image"
+msgstr "Voeg afbeelding toe"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/build.php:343
+msgid "Add Images"
+msgstr "Voeg afbeeldingen toe"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/build.php:344
+#: JS_Composer/js_composer/composer/build.php:397
+#: JS_Composer/js_composer/composer/settings/settings.php:81
+#: JS_Composer/js_composer/composer/settings/settings.php:87
+msgid "Visual Composer"
+msgstr "Visual Composer"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/build.php:345
+msgid "Classic editor"
+msgstr "Klassieke bewerker"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/build.php:346
+msgid "Please enter templates name"
+msgstr "Voer een template naam in"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/build.php:347
+msgid ""
+"Confirm deleting \"{template_name}\" template, press Cancel to leave. This "
+"action cannot be undone."
+msgstr ""
+"Bevestig dat u de \"{template_name}\" template, wilt verwijderen. Druk op "
+"annuleren om te annuleren. Deze aktie kan niet ongedaan worden gemaakt."
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/build.php:348
+msgid "Press OK to delete section, Cancel to leave"
+msgstr "Klik OK om deze sectie te verwijderen, of klik op annuleren."
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/build.php:349
+msgid "Drag and drop me in the column"
+msgstr "Drag & drop mij in de kolom"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/build.php:350
+msgid "Press OK to delete \"{tab_name}\" tab, Cancel to leave"
+msgstr "Klik OK om \"{tab_name}\" te verwijderen, of klik op annuleren"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/build.php:351
+#: JS_Composer/js_composer/composer/lib/shortcodes/tour.php:4
+msgid "Slide"
+msgstr "Slide"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/build.php:352
+#: JS_Composer/js_composer/composer/lib/shortcodes/tabs.php:4
+#: JS_Composer/js_composer/config/map.php:752
+msgid "Tab"
+msgstr "Tab"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/build.php:353
+#: JS_Composer/js_composer/composer/build.php:356
+#: JS_Composer/js_composer/composer/shortcodes_templates/vc_accordion_tab.php:5
+msgid "Section"
+msgstr "Sectie"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/build.php:354
+msgid "Please enter new tab title"
+msgstr "Voer een nieuwe titel in voor de tab"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/build.php:355
+msgid "Press OK to delete \"{tab_name}\" section, Cancel to leave"
+msgstr ""
+"Klik OK om de \"{tab_name}\" sectie te verwijderen, of klik op annuleren"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/build.php:357
+msgid "Please enter new section title"
+msgstr "Voer een nieuwe titel in voor de sectie"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/build.php:358
+msgid "Error. Please try again."
+msgstr "Er ging iets fout, probeer het opnieuw."
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/build.php:359
+msgid ""
+"If you close this window all shortcode settings will be lost. Close this "
+"window?"
+msgstr ""
+"Als u dit venster sluit, gaan alle shortcode-instellingen verloren. Wilt u "
+"dit venster sluiten?"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/build.php:360
+msgid "Select element type"
+msgstr "Selecteer type element"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/build.php:361
+msgid "Media gallery"
+msgstr "Media galerij "
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/build.php:362
+msgid "Element settings"
+msgstr "Element instellingen"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/build.php:363
+msgid "Add tab"
+msgstr "Tab toevoegen"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/build.php:364
+msgid "Are you sure you want to convert to new version?"
+msgstr "Weet u zeker dat u wilt bijwerken naar een nieuwe versie?"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/build.php:365
+#: JS_Composer/js_composer/composer/lib/layouts.php:222
+msgid "Loading..."
+msgstr "Laden..."
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/build.php:367
+msgid "Set Image"
+msgstr "Stel afbeelding in"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/build.php:368
+msgid "Are you sure taht you want to remove all your data?"
+msgstr "Weet u zeker dat u alle data wilt verwijderen?"
+
+# @ default
+#: JS_Composer/js_composer/composer/build.php:369
+msgid "Loop settings"
+msgstr "Loop instellingen"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/build.php:370
+msgid "Enter custom layout for your row:"
+msgstr "Voer een aangepaste layout voor deze rij in: "
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/build.php:371
+msgid "Wrong row layout format! Example: 1/2 + 1/2 or span6 + span6."
+msgstr "Foutief formaat voor deze rij! Voorbeeld: 1/2+1/2 of span6 + span6"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/build.php:372
+msgid "Row background color"
+msgstr "Rij achtergrond kleur"
+
+#: JS_Composer/js_composer/composer/build.php:373
+msgid "Row background image"
+msgstr "Achtergrond afbeelding voor rijen"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/helpers.php:253
+msgid "Added"
+msgstr "Toegevoegd"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/helpers_api.php:4
+msgid "Wrong wpb_map object. Base attribute is required"
+msgstr "Foutief wpb_map object. Base attribuut is verplicht"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/layouts.php:14
+msgid "Wrong layout params"
+msgstr "Foutieve layout parameters"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/layouts.php:96
+msgid "Save current page as a Template"
+msgstr "Sla huidige pagina op als template"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/layouts.php:98
+msgid "Load Template"
+msgstr "Template laden"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/layouts.php:111
+msgid "No custom templates yet."
+msgstr "Er zijn nog geen aangepaste templates."
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/layouts.php:167
+msgid "Show all"
+msgstr "Toon alles"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/layouts.php:182
+msgid "Other"
+msgstr "Overige"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/layouts.php:194
+msgid "Select Content Element"
+msgstr "Selecteer content element"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/layouts.php:199
+msgid "Search by element name"
+msgstr "Zoek op element naam"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/layouts.php:210
+#: JS_Composer/js_composer/composer/lib/params/options/options.php:6
+msgid "Close"
+msgstr "Sluiten"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/layouts.php:226
+#: JS_Composer/js_composer/composer/lib/layouts.php:242
+#: JS_Composer/js_composer/composer/lib/shortcodes.php:445
+msgid "Save"
+msgstr "Opslaan"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/layouts.php:227
+#: JS_Composer/js_composer/composer/lib/layouts.php:243
+msgid "Cancel"
+msgstr "Annuleren"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/layouts.php:235
+#: JS_Composer/js_composer/composer/settings/settings.php:30
+msgid "Custom CSS"
+msgstr "Aangepaste CSS"
+
+#: JS_Composer/js_composer/composer/lib/layouts.php:239
+msgid ""
+"Enter custom CSS code here. Your custom CSS will be outputted only on this "
+"particular page."
+msgstr ""
+"Voer hier aangepaste CSS code in. Uw aangepaste CSS zal uitgevoerd worden op "
+"deze specifieke pagina."
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/layouts.php:288
+msgid "Visual Composer for WordPress"
+msgstr "Visual Composer voor WordPress"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/layouts.php:304
+msgid "Add element"
+msgstr "Element toevoegen"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/layouts.php:312
+msgid "Add row"
+msgstr "Rij toevoegen"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/layouts.php:320
+msgid "Templates"
+msgstr "Templates"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/layouts.php:330
+msgid "Update"
+msgstr "Bijwerken"
+
+# @ default
+#: JS_Composer/js_composer/composer/lib/layouts.php:336
+msgid "CSS"
+msgstr "CSS"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/layouts.php:374
+msgid ""
+"Your page layout was created with previous Visual Composer version. Before "
+"converting your layout to the new version, make sure to <a target=\"_blank\" "
+"href=\"http://kb.wpbakery.com/index.php?"
+"title=Update_Visual_Composer_from_3.4_to_3.5\">read this page</a>."
+msgstr ""
+"De pagina layout is gecreëerd met een vorige versie van Visual Composer. "
+"Lees <a target=\"_blank\" href=\"http://kb.wpbakery.com/index.php?"
+"title=Update_Visual_Composer_from_3.4_to_3.5\">deze pagina</a> voordat je de "
+"layout bijwerkt naar de meest recente versie."
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/layouts.php:376
+msgid "Convert to new version"
+msgstr "Bijwerken naar nieuwe versie"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/layouts.php:382
+#: JS_Composer/js_composer/composer/lib/layouts.php:421
+msgid "Loading, please wait..."
+msgstr "Laden, even geduld aub.."
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/layouts.php:387
+msgid "No content yet! You should add some..."
+msgstr "Er is nog geen inhoud! Start met het plaatsen hiervan.. "
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/layouts.php:391
+msgid ""
+"This is a visual preview of your page. Currently, you don't have any content "
+"elements. Click or drag the button <a href='#' class='add-element-to-"
+"layout'><i class='icon'></i> Add element</a> on the top to add content "
+"elements on your page. Alternatively add <a href='#' class='add-text-block-"
+"to-content' parent-container='#visual_composer_content'><i class='icon'></i> "
+"Text block</a> with single click."
+msgstr ""
+"Dit is een visuele voorvertoning van de pagina. Momenteel zijn er nog geen "
+"enkele elementen toegevoegd. Kik of sleep de knop <a href='#' class='add-"
+"element-to-layout'><i class='icon'></i>Element toevoegen</a> bovenaan deze "
+"pagina om content elementen toe te voegen. U kunt ook direct een <a href='#' "
+"class='add-text-block-to-content' parent-"
+"container='#visual_composer_content'><i class='icon'></i>Tekst blok</a> "
+"toevoegen."
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/layouts.php:396
+msgid ""
+"Click the pencil icon on the content elements to change their properties."
+msgstr "Klik op het potlood icoon op een content element om deze te wijzigen."
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/layouts.php:422
+msgid "Crunching..."
+msgstr "Verkleinen..."
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/mapper.php:55
+#: JS_Composer/js_composer/composer/lib/mapper.php:162
+#: JS_Composer/js_composer/composer/lib/mapper.php:174
+#: JS_Composer/js_composer/composer/lib/mapper.php:198
+#: JS_Composer/js_composer/composer/lib/mapper.php:238
+#, php-format
+msgid "Wrong name for shortcode:%s. Name required"
+msgstr "Foutieve naam voor shortcode: %s. Naam is verplicht"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/mapper.php:57
+#, php-format
+msgid "Wrong base for shortcode:%s. Base required"
+msgstr "Foutieve base voor shortcode: %s. Base is verplicht"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/mapper.php:176
+#: JS_Composer/js_composer/composer/lib/mapper.php:200
+#, php-format
+msgid "Wrong attribute for '%s' shortcode. Attribute 'param_name' required"
+msgstr ""
+"Foutief attribuut voor '%s' shortcode. Attribuut 'param_name' is verplicht"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/mapper.php:240
+#, php-format
+msgid "Wrong setting_name for shortcode:%s. Base can't be modified."
+msgstr ""
+"Foutieve setting_name voor shortcode: %s. Base kan niet gewijzigd worden."
+
+#: JS_Composer/js_composer/composer/lib/shortcodes.php:124
+#, php-format
+msgid ""
+"Template file is missing for `%s` shortcode. Make sure you have `%s` file in "
+"your theme folder."
+msgstr ""
+"Sjabloonbestand ontbreekt voor `%s` shortcode. Zorg ervoor dat u `%s` "
+"bestand in uw thema map heeft."
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes.php:320
+#, php-format
+msgid "Edit %s"
+msgstr "Bewerk %s"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes.php:321
+#, php-format
+msgid "Clone %s"
+msgstr "Kopieer %s"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes.php:321
+#, php-format
+msgid "Delete %s"
+msgstr "Verwijder %s"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes.php:432
+#: JS_Composer/js_composer/composer/lib/shortcodes.php:718
+msgid "Edit"
+msgstr "Bewerken"
+
+#: JS_Composer/js_composer/composer/lib/shortcodes.php:499
+msgid ""
+"Field type is changed from `textarea_html` to `textarea`, because it is "
+"already used by `"
+msgstr ""
+"Veld type is veranderd van `textarea_html` naar `textarea` omdat het al "
+"gebruikt wordt door `"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes.php:571
+#: JS_Composer/js_composer/composer/lib/shortcodes/image_gallery.php:27
+msgid "Add images"
+msgstr "Voeg afbeeldingen toe"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes.php:586
+#: JS_Composer/js_composer/composer/lib/shortcodes/single_image.php:22
+msgid "Add image"
+msgstr "Voeg afbeelding toe"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes.php:645
+#: JS_Composer/js_composer/composer/lib/shortcodes/tabs.php:23
+#, php-format
+msgid "Append to this %s"
+msgstr "Toevoegen aan deze %s"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes.php:646
+#: JS_Composer/js_composer/composer/lib/shortcodes/tabs.php:24
+#, php-format
+msgid "Prepend to this %s"
+msgstr "Vooraan toevoegen aan deze %s"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes.php:649
+#: JS_Composer/js_composer/composer/lib/shortcodes/tabs.php:27
+#, php-format
+msgid "Edit this %s"
+msgstr "Bewerk deze %s"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes.php:650
+#: JS_Composer/js_composer/composer/lib/shortcodes/tabs.php:28
+#, php-format
+msgid "Clone this %s"
+msgstr "Kopieer deze %s"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes.php:652
+#: JS_Composer/js_composer/composer/lib/shortcodes/tabs.php:30
+#, php-format
+msgid "Delete this %s"
+msgstr "Verwijder deze %s"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/wpb_automatic_updater.php:16
+msgid "Error! Can't connect to filesystem"
+msgstr "Fout! Kan geen verbinding maken met bestandssysteem "
+
+#: JS_Composer/js_composer/composer/lib/wpb_automatic_updater.php:22
+msgid ""
+"Error! Envato username, api key and your purchase code are required for "
+"downloading updates from Envato marketplace for the Visual Composer. Visit "
+"<a href=\""
+msgstr ""
+"Fout! Envato gebruikersnaam, api key en uw aankoop code zijn nodig voor het "
+"downloaden van Envato marketplace updates voor de Visual Composer. Bezoek <a "
+"href = \""
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/wpb_automatic_updater.php:27
+msgid "Error! Envato API error"
+msgstr "Fout! Envato API fout "
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/wpb_automatic_updater.php:42
+msgid "Error on unzipping package"
+msgstr "Fout bij uitpakken van het zip bestand"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/wpb_automatic_updater.php:55
+msgid "Downloading package from envato market&#8230;"
+msgstr "Download pakket vanaf envato market&#8230;"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/params/loop/loop.php:14
+msgid "Build query"
+msgstr "Query opbouwen"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/params/loop/loop.php:163
+msgid "Post Count"
+msgstr "Bericht teller"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/params/loop/loop.php:164
+msgid "Order By"
+msgstr "Sorteer op"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/params/loop/loop.php:165
+msgid "Order"
+msgstr "Sorteer"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/params/loop/loop.php:166
+#: JS_Composer/js_composer/config/map.php:867
+#: JS_Composer/js_composer/config/map.php:1224
+msgid "Post types"
+msgstr "Post type"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/params/loop/loop.php:167
+#: JS_Composer/js_composer/composer/lib/params/loop/loop.php:227
+#: JS_Composer/js_composer/config/map.php:955
+#: JS_Composer/js_composer/config/map.php:1280
+msgid "Author"
+msgstr "Auteur"
+
+# @ js_composer
+# @ default
+#: JS_Composer/js_composer/composer/lib/params/loop/loop.php:168
+#: JS_Composer/js_composer/composer/shortcodes_templates/vc_wp_categories.php:4
+#: JS_Composer/js_composer/config/map.php:947
+#: JS_Composer/js_composer/config/map.php:1272
+#: JS_Composer/js_composer/config/map.php:2348
+msgid "Categories"
+msgstr "Categorieën"
+
+# @ js_composer
+# @ default
+#: JS_Composer/js_composer/composer/lib/params/loop/loop.php:169
+#: JS_Composer/js_composer/composer/shortcodes_templates/vc_wp_tagcloud.php:4
+msgid "Tags"
+msgstr "Tags"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/params/loop/loop.php:170
+#: JS_Composer/js_composer/config/map.php:922
+msgid "Taxonomies"
+msgstr "Taxonomies"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/params/loop/loop.php:171
+msgid "Individual Posts/Pages"
+msgstr "Individuele berichten/pagina's"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/params/loop/loop.php:225
+#: JS_Composer/js_composer/config/map.php:955
+#: JS_Composer/js_composer/config/map.php:1280
+msgid "Date"
+msgstr "Datum"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/params/loop/loop.php:228
+#: JS_Composer/js_composer/composer/lib/params/vc_link/vc_link.php:6
+#: JS_Composer/js_composer/composer/lib/shortcodes/posts_grid.php:39
+#: JS_Composer/js_composer/composer/shortcodes_templates/vc_text_separator.php:4
+#: JS_Composer/js_composer/config/map.php:209
+#: JS_Composer/js_composer/config/map.php:212
+#: JS_Composer/js_composer/config/map.php:760
+#: JS_Composer/js_composer/config/map.php:833
+#: JS_Composer/js_composer/config/map.php:955
+#: JS_Composer/js_composer/config/map.php:1020
+#: JS_Composer/js_composer/config/map.php:1099
+#: JS_Composer/js_composer/config/map.php:1280
+msgid "Title"
+msgstr "Titel"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/params/loop/loop.php:230
+#: JS_Composer/js_composer/config/map.php:955
+#: JS_Composer/js_composer/config/map.php:1280
+msgid "Modified"
+msgstr "Bijgewerkt"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/params/loop/loop.php:232
+#: JS_Composer/js_composer/config/map.php:955
+#: JS_Composer/js_composer/config/map.php:1280
+#: JS_Composer/js_composer/config/map.php:1673
+#: JS_Composer/js_composer/config/map.php:2325
+msgid "Random"
+msgstr "Willekeurig"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/params/loop/loop.php:233
+#: JS_Composer/js_composer/config/map.php:955
+#: JS_Composer/js_composer/config/map.php:1280
+msgid "Comment count"
+msgstr "Aantal reacties"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/params/loop/loop.php:234
+#: JS_Composer/js_composer/config/map.php:955
+#: JS_Composer/js_composer/config/map.php:1280
+msgid "Menu order"
+msgstr "Menu volgorde"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/params/loop/loop.php:242
+#: JS_Composer/js_composer/config/map.php:962
+#: JS_Composer/js_composer/config/map.php:1287
+msgid "Ascending"
+msgstr "Oplopend"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/params/loop/loop.php:243
+#: JS_Composer/js_composer/config/map.php:962
+#: JS_Composer/js_composer/config/map.php:1287
+msgid "Descending"
+msgstr "Aflopend"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/params/options/options.php:5
+msgid "Manage options"
+msgstr "Beheer opties"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/params/vc_link/vc_link.php:6
+msgid "Select URL"
+msgstr "Selecteer URL"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/params/vc_link/vc_link.php:6
+msgid "URL"
+msgstr "URL"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes/column.php:19
+msgid "Append to this column"
+msgstr "Toevoegen aan deze kolom"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes/column.php:20
+msgid "Prepend to this column"
+msgstr "Vooraan toevoegen aan deze kolom"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes/column.php:23
+msgid "Edit this column"
+msgstr "Kolom bewerken"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes/column.php:144
+#: JS_Composer/js_composer/config/map.php:106
+msgid "Column"
+msgstr "Kolom"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes/column.php:156
+#: JS_Composer/js_composer/config/map.php:80
+#: JS_Composer/js_composer/config/map.php:98
+#: JS_Composer/js_composer/config/map.php:113
+#: JS_Composer/js_composer/config/map.php:141
+#: JS_Composer/js_composer/config/map.php:224
+#: JS_Composer/js_composer/config/map.php:260
+#: JS_Composer/js_composer/config/map.php:393
+#: JS_Composer/js_composer/config/map.php:459
+#: JS_Composer/js_composer/config/map.php:533
+#: JS_Composer/js_composer/config/map.php:648
+#: JS_Composer/js_composer/config/map.php:683
+#: JS_Composer/js_composer/config/map.php:732
+#: JS_Composer/js_composer/config/map.php:805
+#: JS_Composer/js_composer/config/map.php:967
+#: JS_Composer/js_composer/config/map.php:1057
+#: JS_Composer/js_composer/config/map.php:1178
+#: JS_Composer/js_composer/config/map.php:1292
+#: JS_Composer/js_composer/config/map.php:1323
+#: JS_Composer/js_composer/config/map.php:1420
+#: JS_Composer/js_composer/config/map.php:1495
+#: JS_Composer/js_composer/config/map.php:1527
+#: JS_Composer/js_composer/config/map.php:1584
+#: JS_Composer/js_composer/config/map.php:1678
+#: JS_Composer/js_composer/config/map.php:1737
+#: JS_Composer/js_composer/config/map.php:1793
+#: JS_Composer/js_composer/config/map.php:1889
+#: JS_Composer/js_composer/config/map.php:1937
+#: JS_Composer/js_composer/config/map.php:2025
+#: JS_Composer/js_composer/config/map.php:2049
+#: JS_Composer/js_composer/config/map.php:2079
+#: JS_Composer/js_composer/config/map.php:2103
+#: JS_Composer/js_composer/config/map.php:2141
+#: JS_Composer/js_composer/config/map.php:2179
+#: JS_Composer/js_composer/config/map.php:2218
+#: JS_Composer/js_composer/config/map.php:2253
+#: JS_Composer/js_composer/config/map.php:2290
+#: JS_Composer/js_composer/config/map.php:2340
+#: JS_Composer/js_composer/config/map.php:2370
+#: JS_Composer/js_composer/config/map.php:2401
+#: JS_Composer/js_composer/config/map.php:2446
+msgid "Extra class name"
+msgstr "Extra class naam"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes/column.php:159
+#: JS_Composer/js_composer/config/map.php:82
+#: JS_Composer/js_composer/config/map.php:100
+#: JS_Composer/js_composer/config/map.php:115
+#: JS_Composer/js_composer/config/map.php:143
+#: JS_Composer/js_composer/config/map.php:226
+#: JS_Composer/js_composer/config/map.php:262
+#: JS_Composer/js_composer/config/map.php:395
+#: JS_Composer/js_composer/config/map.php:461
+#: JS_Composer/js_composer/config/map.php:535
+#: JS_Composer/js_composer/config/map.php:650
+#: JS_Composer/js_composer/config/map.php:685
+#: JS_Composer/js_composer/config/map.php:734
+#: JS_Composer/js_composer/config/map.php:807
+#: JS_Composer/js_composer/config/map.php:969
+#: JS_Composer/js_composer/config/map.php:1059
+#: JS_Composer/js_composer/config/map.php:1180
+#: JS_Composer/js_composer/config/map.php:1294
+#: JS_Composer/js_composer/config/map.php:1325
+#: JS_Composer/js_composer/config/map.php:1422
+#: JS_Composer/js_composer/config/map.php:1497
+#: JS_Composer/js_composer/config/map.php:1529
+#: JS_Composer/js_composer/config/map.php:1586
+#: JS_Composer/js_composer/config/map.php:1680
+#: JS_Composer/js_composer/config/map.php:1739
+#: JS_Composer/js_composer/config/map.php:1795
+#: JS_Composer/js_composer/config/map.php:1891
+#: JS_Composer/js_composer/config/map.php:1939
+#: JS_Composer/js_composer/config/map.php:2027
+#: JS_Composer/js_composer/config/map.php:2051
+#: JS_Composer/js_composer/config/map.php:2081
+#: JS_Composer/js_composer/config/map.php:2105
+#: JS_Composer/js_composer/config/map.php:2143
+#: JS_Composer/js_composer/config/map.php:2181
+#: JS_Composer/js_composer/config/map.php:2220
+#: JS_Composer/js_composer/config/map.php:2255
+#: JS_Composer/js_composer/config/map.php:2292
+#: JS_Composer/js_composer/config/map.php:2342
+#: JS_Composer/js_composer/config/map.php:2372
+#: JS_Composer/js_composer/config/map.php:2403
+#: JS_Composer/js_composer/config/map.php:2448
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+"Wilt u bepaalde elementen anders opmaken, gebruik dan dit veld om een aparte "
+"class toe te voegen en verwijs hierna in een aangepast css bestand."
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes/example.php:94
+msgid "Hello World"
+msgstr "Hallo wereld"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes/example.php:102
+msgid "Foo attribute"
+msgstr "Foo attribuut"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes/example.php:104
+msgid "I'm foo attribute"
+msgstr "Ik ben een foo attribuut"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes/example.php:105
+msgid "Enter foo value."
+msgstr "Enter foo waarde"
+
+# @ js_composer
+# @ default
+#: JS_Composer/js_composer/composer/lib/shortcodes/example.php:111
+#: JS_Composer/js_composer/composer/lib/shortcodes/posts_grid.php:37
+#: JS_Composer/js_composer/composer/lib/shortcodes/posts_grid.php:41
+#: JS_Composer/js_composer/composer/templates/teaser.html.php:38
+#: JS_Composer/js_composer/config/map.php:134
+#: JS_Composer/js_composer/config/map.php:1021
+#: JS_Composer/js_composer/config/map.php:1100
+#: JS_Composer/js_composer/config/map.php:1440
+#: JS_Composer/js_composer/config/map.php:2226
+#: JS_Composer/js_composer/config/map.php:2242
+msgid "Text"
+msgstr "Tekst"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes/example.php:113
+msgid "I'm hello world"
+msgstr "Ik ben Hallo wereld"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes/example.php:114
+#: JS_Composer/js_composer/config/map.php:1443
+msgid "Enter your content."
+msgstr "Voer inhoud in."
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes/example.php:118
+msgid "Drop down example"
+msgstr "Dropdown voorbeeld"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes/example.php:121
+msgid "One, two or three?"
+msgstr "Een, twee of drie?"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes/posts_grid.php:24
+msgid "VC: Custom Teaser"
+msgstr "VC: Aangepaste Teaser"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes/posts_grid.php:36
+msgid "Empty title"
+msgstr "Lege titel"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes/posts_grid.php:38
+#: JS_Composer/js_composer/config/map.php:417
+msgid "Image"
+msgstr "Afbeelding"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes/posts_grid.php:40
+#: JS_Composer/js_composer/config/map.php:893
+#: JS_Composer/js_composer/config/map.php:1246
+msgid "Link"
+msgstr "Link"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes/posts_grid.php:42
+#: JS_Composer/js_composer/composer/templates/teaser.html.php:37
+msgid "Excerpt"
+msgstr "Uittreksel"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes/posts_grid.php:43
+#: JS_Composer/js_composer/composer/lib/shortcodes/posts_grid.php:45
+#: JS_Composer/js_composer/composer/templates/teaser.html.php:22
+#: JS_Composer/js_composer/composer/templates/teaser.html.php:39
+msgid "Custom"
+msgstr "Aangepaste"
+
+#: JS_Composer/js_composer/composer/lib/shortcodes/posts_grid.php:44
+msgid "Featered"
+msgstr "Uitgelicht"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes/posts_grid.php:46
+msgid "Link text"
+msgstr "Link tekst"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes/posts_grid.php:47
+#: JS_Composer/js_composer/composer/templates/teaser.html.php:11
+#: JS_Composer/js_composer/composer/templates/teaser.html.php:27
+#: JS_Composer/js_composer/config/map.php:895
+#: JS_Composer/js_composer/config/map.php:978
+#: JS_Composer/js_composer/config/map.php:1248
+msgid "No link"
+msgstr "Geen link"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes/posts_grid.php:48
+#: JS_Composer/js_composer/config/map.php:895
+#: JS_Composer/js_composer/config/map.php:977
+#: JS_Composer/js_composer/config/map.php:1248
+msgid "Link to post"
+msgstr "Link naar bericht"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes/posts_grid.php:49
+msgid "Link to big image"
+msgstr "Link naar groter formaat afbeelding"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes/posts_grid.php:50
+#: JS_Composer/js_composer/composer/templates/teaser.html.php:56
+msgid "Add custom image"
+msgstr "Voeg aangepaste afbeelding toe"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes/posts_grid.php:52
+msgid "Enable custom teaser"
+msgstr "Gebruik aangepaste teaser"
+
+#: JS_Composer/js_composer/composer/lib/shortcodes/posts_grid.php:55
+msgid ""
+"Here you can customize teaser block design. It will be used instead of "
+"default settings in \"Posts Grid\" or \"Carousel\" content elements."
+msgstr ""
+"Hier kunt u het voorproef blok ontwerp aan te passen. Het zal worden "
+"gebruikt in plaats van standaardinstellingen in \"Posts Grid\" of \"Carousel"
+"\" content elementen."
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes/row.php:29
+msgid "Custom layout"
+msgstr "Aangepaste layout"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes/row.php:30
+msgid "Drag row to reorder"
+msgstr "Drag/versleep de rij om te her-ordenen "
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes/row.php:31
+msgid "Delete this row"
+msgstr "Verwijder deze rij"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes/row.php:32
+msgid "Edit this row"
+msgstr "Bewerk deze rij"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes/row.php:33
+msgid "Clone this row"
+msgstr "Kopieer deze rij"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes/teaser_grid.php:14
+#, php-format
+msgid "View all posts filed under %s"
+msgstr "Toon alle berichten binnen %s"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/lib/shortcodes/teaser_grid.php:31
+#, php-format
+msgid "Feed for all posts filed under %s"
+msgstr "Feed voor alle berichten binnen %s"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:24
+msgid "General Settings"
+msgstr "Algemene instellingen"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:28
+msgid "Design Options"
+msgstr "Design opties"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:29
+msgid "Element Class Names"
+msgstr "Element class namen"
+
+#: JS_Composer/js_composer/composer/settings/settings.php:33
+msgid "Product License"
+msgstr "Product Licentie"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:47
+msgid "Main accent color"
+msgstr "Hoofd accent kleur"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:48
+msgid "Hover color"
+msgstr "Hover kleur"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:49
+msgid "Call to action background color"
+msgstr "Call to action achtergrond kleur"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:51
+msgid "Google maps background color"
+msgstr "Google maps achtergrond kleur"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:52
+msgid "Post slider caption background color"
+msgstr "Berichten slider caption achter grond kleur"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:53
+msgid "Progress bar background color"
+msgstr "Voortgang balk achtergrond kleur"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:54
+msgid "Separator border color"
+msgstr "Divider border kleur"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:55
+msgid "Tabs navigation background color"
+msgstr "Tabbladen navigatie achtergrond kleur"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:56
+msgid "Active tab background color"
+msgstr "Actieve tab achtergrond kleur"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:80
+#: JS_Composer/js_composer/composer/settings/settings.php:86
+#: JS_Composer/js_composer/composer/settings/settings.php:683
+msgid "Visual Composer Settings"
+msgstr "Visual Composter instellingen"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:114
+#: JS_Composer/js_composer/composer/settings/settings.php:116
+msgid "Content types"
+msgstr "Content types"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:118
+msgid "User groups access rules"
+msgstr "Gebruikersgroepen toegangs regels"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:119
+msgid "Disable responsive content elements"
+msgstr "Schakel responsive inhoud uit"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:126
+msgid "Use custom design options"
+msgstr "Gebruik aangepaste design opties"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:139
+msgid "Elements bottom margin"
+msgstr "Elementen bottom margin"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:143
+msgid "Grid gutter width"
+msgstr "Breedte grid goot"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:147
+msgid "Mobile screen width"
+msgstr "Mobiele schermen breedte"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:175
+msgid "Paste your CSS code"
+msgstr "Plak de CSS code hier"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:181
+msgid "Envato Username"
+msgstr "Envato gebruikersnaam"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:182
+msgid "Secret API Key"
+msgstr "Secret API Key"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:183
+msgid "Visual Composer License Key"
+msgstr "Visual Composer Licentie Sleutel"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:262
+#: JS_Composer/js_composer/composer/settings/settings.php:263
+msgid "Are you sure you want to reset to defaults?"
+msgstr "Weet u zeker dat u wilt herstellen naar de standaard instellingen?"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:264
+msgid "Something went wrong! Please try again later."
+msgstr "Er is iets misgegaan! Probeer het later nog eens."
+
+#: JS_Composer/js_composer/composer/settings/settings.php:265
+msgid "License successfully activated. Thank you!"
+msgstr "Licentie met succes geactiveerd. Bedankt!"
+
+#: JS_Composer/js_composer/composer/settings/settings.php:266
+msgid "Your license key is deactivated."
+msgstr "Uw licentie sleutel is gedeactiveerd."
+
+#: JS_Composer/js_composer/composer/settings/settings.php:267
+msgid "Envato username and license key are required."
+msgstr "Envato gebruikersnaam en licentie sleutel zijn verreist"
+
+#: JS_Composer/js_composer/composer/settings/settings.php:268
+msgid "Invalid liense key. Please check information in your envato profile."
+msgstr ""
+"Ongeldige licentie sleutel. Controleer alstublieft de informatie in uw "
+"Envato profiel."
+
+#: JS_Composer/js_composer/composer/settings/settings.php:269
+msgid "Wrong data. Please check your information or ask support for help."
+msgstr ""
+"Foutieve gegevens. Controleer uw informatie of neem contact op met de "
+"helpdesk."
+
+#: JS_Composer/js_composer/composer/settings/settings.php:270
+msgid "License successfully activated. Thank you! (401)"
+msgstr "Licentie met succes geactiveerd. Bedankt! (401)"
+
+#: JS_Composer/js_composer/composer/settings/settings.php:271
+#, php-format
+msgid ""
+"Your license key is already activated on another website ({site}), you "
+"should deactivate it first or <a href=\"%s\" target=\"_blank\">obtain new "
+"license key</a>."
+msgstr ""
+"Uw licentie sleutel is al actief op een andere website ({site}), u dient "
+"deze is uit te schakelen of <a href=\"%s\" target=\"_blank\">een nieuwe "
+"licentie aan te schaffen</a>"
+
+#: JS_Composer/js_composer/composer/settings/settings.php:272
+#: JS_Composer/js_composer/composer/settings/settings.php:802
+msgid "Activate license"
+msgstr "Activeer licentie"
+
+#: JS_Composer/js_composer/composer/settings/settings.php:273
+#: JS_Composer/js_composer/composer/settings/settings.php:802
+msgid "Deactivate license"
+msgstr "Deactiveer licentie"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:287
+msgid "Show Visual Composer & default editor"
+msgstr "Toon Visual Composer & standaard editor"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:288
+msgid "Show only Visual Composer"
+msgstr "Toon alleen Visual Composer"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:289
+msgid "Don't allow to use Visual Composer"
+msgstr "Sta niet toe om Visual Composer te gebruiken"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:308
+msgid "Visual Composer access"
+msgstr "Visual Composer toegang"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:316
+msgid "Enabled shortcodes"
+msgstr "Schakel shortcodes in"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:330
+msgid "Select All"
+msgstr "Selecteer alles"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:330
+msgid "Select none"
+msgstr "Selecteer niets"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:358
+#: JS_Composer/js_composer/composer/settings/settings.php:379
+msgid ""
+"Select for which content types Visual Composer should be available during "
+"post creation/editing."
+msgstr ""
+"Selecteer voor welke post types Visual Composer beschikbaar moet zijn "
+"tijdens het aanmaken en/of bewerken van berichten / pagina's."
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:385
+msgid ""
+"If you want to add some custom CSS code to the plugin and don't want to "
+"modify any files, then it's a good place to enter your code at this field."
+msgstr ""
+"Als je aangepaste CSS code wilt gebruiken bij de plugin, dan kun je die hier "
+"invoeren. Tijdens het updaten van de plugin blijft deze CSS code bewaard."
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:395
+#: JS_Composer/js_composer/config/map.php:492
+#: JS_Composer/js_composer/config/map.php:678
+#: JS_Composer/js_composer/config/map.php:727
+#: JS_Composer/js_composer/config/map.php:1219
+msgid "Disable"
+msgstr "Uitschakelen"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:397
+msgid ""
+"Check this checkbox to prevent content elements from \"stacking\" one on top "
+"other (on small media screens, eg. mobile)."
+msgstr ""
+"Vink deze checkbox aan om te voorkomen dat elementen boven op elkaar plakken "
+"(vooral op kleine schermen zoals mobiele toestellen)."
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:405
+#: JS_Composer/js_composer/composer/settings/settings.php:420
+msgid "Empty value"
+msgstr "Lege Waarde"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:441
+msgid "Enable"
+msgstr "Inschakelen"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:443
+msgid ""
+"Enable the use of custom design options for your site. When checked, custom "
+"css file will be used."
+msgstr ""
+"Gebruik een aangepaste ontwerp opties voor deze website. Wanneer deze optie "
+"is ingeschakeld wordt er een aangepaste CSS style gebruikt."
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:455
+msgid ""
+"To change default vertical spacing between content elements, enter new value "
+"here. Example: 20px"
+msgstr ""
+"Om de standaard verticale afstand tussen content elementen te wijzigen, voer "
+"hier nieuwe waarde in. Voorbeeld: 20x"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:460
+msgid ""
+"To change default horizontal spacing between columns, enter new value in "
+"percents here."
+msgstr ""
+"Om de standaard horizontale afstand tussen de kolommen te wijzigen, voer "
+"nieuwe waarde in procenten in."
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:466
+msgid ""
+"By default content elements \"stack\" one on top other when screen size is "
+"smaller then 480px. Here you can change that value if needed."
+msgstr ""
+"Standaard content elementen \"stack\" op elkaar wanneer het scherm kleiner "
+"is dan 480px. Verander hier die waarde veranderen als dat nodig is."
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:473
+msgid "Your Envato username."
+msgstr "Uw Envato gebruikersnaam"
+
+#: JS_Composer/js_composer/composer/settings/settings.php:480
+#, php-format
+msgid ""
+"Please enter your CodeCanyon Visual Composer license key, you can find your "
+"key by following the instructions on <a href=\"%s\" target=\"_blank\">this "
+"page</a>."
+msgstr ""
+"Vul uw CodeCanyon Visual Composer licentiesleutel in, u kunt deze vinden "
+"door de instructies te volgen op <a href=\"%s\" target=\"_blank\">deze "
+"pagina</a>."
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:486
+msgid ""
+"You can find API key by visiting your Envato Account page, then clicking the "
+"My Settings tab. At the bottom of the page you'll find your account's API "
+"key."
+msgstr ""
+"U kunt API-sleutel te vinden op uw Envato account pagina, vervolgens op het "
+"tabblad Mijn instellingen. Aan de onderkant van de pagina vindt u van uw "
+"account de API-sleutel."
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:504
+msgid ""
+"Here you can tweak default Visual Composer content elements visual "
+"appearance. By default Visual Composer is using neutral light-grey theme. "
+"Changing \"Main accent color\" will affect all content elements if no "
+"specific \"content block\" related color is set."
+msgstr ""
+"Hier kunt u standaard visuele verschijning van Visual Composer content "
+"elementen bewerken. Standaard Visual Composer is het gebruik van neutrale "
+"lichtgrijze thema. Veranderen van \"Main accent color\" zal effect hebben "
+"voor alle content elementen als er geen specifieke \"content block\" "
+"gerelateerde kleur is ingesteld."
+
+#: JS_Composer/js_composer/composer/settings/settings.php:511
+#, php-format
+msgid ""
+"A valid license key qualifies you for support and enables automatic updates. "
+"<strong>A license key may only be used for one Visual Composer installation "
+"on one WordPress site at a time.</strong> If you previosly activated your "
+"license key on another site, then you should deactivate it first or <a href="
+"\"%s\" target=\"_blank\">obtain new license key</a>."
+msgstr ""
+"Met een geldige licentie sleutel kwalificeert u zich voor ondersteuning en "
+"automatische updates. <strong>Een licentie sleutel mag enkel gebruikt worden "
+"voor één WordPress website.</strong> Indien u eerder uw licentie sleutel op "
+"een andere website heeft geactiveerd, dient u deze uit te schakelen of <a "
+"href=\"%s\" target=\"_blank\">een nieuwe licentie aan te schaffen</a>"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:594
+msgid "Invalid Margin value."
+msgstr "Ongeldige marge waarde"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:599
+msgid "Invalid Gutter value."
+msgstr "Ongeldige goot waarde"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:605
+msgid "Invalid \"Responsive max\" value."
+msgstr "Ongeldige \"Responsive max\" waarde."
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:645
+#, php-format
+msgid ""
+"Visual Composer: Your css class names settings are deprecated. <a href=\"%s"
+"\">Click here to resolve</a>."
+msgstr ""
+"Visual Composer: Uw instellingen voor css klasse namen zijn verouderd. <a "
+"href=\"%s\"> Klik hier om te lossen </ a>."
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:697
+msgid ""
+"<strong>Deprecated:</strong> To override class names that are applied to "
+"Visual Composer content elements you should use WordPress add_filter"
+"('vc_shortcodes_css_class') function. <a class='vc_show_example'>See "
+"Example</a>."
+msgstr ""
+"<strong>Verouderd:</ strong> Om class namen die worden toegepast op Visual "
+"Composer content elementen te overschrijven moet je WordPress add_filter "
+"gebruiken('vc_shortcodes_css_class')<a class='vc_show_example'>zie "
+"voorbeeld</ a>."
+
+# @ default
+#: JS_Composer/js_composer/composer/settings/settings.php:705
+msgid ""
+"You have used element class names settings to replace row and column css "
+"classes."
+msgstr ""
+"Je hebt element class namen instellingen waarmee je rij en kolom CSS-klassen "
+"vervangt."
+
+# @ default
+#: JS_Composer/js_composer/composer/settings/settings.php:706
+msgid ""
+"Below is code snippet which you should add to your functions.php file in "
+"your theme, to replace row and column classes with custom classes saved by "
+"you earlier."
+msgstr ""
+"Hieronder is code snippet die je moet toevoegen aan uw functions.php bestand "
+"in uw thema, om rij en kolom klassen te vervangen door aangepaste klassen "
+"eerder opgeslagen door jou."
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:780
+msgid "Remove all saved"
+msgstr "Verwijder alle opgeslagen"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:794
+msgid "Save Changes"
+msgstr "Wijzigingen Opslaan"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:797
+msgid "Restore to defaults"
+msgstr "Herstel naar standaard"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:921
+msgid ""
+"Something went wrong: js_composer_front_custom.css could not be created."
+msgstr ""
+"Er is iets misgegaan: js_composer_front_custom.css kon niet worden "
+"aangemaakt."
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:923
+msgid "js_composer_front_custom.css could not be created. Connection error."
+msgstr "js_composer_front_custom.css kan niet worden gemaakt. Verbindingsfout."
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:925
+#, php-format
+msgid ""
+"js_composer_front_custom.css could not be created. Cannot write custom css "
+"to \"%s\"."
+msgstr ""
+"js_composer_front_custom.css kan niet worden gemaakt. Kan aangepaste css "
+"niet schrijven naar \"% s\"."
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:927
+msgid "js_composer_front_custom.css could not be created. Problem with access."
+msgstr ""
+"js_composer_front_custom.css kan niet worden gemaakt. Probleem met toegang."
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:957
+msgid "Something went wrong: custom.css could not be created."
+msgstr "Er is iets misgegaan: custom.css kon niet worden aangemaakt."
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:959
+msgid "custom.css could not be created. Connection error."
+msgstr "custom.css kan niet worden gemaakt. Verbindingsfout."
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:961
+msgid "custom.css could not be created. Cannot write custom css to \""
+msgstr ""
+"custom.css kan niet worden gemaakt. Kan custom.css niet schrijven naar \""
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:963
+msgid "custom.css could not be created. Problem with access."
+msgstr "custom.css kan niet worden gemaakt. Probleem met toegang."
+
+# @ default
+#: JS_Composer/js_composer/composer/settings/settings.php:994
+msgid "You do not have sufficient permissions to update plugins for this site."
+msgstr "Je hebt onvoldoende rechten om plugins voor deze site bij te werken."
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:995
+msgid "Update Visual Composer Plugin"
+msgstr "Update Visual Composer Plugin"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/settings/settings.php:1008
+#: JS_Composer/js_composer/composer/settings/settings.php:1014
+msgid "This is required to enable file writing for js_composer"
+msgstr "Dit is nodig om bestanden schrijven in te schakelen voor js_composer"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/shortcodes_templates/vc_accordion_tab.php:12
+#: JS_Composer/js_composer/composer/shortcodes_templates/vc_tab.php:9
+msgid "Empty section. Edit page to add content here."
+msgstr "Lege sectie. Bewerk pagina om inhoud hier toe te voegen."
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/shortcodes_templates/vc_button.php:10
+#: JS_Composer/js_composer/composer/shortcodes_templates/vc_cta_button.php:9
+#: JS_Composer/js_composer/config/map.php:1377
+#: JS_Composer/js_composer/config/map.php:1381
+#: JS_Composer/js_composer/config/map.php:1447
+#: JS_Composer/js_composer/config/map.php:1449
+msgid "Text on the button"
+msgstr "Tekst op de knop"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/shortcodes_templates/vc_flickr.php:19
+msgid "View stream on flickr"
+msgstr "Bekijk stream op flickr"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/shortcodes_templates/vc_item.php:9
+msgid "Item"
+msgstr "Artikel"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/shortcodes_templates/vc_posts_grid.php:128
+#: JS_Composer/js_composer/composer/shortcodes_templates/vc_teaser_grid.php:321
+msgid "All"
+msgstr "Alles"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/shortcodes_templates/vc_posts_grid.php:156
+#: JS_Composer/js_composer/composer/shortcodes_templates/vc_posts_slider.php:191
+#: JS_Composer/js_composer/composer/shortcodes_templates/vc_teaser_grid.php:333
+msgid "Nothing found."
+msgstr "Niets gevonden"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/shortcodes_templates/vc_single_image.php:19
+msgid "This is image placeholder, edit your page to replace it."
+msgstr ""
+"Dit is een plaatshouder afbeelding, bewerk uw pagina om deze te vervangen."
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/shortcodes_templates/vc_tabs.php:44
+msgid "Previous slide"
+msgstr "Vorige Slide"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/shortcodes_templates/vc_tabs.php:44
+msgid "Next slide"
+msgstr "Volgende Slide"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/shortcodes_templates/vc_teaser_grid.php:182
+#: JS_Composer/js_composer/composer/templates/teaser.html.php:48
+msgid "Read more"
+msgstr "Meer lezen"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/shortcodes_templates/vc_toggle.php:4
+msgid "Click to toggle"
+msgstr "Klik om te schakelen"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/shortcodes_templates/vc_tweetmeme.php:9
+msgid "Tweet"
+msgstr "Tweet"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/shortcodes_templates/vc_twitter.php:19
+msgid "Follow us on twitter"
+msgstr "Volg ons op Twitter"
+
+# @ default
+#: JS_Composer/js_composer/composer/shortcodes_templates/vc_wp_archives.php:4
+#: JS_Composer/js_composer/config/map.php:2379
+msgid "Archives"
+msgstr "Archief"
+
+# @ default
+#: JS_Composer/js_composer/composer/shortcodes_templates/vc_wp_meta.php:4
+#: JS_Composer/js_composer/config/map.php:2033
+msgid "Meta"
+msgstr "Meta"
+
+# @ default
+#: JS_Composer/js_composer/composer/shortcodes_templates/vc_wp_pages.php:4
+#: JS_Composer/js_composer/config/map.php:2111
+msgid "Pages"
+msgstr "Paginas"
+
+# @ default
+#: JS_Composer/js_composer/composer/shortcodes_templates/vc_wp_posts.php:4
+#: JS_Composer/js_composer/config/map.php:2262
+msgid "Recent Posts"
+msgstr "Recente berichten"
+
+# @ default
+#: JS_Composer/js_composer/composer/shortcodes_templates/vc_wp_recentcomments.php:4
+#: JS_Composer/js_composer/config/map.php:2057
+msgid "Recent Comments"
+msgstr "Recente reacties"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/shortcodes_templates/post_block/_item.php:18
+#, php-format
+msgid "Permalink to %s"
+msgstr "Permalink naar %s"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/shortcodes_templates/post_block/_item.php:18
+msgid "Read more..."
+msgstr "Meer lezen..."
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/templates/teaser.html.php:11
+#: JS_Composer/js_composer/composer/templates/teaser.html.php:27
+msgid "Link to"
+msgstr "Link naar"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/templates/teaser.html.php:12
+#: JS_Composer/js_composer/composer/templates/teaser.html.php:28
+msgid "On post"
+msgstr "Op bericht"
+
+# @ js_composer
+#: JS_Composer/js_composer/composer/templates/teaser.html.php:13
+#: JS_Composer/js_composer/composer/templates/teaser.html.php:29
+msgid "Big image"
+msgstr "Grote afbeelding"
+
+#: JS_Composer/js_composer/composer/templates/teaser.html.php:21
+msgid "Featured"
+msgstr "Uitgelicht"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:10
+#: JS_Composer/js_composer/config/map.php:1718
+msgid "Grey"
+msgstr "Grijs"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:10
+#: JS_Composer/js_composer/config/map.php:1718
+msgid "Blue"
+msgstr "Blauw"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:10
+#: JS_Composer/js_composer/config/map.php:1718
+msgid "Turquoise"
+msgstr "Turkoois"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:10
+#: JS_Composer/js_composer/config/map.php:1718
+msgid "Green"
+msgstr "Groen"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:10
+#: JS_Composer/js_composer/config/map.php:1718
+msgid "Orange"
+msgstr "Oranje"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:10
+#: JS_Composer/js_composer/config/map.php:1718
+msgid "Red"
+msgstr "Rood"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:10
+#: JS_Composer/js_composer/config/map.php:1718
+msgid "Black"
+msgstr "Zwart"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:13
+msgid "Regular size"
+msgstr "Standaard formaat"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:13
+msgid "Large"
+msgstr "Groot"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:13
+#: JS_Composer/js_composer/config/map.php:322
+msgid "Small"
+msgstr "Klein"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:13
+msgid "Mini"
+msgstr "Mini"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:15
+msgid "Same window"
+msgstr "Zelfde scherm"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:15
+msgid "New window"
+msgstr "Nieuw scherm"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:19
+msgid "CSS Animation"
+msgstr "CSS animatie"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:22
+#: JS_Composer/js_composer/config/map.php:1975
+#: JS_Composer/js_composer/config/map.php:1983
+#: JS_Composer/js_composer/config/map.php:1991
+msgid "No"
+msgstr "Nee"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:22
+msgid "Top to bottom"
+msgstr "Van boven naar beneden"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:22
+msgid "Bottom to top"
+msgstr "Van beneden naar boven"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:22
+msgid "Left to right"
+msgstr "Links naar rechts"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:22
+msgid "Right to left"
+msgstr "Rechts naar links"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:22
+msgid "Appear from center"
+msgstr "Verschijn vanuit midden"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:23
+msgid ""
+"Select animation type if you want this element to be animated when it enters "
+"into the browsers viewport. Note: Works only in modern browsers."
+msgstr ""
+"Selecteer het type animatie als u wilt dat dit element te worden geanimeerd "
+"wanneer deze in de viewport van de browsers binnenkomt. Let op: Werkt alleen "
+"in moderne browsers."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:27
+#: JS_Composer/js_composer/config/map.php:88
+msgid "Row"
+msgstr "Rij"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:32
+#: JS_Composer/js_composer/config/map.php:128
+#: JS_Composer/js_composer/config/map.php:193
+#: JS_Composer/js_composer/config/map.php:204
+#: JS_Composer/js_composer/config/map.php:239
+#: JS_Composer/js_composer/config/map.php:362
+#: JS_Composer/js_composer/config/map.php:406
+#: JS_Composer/js_composer/config/map.php:472
+#: JS_Composer/js_composer/config/map.php:546
+#: JS_Composer/js_composer/config/map.php:665
+#: JS_Composer/js_composer/config/map.php:713
+#: JS_Composer/js_composer/config/map.php:781
+#: JS_Composer/js_composer/config/map.php:849
+#: JS_Composer/js_composer/config/map.php:879
+#: JS_Composer/js_composer/config/map.php:1072
+#: JS_Composer/js_composer/config/map.php:1192
+#: JS_Composer/js_composer/config/map.php:1372
+#: JS_Composer/js_composer/config/map.php:1434
+#: JS_Composer/js_composer/config/map.php:1509
+#: JS_Composer/js_composer/config/map.php:1540
+#: JS_Composer/js_composer/config/map.php:1639
+#: JS_Composer/js_composer/config/map.php:1692
+#: JS_Composer/js_composer/config/map.php:1752
+#: JS_Composer/js_composer/config/map.php:1827
+#: JS_Composer/js_composer/config/map.php:1870
+#: JS_Composer/js_composer/config/map.php:1918
+#: JS_Composer/js_composer/config/map.php:1960
+msgid "Content"
+msgstr "Inhoud"
+
+#: JS_Composer/js_composer/config/map.php:33
+msgid "Place content elements inside the row"
+msgstr "Plaats inhoud elementen in de rij"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:37
+msgid "Custom Background Color"
+msgstr "Aangepaste achtergrond kleur"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:39
+msgid "Select backgound color for your row"
+msgstr "Selecteer een achtergrond kleur voor uw rij"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:43
+msgid "Font Color"
+msgstr "Tekst Kleur"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:45
+msgid "Select font color"
+msgstr "Selecteer een tekst kleur"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:49
+msgid "Padding"
+msgstr "Padding"
+
+#: JS_Composer/js_composer/config/map.php:51
+#: JS_Composer/js_composer/config/map.php:57
+msgid ""
+"You can use px, em, %, etc. or enter just number and it will use pixels. "
+msgstr ""
+"U kunt px, em, %, etc gebruiken of alleen een getal invoeren om standaard "
+"pixels te gebruiken."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:55
+msgid "Bottom margin"
+msgstr "Onderste marge"
+
+#: JS_Composer/js_composer/config/map.php:61
+msgid "Background Image"
+msgstr "Achtergrond afbeelding"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:63
+msgid "Select background image for your row"
+msgstr "Selecteer achtergrond afbeelding voor uw rij"
+
+#: JS_Composer/js_composer/config/map.php:67
+msgid "Background Repeat"
+msgstr "Achtergrond herhalen"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:70
+msgid "Default"
+msgstr "Standaard"
+
+#: JS_Composer/js_composer/config/map.php:71
+msgid "Cover"
+msgstr "Bedek"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:72
+msgid "Contain"
+msgstr "Houdt in"
+
+#: JS_Composer/js_composer/config/map.php:73
+msgid "No Repeat"
+msgstr "Geen herhaling"
+
+#: JS_Composer/js_composer/config/map.php:75
+msgid "Select how a background image will be repeated"
+msgstr "Selecteer hoe de achtergrondafbeelding herhaald wordt."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:124
+msgid "Text Block"
+msgstr "Tekst blok"
+
+#: JS_Composer/js_composer/config/map.php:129
+msgid "A block of text with WYSIWYG editor"
+msgstr "Een tekstblok met WYSIWYG bewerker"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:136
+msgid "<p>I am text block. Click edit button to change this text.</p>"
+msgstr ""
+"<p>Ik ben een tekst blok. Klik op het potlood om deze tekst te wijzigen.</p>"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:189
+msgid "Separator"
+msgstr "Separator"
+
+#: JS_Composer/js_composer/config/map.php:195
+msgid "Horizontal separator line"
+msgstr "Horizontale scheidingslijn"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:201
+msgid "Separator with Text"
+msgstr "Separator met tekst"
+
+#: JS_Composer/js_composer/config/map.php:205
+msgid "Horizontal separator line with heading"
+msgstr "Horizontale scheidingslijn met titel"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:213
+msgid "Separator title."
+msgstr "Separator titel"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:217
+msgid "Title position"
+msgstr "titel positie"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:219
+#: JS_Composer/js_composer/config/map.php:433
+msgid "Align center"
+msgstr "centraal uitlijnen"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:219
+#: JS_Composer/js_composer/config/map.php:433
+#: JS_Composer/js_composer/config/map.php:1490
+msgid "Align left"
+msgstr "links uitlijnen"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:219
+#: JS_Composer/js_composer/config/map.php:433
+#: JS_Composer/js_composer/config/map.php:1490
+msgid "Align right"
+msgstr "rechts uitlijnen"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:220
+msgid "Select title location."
+msgstr "selecteer titel locatie"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:235
+msgid "Message Box"
+msgstr "Bericht kader"
+
+#: JS_Composer/js_composer/config/map.php:240
+msgid "Notification box"
+msgstr "Meldingskader"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:244
+msgid "Message box type"
+msgstr "bericht kader type"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:246
+msgid "Informational"
+msgstr "Informatief"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:246
+msgid "Warning"
+msgstr "Waarschuwing"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:246
+msgid "Success"
+msgstr "Succes"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:246
+msgid "Error"
+msgstr "Fout"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:247
+msgid "Select message type."
+msgstr "Selecteer bericht type"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:253
+msgid "Message text"
+msgstr "Bericht tekst"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:255
+msgid "<p>I am message box. Click edit button to change this text.</p>"
+msgstr ""
+"<p> Ik ben een bericht kader. Klik op de knop Bewerken om deze tekst te "
+"veranderen. </p>"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:271
+msgid "Facebook Like"
+msgstr "Facebook Like"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:274
+#: JS_Composer/js_composer/config/map.php:294
+#: JS_Composer/js_composer/config/map.php:314
+#: JS_Composer/js_composer/config/map.php:342
+msgid "Social"
+msgstr "Sociaal"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:275
+msgid "Facebook like button"
+msgstr "Facebook Like knop"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:279
+#: JS_Composer/js_composer/config/map.php:299
+msgid "Button type"
+msgstr "Knop type"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:282
+#: JS_Composer/js_composer/config/map.php:322
+msgid "Standard"
+msgstr "Standaard"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:282
+msgid "Button count"
+msgstr "Knop telling"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:282
+msgid "Box count"
+msgstr "Kader telling"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:283
+#: JS_Composer/js_composer/config/map.php:303
+msgid "Select button type."
+msgstr "Selecteer knop type"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:291
+msgid "Tweetmeme Button"
+msgstr "Tweetmeme knop"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:295
+msgid "Share on twitter button"
+msgstr "Deel op twitter knop"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:302
+#: JS_Composer/js_composer/config/map.php:350
+#: JS_Composer/js_composer/config/map.php:594
+#: JS_Composer/js_composer/config/map.php:1131
+msgid "Horizontal"
+msgstr "Horizontaal"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:302
+#: JS_Composer/js_composer/config/map.php:350
+#: JS_Composer/js_composer/config/map.php:594
+#: JS_Composer/js_composer/config/map.php:1131
+msgid "Vertical"
+msgstr "Verticaal"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:302
+#: JS_Composer/js_composer/config/map.php:330
+#: JS_Composer/js_composer/config/map.php:1333
+msgid "None"
+msgstr "Geen"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:311
+msgid "Google+ Button"
+msgstr "Google+ knop"
+
+#: JS_Composer/js_composer/config/map.php:315
+msgid "Recommend on Google"
+msgstr "Aangeraden door Google"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:319
+msgid "Button size"
+msgstr "Knop formaat"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:322
+msgid "Medium"
+msgstr "Medium"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:322
+msgid "Tall"
+msgstr "Lang"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:323
+msgid "Select button size."
+msgstr "Selecteer knop formaat"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:327
+msgid "Annotation"
+msgstr "Aantekening"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:330
+msgid "Inline"
+msgstr "Inline"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:330
+msgid "Bubble"
+msgstr "Ballon"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:331
+msgid "Select annotation type."
+msgstr "Selecteer aantekeningstype"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:339
+msgid "Pinterest"
+msgstr "Pinterest"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:343
+msgid "Pinterest button"
+msgstr "Pinterest knop"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:347
+msgid "Button layout"
+msgstr "Knop layout"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:350
+msgid "No count"
+msgstr "Geen telling"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:351
+msgid "Select button layout."
+msgstr "Selecteer knop layout"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:359
+msgid "FAQ"
+msgstr "FAQ"
+
+#: JS_Composer/js_composer/config/map.php:363
+msgid "Toggle element for Q&A block"
+msgstr "Schakel element voor Q&A blok"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:369
+#: JS_Composer/js_composer/config/map.php:371
+msgid "Toggle title"
+msgstr "Schakel titel"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:372
+msgid "Toggle block title."
+msgstr "Schakel blok titel"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:378
+msgid "Toggle content"
+msgstr "Schakel inhoud"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:380
+msgid "<p>Toggle content goes here, click edit button to change this text.</p>"
+msgstr ""
+"<p> Toggle inhoud hoort hier, klikt u op de knop Bewerken om deze tekst te "
+"veranderen. </ p>"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:381
+msgid "Toggle block content."
+msgstr "Schakel blok inhoud"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:385
+msgid "Default state"
+msgstr "Standaard stand"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:387
+msgid "Closed"
+msgstr "Gesloten"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:387
+msgid "Open"
+msgstr "Geopend"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:388
+msgid "Select \"Open\" if you want toggle to be open by default."
+msgstr "Selecteer \"Open\" als u wilt schakelen naar standaard open zijn."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:403
+msgid "Single Image"
+msgstr "Enkele afbeelding"
+
+#: JS_Composer/js_composer/config/map.php:407
+msgid "Simple image with CSS animation"
+msgstr "Simpele afbeelding met CSS animatie"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:411
+#: JS_Composer/js_composer/config/map.php:477
+#: JS_Composer/js_composer/config/map.php:551
+#: JS_Composer/js_composer/config/map.php:670
+#: JS_Composer/js_composer/config/map.php:719
+#: JS_Composer/js_composer/config/map.php:786
+#: JS_Composer/js_composer/config/map.php:853
+#: JS_Composer/js_composer/config/map.php:990
+#: JS_Composer/js_composer/config/map.php:1077
+#: JS_Composer/js_composer/config/map.php:1197
+#: JS_Composer/js_composer/config/map.php:1311
+#: JS_Composer/js_composer/config/map.php:1514
+#: JS_Composer/js_composer/config/map.php:1545
+#: JS_Composer/js_composer/config/map.php:1644
+#: JS_Composer/js_composer/config/map.php:1697
+#: JS_Composer/js_composer/config/map.php:1757
+#: JS_Composer/js_composer/config/map.php:1875
+#: JS_Composer/js_composer/config/map.php:1923
+#: JS_Composer/js_composer/config/map.php:2019
+#: JS_Composer/js_composer/config/map.php:2043
+#: JS_Composer/js_composer/config/map.php:2067
+#: JS_Composer/js_composer/config/map.php:2097
+#: JS_Composer/js_composer/config/map.php:2121
+#: JS_Composer/js_composer/config/map.php:2166
+#: JS_Composer/js_composer/config/map.php:2204
+#: JS_Composer/js_composer/config/map.php:2236
+#: JS_Composer/js_composer/config/map.php:2272
+#: JS_Composer/js_composer/config/map.php:2358
+#: JS_Composer/js_composer/config/map.php:2389
+#: JS_Composer/js_composer/config/map.php:2419
+msgid "Widget title"
+msgstr "Widget titel"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:413
+#: JS_Composer/js_composer/config/map.php:479
+#: JS_Composer/js_composer/config/map.php:553
+#: JS_Composer/js_composer/config/map.php:672
+#: JS_Composer/js_composer/config/map.php:721
+#: JS_Composer/js_composer/config/map.php:788
+#: JS_Composer/js_composer/config/map.php:855
+#: JS_Composer/js_composer/config/map.php:992
+#: JS_Composer/js_composer/config/map.php:1079
+#: JS_Composer/js_composer/config/map.php:1199
+#: JS_Composer/js_composer/config/map.php:1313
+#: JS_Composer/js_composer/config/map.php:1516
+#: JS_Composer/js_composer/config/map.php:1547
+#: JS_Composer/js_composer/config/map.php:1646
+#: JS_Composer/js_composer/config/map.php:1699
+#: JS_Composer/js_composer/config/map.php:1759
+#: JS_Composer/js_composer/config/map.php:1877
+#: JS_Composer/js_composer/config/map.php:1925
+msgid "What text use as a widget title. Leave blank if no title is needed."
+msgstr ""
+"Welke tekst er gebruikt moet worden als widget titel, laat leeg indien er "
+"geen titel gebruikt hoeft te worden"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:420
+msgid "Select image from media library."
+msgstr "Selecteer afbeelding van media bibliotheek"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:425
+#: JS_Composer/js_composer/config/map.php:505
+#: JS_Composer/js_composer/config/map.php:564
+msgid "Image size"
+msgstr "Afbeeldingsformaat"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:427
+#: JS_Composer/js_composer/config/map.php:507
+#: JS_Composer/js_composer/config/map.php:566
+msgid ""
+"Enter image size. Example: thumbnail, medium, large, full or other sizes "
+"defined by current theme. Alternatively enter image size in pixels: 200x100 "
+"(Width x Height). Leave empty to use 'thumbnail' size."
+msgstr ""
+"Voer beeldformaat in. Voorbeeld: thumbnail, medium, groot, volledige of "
+"andere maten gedefinieerd door de huidige thema. Alternatieve invoer "
+"beeldgrootte in pixels: 200x100 (breedte x hoogte). Laat leeg om 'thumbnail' "
+"formaat te gebruiken."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:431
+msgid "Image alignment"
+msgstr "Afbeelding uitlijning"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:434
+msgid "Select image alignment."
+msgstr "Selecteer afbeelding uitlijning"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:438
+msgid "Link to large image?"
+msgstr "Link naar grote afbeelding?"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:440
+msgid "If selected, image will be linked to the bigger image."
+msgstr ""
+"Indien geselecteerd zal de afbeelding gelinkt zijn naar een groter formaat."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:441
+#: JS_Composer/js_composer/config/map.php:616
+#: JS_Composer/js_composer/config/map.php:623
+#: JS_Composer/js_composer/config/map.php:630
+#: JS_Composer/js_composer/config/map.php:637
+#: JS_Composer/js_composer/config/map.php:644
+#: JS_Composer/js_composer/config/map.php:1039
+#: JS_Composer/js_composer/config/map.php:1146
+#: JS_Composer/js_composer/config/map.php:1153
+#: JS_Composer/js_composer/config/map.php:1160
+#: JS_Composer/js_composer/config/map.php:1167
+#: JS_Composer/js_composer/config/map.php:1174
+#: JS_Composer/js_composer/config/map.php:1241
+#: JS_Composer/js_composer/config/map.php:1580
+msgid "Yes, please"
+msgstr "Ja, graag"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:445
+msgid "Image link"
+msgstr "Afbeeldingslink"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:447
+msgid "Enter url if you want this image to have link."
+msgstr "Voer url in indien u wilt dat deze afbeelding een link heeft."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:452
+msgid "Link Target"
+msgstr "Link doelwit"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:469
+msgid "Image Gallery"
+msgstr "afbeeldingen galerij"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:473
+msgid "Responsive image gallery"
+msgstr "Responsive afbeeldingen galerij"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:483
+msgid "Gallery type"
+msgstr "Galerij type"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:485
+#: JS_Composer/js_composer/config/map.php:1206
+msgid "Flex slider fade"
+msgstr "Flex slider fade"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:485
+#: JS_Composer/js_composer/config/map.php:1206
+msgid "Flex slider slide"
+msgstr "Flex slider slide"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:485
+#: JS_Composer/js_composer/config/map.php:1206
+msgid "Nivo slider"
+msgstr "Nivo slider"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:485
+msgid "Image grid"
+msgstr "Afbeeldingen raster"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:486
+msgid "Select gallery type."
+msgstr "Selecteer galerij type"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:490
+#: JS_Composer/js_composer/config/map.php:725
+#: JS_Composer/js_composer/config/map.php:1217
+msgid "Auto rotate slides"
+msgstr "Auto roteer sliderafbeeldingen"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:493
+#: JS_Composer/js_composer/config/map.php:728
+#: JS_Composer/js_composer/config/map.php:1220
+msgid "Auto rotate slides each X seconds."
+msgstr "Auto roteer afbeeldingen elke X seconden"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:498
+#: JS_Composer/js_composer/config/map.php:557
+msgid "Images"
+msgstr "Afbeeldingen"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:501
+#: JS_Composer/js_composer/config/map.php:560
+msgid "Select images from media library."
+msgstr "Selecteer afbeeldingen vanuit media bibliotheek"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:511
+#: JS_Composer/js_composer/config/map.php:570
+msgid "On click"
+msgstr "Tijdens klik"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:513
+#: JS_Composer/js_composer/config/map.php:572
+msgid "Open prettyPhoto"
+msgstr "Open prettyPhoto"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:513
+#: JS_Composer/js_composer/config/map.php:572
+msgid "Do nothing"
+msgstr "Doe niks"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:513
+#: JS_Composer/js_composer/config/map.php:572
+#: JS_Composer/js_composer/config/map.php:1248
+msgid "Open custom link"
+msgstr "Open aangepaste link"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:514
+#: JS_Composer/js_composer/config/map.php:573
+msgid "What to do when slide is clicked?"
+msgstr "Wat te doen wanneer de slider afbeelding is geklikt"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:518
+#: JS_Composer/js_composer/config/map.php:577
+#: JS_Composer/js_composer/config/map.php:1253
+msgid "Custom links"
+msgstr "Aangepaste links"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:520
+#: JS_Composer/js_composer/config/map.php:579
+#: JS_Composer/js_composer/config/map.php:1256
+msgid "Enter links for each slide here. Divide links with linebreaks (Enter)."
+msgstr ""
+"Voer links in voor iedere slider afbeelding. Scheid links met een lijnbreuk "
+"(Enter)."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:525
+#: JS_Composer/js_composer/config/map.php:584
+msgid "Custom link target"
+msgstr "Aangepast link doelwit"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:527
+#: JS_Composer/js_composer/config/map.php:586
+msgid "Select where to open  custom links."
+msgstr "Selecteer waar aangepaste links geopend moeten worden"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:543
+msgid "Image Carousel"
+msgstr "Afbeelding Carousel"
+
+#: JS_Composer/js_composer/config/map.php:547
+msgid "Animated carousel with images"
+msgstr "Geanimeerd carousel met afbeeldingen"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:592
+#: JS_Composer/js_composer/config/map.php:1129
+msgid "Slider mode"
+msgstr "Slider mode"
+
+#: JS_Composer/js_composer/config/map.php:595
+#: JS_Composer/js_composer/config/map.php:1132
+msgid ""
+"Slides will be positioned horizontally (for horizontal swipes) or vertically "
+"(for vertical swipes)"
+msgstr ""
+"Slider afbeeldingen worden horizontaal gepositioneerd (voor horizontale "
+"swipes) of verticaal (voor verticale swipes)"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:599
+#: JS_Composer/js_composer/config/map.php:1122
+msgid "Slider speed"
+msgstr "Slider snelheid"
+
+#: JS_Composer/js_composer/config/map.php:602
+#: JS_Composer/js_composer/config/map.php:1125
+msgid "Duration of animation between slides (in ms)"
+msgstr "Duur van animatie tussen slider afbeeldingen (in ms)"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:606
+#: JS_Composer/js_composer/config/map.php:1136
+msgid "Slides per view"
+msgstr "Slides per weergave"
+
+#: JS_Composer/js_composer/config/map.php:609
+#: JS_Composer/js_composer/config/map.php:1139
+msgid ""
+"Set numbers of slides you want to display at the same time on slider's "
+"container for carousel mode. Also supports for 'auto' value, in this case it "
+"will fit slides depending on container's width. 'auto' mode doesn't "
+"compatible with loop mode."
+msgstr ""
+"Stel het aantal slider afbeeldingen in dat u tegelijkertijd wilt weergeven "
+"in het slider kader voor carousel modus. Ondersteund ook 'auto' waarde, in "
+"dit geval zal het de slides aanpassen afhankelijk van de breedte van het "
+"kader. 'auto' modus is niet compatibel met loop modus."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:613
+#: JS_Composer/js_composer/config/map.php:1143
+msgid "Slider autoplay"
+msgstr "Slider auto afspelen"
+
+#: JS_Composer/js_composer/config/map.php:615
+#: JS_Composer/js_composer/config/map.php:1145
+msgid "Enables autoplay mode."
+msgstr "Schakelt auto-afspelen in"
+
+#: JS_Composer/js_composer/config/map.php:620
+#: JS_Composer/js_composer/config/map.php:1150
+msgid "Hide pagination control"
+msgstr "Verberg pagination bestuur"
+
+#: JS_Composer/js_composer/config/map.php:622
+#: JS_Composer/js_composer/config/map.php:1152
+msgid "If YES pagination control will be removed ."
+msgstr "Indien ingeschakeld zal het bestuur uitgeschakeld worden"
+
+#: JS_Composer/js_composer/config/map.php:627
+#: JS_Composer/js_composer/config/map.php:1157
+msgid "Hide prev/next buttons"
+msgstr "Verberg vorige/volgende knoppen"
+
+#: JS_Composer/js_composer/config/map.php:629
+#: JS_Composer/js_composer/config/map.php:1159
+msgid "If \"YES\" prev/next control will be removed"
+msgstr "Indien \"YES\" zullen de vorige/volgende knoppen verborgen"
+
+#: JS_Composer/js_composer/config/map.php:634
+#: JS_Composer/js_composer/config/map.php:1164
+msgid "Partial view"
+msgstr "Gedeeltelijke weergave"
+
+#: JS_Composer/js_composer/config/map.php:636
+#: JS_Composer/js_composer/config/map.php:1166
+msgid "If \"YES\" part of the next slide will be visible on the right side."
+msgstr ""
+"Indien \"YES\" zal een deel van de volgende slide zichtbaar zijn aan de "
+"rechter zijde."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:641
+#: JS_Composer/js_composer/config/map.php:1171
+msgid "Slider loop"
+msgstr "Slider loop"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:643
+#: JS_Composer/js_composer/config/map.php:1173
+msgid "Enables loop mode."
+msgstr "Schakel loopmodus in"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:660
+msgid "Tabs"
+msgstr "Tabbladen"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:666
+msgid "Tabbed content"
+msgstr "Tabblad inhoud"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:676
+msgid "Auto rotate tabs"
+msgstr "Auto roteer tabbladen"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:679
+msgid "Auto rotate tabs each X seconds."
+msgstr "Auto roteer tabbladen elke X seconden."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:696
+msgid "Tab 1"
+msgstr "Tabblad 1"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:697
+msgid "Tab 2"
+msgstr "Tabblad 2"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:707
+msgid "Tour Section"
+msgstr "Tour sectie"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:715
+msgid "Tabbed tour section"
+msgstr "Tabblad Tour sectie"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:745
+msgid "Slide 1"
+msgstr "Slider afbeelding 1"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:746
+msgid "Slide 2"
+msgstr "Slider afbeelding 2"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:762
+msgid "Tab title."
+msgstr "Tablad title"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:766
+msgid "Tab ID"
+msgstr "Tabblad ID"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:776
+msgid "Accordion"
+msgstr "Accordeon"
+
+#: JS_Composer/js_composer/config/map.php:782
+msgid "jQuery UI accordion"
+msgstr "jQuery UI accordeon"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:792
+msgid "Active tab"
+msgstr "Actief tabblad"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:794
+msgid ""
+"Enter tab number to be active on load or enter false to collapse all tabs."
+msgstr ""
+"Voer een tabblad nummer in dat actief moet zijn wanneer deze geladen wordt "
+"of voer false in om alle tabbladen ingeklapt te laden."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:798
+msgid "Allow collapsible all"
+msgstr "Sta inklapbaar toe voor alle tabbladen"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:800
+msgid "Select checkbox to allow for all sections to be be collapsible."
+msgstr "Vink aan om alle sectie inklapbaar te maken."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:801
+msgid "Allow"
+msgstr "Toestaan"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:815
+msgid "Add accordion section"
+msgstr "Voeg accordeon sectie toe"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:819
+msgid "Section 1"
+msgstr "Sectie 1"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:820
+msgid "Section 2"
+msgstr "Sectie 2"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:825
+msgid "Accordion Section"
+msgstr "Accordeon sectie"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:835
+msgid "Accordion section title."
+msgstr "Accordeon sectie titel"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:845
+msgid "Teaser (posts) Grid"
+msgstr "Voerproef (posts) raster"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:859
+#: JS_Composer/js_composer/config/map.php:1006
+msgid "Columns count"
+msgstr "Kolommen telling"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:863
+#: JS_Composer/js_composer/config/map.php:1010
+msgid "Select columns count."
+msgstr "Selecteer kolommen telling"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:869
+#: JS_Composer/js_composer/config/map.php:1226
+msgid "Select post types to populate posts from."
+msgstr "Selecteer post types om als berichten te gebruiken."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:873
+msgid "Teasers count"
+msgstr "Voorproef tellingen"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:875
+msgid "How many teasers to show? Enter number or word \"All\"."
+msgstr ""
+"Hoeveel voorproeven wilt u weergeven? Voer een getal of woord in \"All\"."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:881
+#: JS_Composer/js_composer/config/map.php:1232
+msgid "Teaser (Excerpt)"
+msgstr "Voorproef (Uittreksel)"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:881
+msgid "Full Content"
+msgstr "Volledige Inhoud"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:882
+#: JS_Composer/js_composer/config/map.php:910
+#: JS_Composer/js_composer/config/map.php:918
+#: JS_Composer/js_composer/config/map.php:1047
+msgid "Teaser layout template."
+msgstr "Voorproef layout template."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:886
+msgid "Layout"
+msgstr "Layout"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:888
+msgid "Title + Thumbnail + Text"
+msgstr "Titel + thumbnail + tekst"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:888
+msgid "Thumbnail + Title + Text"
+msgstr "Thumbnail + titel + tekst"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:888
+msgid "Thumbnail + Text"
+msgstr "Thumbnail + tekst"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:888
+msgid "Thumbnail + Title"
+msgstr "Thumbnail + titel"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:888
+msgid "Thumbnail only"
+msgstr "Alleen een thumbnail"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:888
+msgid "Title + Text"
+msgstr "Titel + tekst"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:889
+msgid "Teaser layout."
+msgstr "Voorproef layout"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:895
+#: JS_Composer/js_composer/config/map.php:979
+#: JS_Composer/js_composer/config/map.php:1248
+msgid "Link to bigger image"
+msgstr "Link naar groter formaat afbeelding"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:895
+msgid "Thumbnail to bigger image, title to post"
+msgstr "Thumbnail naar groter formaat afbeelding, titel naar post"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:896
+#: JS_Composer/js_composer/config/map.php:1249
+msgid "Link type."
+msgstr "Link type."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:900
+#: JS_Composer/js_composer/config/map.php:1030
+#: JS_Composer/js_composer/config/map.php:1109
+msgid "Link target"
+msgstr "Link doelwit"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:907
+msgid "Teaser grid layout"
+msgstr "Voorproef raster layout"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:909
+msgid "Grid"
+msgstr "Raster"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:909
+msgid "Grid with filter"
+msgstr "Raster met filter"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:909
+#: JS_Composer/js_composer/config/map.php:1068
+msgid "Carousel"
+msgstr "Carousel"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:914
+#: JS_Composer/js_composer/config/map.php:1044
+msgid "Layout mode"
+msgstr "Layout mode"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:916
+#: JS_Composer/js_composer/config/map.php:1046
+msgid "Fit rows"
+msgstr "Pas aan op rijen"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:916
+#: JS_Composer/js_composer/config/map.php:1046
+msgid "Masonry"
+msgstr "Metselwerk"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:925
+msgid "Select taxonomies from."
+msgstr "Selecteer taxonomieën uit."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:929
+#: JS_Composer/js_composer/config/map.php:1051
+#: JS_Composer/js_composer/config/map.php:1116
+#: JS_Composer/js_composer/config/map.php:1260
+msgid "Thumbnail size"
+msgstr "Thumbnail formaat"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:931
+#: JS_Composer/js_composer/config/map.php:1053
+#: JS_Composer/js_composer/config/map.php:1118
+#: JS_Composer/js_composer/config/map.php:1262
+msgid ""
+"Enter thumbnail size. Example: thumbnail, medium, large, full or other sizes "
+"defined by current theme. Alternatively enter image size in pixels: 200x100 "
+"(Width x Height)."
+msgstr ""
+"Voor thumnail formaat in. Voorbeeld: thumbnail, medium, groot, volledig of "
+"andere maten gedefinieerd door de huidige thema. Alternatieve invoer "
+"beeldgrootte in pixels: 200x100 (breedte x hoogte)."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:935
+#: JS_Composer/js_composer/config/map.php:1266
+msgid "Post/Page IDs"
+msgstr "Bericht/Pagina ID's"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:937
+msgid ""
+"Fill this field with page/posts IDs separated by commas (,) to retrieve only "
+"them. Use this in conjunction with \"Post types\" field."
+msgstr ""
+"Voer hier pagina/bericht ID's in gescheiden door komma's (,) om alleen deze "
+"op te halen. Gebruikt dit in combinatie met het \"Post types\" veld."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:941
+msgid "Exclude Post/Page IDs"
+msgstr "Sluit bericht/pagina ID's uit"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:943
+msgid ""
+"Fill this field with page/posts IDs separated by commas (,) to exclude them "
+"from query."
+msgstr ""
+"Voer hier pagina/bericht ID's in gescheiden door komma's (,) om deze uit te "
+"sluiten van de query."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:949
+#: JS_Composer/js_composer/config/map.php:1274
+msgid ""
+"If you want to narrow output, enter category names here. Note: Only listed "
+"categories will be included. Divide categories with linebreaks (Enter)."
+msgstr ""
+"Indien u de uitvoer wilt verfijnen, voer hier dan categorie namen in. "
+"Opmerking: Alleen opgenomen categorieën zullen worden opgenomen. Scheidt "
+"categorien met lijnbreuken (Enter)."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:953
+#: JS_Composer/js_composer/config/map.php:1278
+#: JS_Composer/js_composer/config/map.php:1285
+msgid "Order by"
+msgstr "Sorteer op"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:955
+#: JS_Composer/js_composer/config/map.php:1280
+msgid "ID"
+msgstr "ID"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:956
+#: JS_Composer/js_composer/config/map.php:1281
+#, php-format
+msgid "Select how to sort retrieved posts. More at %s."
+msgstr "Selecteer hoe u berichten wilt ophalen. Meer in %s."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:960
+msgid "Order way"
+msgstr "Bestel manier"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:963
+#: JS_Composer/js_composer/config/map.php:1288
+#, php-format
+msgid "Designates the ascending or descending order. More at %s."
+msgstr "Bepaalt de oplopende of aflopende volgorde. Meer op% s."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:982
+msgid "Posts Grid"
+msgstr "Berichten raster"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:986
+msgid "Posts in grid view"
+msgstr "Berichten in raster weergave"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:996
+msgid "Grids content"
+msgstr "Raster inhoud"
+
+#: JS_Composer/js_composer/config/map.php:1002
+#: JS_Composer/js_composer/config/map.php:1089
+msgid "Create WordPress loop, to populate content from your site."
+msgstr "Maak een WordPress loop, om uw website te vullen met inhoud."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1014
+#: JS_Composer/js_composer/config/map.php:1093
+msgid "Teaser layout"
+msgstr "Voorproef layout"
+
+#: JS_Composer/js_composer/config/map.php:1016
+#: JS_Composer/js_composer/config/map.php:1095
+msgid ""
+"Control teasers look. Enable blocks and place them in desired order. Note: "
+"This setting can be overrriden on post to post basis."
+msgstr ""
+"Beheer voorproef uiterlijk. Schakel blokken in en plaats deze en de gewenste "
+"volgorde. Opmerking: Deze instelling kan worden overschreven op post naar "
+"post basis."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1019
+#: JS_Composer/js_composer/config/map.php:1098
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1022
+#: JS_Composer/js_composer/config/map.php:1101
+msgid "Teaser/Excerpt"
+msgstr "Voorproef/Uittreksel"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1023
+#: JS_Composer/js_composer/config/map.php:1102
+msgid "Full content"
+msgstr "Volledige Inhoud"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1025
+#: JS_Composer/js_composer/config/map.php:1104
+msgid "Read more link"
+msgstr "Lees meer link"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1037
+msgid "Show filter"
+msgstr "Toon Filter"
+
+#: JS_Composer/js_composer/config/map.php:1040
+msgid "Select this to place animated category filter to your posts grid."
+msgstr ""
+"Selecteer dit om een geanimeerde categorie filter in uw berichten raster te "
+"plaatsen."
+
+#: JS_Composer/js_composer/config/map.php:1073
+msgid "Animated carousel with posts"
+msgstr "Geanimeerde carousel met berichten"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1083
+msgid "Carousel content"
+msgstr "Carousel inhoud"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1189
+msgid "Posts Slider"
+msgstr "Berichten Slider"
+
+#: JS_Composer/js_composer/config/map.php:1193
+msgid "Slider with WP Posts"
+msgstr "Slider met WP berichten"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1203
+msgid "Slider type"
+msgstr "Slider type"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1207
+msgid "Select slider type."
+msgstr "Selecteer slider type."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1211
+msgid "Slides count"
+msgstr "Aantaal slider afbeeldingen"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1213
+msgid "How many slides to show? Enter number or word \"All\"."
+msgstr ""
+"Hoeveel slider afbeeldingen wilt u tonen? Voer een getal of woord in \"All\"."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1230
+msgid "Description"
+msgstr "Beschrijving"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1232
+msgid "No description"
+msgstr "Geen beschrijving"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1233
+msgid "Some sliders support description text, what content use for it?"
+msgstr ""
+"Sommige sliders ondersteunen een beschrijving, welke content wilt u hiervoor "
+"gebruiken."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1238
+msgid "Output post title?"
+msgstr "Bericht titel tonenh?"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1240
+msgid "If selected, title will be printed before the teaser text."
+msgstr "Indien geselecteerd, zal de titel voordat de teaser tekst getoond."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1268
+msgid ""
+"Fill this field with page/posts IDs separated by commas (,), to retrieve "
+"only them. Use this in conjunction with \"Post types\" field."
+msgstr ""
+"Voer hier pagina/bericht ID's in gescheiden door komma's (,) om alleen deze "
+"op te halen. Gebruikt dit in combinatie met het \"Post types\" veld."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1302
+msgid "Widgetised Sidebar"
+msgstr "Widgetised Sidebar"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1306
+#: JS_Composer/js_composer/config/map.php:1597
+#: JS_Composer/js_composer/config/map.php:1618
+msgid "Structure"
+msgstr "Structuur"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1307
+msgid "Place widgetised sidebar"
+msgstr "Plaats Widgetised Sidebar"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1317
+msgid "Sidebar"
+msgstr "Sidebar"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1319
+msgid "Select which widget area output."
+msgstr "Selecteer een widget gebied voor de uitvoer."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1334
+msgid "Address book icon"
+msgstr "Adresboek icoon"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1335
+msgid "Alarm clock icon"
+msgstr "Alarmklok icoon"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1336
+msgid "Anchor icon"
+msgstr "Anker icoon"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1337
+msgid "Application Image icon"
+msgstr "Applicatie afbeelding icoon"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1338
+msgid "Arrow icon"
+msgstr "Pijl icoon"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1339
+msgid "Asterisk icon"
+msgstr "Sterretje icoon"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1340
+msgid "Hammer icon"
+msgstr "Hamer icoon"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1341
+msgid "Balloon icon"
+msgstr "Ballon icoon"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1342
+msgid "Balloon Buzz icon"
+msgstr "Ballon tril icoons"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1343
+msgid "Balloon Facebook icon"
+msgstr "Ballon Facebook icoon"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1344
+msgid "Balloon Twitter icon"
+msgstr "Ballon Twitter icoon"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1345
+msgid "Battery icon"
+msgstr "Batterij icoon"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1346
+msgid "Binocular icon"
+msgstr "Verrekijker icoon"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1347
+msgid "Document Excel icon"
+msgstr "Excel document icoon"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1348
+msgid "Document Image icon"
+msgstr "Afbeelding document icoon"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1349
+msgid "Document Music icon"
+msgstr "Muziek document icoon"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1350
+msgid "Document Office icon"
+msgstr "Office document icoon"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1351
+msgid "Document PDF icon"
+msgstr "PDF document icoon"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1352
+msgid "Document Powerpoint icon"
+msgstr "Powerpoint document icoon"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1353
+msgid "Document Word icon"
+msgstr "Word document icoon"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1354
+msgid "Bookmark icon"
+msgstr "Voeg toe aan favorieten icoon"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1355
+msgid "Camcorder icon"
+msgstr "Camcorder icoon"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1356
+msgid "Camera icon"
+msgstr "Camera icoon"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1357
+msgid "Chart icon"
+msgstr "Grafiek icoon"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1358
+msgid "Chart pie icon"
+msgstr "Cirkeldiagram icoon"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1359
+msgid "Clock icon"
+msgstr "Klok icoon"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1360
+msgid "Fire icon"
+msgstr "Vuur icoon"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1361
+msgid "Heart icon"
+msgstr "Hartje icoon"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1362
+msgid "Mail icon"
+msgstr "Post icoon"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1363
+msgid "Play icon"
+msgstr "Speel icoon"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1364
+msgid "Shield icon"
+msgstr "Schild icoon"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1365
+msgid "Video icon"
+msgstr "Video icoon"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1369
+msgid "Button"
+msgstr "Knop"
+
+#: JS_Composer/js_composer/config/map.php:1373
+msgid "Eye catching button"
+msgstr "Opvallende knop"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1382
+#: JS_Composer/js_composer/config/map.php:1450
+msgid "Text on the button."
+msgstr "Tekst op de knop"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1386
+#: JS_Composer/js_composer/config/map.php:1454
+msgid "URL (Link)"
+msgstr "URL (link)"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1388
+#: JS_Composer/js_composer/config/map.php:1456
+msgid "Button link."
+msgstr "Knop link."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1392
+#: JS_Composer/js_composer/config/map.php:1460
+msgid "Target"
+msgstr "Doel"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1399
+#: JS_Composer/js_composer/config/map.php:1467
+msgid "Color"
+msgstr "Kleur"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1402
+#: JS_Composer/js_composer/config/map.php:1470
+msgid "Button color."
+msgstr "Knop kleur."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1406
+#: JS_Composer/js_composer/config/map.php:1474
+msgid "Icon"
+msgstr "Icoon"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1409
+#: JS_Composer/js_composer/config/map.php:1477
+msgid "Button icon."
+msgstr "Knop icoon."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1413
+#: JS_Composer/js_composer/config/map.php:1481
+msgid "Size"
+msgstr "Formaat"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1416
+#: JS_Composer/js_composer/config/map.php:1484
+msgid "Button size."
+msgstr "Knop formaar"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1431
+msgid "Call to Action Button"
+msgstr "Call to Action Button"
+
+#: JS_Composer/js_composer/config/map.php:1435
+msgid "Catch visitors attention with CTA block"
+msgstr "Vang de aandacht van bezoekers met het CTA blok"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1442
+msgid "Click edit button to change this text."
+msgstr "Klik op knop bewerken om deze tekst te wijzigen"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1488
+msgid "Button position"
+msgstr "Knop positie"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1490
+msgid "Align bottom"
+msgstr "Knop uitlijnen"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1491
+msgid "Select button alignment."
+msgstr "Selecteer knop uitlijning"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1506
+msgid "Video Player"
+msgstr "Video speler"
+
+#: JS_Composer/js_composer/config/map.php:1510
+msgid "Embed YouTube/Vimeo player"
+msgstr "Embed YouTube/Vimeo speler"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1520
+msgid "Video link"
+msgstr "Video link"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1523
+#, php-format
+msgid "Link to the video. More about supported formats at %s."
+msgstr "Link naar de video, Meer over ondersteunde formats %s."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1537
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: JS_Composer/js_composer/config/map.php:1541
+msgid "Map block"
+msgstr "Kaart blok"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1551
+msgid "Google map link"
+msgstr "Google map link"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1554
+#, php-format
+msgid ""
+"Link to your map. Visit %s find your address and then click \"Link\" button "
+"to obtain your map link."
+msgstr ""
+"Link naar uw kaart. Bezoek %s en zoek uw adres. Klik vervolgens op de \"Link"
+"\" knop om uw kaart link te kopiëren."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1558
+msgid "Map height"
+msgstr "Kaart hoogte"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1560
+msgid "Enter map height in pixels. Example: 200."
+msgstr "Voer een kaart hoogte in in pixels. Voorbeeld: 200."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1564
+msgid "Map type"
+msgstr "Kaart type"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1566
+msgid "Map"
+msgstr "Kaart"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1566
+msgid "Satellite"
+msgstr "Sateliet"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1566
+msgid "Map + Terrain"
+msgstr "Kaart + Terrein"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1567
+msgid "Select map type."
+msgstr "Selecteer kaart type"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1571
+msgid "Map Zoom"
+msgstr "Kaart zoom"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1573
+msgid "14 - Default"
+msgstr "14-  standaard"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1577
+msgid "Remove info bubble"
+msgstr "Verwijder informatie ballon"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1579
+msgid "If selected, information bubble will be hidden."
+msgstr "indien geselecteerd zal de informatie ballon verborgen worden."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1594
+#: JS_Composer/js_composer/config/map.php:1604
+msgid "Raw HTML"
+msgstr "Raw HTML"
+
+#: JS_Composer/js_composer/config/map.php:1599
+msgid "Output raw html code on your page"
+msgstr "Toon raw html code op uw pagina"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1607
+msgid "Enter your HTML content."
+msgstr "Voor uw HTML inhoud in."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1615
+msgid "Raw JS"
+msgstr "Raw JS"
+
+#: JS_Composer/js_composer/config/map.php:1620
+msgid "Output raw javascript code on your page"
+msgstr "Toon raw javascript code op uw pagina"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1625
+msgid "Raw js"
+msgstr "Raw js"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1628
+msgid "Enter your JS code."
+msgstr "Voor uw JS code in."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1637
+msgid "Flickr Widget"
+msgstr "Flickr Widget"
+
+#: JS_Composer/js_composer/config/map.php:1640
+msgid "Image feed from your flickr account"
+msgstr "Afbeeldingsfeed vanuit uw Flickr account"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1650
+msgid "Flickr ID"
+msgstr "Flicker ID"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1653
+#, php-format
+msgid "To find your flickID visit %s."
+msgstr "Om uw Flickr ID te vinden bezoek %s."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1657
+msgid "Number of photos"
+msgstr "Aantal foto's"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1660
+msgid "Number of photos."
+msgstr "Aantal foto's."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1664
+msgid "Type"
+msgstr "Type"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1666
+msgid "User"
+msgstr "Gebruiker"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1666
+msgid "Group"
+msgstr "Groep"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1667
+msgid "Photo stream type."
+msgstr "Foto stream type"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1671
+msgid "Display"
+msgstr "Weergeef"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1673
+msgid "Latest"
+msgstr "Laatste"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1674
+msgid "Photo order."
+msgstr "Foto volgorde"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1689
+msgid "Progress Bar"
+msgstr "Voortgangsbalk"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1693
+msgid "Animated progress bar"
+msgstr "Geanimeerde Voortgangsbalk"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1703
+msgid "Graphic values"
+msgstr "Grafische waardes"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1705
+msgid ""
+"Input graph values here. Divide values with linebreaks (Enter). Example: 90|"
+"Development"
+msgstr ""
+"Voer hier waardes in voor de grafiek. Scheid waardes met lijnbreuken "
+"(Enter). Voorbeeld:  90|Ontwikkeling"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1710
+#: JS_Composer/js_composer/config/map.php:1779
+msgid "Units"
+msgstr "Eenheden"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1712
+#: JS_Composer/js_composer/config/map.php:1781
+msgid ""
+"Enter measurement units (if needed) Eg. %, px, points, etc. Graph value and "
+"unit will be appended to the graph title."
+msgstr ""
+"Voor een maat eenheid in (indien nodig). Bijvoorbeeld: %, px, punten, etc. "
+"Grafiek waarde en eenheid zal worden toegevoegd aan de grafiek titel."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1716
+#: JS_Composer/js_composer/config/map.php:1785
+msgid "Bar color"
+msgstr "Balk kleur"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1718
+msgid "Custom Color"
+msgstr "Aangepaste kleur"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1719
+msgid "Select bar background color."
+msgstr "Selecteer achtergrondkleur voor de balk"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1724
+msgid "Bar custom color"
+msgstr "Aangepaste balk kleur"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1726
+msgid "Select custom background color for bars."
+msgstr "Selecteer aangepaste achtergrond kleur voor de balken."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1731
+#: JS_Composer/js_composer/config/map.php:2329
+#: JS_Composer/js_composer/config/map.php:2364
+#: JS_Composer/js_composer/config/map.php:2395
+#: JS_Composer/js_composer/config/map.php:2440
+msgid "Options"
+msgstr "Opties"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1733
+msgid "Add Stripes?"
+msgstr "Strepen toevoegen?"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1733
+msgid "Add animation? Will be visible with striped bars."
+msgstr "Animatie toevoegen? Zal zichtbaar zijn gestreepte balken."
+
+# @ vc_extend
+#: JS_Composer/js_composer/config/map.php:1748
+msgid "Pie chart"
+msgstr "Cirkeldiagram"
+
+#: JS_Composer/js_composer/config/map.php:1753
+msgid "Animated pie chart"
+msgstr "Geanimeerd cirkeldiagram"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1764
+msgid "Pie value"
+msgstr "Cirkel waarde"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1766
+msgid "Input graph value here. Witihn a range 0-100."
+msgstr "Voer hier een grafiek waarde in tussen de 0-100."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1772
+msgid "Pie label value"
+msgstr "Cirkel label waarde"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1774
+msgid "Input integer value for label. If empty \"Pie value\" will be used."
+msgstr ""
+"Voer een geheel getal in voor het label. Indien leeg zal \"Pie valie\" "
+"gebruikt worden."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1788
+msgid "Select pie chart color."
+msgstr "Selecteer Cirkeldiagram kleur."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1825
+msgid "Contact Form 7"
+msgstr "Contact form 7"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1828
+msgid "Place Contact Form7"
+msgstr "Plaats Contact Form7"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1832
+msgid "Form title"
+msgstr "Formulier titel"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1835
+msgid "What text use as form title. Leave blank if no title is needed."
+msgstr ""
+"Welke tekst moet er gebruikt worden als titel. Laat leeg indien er geen "
+"titel nodig is."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1839
+msgid "Select contact form"
+msgstr "Selecteer een contactformulier"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1842
+msgid "Choose previously created contact form from the drop down list."
+msgstr "Kies een eerder gemaakt formulier uit het drop down menu."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1868
+msgid "Layer Slider"
+msgstr "Slider laag"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1871
+msgid "Place LayerSlider"
+msgstr "Plaats Slider laag"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1881
+msgid "LayerSlider ID"
+msgstr "Slider laag ID"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1885
+msgid "Select your LayerSlider."
+msgstr "Selecteer uw Slider laag"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1916
+#: JS_Composer/js_composer/config/map.php:1929
+msgid "Revolution Slider"
+msgstr "Revolutie Slider"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1919
+msgid "Place Revolution slider"
+msgstr "Plaats Revolutie Slider"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1933
+msgid "Select your Revolution Slider."
+msgstr "Selecteer uw revolutie slider"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1946
+msgid "No Gravity forms found."
+msgstr "Geen Gravity formulieren gevonden."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1950
+msgid "Select a form to display."
+msgstr "Selecteer een formulier om te weergeven."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1957
+msgid "Gravity Form"
+msgstr "Gravity Formulier"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1961
+msgid "Place Gravity form"
+msgstr "Plaats Gravity Formulier"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1965
+msgid "Form"
+msgstr "Formulier"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1968
+msgid "Select a form to add it to your post or page."
+msgstr "Selecteer een formulier om het aan uw bericht of pagina toe te voegen."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1973
+msgid "Display Form Title"
+msgstr "Formulier titel weergeven"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1975
+#: JS_Composer/js_composer/config/map.php:1983
+#: JS_Composer/js_composer/config/map.php:1991
+msgid "Yes"
+msgstr "Ja"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1976
+msgid "Would you like to display the forms title?"
+msgstr "Wilt u de formulier titel weergeven?"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1981
+msgid "Display Form Description"
+msgstr "Weergeef formulier beschrijving"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1984
+msgid "Would you like to display the forms description?"
+msgstr "Wilt u de formulier beschrijving weergeven?"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1989
+msgid "Enable AJAX?"
+msgstr "AJAX inschakelen?"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1992
+msgid "Enable AJAX submission?"
+msgstr "AJAX indiening inschakelen?"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1997
+msgid "Tab Index"
+msgstr "Tabblad Index"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:1999
+msgid ""
+"(Optional) Specify the starting tab index for the fields of this form. Leave "
+"blank if you're not sure what this is."
+msgstr ""
+"(Optioneel) Geef het eerste tabblad index voor de velden van dit formulier. "
+"Laat leeg als u niet zeker weet wat dit is."
+
+# @ default
+#: JS_Composer/js_composer/config/map.php:2009
+msgid "Search"
+msgstr "Zoeken"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:2012
+#: JS_Composer/js_composer/config/map.php:2036
+#: JS_Composer/js_composer/config/map.php:2060
+#: JS_Composer/js_composer/config/map.php:2090
+#: JS_Composer/js_composer/config/map.php:2114
+#: JS_Composer/js_composer/config/map.php:2159
+#: JS_Composer/js_composer/config/map.php:2197
+#: JS_Composer/js_composer/config/map.php:2229
+#: JS_Composer/js_composer/config/map.php:2265
+#: JS_Composer/js_composer/config/map.php:2309
+#: JS_Composer/js_composer/config/map.php:2351
+#: JS_Composer/js_composer/config/map.php:2382
+#: JS_Composer/js_composer/config/map.php:2412
+msgid "WordPress Widgets"
+msgstr "Wordpress Widgets"
+
+#: JS_Composer/js_composer/config/map.php:2015
+msgid "A search form for your site"
+msgstr "Een zoekformulier voor uw site"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:2021
+#: JS_Composer/js_composer/config/map.php:2045
+#: JS_Composer/js_composer/config/map.php:2069
+#: JS_Composer/js_composer/config/map.php:2099
+#: JS_Composer/js_composer/config/map.php:2123
+#: JS_Composer/js_composer/config/map.php:2168
+#: JS_Composer/js_composer/config/map.php:2206
+#: JS_Composer/js_composer/config/map.php:2238
+#: JS_Composer/js_composer/config/map.php:2274
+#: JS_Composer/js_composer/config/map.php:2360
+#: JS_Composer/js_composer/config/map.php:2391
+#: JS_Composer/js_composer/config/map.php:2421
+msgid ""
+"What text use as a widget title. Leave blank to use default widget title."
+msgstr ""
+"Welke tekst te gebruiken als widget titel. Laat leeg om de standaard widget "
+"titel te gebruiken."
+
+#: JS_Composer/js_composer/config/map.php:2039
+msgid "Log in/out, admin, feed and WordPress links"
+msgstr "Log in/uit, admin, feed en WordPress links"
+
+# @ default
+#: JS_Composer/js_composer/config/map.php:2063
+msgid "The most recent comments"
+msgstr "De meest recente reacties"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:2073
+msgid "Number of comments to show"
+msgstr "Aantal reacties om te weergeven"
+
+# @ default
+#: JS_Composer/js_composer/config/map.php:2087
+msgid "Calendar"
+msgstr "Kalender"
+
+#: JS_Composer/js_composer/config/map.php:2093
+msgid "A calendar of your sites posts"
+msgstr "Een kalender van uw websites berichten"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:2117
+msgid "Your sites WordPress Pages"
+msgstr "Uw Wordpress Widgets Paginas"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:2127
+#: JS_Composer/js_composer/config/map.php:2323
+msgid "Sort by"
+msgstr "Sorteren op"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:2129
+msgid "Page title"
+msgstr "Pagina titel"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:2129
+msgid "Page order"
+msgstr "Pagina volgorde"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:2129
+msgid "Page ID"
+msgstr "Pagina ID"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:2134
+msgid "Exclude"
+msgstr "Uitsluiten"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:2136
+msgid "Page IDs, separated by commas."
+msgstr "Pagina IDs, gescheiden door kommas (,)."
+
+# @ default
+#: JS_Composer/js_composer/config/map.php:2156
+msgid "Tag Cloud"
+msgstr "Tag Wolk"
+
+#: JS_Composer/js_composer/config/map.php:2162
+msgid "Your most used tags in cloud format"
+msgstr "Uw meest gebruikte tags in wolk format"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:2172
+msgid "Taxonomy"
+msgstr "Taxonomie"
+
+# @ default
+#: JS_Composer/js_composer/config/map.php:2194
+msgid "Custom Menu"
+msgstr "Aangepast Menu"
+
+#: JS_Composer/js_composer/config/map.php:2200
+msgid "Use this widget to add one of your custom menus as a widget"
+msgstr "Gebruik deze widget om een aangepast menu toe te voegen als widget"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:2210
+msgid "Menu"
+msgstr "Menu"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:2213
+msgid ""
+"Custom menus not found. Please visit <b>Appearance > Menus</b> page to "
+"create new menu."
+msgstr ""
+"Aangepaste menus niet gevonden. Bezoek de <b>Weergave > Menus</b> pagina om "
+"een nieuw menu te maken."
+
+#: JS_Composer/js_composer/config/map.php:2232
+msgid "Arbitrary text or HTML"
+msgstr "Willekeurige tekst of HTML"
+
+#: JS_Composer/js_composer/config/map.php:2268
+msgid "The most recent posts on your site"
+msgstr "De meest recente berichten op uw website"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:2278
+msgid "Number of posts to show"
+msgstr "Aantal berichten om te weergeven"
+
+# @ js_composer
+# @ default
+#: JS_Composer/js_composer/config/map.php:2284
+#: JS_Composer/js_composer/config/map.php:2286
+msgid "Display post date?"
+msgstr "Bericht datum weergeven?"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:2298
+msgid "All Links"
+msgstr "Alle Links"
+
+# @ default
+#: JS_Composer/js_composer/config/map.php:2306
+msgid "Links"
+msgstr "Links"
+
+#: JS_Composer/js_composer/config/map.php:2312
+msgid "Your blogroll"
+msgstr "Uw Blogrol"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:2316
+msgid "Link Category"
+msgstr "Link Categorie"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:2325
+msgid "Link title"
+msgstr "Link titel"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:2325
+msgid "Link rating"
+msgstr "Link waardering"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:2325
+msgid "Link ID"
+msgstr "Link ID"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:2331
+msgid "Show Link Image"
+msgstr "Toon Link afbeelding"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:2331
+msgid "Show Link Name"
+msgstr "Toon Link Naam"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:2331
+msgid "Show Link Description"
+msgstr "Toon Link Beschrijving"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:2331
+msgid "Show Link Rating"
+msgstr "Toon Link Waardering"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:2335
+msgid "Number of links to show"
+msgstr "Aantal links om te weergeven"
+
+#: JS_Composer/js_composer/config/map.php:2354
+msgid "A list or dropdown of categories"
+msgstr "Een lijst of drop down met categoriën"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:2366
+#: JS_Composer/js_composer/config/map.php:2397
+msgid "Display as dropdown"
+msgstr "Toon als drop down"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:2366
+#: JS_Composer/js_composer/config/map.php:2397
+msgid "Show post counts"
+msgstr "Toon bericht telling"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:2366
+msgid "Show hierarchy"
+msgstr "Toon hiërarchie"
+
+#: JS_Composer/js_composer/config/map.php:2385
+msgid "A monthly archive of your sites posts"
+msgstr "Een maandelijks archief van uw websites berichten"
+
+# @ default
+#: JS_Composer/js_composer/config/map.php:2409
+msgid "RSS"
+msgstr "RSS"
+
+#: JS_Composer/js_composer/config/map.php:2415
+msgid "Entries from any RSS or Atom feed"
+msgstr "Inzendingen van elke RSS of Atom feed"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:2425
+msgid "RSS feed URL"
+msgstr "RSS feed URL"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:2427
+msgid "Enter the RSS feed URL."
+msgstr "Voer de RSS feed URL in."
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:2432
+msgid "Items"
+msgstr "Artikelen"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:2434
+msgid "10 - Default"
+msgstr "10 - Standaard"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:2435
+msgid "How many items would you like to display?"
+msgstr "Hoeveel artikelen wilt u tonen?"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:2442
+msgid "Display item content?"
+msgstr "Toon artikel inhoud?"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:2442
+msgid "Display item author if available?"
+msgstr "Toon artikel auteur indien beschikbaar?"
+
+# @ js_composer
+#: JS_Composer/js_composer/config/map.php:2442
+msgid "Display item date?"
+msgstr "Toon artikel datum?"

@@ -1,0 +1,731 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#. Text in function
+#: timetable/post-type-events.php:1
+msgid "Add"
+msgstr ""
+
+#. Text in function
+#: timetable/post-type-weekdays.php:1
+msgid "Add New Day"
+msgstr ""
+
+#. Text in function
+#: timetable/post-type-events.php:1
+msgid "Add New Event"
+msgstr ""
+
+#. Text in function
+#: timetable/post-type-events.php:1
+msgid "All Events"
+msgstr ""
+
+#. Text in function
+#: timetable/post-type-weekdays.php:1
+msgid "All Weekdays"
+msgstr ""
+
+#. Text in echo
+#: timetable/widget-upcoming-events.php:252
+msgid "All upcoming within next"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:783
+msgid ""
+"Assign a unique identifier to a timetable if you use more than one table on "
+"a single page. Otherwise, leave this field blank."
+msgstr ""
+
+#. Text in echo
+#: timetable/widget-upcoming-events.php:316
+msgid "Auto scroll"
+msgstr ""
+
+#. Text in echo
+#: timetable/widget-upcoming-events.php:334
+msgid "Background color"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:614
+msgid "By event"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:615
+msgid "By event category"
+msgstr ""
+
+#. Text in echo
+#: timetable/widget-upcoming-events.php:302 timetable/post-type-events.php:1
+msgid "Categories"
+msgstr ""
+
+#. Text in function
+#: timetable/post-type-events.php:1
+msgid "Category"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:603
+msgid "Choose between dropdown menu and tabs for event filtering."
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:619
+msgid "Choose between filtering by events or events categories."
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:587
+msgid "Choose hour measure for event hours."
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:498
+msgid "Colors"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:485 timetable/timetable.php:978
+msgid "Copy to Clipboard"
+msgstr ""
+
+#. Text in echo
+#: timetable/widget-upcoming-events.php:241
+msgid "Count"
+msgstr ""
+
+#. Text in echo
+#: timetable/widget-upcoming-events.php:323
+msgid "Custom event url"
+msgstr ""
+
+#. Text in echo
+#: timetable/widget-upcoming-events.php:282 timetable/timetable.php:666
+msgid "Custom: "
+msgstr ""
+
+#. Text in function
+#: timetable/post-type-weekdays.php:1 timetable/post-type-events.php:1
+msgid "Date"
+msgstr ""
+
+#. Text in function
+#: timetable/post-type-events.php:1
+msgid "Day"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:947
+msgid "Default"
+msgstr ""
+
+#. Text in function
+#: timetable/post-type-events.php:1
+msgid "Description 1"
+msgstr ""
+
+#. Text in function
+#: timetable/post-type-events.php:1
+msgid "Description 2"
+msgstr ""
+
+#. Text in echo
+#: timetable/widget-upcoming-events.php:327 timetable/timetable.php:743
+msgid "Disable event url"
+msgstr ""
+
+#. Text in function
+#: timetable/post-type-events.php:1
+msgid "Disable timetable event URL"
+msgstr ""
+
+#. Text in echo
+#: timetable/widget-upcoming-events.php:245
+msgid "Display settings"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:598
+msgid "Dropdown list"
+msgstr ""
+
+#. Text in function
+#: timetable/post-type-weekdays.php:1
+msgid "Edit Day"
+msgstr ""
+
+#. Text in function
+#: timetable/post-type-events.php:1
+msgid "Edit Event"
+msgstr ""
+
+#. Text in function
+#: timetable/post-type-events.php:1
+msgid "End hour"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:935
+msgid "Enter font name"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:710
+msgid "Event block layout"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:528
+msgid "Event categories"
+msgstr ""
+
+#. Text in function
+#: timetable/post-type-events.php:1
+msgid "Event hours"
+msgstr ""
+
+#. Text in function
+#: timetable/timetable.php:1
+msgid "Event post box thumbnail"
+msgstr ""
+
+#. Text in function
+#: timetable/timetable.php:1
+msgid "Event post thumbnail"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:513 timetable/post-type-events.php:1
+msgid "Events"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:890
+msgid "Filter control background color"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:609
+msgid "Filter kind"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:625
+msgid "Filter label"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:593
+msgid "Filter style"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:965
+msgid "Font size (in px)"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:503
+msgid "Fonts"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:957
+msgid "Google font subset"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:582
+msgid "Half hour (30min)"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:727
+msgid "Hide empty rows"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:678
+msgid "Hide first (hours) column"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:581
+msgid "Hour (1h)"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:543
+msgid "Hour categories"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:576
+msgid "Hour measure"
+msgstr ""
+
+#. Text in echo
+#: timetable/widget-upcoming-events.php:339
+msgid "Hover background color"
+msgstr ""
+
+#. Text in echo
+#: timetable/widget-upcoming-events.php:359
+msgid "Hover item border color"
+msgstr ""
+
+#. Text in echo
+#: timetable/widget-upcoming-events.php:349
+msgid "Hover text color"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:776
+msgid "Id"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:475
+msgid "Import dummy content"
+msgstr ""
+
+#. Text in function
+#: timetable/timetable.php:1
+msgid ""
+"Import file: dummy-timetable.xml not found! Please upload import file "
+"manually into Media library. You can find this file inside zip archive "
+"downloaded from CodeCanyon."
+msgstr ""
+
+#. Text in echo
+#: timetable/widget-upcoming-events.php:354
+msgid "Item border color"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:493
+msgid "Main configuration"
+msgstr ""
+
+#. Text in function
+#: timetable/post-type-weekdays.php:1
+msgid "New Day"
+msgstr ""
+
+#. Text in function
+#: timetable/post-type-events.php:1
+msgid "New Event"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:808 timetable/post-type-events.php:1
+msgid "No"
+msgstr ""
+
+#. Text in function
+#: timetable/post-type-events.php:1
+msgid "No events found"
+msgstr ""
+
+#. Text in function
+#: timetable/post-type-events.php:1
+msgid "No events found in Trash"
+msgstr ""
+
+#. Text in function
+#: timetable/widget-upcoming-events.php:1
+msgid "No upcoming events for today"
+msgstr ""
+
+#. Text in function
+#: timetable/post-type-weekdays.php:1
+msgid "No weekdays found"
+msgstr ""
+
+#. Text in function
+#: timetable/post-type-weekdays.php:1
+msgid "No weekdays found in Trash"
+msgstr ""
+
+#. Text in function
+#: timetable/post-type-events.php:1
+msgid "Options"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:583
+msgid "Quarter hour (15min)"
+msgstr ""
+
+#. Text in function
+#: timetable/post-type-events.php:1
+msgid "Required when \\'Timetable box hover color\\' isn\\'t empty"
+msgstr ""
+
+#. Text in function
+#: timetable/post-type-events.php:1
+msgid "Required when \\'Timetable box hover hours text color\\' isn\\'t empty"
+msgstr ""
+
+#. Text in function
+#: timetable/post-type-events.php:1
+msgid "Required when \\'Timetable box hover text color\\' isn\\'t empty"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:802
+msgid "Responsive"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:901
+msgid "Row 1 style background color"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:912
+msgid "Row 2 style background color"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:789
+msgid "Row height (in px)"
+msgstr ""
+
+#. Text in function
+#: timetable/post-type-events.php:1
+msgid "Search Event"
+msgstr ""
+
+#. Text in function
+#: timetable/post-type-weekdays.php:1
+msgid "Search Weekdays"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:721
+msgid "Select one of the available event block layouts."
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:537
+msgid ""
+"Select the events categories that are to be displayed in timetable. Hold the "
+"CTRL key to select multiple items."
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:522
+msgid ""
+"Select the events that are to be displayed in timetable. Hold the CTRL key "
+"to select multiple items."
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:555
+msgid ""
+"Select the hour categories (if defined for existing event hours) for events "
+"that are to be displayed in timetable. Hold the CTRL key to select multiple "
+"items."
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:570
+msgid ""
+"Select the weekdays that are to be displayed in timetable. Hold the CTRL key "
+"to select multiple items."
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:753
+msgid "Set to Yes for nonclickable event blocks."
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:812
+msgid "Set to Yes to adjust timetable to mobile devices."
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:688
+msgid "Set to Yes to hide timetable column with hours."
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:737
+msgid "Set to Yes to hide timetable rows without events."
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:704
+msgid ""
+"Set to Yes to show both start and end hour in timetable column with hours."
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:979
+msgid "Shortcode has been copied to clipboard!"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:694
+msgid "Show end hour in first (hours) column"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:770
+msgid "Specify text align in timetable event block."
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:632
+msgid "Specify text label for all events."
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:796
+msgid "Specify timetable row height in pixels."
+msgstr ""
+
+#. Text in function
+#: timetable/post-type-events.php:1
+msgid "Start hour"
+msgstr ""
+
+#. Text in function
+#: timetable/post-type-events.php:1
+msgid "Subtitle"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:929
+msgid "Table header font"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:599
+msgid "Tabs"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:759
+msgid "Text align"
+msgstr ""
+
+#. Text in echo
+#: timetable/widget-upcoming-events.php:344
+msgid "Text color"
+msgstr ""
+
+#. Text in echo
+#: timetable/widget-upcoming-events.php:257 timetable/timetable.php:638
+#: timetable/timetable.php:643
+msgid "Time format"
+msgstr ""
+
+#. Text in echo
+#: timetable/widget-upcoming-events.php:288
+msgid "Time from"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:472
+msgid "Timetable Dummy Content"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:481
+msgid "Timetable Shortcode Generator"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:824 timetable/post-type-events.php:1
+msgid "Timetable box background color"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:879
+msgid "Timetable box hours hover text color"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:868 timetable/post-type-events.php:1
+msgid "Timetable box hours text color"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:835 timetable/post-type-events.php:1
+msgid "Timetable box hover background color"
+msgstr ""
+
+#. Text in function
+#: timetable/post-type-events.php:1
+msgid "Timetable box hover hours text color"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:857 timetable/post-type-events.php:1
+msgid "Timetable box hover text color"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:846 timetable/post-type-events.php:1
+msgid "Timetable box text color"
+msgstr ""
+
+#. Text in function
+#: timetable/post-type-events.php:1
+msgid "Timetable custom URL"
+msgstr ""
+
+#. Text in echo
+#: timetable/widget-upcoming-events.php:295
+msgid "Timezone"
+msgstr ""
+
+#. Text in echo
+#: timetable/widget-upcoming-events.php:232
+msgid "Title"
+msgstr ""
+
+#. Text in echo
+#: timetable/widget-upcoming-events.php:236
+msgid "Title color"
+msgstr ""
+
+#. Text in function
+#: timetable/post-type-events.php:1
+msgid "Tooltip"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:715
+msgid "Type 1"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:716
+msgid "Type 2"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:717
+msgid "Type 3"
+msgstr ""
+
+#. Text in function
+#: timetable/widget-upcoming-events.php:1
+msgid "Upcoming Events"
+msgstr ""
+
+#. Text in function
+#: timetable/post-type-weekdays.php:1
+msgid "View Day"
+msgstr ""
+
+#. Text in function
+#: timetable/post-type-events.php:1
+msgid "View Event"
+msgstr ""
+
+#. Text in function
+#: timetable/post-type-weekdays.php:1 timetable/timetable.php:561
+msgid "Weekdays"
+msgstr ""
+
+#. Text in function
+#: timetable/timetable.php:1
+msgid "Widgets data file not found! Please upload widgets data file manually."
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:807 timetable/post-type-events.php:1
+msgid "Yes"
+msgstr ""
+
+#. Text in echo
+#: timetable/widget-upcoming-events.php:248
+msgid "all upcoming"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:764
+msgid "center"
+msgstr ""
+
+#. Text in echo
+#: timetable/widget-upcoming-events.php:291
+msgid "database"
+msgstr ""
+
+#. Text in echo
+#: timetable/widget-upcoming-events.php:253
+msgid "day(s)"
+msgstr ""
+
+#. Text in function
+#: timetable/timetable.php:1
+msgid ""
+"dummy-timetable.xml file content and widgets settings has been imported "
+"successfully!"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:765
+msgid "left"
+msgstr ""
+
+#. Text in echo
+#: timetable/widget-upcoming-events.php:297
+msgid "localtime"
+msgstr ""
+
+#. Text in echo
+#: timetable/widget-upcoming-events.php:318
+#: timetable/widget-upcoming-events.php:329
+msgid "no"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:943
+msgid "or choose Google font"
+msgstr ""
+
+#. Text in echo
+#: timetable/timetable.php:766
+msgid "right"
+msgstr ""
+
+#. Text in echo
+#: timetable/widget-upcoming-events.php:290
+msgid "server"
+msgstr ""
+
+#. Text in echo
+#: timetable/widget-upcoming-events.php:247
+msgid "today upcoming"
+msgstr ""
+
+#. Text in echo
+#: timetable/widget-upcoming-events.php:298
+msgid "utc"
+msgstr ""
+
+#. Text in echo
+#: timetable/widget-upcoming-events.php:319
+#: timetable/widget-upcoming-events.php:330
+msgid "yes"
+msgstr ""

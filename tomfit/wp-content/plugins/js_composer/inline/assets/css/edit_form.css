@@ -1,0 +1,349 @@
+/* Content element Edit screen
+---------------------------------------------------------- */
+.wpb-edit-form .vc-row input,
+.wpb-edit-form .vc-row select,
+.wpb-edit-form .vc-row textarea {
+  width: 100%;
+  padding: 8px 6px;
+  margin: 0;
+}
+.wpb-edit-form .vc-row input,
+.wpb-edit-form .vc-row select {
+  font-size: 1em;
+}
+.wpb-edit-form .vc-row select {
+  height: auto;
+}
+.wpb-edit-form .vc-row input[type="checkbox"] {
+  width: auto;
+  margin-left: 5px;
+  margin-right: 2px;
+  display: inline-block;
+}
+.wpb-edit-form .vc-row input[type="checkbox"]:nth-child(2) {
+  margin-left: 0;
+}
+.wpb_element_label {
+  font-weight: bold;
+  margin-bottom: 5px;
+  display: block;
+}
+.wpb_edit_form_elements span.description {
+  color: #999999;
+  display: block;
+  line-height: 20px;
+  margin-top: 8px;
+}
+/* Select Image / Select Images (multiple)
+---------------------------------------------------------- */
+.wpb_el_type_attach_images .gallery_widget_attached_images_list {
+  cursor: move;
+}
+.gallery_widget_img_select,
+.gallery_widget_attached_images_list {
+  margin: 0;
+}
+.gallery_widget_img_select li,
+.gallery_widget_attached_images_list li {
+  position: relative;
+  background: #F5F5F5;
+  padding: 4px;
+  float: left;
+  margin: 0px 5px 5px 0;
+  min-height: 75px;
+  min-width: 75px;
+  line-height: 70px;
+  text-align: center;
+}
+.gallery_widget_img_select li img,
+.gallery_widget_attached_images_list li img {
+  max-height: 75px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.wpb_el_type_attach_images .gallery_widget_add_images,
+.wpb_el_type_attach_image .gallery_widget_add_images {
+  margin-top: 0px;
+  display: block;
+  float: left;
+  height: 80px;
+  width: 80px;
+  background: #f5f5f5 url("../vc/add.png") no-repeat center center;
+  border: 1px solid #DFDFDF;
+  font-size: 0px;
+  color: #F5F5F5;
+}
+.wpb_el_type_attach_images .gallery_widget_add_images:hover,
+.wpb_el_type_attach_image .gallery_widget_add_images:hover {
+  color: #C8C8C8;
+  border-color: #C8C8C8;
+  text-decoration: none;
+}
+.wpb_el_type_attach_images .icon-remove,
+.wpb_el_type_attach_image .icon-remove {
+  background: #f5f5f5 url(../vc/remove.png) center center no-repeat;
+  width: 16px;
+  height: 16px;
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.wpb_el_type_attach_images .icon-remove:hover,
+.wpb_el_type_attach_image .icon-remove:hover {
+  opacity: 0.7;
+}
+.gallery_widget_site_images {
+  display: none;
+}
+.wpb_vc_tab,
+.wpb_vc_accordion_tab {
+  display: none;
+}
+.hidden-placeholder {
+  display: none;
+}
+/* Auto suggestion in Loop builder **/
+.vc-loop-info {
+  position: relative;
+  top: 8px;
+  margin-top: 5px;
+}
+.loop_params_holder {
+  border: 1px solid #dfdfdf;
+  padding: 10px;
+  margin-top: 10px;
+  background: #f5f5f5 url(../vc/rowbg.png);
+  position: relative;
+}
+.loop_params_holder:before {
+  content: "";
+  display: block;
+  width: 0;
+  height: 0;
+  position: absolute;
+  top: -8px;
+  left: 20px;
+  border-left: 8px solid transparent;
+  border-right: 8px solid transparent;
+  border-bottom: 8px solid #dfdfdf;
+}
+.loop_params_holder .vc_row-fluid {
+  border-bottom-color: #cccccc;
+}
+.vc-suggest-field {
+  clear: both;
+}
+.vc-suggest-field .vc-suggester {
+  margin: 0;
+  background: #ffffff;
+  border: 1px solid #dfdfdf;
+  border-radius: 3px;
+  padding: 2px;
+  cursor: text;
+  min-height: 24px;
+}
+.vc-suggest-field .vc-suggester li {
+  margin-bottom: 0px;
+  float: left;
+}
+.vc-suggest-field .vc-suggester li.exclude {
+  background: #f2dede;
+  color: #b94a48;
+  border: 1px solid #eed3d7;
+}
+.vc-suggest-field .vc-suggester li.exclude:after {
+  content: "-";
+  display: block;
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  left: 3px;
+  font-weight: bold;
+  top: 1px;
+}
+.vc-suggest-field .vc-suggester li.include {
+  background: #dff0d8;
+  color: #468847;
+  border: 1px solid #d6e9c6;
+}
+.vc-suggest-field .vc-suggester li.include:after {
+  content: "+";
+  display: block;
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  left: 3px;
+  font-weight: bold;
+  top: 2px;
+}
+.vc-suggest-field .vc-suggester li.vc-suggest-label {
+  border-radius: 2px;
+  padding: 0 0 0 8px;
+  margin: 2px;
+  position: relative;
+  cursor: pointer;
+}
+.vc-suggest-field .vc-suggester li.vc-suggest-label .label {
+  display: inline-block;
+  line-height: 18px;
+  font-size: 11px;
+  padding: 0 6px 0 5px;
+}
+.vc-suggest-field .vc-suggester li.vc-suggest-label .remove {
+  color: #999999;
+  display: block;
+  cursor: pointer;
+  position: absolute;
+  top: -5px;
+  right: -3px;
+  width: 9px;
+  height: 9px;
+  background: #F7F7F7;
+  line-height: 9px;
+  font-size: 12px;
+  text-align: center;
+}
+.vc-suggest-field .vc-suggester li.vc-suggest-label .remove:hover {
+  color: red;
+}
+.vc-suggest-field .vc-suggester li.input {
+  width: 170px;
+  padding: 0 3px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.vc-suggest-field .vc-suggester li.input input {
+  width: 100%;
+  border: 0;
+  padding: 5px 0px;
+  margin: 0px;
+}
+.vc-suggest-field .vc-suggester li.input input:focus {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+.vc-suggest-field .vc-suggester li.clear {
+  clear: both;
+  float: none;
+}
+/** Sortable list params */
+.vc-sorted-list-checkbox {
+  display: inline-block;
+  cursor: pointer;
+  overflow: hidden;
+  height: 26px;
+  margin-right: 4px;
+  position: relative;
+}
+.vc-sorted-list-checkbox label {
+  float: left;
+  width: auto;
+}
+.vc-sorted-list-checkbox label input {
+  margin-right: 0px;
+  position: absolute;
+  top: -20px;
+}
+.vc-sorted-list-checkbox label span {
+  text-align: center;
+  display: block;
+  border: 1px solid #CCCCCC;
+  padding: 2px 6px 1px;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+  background: #ffffff;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #ffffff 0%, #eaeaea 70%, #f1f1f1 100%, #f6f6f6 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffffff), color-stop(70%, #eaeaea), color-stop(100%, #f1f1f1), color-stop(100%, #f6f6f6));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #ffffff 0%, #eaeaea 70%, #f1f1f1 100%, #f6f6f6 100%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #ffffff 0%, #eaeaea 70%, #f1f1f1 100%, #f6f6f6 100%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #ffffff 0%, #eaeaea 70%, #f1f1f1 100%, #f6f6f6 100%);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #ffffff 0%, #eaeaea 70%, #f1f1f1 100%, #f6f6f6 100%);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#f6f6f6', GradientType=0);
+  /* IE6-9 */
+}
+.vc-sorted-list-checkbox label input:checked + span {
+  background: #FFF;
+  box-shadow: inset 1px 1px 1px 1px #DDDDDD;
+  color: #5e5e5e;
+}
+#TB_overlay {
+  z-index: 1055;
+}
+#TB_window {
+  z-index: 1060;
+}
+/** Link param **/
+#wp-link .submitbox {
+  height: auto;
+}
+.vc-link .vc-link-build {
+  margin-bottom: 5px;
+}
+.vc-link .vc_link_label {
+  font-weight: bold;
+  margin-left: 10px;
+  display: inline-block;
+  line-height: 28px;
+}
+/** Color picker field **/
+.wpb_el_type_colorpicker .colorpicker_field,
+.wpb_edit_form_elements .wpb_el_type_colorpicker .colorpicker_field {
+  display: inline-block;
+  width: 90px;
+  padding: 4px 3px 3px;
+  margin-right: 4px;
+}
+.wpb_el_type_colorpicker .wp-picker-clear,
+.wpb_edit_form_elements .wpb_el_type_colorpicker .wp-picker-clear {
+  width: auto;
+}
+.edit_form_line .updated {
+  margin: 5px 0px 2px;
+}
+/** Options field type */
+.vc-options-fields {
+  border: 1px solid #dfdfdf;
+  padding: 10px;
+  margin-top: 10px;
+  background: #f5f5f5 url(../vc/rowbg.png);
+  position: relative;
+  display: none;
+}
+.vc-options-fields:before {
+  content: "";
+  display: block;
+  width: 0;
+  height: 0;
+  position: absolute;
+  top: -8px;
+  left: 20px;
+  border-left: 8px solid transparent;
+  border-right: 8px solid transparent;
+  border-bottom: 8px solid #dfdfdf;
+}
+.vc-options-fields h4 {
+  font-size: 16px;
+  padding-bottom: 6px;
+  margin: 4px 0 10px 0;
+  border-bottom: 1px double #000;
+}
+.vc-options-fields .vc_row-fluid {
+  border-bottom-color: #cccccc;
+}
+.vc-options-fields .vc_row-fluid .descr {
+  margin-top: 5px;
+}
+.vc-ui-front {
+  z-index: 1052 !important;
+}

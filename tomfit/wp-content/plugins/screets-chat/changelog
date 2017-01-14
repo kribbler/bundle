@@ -1,0 +1,154 @@
+Legend:
+[+] - new feature/improvement
+[*] - functionality changes
+[!] - bugfix
+
+Version 1.5
+[+] Added Brazilian / Portuguese language
+[*] "Connecting" message changed with "Please wait"
+[!] Fixed wrong time in chat logs
+[!] Fixed conflicts of "Chat" menu duplications in admin
+
+Version 1.4.3
+[!] Fixed capabilities issue of Chat Operator
+
+Version 1.4.2
+[+] Added media files into the package regarding Live Chat plugin
+[*] Re-compressed app.min.js
+[*] Changed plugin name from "Screets Chat" to "Screets Live Chat"
+
+Version 1.4.1
+[*] Add chat capabilities to admin and ops when plugin activate it, not every page refresh for performance issue
+[*] Loads JS libraries in the footer instead of between <head> tag because of compatibility for all themes
+[!] Fixed sending message by pressing enter
+
+Version 1.4
+[+] Added email notification when visitor login chat!
+[+] Added German translation translated by Dietmar Hohn
+[+] Now chatbox displays "Connecting..." message while user loging in
+[+] Improved notifications. Especially "Something went wrong" changed with "Connecting"
+[+] Improved chat box CSS
+[+] Improved licensing for extended license users
+[+] Removing inactive users while visitor logs in chat! It is good if operator turned computer to stand-by mode and still looks like online.
+[*] Tested with WordPress 3.6
+[*] Suggested new SMTP plugin: WP SMTP instead of out-of-date WP MAIL SMTP
+[!] Removed annoying "pop" sound after page refresh in front-end
+[!] Removed type attribute from textarea in basic skin!
+[!] Admin menu will shown all admins, not only for super admin
+[!] Don't show Phone field in contact email if it's not activated already
+
+Version 1.3.2, July 10 2013
+[*] Fixed session issue
+
+Version 1.3.1, July 10 2013
+[*] Updated jQuery Autosize plugin to v1.17.1
+[!] Fixed notification error when the plugin activated
+[!] Renamed "jquery-cookie" slug to make compatible with other plugins
+[!] Fixed contact email title (added space)
+
+Version 1.3, June 25 2013
+
+[+] Added WPML support
+[+] Set Position (bottom-left or bottom-right)
+[+] Set Offset
+[+] Set the number of visitors allowed to chat at one time
+[+] Disable in mobile devices
+[+] Add Custom CSS code
+[+] Compress JavaScript file
+[+] Mute Sound
+[+] Add "Phone Field" in contact form (optional)
+[+] Included blog name into subject of contact form emails. ie. [Screets Project] John wrote a note
+[+] Operator Additional Role
+[*] The plugin can be run when WordPress out of its own directory
+[*] Registered users don't need to fill out their basic information (name and email) while login to chat in admin side
+[*] Users are logged off while they close browser windows
+[*] Only administrators can delete logs
+[*] Corrected two strings in French translation
+[*] jquery.easing plugin not loaded when CSS Anim is activate
+[*] "on" function deleted from ".f-chat-line" in App.js which was not needed
+[*] Removed default skin option
+[*] Tabs in chat options
+[!] Fixed empty <form action=""> tag in basic skin
+[!] Only operators can change operator's name
+
+Version 1.2.5, April 16 2013
+
+[*] Reduced CPU usage (about 70%) by removing unnecessary Ajax requests
+[!] Fixed page scrolling down issue when click chat box header to re-open it during conversation
+
+Version 1.2.4, April 6 2013
+
+[*] Removed session_destroy() function. It was blocked by some security plugins. Instead added the same functionality: $_SESSION['sc_chat'] = array();
+
+Version 1.2.3, March 29 2013
+
+[*] Fixed wrong is_front_end() function with is_front_page() 
+
+Version 1.2.2, March 22 2013
+
+[*] Fixed "jquery.cookie.min.js" not found error for some server installations
+
+Version 1.2.1, March 15 2013
+
+[*] Removed "." character in nickname when only email accepted and localpart of email has "." char.
+
+Version 1.2, March 14 2013
+
+[+] Added "End chat" button
+[+] Added shortcut for chat logs in chat console
+[+] Added new language: Spanish (thanks to Jesus Flores)
+[+] Operators can see a visitor's IP address, OS and browser name
+[+] Chatbox can be shown in homepage even though it is disabled
+[*] Name field can be invisible or optional. If name isn't given, the Plugin uses localpart of given email ( ie. uses "ben" if user's email "ben@scowski.com" )
+[+] Default skin css file can be disabled
+[+] Both operators and visitors can use SHIFT+ENTER while writing message
+[+] Skin CSS file can be compressed
+[+] Added Search Logs input
+[*] jQuery autosize plugin updated to v1.16.5
+[*] Conversation isn't showed up if closed already after refresh page
+[*] Chat lines was allowed up tp 255 chars. Now 700 chars.
+[!] Removed session_name() function that conflicts with some plugins which uses sessions
+[!] Fixed unsupported chars issue on visitor names. In this case, the Plugin uses email name.
+[!] "Always show chatbox here" didn't work properly
+[!] Fixed logs bulk actions
+
+Version 1.1, February 12 2013
+
+[+] Added an option to support "light" and "dark" themes
+[+] Added "Operator Name" field in user profiles
+[+] Added French language (by Sebastien Landrieu)
+[+] Added Italian language (by Luisa Macignani)
+[+] Added CSS3 animations (instead of jQuery animate() function)
+[+] Added new option: "Display chatbox automatically"
+[+] Added new option into post/page metaboxes for showing chatbox in only specific pages
+[+] Added two shortcodes: and...
+[+] Added skin types that set tones of user's custom colors
+[+] Added delay option
+[+] Added radius option
+[+] Added function make URLs into links during chat
+[+] Added sc_chat_adjust_brightness() function to make a color lighter or darken for skins
+[+] Added site title and address into contact form mail
+[+] "Send Button" can be translated by WP administration panel
+[+] If all operators goes offline during chat, visitor's last message sent to base email which is defined in chat options, and current visitor issued about the case.
+[*] "Got a question?" field in options page can be edited now
+[*] All color fields in options page can be updated correctly now
+[*] Sounds can be heard by visitors as well
+[*] Chatbox closes itself after visitor submits contact form
+[*] Chatbox looks better in iPhones and iPads
+[*] Users had to re-login after page refresh
+[!] When visitor went offline and then come back to website again without destroying session, system showed him in the list operator even though user had NOT any capabilities for back-end.
+[!] Stabilized Basic skin (hacking stylesheets)
+[!] Fixed options menu bug (forms sections can be updated now)
+[!] Removed slashes from quoted strings during chat
+[!] Fixed Basic Skin height problem at header (for some themes)
+[!] Fixed deleted button on logs page
+[!] Contact form was not sent at second time by visitor without refreshing page
+[!] Fixed session conflicts when the plugin installed more than one in same domain
+[!] Chat sounds could hearable even though user is active on his current window
+[!] Fixed auto-focus issue which causes scrolling page up
+[!] Fixed usernames conflict. Now all users' names (incl. operators) are unique
+[!] Fixed security issue on logins
+
+Version 1.0, February 4 2013
+
+Launch :)
