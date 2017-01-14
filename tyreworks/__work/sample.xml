@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TyreData>
+<TyreOption>
+<FRONT_Width>205</FRONT_Width>
+<FRONT_Ratio>55</FRONT_Ratio>
+<FRONT_Rim>R16</FRONT_Rim>
+<FRONT_XLoad />
+<FRONT_Reinforced />
+<FRONT_Commercial />
+<FRONT_LoadIndex>91</FRONT_LoadIndex>
+<FRONT_SpeedRating>W</FRONT_SpeedRating>
+<FRONT_KMHLimit>270</FRONT_KMHLimit>
+<FRONT_MPHLimit>168</FRONT_MPHLimit>
+<FRONT_Restrictions>Load restrictions apply</FRONT_Restrictions>
+<FRONT_ColdWeather />
+<FRONT_PressureStandard>33</FRONT_PressureStandard>
+<FRONT_PressureLaden>36</FRONT_PressureLaden>
+<REAR_Width>205</REAR_Width>
+<REAR_Ratio>55</REAR_Ratio>
+<REAR_Rim>R16</REAR_Rim>
+<REAR_XLoad />
+<REAR_Reinforced />
+<REAR_Commercial />
+<REAR_LoadIndex>91</REAR_LoadIndex>
+<REAR_SpeedRating>W</REAR_SpeedRating>
+<REAR_KMHLimit>270</REAR_KMHLimit>
+<REAR_MPHLimit>168</REAR_MPHLimit>
+<REAR_Restrictions>Load restrictions apply</REAR_Restrictions>
+<REAR_ColdWeather />
+<REAR_PressureStandard>30</REAR_PressureStandard>
+<REAR_PressureLaden>38</REAR_PressureLaden>
+<RunFlat />
+<SpecificMarking />
+<Note />
+<StandardOption />
+</TyreOption>
+<TyreOption>
+<FRONT_Width>225</FRONT_Width>
+<FRONT_Ratio>40</FRONT_Ratio>
+<FRONT_Rim>ZR18</FRONT_Rim>
+<FRONT_XLoad>XL</FRONT_XLoad>
+<FRONT_Reinforced />
+<FRONT_Commercial />
+<FRONT_LoadIndex>92</FRONT_LoadIndex>
+<FRONT_SpeedRating>Y</FRONT_SpeedRating>
+
+</TyreOption>
+</TyreData>

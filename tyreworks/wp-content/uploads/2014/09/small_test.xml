@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<product_cat><![CDATA[tyres]]></product_cat>
+		<name><![CDATA[Micheldever - Halifax]]></name>
+		<pa_brand><![CDATA[METZELER]]></pa_brand>
+		<undefined3><![CDATA[2008400]]></undefined3>
+		<sku><![CDATA[1805517ZMEZ8INT]]></sku>
+		<shortdescription><![CDATA[180/55R17 METZ Z8 INT 73W]]></shortdescription>
+		<pa_width><![CDATA[180]]></pa_width>
+		<pa_profile><![CDATA[55]]></pa_profile>
+		<pa_rimsize><![CDATA[17]]></pa_rimsize>
+		<pa_speed><![CDATA[W]]></pa_speed>
+		<undefined10><![CDATA[73]]></undefined10>
+		<image><![CDATA[Z8INT]]></image>
+		<stock><![CDATA[0]]></stock>
+		<price><![CDATA[88.65]]></price>
+		<pa_treadpattern><![CDATA[Z8INT]]></pa_treadpattern>
+		<description><![CDATA[MOTORCYCLE TYRES  17 INCH RIM]]></description>
+		<pa_extraload><![CDATA[N]]></pa_extraload>
+		<pa_runflat><![CDATA[N]]></pa_runflat>
+		<pa_tyreclass><![CDATA[]]></pa_tyreclass>
+		<pa_rrcgrade><![CDATA[]]></pa_rrcgrade>
+		<pa_wetgrip><![CDATA[0]]></pa_wetgrip>
+		<pa_wetgripgrade><![CDATA[]]></pa_wetgripgrade>
+		<pa_noisedb><![CDATA[0]]></pa_noisedb>
+		<pa_barrating><![CDATA[0]]></pa_barrating>
+	</node>
+	<node>
+		<product_cat><![CDATA[tyres]]></product_cat>
+		<name><![CDATA[Micheldever - Halifax]]></name>
+		<pa_brand><![CDATA[PIRELLI]]></pa_brand>
+		<undefined3><![CDATA[1849900]]></undefined3>
+		<sku><![CDATA[909021VPISCTRAIL]]></sku>
+		<shortdescription><![CDATA[90/90-21 PIR SCORP TRAIL 54V F]]></shortdescription>
+		<pa_width><![CDATA[90]]></pa_width>
+		<pa_profile><![CDATA[90]]></pa_profile>
+		<pa_rimsize><![CDATA[21]]></pa_rimsize>
+		<pa_speed><![CDATA[V]]></pa_speed>
+		<undefined10><![CDATA[54]]></undefined10>
+		<image><![CDATA[SCORPTRAIL]]></image>
+		<stock><![CDATA[3]]></stock>
+		<price><![CDATA[66.1]]></price>
+		<pa_treadpattern><![CDATA[SCORPTRAIL]]></pa_treadpattern>
+		<description><![CDATA[MOTORCYCLE TYRES  21 INCH RIM & ABOVE]]></description>
+		<pa_extraload><![CDATA[N]]></pa_extraload>
+		<pa_runflat><![CDATA[N]]></pa_runflat>
+		<pa_tyreclass><![CDATA[]]></pa_tyreclass>
+		<pa_rrcgrade><![CDATA[]]></pa_rrcgrade>
+		<pa_wetgrip><![CDATA[0]]></pa_wetgrip>
+		<pa_wetgripgrade><![CDATA[]]></pa_wetgripgrade>
+		<pa_noisedb><![CDATA[0]]></pa_noisedb>
+		<pa_barrating><![CDATA[0]]></pa_barrating>
+	</node>
+	<node>
+		<product_cat><![CDATA[tyres]]></product_cat>
+		<name><![CDATA[Micheldever - Halifax]]></name>
+		<pa_brand><![CDATA[UNKNOWN]]></pa_brand>
+		<undefined3><![CDATA[]]></undefined3>
+		<sku><![CDATA[LWBS17D40]]></sku>
+		<shortdescription><![CDATA[14MMX1.5 17H BOLT 40MM]]></shortdescription>
+		<pa_width><![CDATA[]]></pa_width>
+		<pa_profile><![CDATA[]]></pa_profile>
+		<pa_rimsize><![CDATA[]]></pa_rimsize>
+		<pa_speed><![CDATA[]]></pa_speed>
+		<undefined10><![CDATA[]]></undefined10>
+		<image><![CDATA[]]></image>
+		<stock><![CDATA[0]]></stock>
+		<price><![CDATA[0]]></price>
+		<pa_treadpattern><![CDATA[]]></pa_treadpattern>
+		<description><![CDATA[WHEELS & RIMS  WHEEL BOLT]]></description>
+		<pa_extraload><![CDATA[N]]></pa_extraload>
+		<pa_runflat><![CDATA[N]]></pa_runflat>
+		<pa_tyreclass><![CDATA[]]></pa_tyreclass>
+		<pa_rrcgrade><![CDATA[]]></pa_rrcgrade>
+		<pa_wetgrip><![CDATA[0]]></pa_wetgrip>
+		<pa_wetgripgrade><![CDATA[]]></pa_wetgripgrade>
+		<pa_noisedb><![CDATA[0]]></pa_noisedb>
+		<pa_barrating><![CDATA[0]]></pa_barrating>
+	</node>
+	<node>
+		<product_cat><![CDATA[tyres]]></product_cat>
+		<name><![CDATA[Micheldever - Halifax]]></name>
+		<pa_brand><![CDATA[KUMHO]]></pa_brand>
+		<undefined3><![CDATA[2123563]]></undefined3>
+		<sku><![CDATA[1955516HBUKUKW23]]></sku>
+		<shortdescription><![CDATA[195/55R16 KUMHO KW23 87H (WIN)]]></shortdescription>
+		<pa_width><![CDATA[195]]></pa_width>
+		<pa_profile><![CDATA[55]]></pa_profile>
+		<pa_rimsize><![CDATA[16]]></pa_rimsize>
+		<pa_speed><![CDATA[H]]></pa_speed>
+		<undefined10><![CDATA[87]]></undefined10>
+		<image><![CDATA[KW23]]></image>
+		<stock><![CDATA[0]]></stock>
+		<price><![CDATA[52.5]]></price>
+		<pa_treadpattern><![CDATA[KW23]]></pa_treadpattern>
+		<description><![CDATA[CAR TYRES  WINTER CAR]]></description>
+		<pa_extraload><![CDATA[N]]></pa_extraload>
+		<pa_runflat><![CDATA[N]]></pa_runflat>
+		<pa_tyreclass><![CDATA[C1]]></pa_tyreclass>
+		<pa_rrcgrade><![CDATA[E]]></pa_rrcgrade>
+		<pa_wetgrip><![CDATA[0]]></pa_wetgrip>
+		<pa_wetgripgrade><![CDATA[E]]></pa_wetgripgrade>
+		<pa_noisedb><![CDATA[71]]></pa_noisedb>
+		<pa_barrating><![CDATA[2]]></pa_barrating>
+	</node>
+	<node>
+		<product_cat><![CDATA[tyres]]></product_cat>
+		<name><![CDATA[Micheldever - Halifax]]></name>
+		<pa_brand><![CDATA[KUMHO]]></pa_brand>
+		<undefined3><![CDATA[2177083]]></undefined3>
+		<sku><![CDATA[2055516VBUKUKW27]]></sku>
+		<shortdescription><![CDATA[205/55R16 KUMHO KW27 94V XL (WIN)]]></shortdescription>
+		<pa_width><![CDATA[205]]></pa_width>
+		<pa_profile><![CDATA[55]]></pa_profile>
+		<pa_rimsize><![CDATA[16]]></pa_rimsize>
+		<pa_speed><![CDATA[V]]></pa_speed>
+		<undefined10><![CDATA[94]]></undefined10>
+		<image><![CDATA[KW27]]></image>
+		<stock><![CDATA[0]]></stock>
+		<price><![CDATA[49.95]]></price>
+		<pa_treadpattern><![CDATA[KW27]]></pa_treadpattern>
+		<description><![CDATA[CAR TYRES  WINTER CAR]]></description>
+		<pa_extraload><![CDATA[Y]]></pa_extraload>
+		<pa_runflat><![CDATA[N]]></pa_runflat>
+		<pa_tyreclass><![CDATA[C1]]></pa_tyreclass>
+		<pa_rrcgrade><![CDATA[C]]></pa_rrcgrade>
+		<pa_wetgrip><![CDATA[0]]></pa_wetgrip>
+		<pa_wetgripgrade><![CDATA[E]]></pa_wetgripgrade>
+		<pa_noisedb><![CDATA[70]]></pa_noisedb>
+		<pa_barrating><![CDATA[2]]></pa_barrating>
+	</node>
+	<node>
+		<product_cat><![CDATA[tyres]]></product_cat>
+		<name><![CDATA[Micheldever - Halifax]]></name>
+		<pa_brand><![CDATA[KUMHO]]></pa_brand>
+		<undefined3><![CDATA[2177273]]></undefined3>
+		<sku><![CDATA[2056016HBUKUKW27]]></sku>
+		<shortdescription><![CDATA[205/60R16 KUMHO KW27 96H XL (WIN)]]></shortdescription>
+		<pa_width><![CDATA[205]]></pa_width>
+		<pa_profile><![CDATA[60]]></pa_profile>
+		<pa_rimsize><![CDATA[16]]></pa_rimsize>
+		<pa_speed><![CDATA[H]]></pa_speed>
+		<undefined10><![CDATA[96]]></undefined10>
+		<image><![CDATA[KW27]]></image>
+		<stock><![CDATA[0]]></stock>
+		<price><![CDATA[52.9]]></price>
+		<pa_treadpattern><![CDATA[KW27]]></pa_treadpattern>
+		<description><![CDATA[CAR TYRES  WINTER CAR]]></description>
+		<pa_extraload><![CDATA[Y]]></pa_extraload>
+		<pa_runflat><![CDATA[N]]></pa_runflat>
+		<pa_tyreclass><![CDATA[C1]]></pa_tyreclass>
+		<pa_rrcgrade><![CDATA[C]]></pa_rrcgrade>
+		<pa_wetgrip><![CDATA[0]]></pa_wetgrip>
+		<pa_wetgripgrade><![CDATA[E]]></pa_wetgripgrade>
+		<pa_noisedb><![CDATA[70]]></pa_noisedb>
+		<pa_barrating><![CDATA[2]]></pa_barrating>
+	</node>
+	<node>
+		<product_cat><![CDATA[tyres]]></product_cat>
+		<name><![CDATA[Micheldever - Halifax]]></name>
+		<pa_brand><![CDATA[KUMHO]]></pa_brand>
+		<undefined3><![CDATA[2177313]]></undefined3>
+		<sku><![CDATA[2055017VBUKUKW27]]></sku>
+		<shortdescription><![CDATA[205/50R17 KUMHO KW27 93V XL (WIN)]]></shortdescription>
+		<pa_width><![CDATA[205]]></pa_width>
+		<pa_profile><![CDATA[50]]></pa_profile>
+		<pa_rimsize><![CDATA[17]]></pa_rimsize>
+		<pa_speed><![CDATA[V]]></pa_speed>
+		<undefined10><![CDATA[93]]></undefined10>
+		<image><![CDATA[KW27]]></image>
+		<stock><![CDATA[0]]></stock>
+		<price><![CDATA[69.5]]></price>
+		<pa_treadpattern><![CDATA[KW27]]></pa_treadpattern>
+		<description><![CDATA[CAR TYRES  WINTER CAR]]></description>
+		<pa_extraload><![CDATA[Y]]></pa_extraload>
+		<pa_runflat><![CDATA[N]]></pa_runflat>
+		<pa_tyreclass><![CDATA[C1]]></pa_tyreclass>
+		<pa_rrcgrade><![CDATA[C]]></pa_rrcgrade>
+		<pa_wetgrip><![CDATA[0]]></pa_wetgrip>
+		<pa_wetgripgrade><![CDATA[E]]></pa_wetgripgrade>
+		<pa_noisedb><![CDATA[70]]></pa_noisedb>
+		<pa_barrating><![CDATA[2]]></pa_barrating>
+	</node>
+	<node>
+		<product_cat><![CDATA[tyres]]></product_cat>
+		<name><![CDATA[Micheldever - Halifax]]></name>
+		<pa_brand><![CDATA[KUMHO]]></pa_brand>
+		<undefined3><![CDATA[2123733]]></undefined3>
+		<sku><![CDATA[2156516HBUKUKW23]]></sku>
+		<shortdescription><![CDATA[215/65R16 KUMHO KW23 98H (WIN)]]></shortdescription>
+		<pa_width><![CDATA[215]]></pa_width>
+		<pa_profile><![CDATA[65]]></pa_profile>
+		<pa_rimsize><![CDATA[16]]></pa_rimsize>
+		<pa_speed><![CDATA[H]]></pa_speed>
+		<undefined10><![CDATA[98]]></undefined10>
+		<image><![CDATA[KW23]]></image>
+		<stock><![CDATA[22]]></stock>
+		<price><![CDATA[59.95]]></price>
+		<pa_treadpattern><![CDATA[KW23]]></pa_treadpattern>
+		<description><![CDATA[CAR TYRES  WINTER CAR]]></description>
+		<pa_extraload><![CDATA[N]]></pa_extraload>
+		<pa_runflat><![CDATA[N]]></pa_runflat>
+		<pa_tyreclass><![CDATA[C1]]></pa_tyreclass>
+		<pa_rrcgrade><![CDATA[C]]></pa_rrcgrade>
+		<pa_wetgrip><![CDATA[0]]></pa_wetgrip>
+		<pa_wetgripgrade><![CDATA[E]]></pa_wetgripgrade>
+		<pa_noisedb><![CDATA[71]]></pa_noisedb>
+		<pa_barrating><![CDATA[2]]></pa_barrating>
+	</node>
+	<node>
+		<product_cat><![CDATA[tyres]]></product_cat>
+		<name><![CDATA[Micheldever - Halifax]]></name>
+		<pa_brand><![CDATA[KUMHO]]></pa_brand>
+		<undefined3><![CDATA[2124653]]></undefined3>
+		<sku><![CDATA[2255516VBUKUKW27]]></sku>
+		<shortdescription><![CDATA[225/55R16 KUMHO KW27 99V XL (WIN)]]></shortdescription>
+		<pa_width><![CDATA[225]]></pa_width>
+		<pa_profile><![CDATA[55]]></pa_profile>
+		<pa_rimsize><![CDATA[16]]></pa_rimsize>
+		<pa_speed><![CDATA[V]]></pa_speed>
+		<undefined10><![CDATA[99]]></undefined10>
+		<image><![CDATA[KW27]]></image>
+		<stock><![CDATA[8]]></stock>
+		<price><![CDATA[74.95]]></price>
+		<pa_treadpattern><![CDATA[KW27]]></pa_treadpattern>
+		<description><![CDATA[CAR TYRES  WINTER CAR]]></description>
+		<pa_extraload><![CDATA[Y]]></pa_extraload>
+		<pa_runflat><![CDATA[N]]></pa_runflat>
+		<pa_tyreclass><![CDATA[C1]]></pa_tyreclass>
+		<pa_rrcgrade><![CDATA[E]]></pa_rrcgrade>
+		<pa_wetgrip><![CDATA[0]]></pa_wetgrip>
+		<pa_wetgripgrade><![CDATA[E]]></pa_wetgripgrade>
+		<pa_noisedb><![CDATA[72]]></pa_noisedb>
+		<pa_barrating><![CDATA[2]]></pa_barrating>
+	</node>
+	<node>
+		<product_cat><![CDATA[tyres]]></product_cat>
+		<name><![CDATA[Micheldever - Halifax]]></name>
+		<pa_brand><![CDATA[BUDGET]]></pa_brand>
+		<undefined3><![CDATA[]]></undefined3>
+		<sku><![CDATA[251110CHENGSHIN]]></sku>
+		<shortdescription><![CDATA[25X11-10 CHENG SHIN AT]]></shortdescription>
+		<pa_width><![CDATA[25]]></pa_width>
+		<pa_profile><![CDATA[11]]></pa_profile>
+		<pa_rimsize><![CDATA[10]]></pa_rimsize>
+		<pa_speed><![CDATA[]]></pa_speed>
+		<undefined10><![CDATA[]]></undefined10>
+		<image><![CDATA[]]></image>
+		<stock><![CDATA[0]]></stock>
+		<price><![CDATA[0]]></price>
+		<pa_treadpattern><![CDATA[]]></pa_treadpattern>
+		<description><![CDATA[AGRICULTURAL TYRES  TURF TYRES]]></description>
+		<pa_extraload><![CDATA[N]]></pa_extraload>
+		<pa_runflat><![CDATA[N]]></pa_runflat>
+		<pa_tyreclass><![CDATA[]]></pa_tyreclass>
+		<pa_rrcgrade><![CDATA[]]></pa_rrcgrade>
+		<pa_wetgrip><![CDATA[0]]></pa_wetgrip>
+		<pa_wetgripgrade><![CDATA[]]></pa_wetgripgrade>
+		<pa_noisedb><![CDATA[0]]></pa_noisedb>
+		<pa_barrating><![CDATA[0]]></pa_barrating>
+	</node>
+</data>

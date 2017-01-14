@@ -1,0 +1,2 @@
+10/17/2014 7:30:25 AM - System.Web.Services.Protocols.SoapException: Invalid user name or password
+   at MidasOrderService_B2C.MidasOrderService.GetServerDate(String pUserName, String pPassword) in c:\Projects\B2C\MidasOrderService_B2C_VS2012\MidasOrderService_B2C\Service.asmx.cs:line 60

@@ -1,0 +1,85 @@
+/**
+ * lwl-admin.css
+ * 
+ * Copyright (c) 2011 "kento" Karim Rahimpur www.itthinx.com
+ * 
+ * This code is released under the GNU General Public License.
+ * See COPYRIGHT.txt and LICENSE.txt.
+ * 
+ * This code is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ * 
+ * This header and all notices must be kept intact.
+ * 
+ * @author Karim Rahimpur
+ * @package lazy-widget-loader
+ * @since lazy-widget-loader 1.0.0
+ */
+div.lazy-widget-loader.widget-controls {
+	border-bottom: 1px solid #ccc;
+	border-top: 1px solid #ccc;
+	margin: 3px 0 3px 0;
+	padding: 3px 0 3px 0;
+	font-size: 11px;
+}
+div.lazy-widget-loader.widget-controls {
+	background: url("http://www.itthinx.com/img/lazy-widget-loader/lazy-widget-loader.png") no-repeat 99% 10px transparent;
+}
+div.lazy-widget-loader.widget-controls.itthinx-lazyloader {
+	background: url("http://www.itthinx.com/img/itthinx-lazyloader/itthinx-lazyloader.png") no-repeat 99% 10px transparent;
+}
+div.lazy-widget-loader.widget-controls label.title {
+	font-weight: bold;
+	padding-right: 1em;
+}
+div.lazy-widget-loader.widget-controls input[type="text"] {
+	font-size: 0.9em;
+	width: 3em;
+}
+div.lazy-widget-loader.widget-controls input[type="text"].height,
+div.lazy-widget-loader.widget-controls input[type="text"].min-height,
+div.lazy-widget-loader.widget-controls input[type="text"].min-width,
+div.lazy-widget-loader.widget-controls input[type="text"].width {
+	text-align: right;
+}
+div.lazy-widget-loader.widget-controls input[type="text"].class,
+div.lazy-widget-loader.widget-controls input[type="text"].container,
+div.lazy-widget-loader.widget-controls input[type="text"].id {
+	width: 100%;
+}
+div.lazy-widget-loader.widget-controls div.section.top {
+	margin-top: 4px;
+}
+div.lazy-widget-loader.widget-controls div.section {
+	margin-bottom: 4px;
+}
+div.lazy-widget-loader.widget-controls label.height,
+div.lazy-widget-loader.widget-controls label.min-height,
+div.lazy-widget-loader.widget-controls label.min-width,
+div.lazy-widget-loader.widget-controls label.width {
+	padding-left: 0.5em;
+}
+div.lazy-widget-loader.widget-controls span.description {
+	font-size: 0.9em;
+}
+div.lazy-widget-loader.widget-controls .options-view-toggle {
+	cursor: pointer;
+}
+div.lazy-widget-loader.widget-controls .expand {
+	background-image: url(../images/expand.png);
+	background-position: left center;
+	background-repeat: no-repeat;
+	padding-left: 10px;
+}
+div.lazy-widget-loader.widget-controls .retract {
+	background-image: url(../images/retract.png);
+	background-position: left center;
+	background-repeat: no-repeat;
+	padding-left: 10px;
+}
+
+div.lazy-widget-loader.widget-controls span.warning {
+	color: #900;
+}

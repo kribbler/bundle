@@ -1,0 +1,18 @@
+frameworkShortcodeAtts={
+	attributes:[
+			{
+				label:"Phone",
+				id:"phone",
+			},
+			{
+				label:"Email",
+				id:"email",
+			},
+			{
+				label:"Address",
+				id:"address",
+			},
+	],
+	defaultContent:"",
+	shortcode:"address"
+};

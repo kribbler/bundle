@@ -1,0 +1,30 @@
+Version 4.0.2 1 May 2014
+- Increased TreadPattern to 20 chars
+
+Version 4.0.1 14 Feb 2014
+- Added Lastupdated column to tyres, quantity and prices table
+- Added Recommended and Rating fields to Tyres table
+- Fixed DateTime not showing time
+
+Version 3.5.0.0 15th October 2013
+- Added the Sites table and the field pubid added to the tyres table
+
+Version 3.4.0.0 2nd August 2013
+- Added the following fields to the export: LocalCategory, BarCode, ManCode,TyreType, OEList, Ply, Construction, Season
+
+
+Version 3.3.1.0 18th June 2013
+-Maintance Relase to resync with the Webservice after obsolete methods have been removed.
+
+Version 3.3.0.0  24th Jan 2013
+-Synced Version Number with upgrade script
+-Added IsSummerTyre, IsWinterTyre and TyreCatalogueRef Fields to the database
+
+Version 3.1.0.0 - 17th April 2012
+-Tyre Labeling fields such as Tyre Class, Noise, Wet Grip etc have been added to the database.
+-Supplier Ref (IPC Code) field has been added to the database
+-These fields are created by running upgrade script 3.2 on the database.
+
+Version 3.0.0.2 - 7th March 2011
+-This version has added the functionality to reconnect to the database if the connection is dropped.
+-It also pulls down the current date from the MIDaS Web Service rather than using the local date.

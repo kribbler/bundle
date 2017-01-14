@@ -1,0 +1,1593 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: appic 1.0.5\n"
+"POT-Creation-Date: 2014-05-26 20:57+0300\n"
+"PO-Revision-Date: 2014-05-26 20:57+0300\n"
+"Last-Translator: Oleg Kutcyna <oleg.kutcyna@gmail.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e;_n;gettext_noop\n"
+"X-Poedit-Basepath: appic\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: appic\n"
+
+#: appic/404.php:4
+msgid "home"
+msgstr ""
+
+#: appic/single.php:15
+msgid "Date: "
+msgstr ""
+
+#: appic/single.php:16
+msgid "Author: "
+msgstr ""
+
+#: appic/single.php:17
+msgid "Comments: "
+msgstr ""
+
+#: appic/single.php:17
+msgid "no comments"
+msgstr ""
+
+#: appic/single.php:20
+msgid "Tags: "
+msgstr ""
+
+#: appic/single.php:25
+msgid "Categories: "
+msgstr ""
+
+#: appic/single.php:39
+#: appic/single-project.php:67
+msgid "Share"
+msgstr ""
+
+#: appic/single.php:61
+msgid "About author"
+msgstr ""
+
+#: appic/single-project.php:39
+msgid "Categories"
+msgstr ""
+
+#: appic/single-project.php:45
+#: appic/options-vafpress.php:537
+#: appic/options-vafpress.php:723
+msgid "Description"
+msgstr ""
+
+#: appic/single-project.php:51
+msgid "Details"
+msgstr ""
+
+#: appic/single-project.php:54
+#: appic/includes/metabox/project-meta.php:5
+msgid "Client"
+msgstr ""
+
+#: appic/single-project.php:57
+#: appic/includes/metabox/project-meta.php:11
+msgid "Manager"
+msgstr ""
+
+#: appic/single-project.php:60
+#: appic/includes/metabox/project-meta.php:17
+msgid "Website"
+msgstr ""
+
+#: appic/comments.php:30
+msgid "author"
+msgstr ""
+
+#: appic/comments.php:34
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: appic/comments.php:37
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: appic/comments.php:44
+#, php-format
+msgid "%1$s || %2$s"
+msgstr ""
+
+#: appic/comments.php:44
+msgid "(Edit)"
+msgstr ""
+
+#: appic/comments.php:77
+msgid "Load later comments"
+msgstr ""
+
+#: appic/comments.php:78
+msgid "Load next comments"
+msgstr ""
+
+#: appic/comments.php:81
+msgid "No Comments Yet."
+msgstr ""
+
+#: appic/comments.php:86
+msgid "Name:"
+msgstr ""
+
+#: appic/comments.php:88
+#: appic/includes/widgets/news.php:94
+msgid "Email:"
+msgstr ""
+
+#: appic/comments.php:92
+msgid "Your email address will not be published."
+msgstr ""
+
+#: appic/comments.php:94
+msgid "Reply"
+msgstr ""
+
+#: appic/search.php:18
+msgid "Sorry, no search results"
+msgstr ""
+
+#: appic/woocommerce.php:25
+msgid "There are no products matching your criteria."
+msgstr ""
+
+#: appic/options-vafpress.php:2
+msgid "Theme Settings"
+msgstr ""
+
+#: appic/options-vafpress.php:6
+msgid "General"
+msgstr ""
+
+#: appic/options-vafpress.php:12
+msgid "Favicons"
+msgstr ""
+
+#: appic/options-vafpress.php:19
+#: appic/options-vafpress.php:26
+#, php-format
+msgid "Favicon %s"
+msgstr ""
+
+#: appic/options-vafpress.php:21
+msgid "Favicon in ico format"
+msgstr ""
+
+#: appic/options-vafpress.php:28
+msgid "Favicon in png format. Minimal size is 144px x 144px"
+msgstr ""
+
+#: appic/options-vafpress.php:35
+msgid "Update Notifier"
+msgstr ""
+
+#: appic/options-vafpress.php:36
+msgid "Switch off if you don't want to receive update noticies."
+msgstr ""
+
+#: appic/options-vafpress.php:42
+msgid "Google Analytics Code"
+msgstr ""
+
+#: appic/options-vafpress.php:43
+msgid "Paste your Google Analytics code here."
+msgstr ""
+
+#: appic/options-vafpress.php:48
+msgid "Custom CSS"
+msgstr ""
+
+#: appic/options-vafpress.php:55
+msgid "Typography"
+msgstr ""
+
+#: appic/options-vafpress.php:61
+msgid "Primary Heading Font"
+msgstr ""
+
+#: appic/options-vafpress.php:70
+msgid "Secondary Heading Font"
+msgstr ""
+
+#: appic/options-vafpress.php:79
+msgid "Navigation Font"
+msgstr ""
+
+#: appic/options-vafpress.php:89
+msgid "Body Font"
+msgstr ""
+
+#: appic/options-vafpress.php:98
+msgid "Button Fonts"
+msgstr ""
+
+#: appic/options-vafpress.php:107
+msgid "Standard Button Font Size"
+msgstr ""
+
+#: appic/options-vafpress.php:113
+msgid "Large Button Font Size"
+msgstr ""
+
+#: appic/options-vafpress.php:124
+msgid "Header"
+msgstr ""
+
+#: appic/options-vafpress.php:130
+msgid "Top Lines"
+msgstr ""
+
+#: appic/options-vafpress.php:134
+msgid "Show Top Lines"
+msgstr ""
+
+#: appic/options-vafpress.php:136
+msgid "Show top line above the navigation menu"
+msgstr ""
+
+#: appic/options-vafpress.php:141
+msgid "Top Line Left Text"
+msgstr ""
+
+#: appic/options-vafpress.php:150
+msgid "Top Line Right Text"
+msgstr ""
+
+#: appic/options-vafpress.php:161
+msgid "Logo"
+msgstr ""
+
+#: appic/options-vafpress.php:165
+msgid "Logo Type"
+msgstr ""
+
+#: appic/options-vafpress.php:170
+#: appic/includes/metabox/page-call-action-meta.php:33
+#: appic/includes/metabox/service-call-action-meta.php:33
+msgid "Image"
+msgstr ""
+
+#: appic/options-vafpress.php:174
+#: appic/options-vafpress.php:590
+msgid "Text"
+msgstr ""
+
+#: appic/options-vafpress.php:182
+msgid "Logo Image"
+msgstr ""
+
+#: appic/options-vafpress.php:192
+msgid "Logo Image for Retina"
+msgstr ""
+
+#: appic/options-vafpress.php:206
+msgid "Footer"
+msgstr ""
+
+#: appic/options-vafpress.php:212
+msgid "Show Footer Widgets"
+msgstr ""
+
+#: appic/options-vafpress.php:218
+msgid "Footer Widgets Columns"
+msgstr ""
+
+#: appic/options-vafpress.php:223
+#: appic/options-vafpress.php:227
+#: appic/options-vafpress.php:393
+#: appic/options-vafpress.php:397
+#, php-format
+msgid "%s Columns"
+msgstr ""
+
+#: appic/options-vafpress.php:239
+msgid "Show Social Media"
+msgstr ""
+
+#: appic/options-vafpress.php:245
+msgid "Footer Note"
+msgstr ""
+
+#: appic/options-vafpress.php:246
+msgid "Text used in the left side of the footer. HTML tags are allowed."
+msgstr ""
+
+#: appic/options-vafpress.php:254
+#: appic/includes/components/ThemeBreadcrumbs.php:253
+msgid "Home"
+msgstr ""
+
+#: appic/options-vafpress.php:259
+msgid "Action Block"
+msgstr ""
+
+#: appic/options-vafpress.php:267
+msgid "Is Active?"
+msgstr ""
+
+#: appic/options-vafpress.php:272
+#: appic/options-vafpress.php:584
+#: appic/options-vafpress.php:703
+#: appic/includes/widgets/popular_post.php:32
+#: appic/includes/widgets/accordion.php:141
+msgid "Title"
+msgstr ""
+
+#: appic/options-vafpress.php:282
+msgid "Subtitle"
+msgstr ""
+
+#: appic/options-vafpress.php:299
+msgid "Slider"
+msgstr ""
+
+#: appic/options-vafpress.php:305
+msgid "Show Slider"
+msgstr ""
+
+#: appic/options-vafpress.php:310
+msgid "Settings"
+msgstr ""
+
+#: appic/options-vafpress.php:315
+msgid "Display Mode"
+msgstr ""
+
+#: appic/options-vafpress.php:320
+msgid "Content Width"
+msgstr ""
+
+#: appic/options-vafpress.php:324
+msgid "Full Width"
+msgstr ""
+
+#: appic/options-vafpress.php:342
+msgid "Blog & Portfolio"
+msgstr ""
+
+#: appic/options-vafpress.php:348
+msgid "Blog Style"
+msgstr ""
+
+#: appic/options-vafpress.php:353
+#: appic/options-vafpress.php:357
+#: appic/options-vafpress.php:361
+#, php-format
+msgid "Style %s"
+msgstr ""
+
+#: appic/options-vafpress.php:369
+msgid "Excerpt Text"
+msgstr ""
+
+#: appic/options-vafpress.php:375
+msgid "Post Social Sharing"
+msgstr ""
+
+#: appic/options-vafpress.php:381
+msgid "Portfolio Page Title"
+msgstr ""
+
+#: appic/options-vafpress.php:388
+msgid "Portfolio Layout"
+msgstr ""
+
+#: appic/options-vafpress.php:409
+msgid "Show similar projects?"
+msgstr ""
+
+#: appic/options-vafpress.php:410
+msgid ""
+"Turn on if you would like to show similar projects section on the project "
+"details page."
+msgstr ""
+
+#: appic/options-vafpress.php:416
+msgid "Projects per Page"
+msgstr ""
+
+#: appic/options-vafpress.php:423
+msgid "Project Social Sharing"
+msgstr ""
+
+#: appic/options-vafpress.php:431
+msgid "Social Media"
+msgstr ""
+
+#: appic/options-vafpress.php:438
+msgid "Pinterest URL"
+msgstr ""
+
+#: appic/options-vafpress.php:444
+msgid "Google+ URL"
+msgstr ""
+
+#: appic/options-vafpress.php:450
+msgid "Linkedin URL"
+msgstr ""
+
+#: appic/options-vafpress.php:456
+msgid "Twitter URL"
+msgstr ""
+
+#: appic/options-vafpress.php:462
+msgid "Facebook URL"
+msgstr ""
+
+#: appic/options-vafpress.php:469
+msgid "Other"
+msgstr ""
+
+#: appic/options-vafpress.php:475
+msgid "Contact Page"
+msgstr ""
+
+#: appic/options-vafpress.php:481
+msgid "Show Google Map"
+msgstr ""
+
+#: appic/options-vafpress.php:487
+msgid "Google Map Address"
+msgstr ""
+
+#: appic/options-vafpress.php:488
+msgid "The address will show up when clicking on the map marker."
+msgstr ""
+
+#: appic/options-vafpress.php:497
+msgid "Google Map Coordinates"
+msgstr ""
+
+#: appic/options-vafpress.php:498
+msgid "Coordinates separated by comma."
+msgstr ""
+
+#: appic/options-vafpress.php:509
+msgid "Google Map Zoom"
+msgstr ""
+
+#: appic/options-vafpress.php:510
+msgid "Number in range from 1 up to 21."
+msgstr ""
+
+#: appic/options-vafpress.php:524
+msgid "Coming Soon Page"
+msgstr ""
+
+#: appic/options-vafpress.php:530
+msgid "Day of Release"
+msgstr ""
+
+#: appic/options-vafpress.php:546
+msgid "Subscription Box"
+msgstr ""
+
+#: appic/options-vafpress.php:556
+msgid "Subscription Note"
+msgstr ""
+
+#: appic/options-vafpress.php:565
+msgid "Subscription Form Shortcode"
+msgstr ""
+
+#: appic/options-vafpress.php:566
+msgid "Please use shortcode to insert subscription form here."
+msgstr ""
+
+#: appic/options-vafpress.php:586
+msgid "Oooops!"
+msgstr ""
+
+#: appic/options-vafpress.php:592
+#, php-format
+msgid ""
+"Looks like something broke! The page you were looking for is not here.<br/"
+">Go %s or try a search:"
+msgstr ""
+
+#: appic/options-vafpress.php:618
+msgid "Font Face"
+msgstr ""
+
+#: appic/options-vafpress.php:632
+msgid "Font Style"
+msgstr ""
+
+#: appic/options-vafpress.php:648
+msgid "Font Weight"
+msgstr ""
+
+#: appic/options-vafpress.php:667
+msgid "Woocommerce"
+msgstr ""
+
+#: appic/options-vafpress.php:673
+msgid "Placeholder image"
+msgstr ""
+
+#: appic/options-vafpress.php:675
+msgid "Replace the default WooCommerce image"
+msgstr ""
+
+#: appic/options-vafpress.php:709
+msgid "Title Hover"
+msgstr ""
+
+#: appic/options-vafpress.php:716
+msgid "URL"
+msgstr ""
+
+#: appic/options-vafpress.php:731
+msgid "Block"
+msgstr ""
+
+#: appic/options-vafpress.php:775
+msgid "Please install and activate the Slider Revolution plugin."
+msgstr ""
+
+#: appic/options-vafpress.php:777
+msgid "Please go to Slider Revolution plugin and create a slider."
+msgstr ""
+
+#: appic/options-vafpress.php:781
+msgid "Choose Slider"
+msgstr ""
+
+#: appic/functions.php:107
+msgid "Sidebar"
+msgstr ""
+
+#: appic/functions.php:109
+msgid "Sidebar located on the right side of blog page."
+msgstr ""
+
+#: appic/functions.php:117
+msgid "Footer 1"
+msgstr ""
+
+#: appic/functions.php:119
+msgid "Located in 1st column on 4-columns footer layout"
+msgstr ""
+
+#: appic/functions.php:127
+msgid "Footer 2"
+msgstr ""
+
+#: appic/functions.php:129
+msgid "Located in 2nd column on 4-columns footer layout"
+msgstr ""
+
+#: appic/functions.php:137
+msgid "Footer 3"
+msgstr ""
+
+#: appic/functions.php:139
+msgid "Located in 3rd column on 4-columns or 2nd on 3-columns footer layout"
+msgstr ""
+
+#: appic/functions.php:147
+msgid "Footer 4"
+msgstr ""
+
+#: appic/functions.php:149
+msgid "Located in 4th column on 4-columns or 3rd on 3-columns footer layout"
+msgstr ""
+
+#: appic/functions.php:157
+msgid "Footer 1 & 2"
+msgstr ""
+
+#: appic/functions.php:159
+msgid ""
+"This is a joined 1st and 2nd column that can be found on 3-columns footer "
+"layout"
+msgstr ""
+
+#: appic/functions.php:167
+msgid "Single project left sidebar"
+msgstr ""
+
+#: appic/functions.php:169
+msgid ""
+"Sidebar located on the left side of the bottom of the project details page."
+msgstr ""
+
+#: appic/functions.php:176
+msgid "Single project right sidebar"
+msgstr ""
+
+#: appic/functions.php:178
+msgid ""
+"Sidebar located on the right side of the bottom of the project details page."
+msgstr ""
+
+#: appic/functions.php:454
+msgid "prev"
+msgstr ""
+
+#: appic/functions.php:458
+msgid "next"
+msgstr ""
+
+#: appic/functions.php:535
+#: appic/functions.php:536
+msgid "Theme Options"
+msgstr ""
+
+#: appic/functions.php:699
+msgid "Header Menu"
+msgstr ""
+
+#: appic/woocommerce/woocommerce.php:115
+msgid "Woocommerce Sidebar"
+msgstr ""
+
+#: appic/woocommerce/woocommerce.php:117
+msgid "Filters and items woocommerce"
+msgstr ""
+
+#: appic/woocommerce/woocommerce.php:268
+msgid "SKU:"
+msgstr ""
+
+#: appic/woocommerce/woocommerce.php:270
+msgid "N/A"
+msgstr ""
+
+#: appic/woocommerce/woocommerce.php:280
+#: appic/woocommerce/woocommerce.php:863
+msgid "Category:"
+msgstr ""
+
+#: appic/woocommerce/woocommerce.php:291
+msgid "Tag:"
+msgstr ""
+
+#: appic/woocommerce/woocommerce.php:500
+#: appic/includes/templates/project/similar-projects.php:65
+msgid "Similar"
+msgstr ""
+
+#: appic/woocommerce/woocommerce.php:500
+msgid "Products"
+msgstr ""
+
+#: appic/woocommerce/woocommerce.php:693
+msgid "List view"
+msgstr ""
+
+#: appic/woocommerce/woocommerce.php:699
+msgid "Grid view"
+msgstr ""
+
+#: appic/woocommerce/woocommerce.php:705
+msgid "Default sorting"
+msgstr ""
+
+#: appic/woocommerce/woocommerce.php:706
+msgid "Sort by popularity"
+msgstr ""
+
+#: appic/woocommerce/woocommerce.php:707
+msgid "Sort by average rating"
+msgstr ""
+
+#: appic/woocommerce/woocommerce.php:708
+msgid "Sort by newness"
+msgstr ""
+
+#: appic/woocommerce/woocommerce.php:709
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: appic/woocommerce/woocommerce.php:710
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: appic/woocommerce/woocommerce.php:840
+msgid "Full Image"
+msgstr ""
+
+#: appic/woocommerce/widgets/class-appic-wc-widget-product-search.php:27
+msgid "Search for products"
+msgstr ""
+
+#: appic/woocommerce/widgets/class-appic-wc-widget-accordion-filters.php:57
+msgid "Woocommerce accordion filter"
+msgstr ""
+
+#: appic/woocommerce/widgets/class-appic-wc-widget-accordion-filters.php:59
+msgid "Appic: WooCommerce Accordion Filter"
+msgstr ""
+
+#: appic/woocommerce/widgets/class-appic-wc-widget-accordion-filters.php:139
+#: appic/woocommerce/widgets/class-appic-wc-widget-accordion-filters.php:179
+msgid "Reset all"
+msgstr ""
+
+#: appic/woocommerce/widgets/class-appic-wc-widget-accordion-filters.php:173
+msgid "Price min: "
+msgstr ""
+
+#: appic/woocommerce/widgets/class-appic-wc-widget-accordion-filters.php:174
+msgid "Price max: "
+msgstr ""
+
+#: appic/woocommerce/widgets/class-appic-wc-widget-accordion-filters.php:236
+msgid "Products per page"
+msgstr ""
+
+#: appic/woocommerce/widgets/class-appic-wc-widget-accordion-filters.php:290
+msgid "Filters:"
+msgstr ""
+
+#: appic/woocommerce/widgets/class-appic-wc-widget-accordion-filters.php:310
+#: appic/includes/widgets/flickr.php:67
+#: appic/includes/widgets/news.php:78
+msgid "Title:"
+msgstr ""
+
+#: appic/woocommerce/widgets/class-appic-wc-widget-accordion-filters.php:314
+msgid "Show price filter"
+msgstr ""
+
+#: appic/woocommerce/widgets/class-appic-wc-widget-accordion-filters.php:317
+#: appic/woocommerce/widgets/class-appic-wc-widget-accordion-filters.php:328
+#: appic/woocommerce/widgets/class-appic-wc-widget-accordion-filters.php:339
+msgid "Yes"
+msgstr ""
+
+#: appic/woocommerce/widgets/class-appic-wc-widget-accordion-filters.php:318
+#: appic/woocommerce/widgets/class-appic-wc-widget-accordion-filters.php:329
+#: appic/woocommerce/widgets/class-appic-wc-widget-accordion-filters.php:340
+msgid "No"
+msgstr ""
+
+#: appic/woocommerce/widgets/class-appic-wc-widget-accordion-filters.php:325
+msgid "Show producs per page"
+msgstr ""
+
+#: appic/woocommerce/widgets/class-appic-wc-widget-accordion-filters.php:336
+msgid "Show color filter"
+msgstr ""
+
+#: appic/woocommerce/widgets/class-appic-wc-widget-accordion-filters.php:348
+msgid "Query type for color filter"
+msgstr ""
+
+#: appic/woocommerce/widgets/class-appic-wc-widget-accordion-filters.php:351
+msgid "AND"
+msgstr ""
+
+#: appic/woocommerce/widgets/class-appic-wc-widget-accordion-filters.php:352
+msgid "OR"
+msgstr ""
+
+#: appic/woocommerce/widgets/class-appic-wc-widget-accordion-filters.php:359
+msgid "Colors for color filter (e.g. #EEE)"
+msgstr ""
+
+#: appic/woocommerce/widgets/class-appic-wc-widget-accordion-filters.php:363
+msgid " - "
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:164
+#: appic/includes/plugins.php:96
+msgid "Install Required Plugins"
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:165
+#: appic/includes/plugins.php:97
+msgid "Install Plugins"
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:166
+#: appic/includes/plugins.php:98
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:178
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:490
+#: appic/includes/plugins.php:110
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:179
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1846
+#: appic/includes/plugins.php:111
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:517
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1544
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: appic/framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: appic/framework/vafpress/bootstrap.php:88
+#: appic/framework/vafpress/classes/option.php:364
+#: appic/framework/vafpress/classes/option.php:389
+msgid "Successful"
+msgstr ""
+
+#: appic/framework/vafpress/bootstrap.php:99
+msgid "Unauthorized function"
+msgstr ""
+
+#: appic/framework/vafpress/views/control/upload.php:5
+msgid "Choose File"
+msgstr ""
+
+#: appic/framework/vafpress/views/option/set.php:69
+#: appic/framework/vafpress/views/option/set.php:84
+msgid "Save Changes"
+msgstr ""
+
+#: appic/framework/vafpress/views/option/set.php:70
+#: appic/framework/vafpress/views/option/set.php:85
+msgid "Saving Now"
+msgstr ""
+
+#: appic/framework/vafpress/views/option/set.php:93
+#, php-format
+msgid ""
+"This option panel is built using <a href=\"http://vafpress.com/vafpress-"
+"framework\">Vafpress Framework %s</a> powered by <a href=\"http://vafpress."
+"com\">Vafpress</a>"
+msgstr ""
+
+#: appic/framework/vafpress/views/option/restore.php:4
+msgid "Restore Default Options"
+msgstr ""
+
+#: appic/framework/vafpress/views/option/restore.php:7
+msgid "Restore options to initial default values."
+msgstr ""
+
+#: appic/framework/vafpress/views/option/restore.php:13
+#: appic/framework/vafpress/classes/option.php:479
+msgid "Restore Default"
+msgstr ""
+
+#: appic/framework/vafpress/views/option/restore.php:14
+msgid ""
+"** Please make sure you have already make a backup data of your current "
+"settings. Once you click this button, your current settings will be gone."
+msgstr ""
+
+#: appic/framework/vafpress/views/option/impexp.php:4
+#: appic/framework/vafpress/views/option/impexp.php:14
+msgid "Import"
+msgstr ""
+
+#: appic/framework/vafpress/views/option/impexp.php:7
+msgid "Import Options"
+msgstr ""
+
+#: appic/framework/vafpress/views/option/impexp.php:27
+#: appic/framework/vafpress/views/option/impexp.php:37
+msgid "Export"
+msgstr ""
+
+#: appic/framework/vafpress/views/option/impexp.php:30
+msgid "Export Options"
+msgstr ""
+
+#: appic/framework/vafpress/classes/shortcodegenerator.php:260
+msgid "Insert"
+msgstr ""
+
+#: appic/framework/vafpress/classes/shortcodegenerator.php:261
+msgid "Cancel"
+msgstr ""
+
+#: appic/framework/vafpress/classes/option.php:47
+#: appic/framework/vafpress/classes/option.php:48
+msgid "Vafpress Options"
+msgstr ""
+
+#: appic/framework/vafpress/classes/option.php:61
+msgid "Option Key is required"
+msgstr ""
+
+#: appic/framework/vafpress/classes/option.php:63
+msgid "Template Array/File is required"
+msgstr ""
+
+#: appic/framework/vafpress/classes/option.php:65
+msgid "Page Slug is required"
+msgstr ""
+
+#: appic/framework/vafpress/classes/option.php:167
+msgid ""
+"Development Mode is Active, options' values won't be saved into database."
+msgstr ""
+
+#: appic/framework/vafpress/classes/option.php:306
+msgid "Can not be empty"
+msgstr ""
+
+#: appic/framework/vafpress/classes/option.php:331
+msgid "Invalid data"
+msgstr ""
+
+#: appic/framework/vafpress/classes/option.php:394
+msgid "Unverified Access"
+msgstr ""
+
+#: appic/framework/vafpress/classes/option.php:460
+msgid "Invalid template supplied"
+msgstr ""
+
+#: appic/framework/vafpress/classes/option.php:473
+msgid "Utility"
+msgstr ""
+
+#: appic/framework/vafpress/classes/option.php:488
+msgid "Export/Import"
+msgstr ""
+
+#: appic/framework/vafpress/classes/metabox.php:35
+msgid "[Development Mode] "
+msgstr ""
+
+#: appic/framework/vafpress/classes/metabox.php:564
+#: appic/framework/vafpress/classes/metabox/alchemy.php:493
+msgid "Remove"
+msgstr ""
+
+#: appic/framework/vafpress/classes/metabox.php:586
+#: appic/framework/vafpress/classes/metabox/alchemy.php:515
+msgid "Add More"
+msgstr ""
+
+#: appic/framework/vafpress/classes/option/control/set.php:359
+msgid "Saving successful"
+msgstr ""
+
+#: appic/framework/vafpress/classes/option/control/set.php:370
+msgid "Saving failed"
+msgstr ""
+
+#: appic/framework/vafpress/classes/option/control/set.php:376
+msgid "No changes made"
+msgstr ""
+
+#: appic/framework/vafpress/config/messages.php:13
+msgid "Value needs to be Alphabet"
+msgstr ""
+
+#: appic/framework/vafpress/config/messages.php:14
+msgid "Value needs to be Alphanumeric"
+msgstr ""
+
+#: appic/framework/vafpress/config/messages.php:15
+msgid "Value needs to be Numeric"
+msgstr ""
+
+#: appic/framework/vafpress/config/messages.php:16
+msgid "Value needs to be Valid Email"
+msgstr ""
+
+#: appic/framework/vafpress/config/messages.php:17
+msgid "Value needs to be Valid URL"
+msgstr ""
+
+#: appic/framework/vafpress/config/messages.php:18
+msgid "Length needs to be less than {0} characters"
+msgstr ""
+
+#: appic/framework/vafpress/config/messages.php:19
+msgid "Length needs to be more than {0} characters"
+msgstr ""
+
+#: appic/framework/vafpress/config/messages.php:20
+msgid "Select no more than {0} items"
+msgstr ""
+
+#: appic/framework/vafpress/config/messages.php:21
+msgid "Select at least {0} items"
+msgstr ""
+
+#: appic/framework/vafpress/config/messages.php:22
+msgid "This is required"
+msgstr ""
+
+#: appic/framework/vafpress/config/messages.php:29
+msgid "Import succeed, option page will be refreshed.."
+msgstr ""
+
+#: appic/framework/vafpress/config/messages.php:30
+msgid "Import failed"
+msgstr ""
+
+#: appic/framework/vafpress/config/messages.php:31
+msgid "Export succeed, copy the JSON formatted options"
+msgstr ""
+
+#: appic/framework/vafpress/config/messages.php:32
+msgid "Export failed"
+msgstr ""
+
+#: appic/framework/vafpress/config/messages.php:33
+msgid "Restoration succeed, option page will be refreshed.."
+msgstr ""
+
+#: appic/framework/vafpress/config/messages.php:34
+msgid "Options identical to default"
+msgstr ""
+
+#: appic/framework/vafpress/config/messages.php:35
+msgid "Restoration failed"
+msgstr ""
+
+#: appic/framework/vafpress/config/messages.php:43
+msgid "Select option(s)"
+msgstr ""
+
+#: appic/framework/vafpress/config/messages.php:45
+msgid "Select an Icon"
+msgstr ""
+
+#: appic/includes/plugins.php:99
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: appic/includes/plugins.php:112
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: appic/includes/custom-post-types.php:10
+msgid "Testimonials"
+msgstr ""
+
+#: appic/includes/custom-post-types.php:12
+msgid "Add New Testimonial"
+msgstr ""
+
+#: appic/includes/custom-post-types.php:14
+msgid "Testimonial"
+msgstr ""
+
+#: appic/includes/custom-post-types.php:39
+msgid "Services"
+msgstr ""
+
+#: appic/includes/custom-post-types.php:41
+msgid "Add New Service"
+msgstr ""
+
+#: appic/includes/custom-post-types.php:67
+msgid "Portfolio"
+msgstr ""
+
+#: appic/includes/custom-post-types.php:72
+msgid "Add New Project"
+msgstr ""
+
+#: appic/includes/custom-post-types.php:74
+msgid "Project"
+msgstr ""
+
+#: appic/includes/custom-post-types.php:99
+msgid "Project Categories"
+msgstr ""
+
+#: appic/includes/custom-post-types.php:100
+msgid "Project Category"
+msgstr ""
+
+#: appic/includes/custom-post-types.php:113
+msgid "Team"
+msgstr ""
+
+#: appic/includes/custom-post-types.php:115
+msgid "Add New Team Member"
+msgstr ""
+
+#: appic/includes/custom-post-types.php:117
+msgid "Team Member"
+msgstr ""
+
+#: appic/includes/metabox.php:7
+#: appic/includes/metabox.php:25
+msgid "Additional Information"
+msgstr ""
+
+#: appic/includes/metabox.php:16
+#: appic/includes/metabox.php:34
+msgid "Call to Action Block Settings"
+msgstr ""
+
+#: appic/includes/metabox/page-call-action-meta.php:5
+#: appic/includes/metabox/service-call-action-meta.php:5
+msgid "Heading"
+msgstr ""
+
+#: appic/includes/metabox/page-call-action-meta.php:11
+#: appic/includes/metabox/service-call-action-meta.php:11
+msgid "Subheading"
+msgstr ""
+
+#: appic/includes/metabox/page-call-action-meta.php:17
+#: appic/includes/metabox/service-call-action-meta.php:17
+msgid "Button Text"
+msgstr ""
+
+#: appic/includes/metabox/page-call-action-meta.php:23
+#: appic/includes/metabox/service-call-action-meta.php:23
+msgid "Button URL"
+msgstr ""
+
+#: appic/includes/metabox/page-call-action-meta.php:39
+#: appic/includes/metabox/service-call-action-meta.php:39
+msgid "Image Position"
+msgstr ""
+
+#: appic/includes/metabox/team-meta.php:5
+msgid "Position"
+msgstr ""
+
+#: appic/includes/metabox/team-meta.php:11
+msgid "Social Network Services"
+msgstr ""
+
+#: appic/includes/metabox/team-meta.php:16
+msgid "Service Name"
+msgstr ""
+
+#: appic/includes/metabox/team-meta.php:20
+msgid "Facebook"
+msgstr ""
+
+#: appic/includes/metabox/team-meta.php:24
+msgid "Google+"
+msgstr ""
+
+#: appic/includes/metabox/team-meta.php:28
+msgid "Twitter"
+msgstr ""
+
+#: appic/includes/metabox/team-meta.php:32
+msgid "LinkedIn"
+msgstr ""
+
+#: appic/includes/metabox/team-meta.php:36
+msgid "Pinterest"
+msgstr ""
+
+#: appic/includes/metabox/team-meta.php:45
+msgid "Link"
+msgstr ""
+
+#: appic/includes/metabox/team-meta.php:51
+msgid "Enter a link to the public profile."
+msgstr ""
+
+#: appic/includes/metabox/service-meta.php:5
+msgid "Short Description"
+msgstr ""
+
+#: appic/includes/metabox/service-meta.php:6
+msgid ""
+"Will be displayed in services shortcodes (Dynamic > Services > Carousel/List/"
+"Featured)"
+msgstr ""
+
+#: appic/includes/metabox/service-meta.php:12
+msgid "Do you want a See more link appended to the short description?"
+msgstr ""
+
+#: appic/includes/metabox/service-meta.php:18
+msgid "See More Link Text"
+msgstr ""
+
+#: appic/includes/metabox/service-meta.php:19
+msgid "See More"
+msgstr ""
+
+#: appic/includes/metabox/service-meta.php:24
+msgid "Service Icon"
+msgstr ""
+
+#: appic/includes/metabox/service-meta.php:30
+msgid "Featured"
+msgstr ""
+
+#: appic/includes/templates/project/layout-2columns.php:8
+#: appic/includes/templates/project/layout-3columns.php:8
+msgid "More"
+msgstr ""
+
+#: appic/includes/templates/project/similar-projects.php:65
+msgid "Projects"
+msgstr ""
+
+#: appic/includes/widgets/flickr.php:71
+msgid "Flickr User or Group ID:"
+msgstr ""
+
+#: appic/includes/widgets/flickr.php:75
+msgid "Images to show"
+msgstr ""
+
+#: appic/includes/widgets/popular_post.php:16
+msgid "Popular Post"
+msgstr ""
+
+#: appic/includes/widgets/popular_post.php:26
+msgid "Most Popular Post"
+msgstr ""
+
+#: appic/includes/widgets/popular_post.php:36
+msgid "Number"
+msgstr ""
+
+#: appic/includes/widgets/button.php:61
+msgid "Button text:"
+msgstr ""
+
+#: appic/includes/widgets/button.php:65
+msgid "Button link:"
+msgstr ""
+
+#: appic/includes/widgets/button.php:69
+msgid "Button size:"
+msgstr ""
+
+#: appic/includes/widgets/button.php:72
+msgid "Small"
+msgstr ""
+
+#: appic/includes/widgets/button.php:73
+msgid "Large"
+msgstr ""
+
+#: appic/includes/widgets/button.php:80
+msgid "Button style:"
+msgstr ""
+
+#: appic/includes/widgets/button.php:83
+msgid "Primary"
+msgstr ""
+
+#: appic/includes/widgets/button.php:84
+msgid "Info"
+msgstr ""
+
+#: appic/includes/widgets/button.php:85
+msgid "Danger"
+msgstr ""
+
+#: appic/includes/widgets/button.php:86
+msgid "Grey"
+msgstr ""
+
+#: appic/includes/widgets/button.php:87
+msgid "Success"
+msgstr ""
+
+#: appic/includes/widgets/button.php:88
+msgid "Warning"
+msgstr ""
+
+#: appic/includes/widgets/button.php:95
+msgid "Button target:"
+msgstr ""
+
+#: appic/includes/widgets/button.php:98
+msgid "Blank"
+msgstr ""
+
+#: appic/includes/widgets/button.php:99
+msgid "Self"
+msgstr ""
+
+#: appic/includes/widgets/button.php:100
+msgid "Parent"
+msgstr ""
+
+#: appic/includes/widgets/button.php:101
+#: appic/includes/vafpress-addon/classes/control/field/backgroundposition.php:61
+msgid "Top"
+msgstr ""
+
+#: appic/includes/widgets/accordion.php:126
+msgid "Title widget"
+msgstr ""
+
+#: appic/includes/widgets/accordion.php:131
+msgid "Style:"
+msgstr ""
+
+#: appic/includes/widgets/accordion.php:147
+msgid "Body"
+msgstr ""
+
+#: appic/includes/widgets/news.php:82
+msgid "Description:"
+msgstr ""
+
+#: appic/includes/widgets/news.php:86
+msgid "Form shortcode (Contact Form 7 or Mailchimp):"
+msgstr ""
+
+#: appic/includes/widgets/news.php:90
+msgid "Phone:"
+msgstr ""
+
+#: appic/includes/widgets/news.php:98
+msgid "Address:"
+msgstr ""
+
+#: appic/includes/vafpress-addon/classes/control/field/backgroundposition.php:48
+msgid "Left"
+msgstr ""
+
+#: appic/includes/vafpress-addon/classes/control/field/backgroundposition.php:49
+msgid "Center"
+msgstr ""
+
+#: appic/includes/vafpress-addon/classes/control/field/backgroundposition.php:50
+msgid "Right"
+msgstr ""
+
+#: appic/includes/vafpress-addon/classes/control/field/backgroundposition.php:62
+msgid "Middle"
+msgstr ""
+
+#: appic/includes/vafpress-addon/classes/control/field/backgroundposition.php:63
+msgid "Bottom"
+msgstr ""
+
+#: appic/includes/vafpress-addon/classes/control/field/backgroundposition.php:74
+msgid "Repeat"
+msgstr ""
+
+#: appic/includes/vafpress-addon/classes/control/field/backgroundposition.php:75
+msgid "No Repeat"
+msgstr ""
+
+#: appic/includes/vafpress-addon/classes/control/field/backgroundposition.php:76
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: appic/includes/vafpress-addon/classes/control/field/backgroundposition.php:77
+msgid "Repeat Vertically"
+msgstr ""
+
+#: appic/includes/components/ThemeBreadcrumbs.php:254
+#, php-format
+msgid "Category %s"
+msgstr ""
+
+#: appic/includes/components/ThemeBreadcrumbs.php:255
+#, php-format
+msgid "Result search \"%s\""
+msgstr ""
+
+#: appic/includes/components/ThemeBreadcrumbs.php:256
+#, php-format
+msgid "Tag \"%s\""
+msgstr ""
+
+#: appic/includes/components/ThemeBreadcrumbs.php:257
+#, php-format
+msgid "Author %s"
+msgstr ""
+
+#: appic/includes/components/ThemeBreadcrumbs.php:258
+msgid "Error 404"
+msgstr ""
+
+#: appic/includes/components/ThemeUpdater.php:125
+msgid "Theme Updates"
+msgstr ""
+
+#: appic/includes/components/ThemeUpdater.php:126
+msgid "Update"
+msgstr ""
+
+#: appic/includes/components/ThemeUpdater.php:145
+msgid "New Version"
+msgstr ""
+
+#: appic/includes/shortcodes/shortcodes-dynamic.php:334
+msgid "Latest"
+msgstr ""
+
+#: appic/includes/shortcodes/shortcodes-dynamic.php:335
+msgid "posts"
+msgstr ""
+
+#: appic/includes/shortcodes/shortcodes-elements.php:36
+msgid "Purchase"
+msgstr ""
+
+#: appic/includes/shortcodes/tinymce/dialog.php:21
+msgid "Shortcode Options"
+msgstr ""

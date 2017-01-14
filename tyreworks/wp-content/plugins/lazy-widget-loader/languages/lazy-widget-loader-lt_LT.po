@@ -1,0 +1,144 @@
+# Copyright (C) 2012 Lazy Widget Loader
+# This file is distributed under the same license as the Lazy Widget Loader package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Lazy Widget Loader 1.2.4\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/lazy-widget-loader\n"
+"POT-Creation-Date: 2012-04-03 11:57:30+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-05-01 19:00+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Poedit-Language: Lithuanian\n"
+"X-Poedit-Country: Lithuania\n"
+
+#: lazy-widget-loader.php:176
+#: lazy-widget-loader.php:190
+msgid "Lazy Widget Loader Options"
+msgstr "Lazy Widget Loader Parinktys"
+
+#. #-#-#-#-#  plugin.pot (Lazy Widget Loader 1.2.4)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: lazy-widget-loader.php:176
+msgid "Lazy Widget Loader"
+msgstr "Lazy Widget Įkelėjas"
+
+#: lazy-widget-loader.php:185
+msgid "Access denied."
+msgstr "Prieiga nesuteikta."
+
+#: lazy-widget-loader.php:211
+msgid "Settings"
+msgstr "Nuostatos"
+
+#: lazy-widget-loader.php:214
+msgid "Delete settings when the plugin is deactivated"
+msgstr "Ištrinti nuostatas papildinio deaktyvavimo metu"
+
+#: lazy-widget-loader.php:218
+msgid "Save"
+msgstr "Įrašyti"
+
+#: lazy-widget-loader.php:232
+#: lazy-widget-loader.php:597
+msgid "Options"
+msgstr "Parinktys"
+
+#: lazy-widget-loader.php:615
+msgid "Lazy Loading"
+msgstr "Lazy Įkėlimas"
+
+#: lazy-widget-loader.php:624
+msgid "Use the advanced loading mechanism instead of just loading in the footer."
+msgstr "Naudokite papildomą įkėlimo mechanizmą vietoje tik įkėlimo į puslapinę poraštę."
+
+#: lazy-widget-loader.php:624
+msgid "Use <a href=\"http://www.itthinx.com/plugins/itthinx-lazyloader\" target=\"_blank\">Itthinx LazyLoader</a>"
+msgstr "Naudkite <a href=\"http://www.itthinx.com/plugins/itthinx-lazyloader\" target=\"_blank\">Itthinx LazyLoader</a>"
+
+#: lazy-widget-loader.php:627
+msgid "<b>Lazy Loading</b> <i>must</i> be enabled to activate this option."
+msgstr "<b>Lazy Loading</b> <i>privalo</i> būti suaktyvintas, kad ši parinktis galėtų būti aktyvuota."
+
+#: lazy-widget-loader.php:637
+msgid "Will load content only when it enters the viewport."
+msgstr "Turinys bus įkeltas tik tuomet, kuomet jis patenka į peržiūros sritį."
+
+#: lazy-widget-loader.php:637
+msgid "Load on sight"
+msgstr "Įkelti pateikus"
+
+#: lazy-widget-loader.php:651
+msgid "Offset"
+msgstr "Poslinkis"
+
+#: lazy-widget-loader.php:660
+msgid "Automatically generates noscript tags to provide alternative content used when a visitor has JavaScript disabled."
+msgstr "Automatiškai sukuria noscript gaires, kad alternatyvus turinys, naudojamas, kuomet lankytojas išjungęs Javascript, būtų pateiktas."
+
+#: lazy-widget-loader.php:660
+msgid "Automatic noscript"
+msgstr "Automatinis noscript"
+
+#: lazy-widget-loader.php:667
+msgid "This setting can help to load content when normal loading fails. Unless that happens, don't turn this option on."
+msgstr "Ši nuostata gali padėti įkelti turinį, kuomet paprastasis įkėlimas nepavyksta. Tol, kol paprastai įkeliant turinį problemų nekyla, nesuaktyvinkite šios parinkties."
+
+#: lazy-widget-loader.php:667
+msgid "Use mesosense"
+msgstr "Naudoti mesosense"
+
+#: lazy-widget-loader.php:672
+msgid "<span style=\"font-weight:bold;font-style:italic;color:#093;\">Go Pro!</span> <a title=\"The Itthinx LazyLoader for content and widgets, helps to greatly improve page load time and bandwidth usage. Power SEO by improving site speed!\" href=\"http://www.itthinx.com/plugins/itthinx-lazyloader\" target=\"_blank\">Itthinx LazyLoader</a>"
+msgstr "<span style=\"font-weight:bold;font-style:italic;color:#093;\">Tapkite Profesionalu!</span>  <a title=\" Itthinx LazyLoader turiniui ir valdikliams padeda smarkiai pagerinti puslapio įkėlimo laiką ir srauto pralaidumą. Pagerinkite SEO, pagreitindamas svetainės veikimą!\" href=\"http://www.itthinx.com/plugins/itthinx-lazyloader\" target=\"_blank\">Itthinx LazyLoader</a>"
+
+#: lazy-widget-loader.php:682
+msgid "Throbber"
+msgstr "Throbber"
+
+#: lazy-widget-loader.php:699
+msgid "Minimum Width"
+msgstr "Mažiausias Plotis"
+
+#: lazy-widget-loader.php:714
+msgid "Width"
+msgstr "Plotis"
+
+#: lazy-widget-loader.php:732
+msgid "Minimum Height"
+msgstr "Didžiausias Aukštis"
+
+#: lazy-widget-loader.php:746
+msgid "Height"
+msgstr "Aukštis"
+
+#: lazy-widget-loader.php:761
+msgid "Container"
+msgstr "Talpykla"
+
+#: lazy-widget-loader.php:771
+msgid "Class"
+msgstr "Klasė"
+
+#: lazy-widget-loader.php:781
+msgid "Id"
+msgstr "Identifikatorius"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.itthinx.com/plugins/lazy-widget-loader"
+msgstr "http://www.itthinx.com/plugins/lazy-widget-loader"
+
+#. Description of the plugin/theme
+msgid "The Lazy Widget Loader provides a lazy loading mechanism that defers loading the content of selected widgets to the footer, allowing your main content to appear first. Use it on slow widgets, especially those that load content from external sources like Facebook, Twitter, AdSense, ... <strong>Go Pro!</strong> Enable advanced lazy loading mechanisms for <em>content and widgets</em> with <a href=\"http://www.itthinx.com/plugins/itthinx-lazyloader\" target=\"_blank\"><strong>Itthinx LazyLoader</strong></a>: <strong>Speed up page load time, on-demand asynchronous loading, lazy-loading shortcodes</strong>."
+msgstr "Lazy Widget Loader suteikia tingaus įkėlimo mechanizmą, kuris atideda pasirinktų valdiklių įkėlimo į puslapinę poraštę turinį, leidžiant Jūsų pagrindiniam turiniui būti rodomam pirmiau. Naudokite tai letiems valdikliams, ypač tiems, kurie įkelia turinį iš išorinių šaltinių, pavyzdžiui Facebook, Twitter, AdSense ir kitų. <strong>Tapkite Profesionalu!</strong> Suaktyvinkite tingaus įkėlimo mechanizmus <em>turinui ir valdikliams</em> su <a href=\"http://www.itthinx.com/plugins/itthinx-lazyloader\" target=\"_blank\"><strong>Itthinx LazyLoader</strong></a>: <strong>Sumažinkite svetainės įkėlimo laiką, jeigu reikia, įjunkite asinchroninį įkėlimą, naudokite lazy-loading trumpuosius kodus</strong>. "
+
+#. Author of the plugin/theme
+msgid "itthinx (Karim Rahimpur)"
+msgstr "itthinx (Karim Rahimpur)"
+
+#. Author URI of the plugin/theme
+msgid "http://www.itthinx.com"
+msgstr "http://www.itthinx.com"
+

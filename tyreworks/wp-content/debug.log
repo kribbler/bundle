@@ -1,0 +1,522 @@
+[30-Oct-2014 11:44:41 UTC] PHP Fatal error:  Call to undefined function pr() in /Applications/MAMP/htdocs/tyreworks/__serverside/aaa.php on line 20
+[31-Oct-2014 03:18:57 UTC] PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/tyreworks/wp-includes/nav-menu-template.php on line 151
+[31-Oct-2014 03:18:57 UTC] PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/tyreworks/wp-includes/nav-menu-template.php on line 154
+[31-Oct-2014 03:18:57 UTC] PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/tyreworks/wp-includes/nav-menu-template.php on line 154
+[31-Oct-2014 03:18:57 UTC] PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/tyreworks/wp-includes/nav-menu-template.php on line 156
+[31-Oct-2014 03:18:57 UTC] PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/tyreworks/wp-includes/nav-menu-template.php on line 151
+[31-Oct-2014 03:18:57 UTC] PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/tyreworks/wp-includes/nav-menu-template.php on line 154
+[31-Oct-2014 03:18:57 UTC] PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/tyreworks/wp-includes/nav-menu-template.php on line 154
+[31-Oct-2014 03:18:57 UTC] PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/tyreworks/wp-includes/nav-menu-template.php on line 156
+[31-Oct-2014 03:18:57 UTC] PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/tyreworks/wp-includes/nav-menu-template.php on line 151
+[31-Oct-2014 03:18:57 UTC] PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/tyreworks/wp-includes/nav-menu-template.php on line 154
+[31-Oct-2014 03:18:57 UTC] PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/tyreworks/wp-includes/nav-menu-template.php on line 154
+[31-Oct-2014 03:18:57 UTC] PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/tyreworks/wp-includes/nav-menu-template.php on line 156
+[31-Oct-2014 03:18:57 UTC] PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/tyreworks/wp-includes/nav-menu-template.php on line 151
+[31-Oct-2014 03:18:57 UTC] PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/tyreworks/wp-includes/nav-menu-template.php on line 154
+[31-Oct-2014 03:18:57 UTC] PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/tyreworks/wp-includes/nav-menu-template.php on line 154
+[31-Oct-2014 03:18:57 UTC] PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/tyreworks/wp-includes/nav-menu-template.php on line 156
+[31-Oct-2014 03:18:57 UTC] PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/tyreworks/wp-includes/nav-menu-template.php on line 151
+[31-Oct-2014 03:18:57 UTC] PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/tyreworks/wp-includes/nav-menu-template.php on line 154
+[31-Oct-2014 03:18:57 UTC] PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/tyreworks/wp-includes/nav-menu-template.php on line 154
+[31-Oct-2014 03:18:57 UTC] PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/tyreworks/wp-includes/nav-menu-template.php on line 156
+[31-Oct-2014 03:18:57 UTC] PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/tyreworks/wp-includes/nav-menu-template.php on line 151
+[31-Oct-2014 03:18:57 UTC] PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/tyreworks/wp-includes/nav-menu-template.php on line 154
+[31-Oct-2014 03:18:57 UTC] PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/tyreworks/wp-includes/nav-menu-template.php on line 154
+[31-Oct-2014 03:18:57 UTC] PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/tyreworks/wp-includes/nav-menu-template.php on line 156
+[31-Oct-2014 03:32:30 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:32:30 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::admin_menu() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:32:39 UTC] PHP Strict Standards:  Declaration of TGM_Bulk_Installer_Skin::before() should be compatible with Bulk_Upgrader_Skin::before($title = '') in /Applications/MAMP/htdocs/tyreworks/wp-content/themes/theretailer/inc/class-tgm-plugin-activation.php on line 1893
+[31-Oct-2014 03:32:39 UTC] PHP Strict Standards:  Declaration of TGM_Bulk_Installer_Skin::after() should be compatible with Bulk_Upgrader_Skin::after($title = '') in /Applications/MAMP/htdocs/tyreworks/wp-content/themes/theretailer/inc/class-tgm-plugin-activation.php on line 1893
+[31-Oct-2014 03:32:39 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:32:39 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::admin_menu() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:32:39 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::render_admin_action() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined index: he in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 420
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined index: he in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 420
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined index: YU in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 421
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined index: YU in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 421
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined index: YU in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 421
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined index: YU in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 421
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 416
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined index: c in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 420
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined index:  in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 421
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 416
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined index: posix in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 420
+[31-Oct-2014 03:32:39 UTC] PHP Notice:  Undefined index:  in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 421
+[31-Oct-2014 03:32:39 UTC] PHP Strict Standards:  Declaration of TGM_Bulk_Installer_Skin::before() should be compatible with Bulk_Upgrader_Skin::before($title = '') in /Applications/MAMP/htdocs/tyreworks/wp-content/themes/theretailer/inc/class-tgm-plugin-activation.php on line 1893
+[31-Oct-2014 03:32:39 UTC] PHP Strict Standards:  Declaration of TGM_Bulk_Installer_Skin::after() should be compatible with Bulk_Upgrader_Skin::after($title = '') in /Applications/MAMP/htdocs/tyreworks/wp-content/themes/theretailer/inc/class-tgm-plugin-activation.php on line 1893
+[31-Oct-2014 03:32:39 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:32:39 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::admin_menu() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:32:40 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::render_admin_action() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined index: he in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 420
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined index: he in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 420
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined index: YU in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 421
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined index: YU in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 421
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined index: YU in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 421
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined index: YU in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 421
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 416
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined index: c in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 420
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined index:  in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 421
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 416
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined index: posix in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 420
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined index:  in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 421
+[31-Oct-2014 03:32:40 UTC] PHP Strict Standards:  Declaration of TGM_Bulk_Installer_Skin::before() should be compatible with Bulk_Upgrader_Skin::before($title = '') in /Applications/MAMP/htdocs/tyreworks/wp-content/themes/theretailer/inc/class-tgm-plugin-activation.php on line 1893
+[31-Oct-2014 03:32:40 UTC] PHP Strict Standards:  Declaration of TGM_Bulk_Installer_Skin::after() should be compatible with Bulk_Upgrader_Skin::after($title = '') in /Applications/MAMP/htdocs/tyreworks/wp-content/themes/theretailer/inc/class-tgm-plugin-activation.php on line 1893
+[31-Oct-2014 03:32:40 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:32:40 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::admin_menu() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:32:40 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::render_admin_action() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined index: he in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 420
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined index: he in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 420
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined index: YU in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 421
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined index: YU in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 421
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined index: YU in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 421
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined index: YU in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 421
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 416
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined index: c in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 420
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined index:  in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 421
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 416
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined index: posix in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 420
+[31-Oct-2014 03:32:41 UTC] PHP Notice:  Undefined index:  in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 421
+[31-Oct-2014 03:33:04 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:33:07 UTC] PHP Strict Standards:  Declaration of TGM_Bulk_Installer_Skin::before() should be compatible with Bulk_Upgrader_Skin::before($title = '') in /Applications/MAMP/htdocs/tyreworks/wp-content/themes/theretailer/inc/class-tgm-plugin-activation.php on line 1893
+[31-Oct-2014 03:33:07 UTC] PHP Strict Standards:  Declaration of TGM_Bulk_Installer_Skin::after() should be compatible with Bulk_Upgrader_Skin::after($title = '') in /Applications/MAMP/htdocs/tyreworks/wp-content/themes/theretailer/inc/class-tgm-plugin-activation.php on line 1893
+[31-Oct-2014 03:33:07 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:33:07 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::admin_menu() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:33:07 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::render_admin_action() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:33:08 UTC] PHP Strict Standards:  Declaration of TGM_Bulk_Installer_Skin::before() should be compatible with Bulk_Upgrader_Skin::before($title = '') in /Applications/MAMP/htdocs/tyreworks/wp-content/themes/theretailer/inc/class-tgm-plugin-activation.php on line 1893
+[31-Oct-2014 03:33:08 UTC] PHP Strict Standards:  Declaration of TGM_Bulk_Installer_Skin::after() should be compatible with Bulk_Upgrader_Skin::after($title = '') in /Applications/MAMP/htdocs/tyreworks/wp-content/themes/theretailer/inc/class-tgm-plugin-activation.php on line 1893
+[31-Oct-2014 03:33:08 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:33:08 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::admin_menu() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:33:08 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::render_admin_action() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:33:08 UTC] PHP Notice:  Undefined variable: file_path in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-preview.php on line 101
+[31-Oct-2014 03:33:09 UTC] PHP Notice:  Undefined variable: import_data in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-preview.php on line 173
+[31-Oct-2014 03:33:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-preview.php on line 41
+[31-Oct-2014 03:33:09 UTC] PHP Notice:  Undefined variable: row_count in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-preview.php on line 354
+[31-Oct-2014 03:33:38 UTC] PHP Strict Standards:  Declaration of TGM_Bulk_Installer_Skin::before() should be compatible with Bulk_Upgrader_Skin::before($title = '') in /Applications/MAMP/htdocs/tyreworks/wp-content/themes/theretailer/inc/class-tgm-plugin-activation.php on line 1893
+[31-Oct-2014 03:33:38 UTC] PHP Strict Standards:  Declaration of TGM_Bulk_Installer_Skin::after() should be compatible with Bulk_Upgrader_Skin::after($title = '') in /Applications/MAMP/htdocs/tyreworks/wp-content/themes/theretailer/inc/class-tgm-plugin-activation.php on line 1893
+[31-Oct-2014 03:33:38 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:33:39 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::admin_menu() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:33:39 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::render_admin_action() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined index: he in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 420
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined index: he in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 420
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Strict Standards:  Declaration of TGM_Bulk_Installer_Skin::before() should be compatible with Bulk_Upgrader_Skin::before($title = '') in /Applications/MAMP/htdocs/tyreworks/wp-content/themes/theretailer/inc/class-tgm-plugin-activation.php on line 1893
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Strict Standards:  Declaration of TGM_Bulk_Installer_Skin::after() should be compatible with Bulk_Upgrader_Skin::after($title = '') in /Applications/MAMP/htdocs/tyreworks/wp-content/themes/theretailer/inc/class-tgm-plugin-activation.php on line 1893
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined index: YU in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 421
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined index: YU in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 421
+[31-Oct-2014 03:33:39 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::admin_menu() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined index: YU in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 421
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined index: YU in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 421
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::render_admin_action() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 416
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined index: c in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 420
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined index:  in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 421
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 416
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined index: posix in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 420
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined index:  in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 421
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:39 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined index: he in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 420
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined index: he in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 420
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined index: YU in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 421
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined index: YU in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 421
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined index: YU in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 421
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined index: YU in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 421
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 416
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined index: c in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 420
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined index:  in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 421
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 416
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined index: posix in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 420
+[31-Oct-2014 03:33:40 UTC] PHP Notice:  Undefined index:  in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 421
+[31-Oct-2014 03:33:40 UTC] PHP Strict Standards:  Declaration of TGM_Bulk_Installer_Skin::before() should be compatible with Bulk_Upgrader_Skin::before($title = '') in /Applications/MAMP/htdocs/tyreworks/wp-content/themes/theretailer/inc/class-tgm-plugin-activation.php on line 1893
+[31-Oct-2014 03:33:40 UTC] PHP Strict Standards:  Declaration of TGM_Bulk_Installer_Skin::after() should be compatible with Bulk_Upgrader_Skin::after($title = '') in /Applications/MAMP/htdocs/tyreworks/wp-content/themes/theretailer/inc/class-tgm-plugin-activation.php on line 1893
+[31-Oct-2014 03:33:40 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:33:41 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::admin_menu() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:33:41 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::render_admin_action() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined index: he in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 420
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined index: he in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 420
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined index: YU in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 421
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined index: YU in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 421
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined index: YU in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 421
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined index: YU in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 421
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:41 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:42 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 426
+[31-Oct-2014 03:33:42 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 416
+[31-Oct-2014 03:33:42 UTC] PHP Notice:  Undefined index: c in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 420
+[31-Oct-2014 03:33:42 UTC] PHP Notice:  Undefined index:  in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 421
+[31-Oct-2014 03:33:42 UTC] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 416
+[31-Oct-2014 03:33:42 UTC] PHP Notice:  Undefined index: posix in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 420
+[31-Oct-2014 03:33:42 UTC] PHP Notice:  Undefined index:  in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-upload.php on line 421
+[31-Oct-2014 03:33:47 UTC] PHP Strict Standards:  Declaration of TGM_Bulk_Installer_Skin::before() should be compatible with Bulk_Upgrader_Skin::before($title = '') in /Applications/MAMP/htdocs/tyreworks/wp-content/themes/theretailer/inc/class-tgm-plugin-activation.php on line 1893
+[31-Oct-2014 03:33:47 UTC] PHP Strict Standards:  Declaration of TGM_Bulk_Installer_Skin::after() should be compatible with Bulk_Upgrader_Skin::after($title = '') in /Applications/MAMP/htdocs/tyreworks/wp-content/themes/theretailer/inc/class-tgm-plugin-activation.php on line 1893
+[31-Oct-2014 03:33:47 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:33:47 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::admin_menu() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:33:48 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::render_admin_action() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:33:50 UTC] PHP Strict Standards:  Declaration of TGM_Bulk_Installer_Skin::before() should be compatible with Bulk_Upgrader_Skin::before($title = '') in /Applications/MAMP/htdocs/tyreworks/wp-content/themes/theretailer/inc/class-tgm-plugin-activation.php on line 1893
+[31-Oct-2014 03:33:50 UTC] PHP Strict Standards:  Declaration of TGM_Bulk_Installer_Skin::after() should be compatible with Bulk_Upgrader_Skin::after($title = '') in /Applications/MAMP/htdocs/tyreworks/wp-content/themes/theretailer/inc/class-tgm-plugin-activation.php on line 1893
+[31-Oct-2014 03:33:50 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:33:50 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::admin_menu() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:33:50 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::render_admin_action() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:33:50 UTC] PHP Notice:  Undefined variable: file_path in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-preview.php on line 101
+[31-Oct-2014 03:33:50 UTC] PHP Notice:  Undefined variable: import_data in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-preview.php on line 173
+[31-Oct-2014 03:33:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-preview.php on line 41
+[31-Oct-2014 03:33:50 UTC] PHP Notice:  Undefined variable: row_count in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-preview.php on line 354
+[31-Oct-2014 03:34:39 UTC] PHP Strict Standards:  Declaration of TGM_Bulk_Installer_Skin::before() should be compatible with Bulk_Upgrader_Skin::before($title = '') in /Applications/MAMP/htdocs/tyreworks/wp-content/themes/theretailer/inc/class-tgm-plugin-activation.php on line 1893
+[31-Oct-2014 03:34:39 UTC] PHP Strict Standards:  Declaration of TGM_Bulk_Installer_Skin::after() should be compatible with Bulk_Upgrader_Skin::after($title = '') in /Applications/MAMP/htdocs/tyreworks/wp-content/themes/theretailer/inc/class-tgm-plugin-activation.php on line 1893
+[31-Oct-2014 03:34:39 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:34:39 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::admin_menu() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:34:39 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::render_admin_action() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:34:41 UTC] PHP Strict Standards:  Declaration of TGM_Bulk_Installer_Skin::before() should be compatible with Bulk_Upgrader_Skin::before($title = '') in /Applications/MAMP/htdocs/tyreworks/wp-content/themes/theretailer/inc/class-tgm-plugin-activation.php on line 1893
+[31-Oct-2014 03:34:41 UTC] PHP Strict Standards:  Declaration of TGM_Bulk_Installer_Skin::after() should be compatible with Bulk_Upgrader_Skin::after($title = '') in /Applications/MAMP/htdocs/tyreworks/wp-content/themes/theretailer/inc/class-tgm-plugin-activation.php on line 1893
+[31-Oct-2014 03:34:41 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:34:42 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::admin_menu() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:34:42 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::render_admin_action() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:34:42 UTC] PHP Notice:  Undefined variable: file_path in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-preview.php on line 101
+[31-Oct-2014 03:34:42 UTC] PHP Notice:  Undefined variable: import_data in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-preview.php on line 173
+[31-Oct-2014 03:34:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-preview.php on line 41
+[31-Oct-2014 03:34:42 UTC] PHP Notice:  Undefined variable: row_count in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-preview.php on line 354
+[31-Oct-2014 03:34:44 UTC] PHP Strict Standards:  Declaration of TGM_Bulk_Installer_Skin::before() should be compatible with Bulk_Upgrader_Skin::before($title = '') in /Applications/MAMP/htdocs/tyreworks/wp-content/themes/theretailer/inc/class-tgm-plugin-activation.php on line 1893
+[31-Oct-2014 03:34:44 UTC] PHP Strict Standards:  Declaration of TGM_Bulk_Installer_Skin::after() should be compatible with Bulk_Upgrader_Skin::after($title = '') in /Applications/MAMP/htdocs/tyreworks/wp-content/themes/theretailer/inc/class-tgm-plugin-activation.php on line 1893
+[31-Oct-2014 03:34:44 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:34:44 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::admin_menu() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:34:44 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::render_admin_action() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:34:44 UTC] PHP Warning:  _() expects exactly 1 parameter, 2 given in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-result.php on line 111
+[31-Oct-2014 03:34:44 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:34:45 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::render_ajax_action() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:34:45 UTC] PHP Notice:  Undefined index: _regular_price in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woo-tyre-importer/wootyre-importer-ajax.php on line 380
+[31-Oct-2014 03:35:04 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:35:44 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:35:44 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:36:44 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:37:04 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:37:44 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:38:44 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:39:04 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:39:27 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:39:36 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:39:44 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:40:09 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:40:44 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:41:04 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:41:44 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:42:44 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:43:04 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:43:44 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:45:04 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:45:22 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:45:26 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:45:27 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:45:44 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:45:44 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:45:47 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:45:56 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:45:56 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::admin_menu() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:45:56 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method Wootyre_Importer::translations() should not be called statically in /Applications/MAMP/htdocs/tyreworks/wp-includes/plugin.php on line 505
+[31-Oct-2014 03:46:02 UTC] PHP Notice:  Undefined index: is_taxonomy in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-product-data.php on line 534
+[31-Oct-2014 03:46:02 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-product-data.php on line 546
+[31-Oct-2014 03:46:02 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-product-data.php on line 546
+[31-Oct-2014 03:46:02 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-product-data.php on line 553
+[31-Oct-2014 03:46:02 UTC] PHP Notice:  Undefined index: value in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-product-data.php on line 559
+[31-Oct-2014 03:46:02 UTC] PHP Notice:  Undefined index: is_visible in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-product-data.php on line 564
+[31-Oct-2014 03:46:02 UTC] PHP Notice:  Undefined index: is_variation in /Applications/MAMP/htdocs/tyreworks/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-product-data.php on line 570

@@ -1,0 +1,6 @@
+product_cat,name,pa_brand,,sku,short description,pa_width,pa_profile,pa_rim-size,pa_speed,,image,stock,price,pa_tread-pattern,description,pa_extraload,pa_runflat,pa_tyreclass,pa_rrc-grade,pa_wetgrip,pa_wetgrip-grade,pa_noisedb,pa_bar-rating
+tyres,Walsall,MICHELIN,815490,2954020XMILASPT3,295/40R20 MICH LATSPT3 106Y N0,295,40,20,Y,106,LATSPT3,0,0,LATSPT3,CAR TYRES  4 WHEEL DRIVE TYRES,N,N,C1,C,0,A,71,1
+tyres,Walsall,MICHELIN,818969,2254018ZMISPT3AO,225/40R18 MICH SPT3 92Y AO XL,225,40,18,Y,92,SPT3,0,0,SPT3,CAR TYRES  18 Inch Rim,Y,N,C1,C,0,A,71,2
+tyres,Walsall,HANKOOK,1010661,1756514THKW442WI,175/65R14  HANKOOK W442 82T WIN,175,65,14,T,82,W442,0,0,W442,CAR TYRES  WINTER CAR,N,N,C1,F,0,C,71,2
+tyres,Walsall,UNKNOWN,,DFW21BLADE,WIPER BLADE 21" CLIO,,,,,,,0,0,,SERVICING PARTS  Wiper Blades,N,N,,,0,,0,0
+tyres,Walsall,UNKNOWN,,DMW21CLIO,CLIO WIPER,,,,,,,0,0,,SERVICING PARTS  Wiper Blades,N,N,,,0,,0,0
