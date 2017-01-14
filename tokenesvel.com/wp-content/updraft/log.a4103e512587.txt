@@ -1,0 +1,94 @@
+19292.202 (6) Opened log file at time: Thu, 21 Jan 2016 08:39:12 +0000 on http://www.tokenesvel.com
+19292.202 (6) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.4.1 PHP: 5.5.30-1~dotdeb+7.1 (Linux ws04k5 3.2.0-4-amd64 #1 SMP Debian 3.2.73-2+deb7u2 x86_64) MySQL: 5.5.47 Server: Apache/2.2.22 safe_mode: 0 max_execution_time: 30 memory_limit: 256M (used: 10.1M | 11M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+19292.203 (6) Free space on disk containing Updraft's temporary directory: 664462 Mb
+19292.205 (6) Backup run: resumption=6, nonce=a4103e512587, begun at=1453346260 (19292s ago), job type=backup
+19292.206 (6) Long time past since expected resumption time: approx expected=1453360970.9, now=1453365552.8, diff=4581.9
+19292.207 (6) [Warning] Websiden din besøkes sjelden samtidig som UpdraftPlus ikke mottar de ressursene den håpet på. Se denne siden: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+19292.207 (6) Scheduling a resumption (7) after 300 seconds (1453365852) in case this run gets aborted
+19292.209 (6) Checking if we have a zip executable available
+19292.210 (6) Zip engine: found/will use a binary zip: /usr/bin/zip
+19292.210 (6) Creation of backups of directories: already finished
+19292.212 (6) Saving backup status to database (elements: 8)
+19292.214 (6) Database dump (WordPress DB): Creation was completed already
+19292.215 (6) Saving backup history
+19292.217 (6) backup_2016-01-21-0317_Tokenes_Vel_3a26ceb30fa7-plugins.zip: plugins: This file has already been successfully uploaded
+19292.218 (6) backup_2016-01-21-0317_Tokenes_Vel_3a26ceb30fa7-themes.zip: themes: This file has already been successfully uploaded
+19292.219 (6) backup_2016-01-21-0317_Tokenes_Vel_3a26ceb30fa7-uploads.zip: uploads: This file has already been successfully uploaded
+19292.219 (6) backup_2016-01-21-0317_Tokenes_Vel_3a26ceb30fa7-others.zip: others: This file has already been successfully uploaded
+19292.220 (6) backup_2016-01-21-0317_Tokenes_Vel_a4103e512587-db.gz: db: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (/home/2/t/tokenesvel/www/wp-content/updraft/backup_2016-01-21-0317_Tokenes_Vel_a4103e512587-db.gz)
+19292.222 (6) Recording as successfully uploaded: backup_2016-01-21-0317_Tokenes_Vel_a4103e512587-db.gz (025b433a39c539dcfbd7393c11812c4d)
+19292.227 (6) Resume backup (a4103e512587, 6): finish run
+19292.229 (6) There were no more files that needed uploading
+19292.229 (6) There were errors in the uploads, so the 'resume' event is remaining scheduled
+19292.230 (6) No email will be sent - this backup set was empty.
+19292.231 (6) Sikkerhetskopien ble ikke fullført. En gjenopptakelse har blitt planlagt.
+24754.185 (7) Opened log file at time: Thu, 21 Jan 2016 10:10:14 +0000 on http://www.tokenesvel.com
+24754.185 (7) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.4.1 PHP: 5.5.30-1~dotdeb+7.1 (Linux ws01k4 3.2.0-4-amd64 #1 SMP Debian 3.2.73-2+deb7u2 x86_64) MySQL: 5.5.47 Server: Apache/2.2.22 safe_mode: 0 max_execution_time: 30 memory_limit: 256M (used: 7.3M | 8.5M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+24754.186 (7) Free space on disk containing Updraft's temporary directory: 663543 Mb
+24754.188 (7) Backup run: resumption=7, nonce=a4103e512587, begun at=1453346260 (24754s ago), job type=backup
+24754.189 (7) Long time past since expected resumption time: approx expected=1453365852.7, now=1453371014.8, diff=5162.1
+24754.189 (7) [Warning] Websiden din besøkes sjelden samtidig som UpdraftPlus ikke mottar de ressursene den håpet på. Se denne siden: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+24754.190 (7) Scheduling a resumption (8) after 300 seconds (1453371314) in case this run gets aborted
+24754.192 (7) Checking if we have a zip executable available
+24754.193 (7) Zip engine: found/will use a binary zip: /usr/bin/zip
+24754.193 (7) Creation of backups of directories: already finished
+24754.194 (7) Saving backup status to database (elements: 8)
+24754.196 (7) Database dump (WordPress DB): Creation was completed already
+24754.197 (7) Saving backup history
+24754.200 (7) backup_2016-01-21-0317_Tokenes_Vel_3a26ceb30fa7-plugins.zip: plugins: This file has already been successfully uploaded
+24754.200 (7) backup_2016-01-21-0317_Tokenes_Vel_3a26ceb30fa7-themes.zip: themes: This file has already been successfully uploaded
+24754.201 (7) backup_2016-01-21-0317_Tokenes_Vel_3a26ceb30fa7-uploads.zip: uploads: This file has already been successfully uploaded
+24754.202 (7) backup_2016-01-21-0317_Tokenes_Vel_3a26ceb30fa7-others.zip: others: This file has already been successfully uploaded
+24754.203 (7) backup_2016-01-21-0317_Tokenes_Vel_a4103e512587-db.gz: db: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (/home/2/t/tokenesvel/www/wp-content/updraft/backup_2016-01-21-0317_Tokenes_Vel_a4103e512587-db.gz)
+24754.205 (7) Recording as successfully uploaded: backup_2016-01-21-0317_Tokenes_Vel_a4103e512587-db.gz (025b433a39c539dcfbd7393c11812c4d)
+24754.213 (7) Resume backup (a4103e512587, 7): finish run
+24754.216 (7) There were no more files that needed uploading
+24754.217 (7) There were errors in the uploads, so the 'resume' event is remaining scheduled
+24754.218 (7) No email will be sent - this backup set was empty.
+24754.220 (7) Sikkerhetskopien ble ikke fullført. En gjenopptakelse har blitt planlagt.
+39385.598 (8) Opened log file at time: Thu, 21 Jan 2016 14:14:06 +0000 on http://www.tokenesvel.com
+39385.598 (8) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.4.1 PHP: 5.5.30-1~dotdeb+7.1 (Linux ws04k5 3.2.0-4-amd64 #1 SMP Debian 3.2.73-2+deb7u2 x86_64) MySQL: 5.5.47 Server: Apache/2.2.22 safe_mode: 0 max_execution_time: 30 memory_limit: 256M (used: 7.3M | 8.5M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+39385.600 (8) Free space on disk containing Updraft's temporary directory: 661448 Mb
+39385.602 (8) Backup run: resumption=8, nonce=a4103e512587, begun at=1453346260 (39386s ago), job type=backup
+39385.603 (8) Long time past since expected resumption time: approx expected=1453371314.7, now=1453385646.2, diff=14331.5
+39385.604 (8) [Warning] Websiden din besøkes sjelden samtidig som UpdraftPlus ikke mottar de ressursene den håpet på. Se denne siden: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+39385.607 (8) Scheduling a resumption (9) after 300 seconds (1453385946) in case this run gets aborted
+39385.609 (8) Checking if we have a zip executable available
+39385.610 (8) Zip engine: found/will use a binary zip: /usr/bin/zip
+39385.611 (8) Creation of backups of directories: already finished
+39385.613 (8) Saving backup status to database (elements: 8)
+39385.616 (8) Database dump (WordPress DB): Creation was completed already
+39385.618 (8) Saving backup history
+39385.621 (8) backup_2016-01-21-0317_Tokenes_Vel_3a26ceb30fa7-plugins.zip: plugins: This file has already been successfully uploaded
+39385.622 (8) backup_2016-01-21-0317_Tokenes_Vel_3a26ceb30fa7-themes.zip: themes: This file has already been successfully uploaded
+39385.623 (8) backup_2016-01-21-0317_Tokenes_Vel_3a26ceb30fa7-uploads.zip: uploads: This file has already been successfully uploaded
+39385.624 (8) backup_2016-01-21-0317_Tokenes_Vel_3a26ceb30fa7-others.zip: others: This file has already been successfully uploaded
+39385.625 (8) backup_2016-01-21-0317_Tokenes_Vel_a4103e512587-db.gz: db: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (/home/2/t/tokenesvel/www/wp-content/updraft/backup_2016-01-21-0317_Tokenes_Vel_a4103e512587-db.gz)
+39385.629 (8) Recording as successfully uploaded: backup_2016-01-21-0317_Tokenes_Vel_a4103e512587-db.gz (025b433a39c539dcfbd7393c11812c4d)
+39385.638 (8) Resume backup (a4103e512587, 8): finish run
+39385.640 (8) There were no more files that needed uploading
+39385.641 (8) There were errors in the uploads, so the 'resume' event is remaining scheduled
+39385.642 (8) No email will be sent - this backup set was empty.
+39385.642 (8) Sikkerhetskopien ble ikke fullført. En gjenopptakelse har blitt planlagt.
+41056.533 (9) Opened log file at time: Thu, 21 Jan 2016 14:41:57 +0000 on http://www.tokenesvel.com
+41056.534 (9) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.4.1 PHP: 5.5.30-1~dotdeb+7.1 (Linux ws04k5 3.2.0-4-amd64 #1 SMP Debian 3.2.73-2+deb7u2 x86_64) MySQL: 5.5.47 Server: Apache/2.2.22 safe_mode: 0 max_execution_time: 30 memory_limit: 256M (used: 8.2M | 9.5M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+41056.535 (9) Free space on disk containing Updraft's temporary directory: 660311 Mb
+41056.538 (9) Backup run: resumption=9, nonce=a4103e512587, begun at=1453346260 (41057s ago), job type=backup
+41056.539 (9) Long time past since expected resumption time: approx expected=1453385946.1, now=1453387317.1, diff=1371
+41056.540 (9) [Warning] Websiden din besøkes sjelden samtidig som UpdraftPlus ikke mottar de ressursene den håpet på. Se denne siden: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+41056.541 (9) The current run is resumption number 9, and there was nothing useful done on the last run (last useful run: 0) - will not schedule a further attempt until we see something useful happening this time
+41056.542 (9) Creation of backups of directories: already finished
+41056.544 (9) Saving backup status to database (elements: 8)
+41056.547 (9) Database dump (WordPress DB): Creation was completed already
+41056.548 (9) Saving backup history
+41056.551 (9) backup_2016-01-21-0317_Tokenes_Vel_3a26ceb30fa7-plugins.zip: plugins: This file has already been successfully uploaded
+41056.552 (9) backup_2016-01-21-0317_Tokenes_Vel_3a26ceb30fa7-themes.zip: themes: This file has already been successfully uploaded
+41056.553 (9) backup_2016-01-21-0317_Tokenes_Vel_3a26ceb30fa7-uploads.zip: uploads: This file has already been successfully uploaded
+41056.554 (9) backup_2016-01-21-0317_Tokenes_Vel_3a26ceb30fa7-others.zip: others: This file has already been successfully uploaded
+41056.555 (9) backup_2016-01-21-0317_Tokenes_Vel_a4103e512587-db.gz: db: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (/home/2/t/tokenesvel/www/wp-content/updraft/backup_2016-01-21-0317_Tokenes_Vel_a4103e512587-db.gz)
+41056.558 (9) Recording as successfully uploaded: backup_2016-01-21-0317_Tokenes_Vel_a4103e512587-db.gz (025b433a39c539dcfbd7393c11812c4d)
+41056.567 (9) Resume backup (a4103e512587, 9): finish run
+41056.569 (9) There were no more files that needed uploading
+41056.570 (9) There were errors in the uploads, so the 'resume' event is remaining scheduled
+41056.571 (9) No email will be sent - this backup set was empty.
+41056.571 (9) Sikkerhetskopieringen feilet.

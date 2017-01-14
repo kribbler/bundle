@@ -1,0 +1,64 @@
+/*-------- Pexeto Formating Buttons --------*/
+
+.mce_pexetotitle span, 
+.mce_pexetotitle2 span, 
+.mce_pexetohighlight1 span, 
+.mce_pexetohighlight2 span, 
+.mce_pexetodropcaps span, 
+.mce_pexetolistcheck span,
+.mce_pexetoliststar span,
+.mce_pexetolistarrow span,
+.mce_pexetolistarrow2 span,
+.mce_pexetolistarrow4 span,
+.mce_pexetolistplus span,
+.mce_pexetolinebreak span,
+.mce_pexetoframe span,
+.mce_pexetolightbox span,
+.mce_pexetobutton span,
+.mce_pexetoinfoboxes span,
+.mce_pexetotwocolumns span,
+.mce_pexetothreecolumns span,
+.mce_pexetofourcolumns span,
+.mce_pexetoyoutube span,
+.mce_pexetovimeo span,
+.mce_pexetoflash span,
+.mce_pexetotestimonials span,
+.mce_pexetoservices span,
+.mce_pexetocarousel span{
+	background: url('btnicons/btnicons-2x.png') !important;
+     background-size: 560px 40px !important;
+     width: 20px;
+     height: 20px;
+     display: block;
+}
+
+.mce_pexetotitle span { background-position: 0px -20px !important;}
+.mce_pexetotitle2 span { background-position: -20px -20px !important;} 
+.mce_pexetohighlight1 span { background-position: -40px -20px !important;} 
+.mce_pexetohighlight2 span { background-position: -60px -20px !important;} 
+.mce_pexetodropcaps span { background-position: -80px -20px !important;} 
+.mce_pexetolistcheck span { background-position: -100px -20px !important;}
+.mce_pexetoliststar span { background-position: -120px -20px !important;}
+.mce_pexetolistarrow span { background-position: -140px -20px !important;}
+.mce_pexetolistarrow2 span { background-position: -160px -20px !important;}
+.mce_pexetolistarrow4 span { background-position: -180px -20px !important;}
+.mce_pexetolistplus span { background-position: -200px -20px !important;}
+.mce_pexetolinebreak span { background-position: -220px -20px !important;}
+.mce_pexetoframe span { background-position: -240px -20px !important;}
+.mce_pexetolightbox span { background-position: -260px -20px !important;}
+.mce_pexetobutton span { background-position: -280px -20px !important;}
+.mce_pexetoinfoboxes span { background-position: -300px -20px !important;}
+.mce_pexetotwocolumns span { background-position: -320px -20px !important;}
+.mce_pexetothreecolumns span { background-position: -340px -20px !important;}
+.mce_pexetofourcolumns span { background-position: -360px -20px !important;}
+.mce_pexetoyoutube span { background-position: -380px -20px !important;}
+.mce_pexetovimeo span { background-position: -400px -20px !important;}
+.mce_pexetoflash span { background-position: -420px -20px !important;}
+.mce_pexetotestimonials span { background-position: -440px -20px !important;}
+.mce_pexetoservices span { background-position: -460px -20px !important;}
+.mce_pexetocarousel span { background-position: -480px -20px !important;}
+
+
+
+
+

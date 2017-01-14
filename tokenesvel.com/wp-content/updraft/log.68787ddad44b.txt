@@ -1,0 +1,497 @@
+0000.001 (0) Opened log file at time: Wed, 20 Jan 2016 23:06:44 +0000 on http://www.tokenesvel.com
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.4.1 PHP: 5.5.30-1~dotdeb+7.1 (Linux ws04k5 3.2.0-4-amd64 #1 SMP Debian 3.2.73-2+deb7u2 x86_64) MySQL: 5.5.47 Server: Apache/2.2.22 safe_mode: 0 max_execution_time: 30 memory_limit: 256M (used: 7.1M | 7.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.005 (0) Free space on disk containing Updraft's temporary directory: 657166 Mb
+0000.008 (0) Tasks: Backup files: 1 (schedule: every4hours) Backup DB:  (schedule: every4hours)
+0000.009 (0) Processed schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.016 (0) Requesting semaphore lock (fd)
+0000.018 (0) Set semaphore last lock (fd) time to 2016-01-20 23:06:45
+0000.018 (0) Semaphore lock (fd) complete
+0000.022 (0) Backup run: resumption=0, nonce=68787ddad44b, begun at=1453331204 (1s ago), job type=backup
+0000.023 (0) Scheduling a resumption (1) after 300 seconds (1453331505) in case this run gets aborted
+0000.038 (0) Checking if we have a zip executable available
+0000.039 (0) Testing: /usr/bin/zip
+0000.052 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.054 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.066 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.067 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=128) (out=105) (deflated 18%)
+0000.068 (0) Output: total bytes=128, compressed=105 -> 18% savings
+0000.080 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=135) (out=111) (deflated 18%)
+0000.081 (0) Output: total bytes=263, compressed=216 -> 18% savings
+0000.096 (0) Working binary zip found: /usr/bin/zip
+0000.097 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.098 (0) Creation of backups of directories: beginning
+0000.104 (0) Beginning creation of dump of plugins (split every: 500 Mb)
+0002.635 (0) Total entities for the zip file: 278 directories, 1987 files (0 skipped as non-modified), 28.7 Mb
+0003.011 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 2.0 seconds have passed since the last write (1.3 Mb, 99 (99) files added so far); re-opening (prior size: 0 Kb)
+0003.109 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-plugins.zip.tmp: size is now: 0.80 Mb
+0003.115 (0) Zip: backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-plugins.zip.tmp: 100 files added (on-disk size: 783.7 Kb)
+0003.436 (0) Zip: backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-plugins.zip.tmp: 200 files added (on-disk size: 783.7 Kb)
+0003.772 (0) Zip: backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-plugins.zip.tmp: 300 files added (on-disk size: 783.7 Kb)
+0004.135 (0) Zip: backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-plugins.zip.tmp: 400 files added (on-disk size: 783.7 Kb)
+0004.495 (0) Zip: backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-plugins.zip.tmp: 500 files added (on-disk size: 783.7 Kb)
+0004.888 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (15.8 Mb, 1987 files batched, 501 (600) added so far); re-opening (prior size: 783.7 Kb)
+0006.022 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-plugins.zip.tmp: size is now: 5.60 Mb
+0006.027 (0) Zip: backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-plugins.zip.tmp: 600 files added (on-disk size: 5729 Kb)
+0006.555 (0) Zip: backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-plugins.zip.tmp: 700 files added (on-disk size: 5729 Kb)
+0007.033 (0) Zip: backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-plugins.zip.tmp: 800 files added (on-disk size: 5729 Kb)
+0007.473 (0) Zip: backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-plugins.zip.tmp: 900 files added (on-disk size: 5729 Kb)
+0007.963 (0) Zip: backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-plugins.zip.tmp: 1000 files added (on-disk size: 5729 Kb)
+0008.299 (0) Zip: backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-plugins.zip.tmp: 1100 files added (on-disk size: 5729 Kb)
+0008.311 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.8 Mb, 1987 files batched, 501 (1101) added so far); re-opening (prior size: 5729 Kb)
+0009.116 (0) Zip: backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-plugins.zip.tmp: 1200 files added (on-disk size: 6401 Kb)
+0009.566 (0) Zip: backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-plugins.zip.tmp: 1300 files added (on-disk size: 6401 Kb)
+0009.964 (0) Zip: backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-plugins.zip.tmp: 1400 files added (on-disk size: 6401 Kb)
+0010.301 (0) Zip: backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-plugins.zip.tmp: 1500 files added (on-disk size: 6401 Kb)
+0010.664 (0) Zip: backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-plugins.zip.tmp: 1600 files added (on-disk size: 6401 Kb)
+0010.675 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.1 Mb, 1987 files batched, 501 (1602) added so far); re-opening (prior size: 6401 Kb)
+0011.082 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-plugins.zip.tmp: size is now: 8.50 Mb
+0011.491 (0) Zip: backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-plugins.zip.tmp: 1700 files added (on-disk size: 8742.4 Kb)
+0011.919 (0) Zip: backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-plugins.zip.tmp: 1800 files added (on-disk size: 8742.4 Kb)
+0012.427 (0) Zip: backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-plugins.zip.tmp: 1900 files added (on-disk size: 8742.4 Kb)
+0013.220 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-plugins.zip.tmp: size is now: 10.40 Mb
+0013.268 (0) Created plugins zip (0) - 10687.8 Kb in 13.2 s (812.2 Kb/s) (SHA1 checksum: 368dfff4d655be4b9c4910b3ba3710e55b4749b0)
+0013.272 (0) Beginning creation of dump of themes (split every: 500 Mb)
+0013.734 (0) Total entities for the zip file: 41 directories, 498 files (0 skipped as non-modified), 4.4 Mb
+0014.143 (0) Zip: backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-themes.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0014.543 (0) Zip: backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-themes.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0014.863 (0) Zip: backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-themes.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0015.177 (0) Zip: backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-themes.zip.tmp: 400 files added (on-disk size: 0 Kb)
+0015.837 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-themes.zip.tmp: size is now: 3.50 Mb
+0015.867 (0) Created themes zip (0) - 3582.3 Kb in 2.6 s (1382.5 Kb/s) (SHA1 checksum: 51d27bd8c217b6122cb2ca64045ca7f854eaefed)
+0015.872 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone
+0015.873 (0) Looking for candidates to back up in: /home/2/t/tokenesvel/www/wp-content/uploads
+0015.874 (0) finding files: 2014: adding to list (1)
+0015.875 (0) finding files: 2013: adding to list (2)
+0015.876 (0) finding files: 2012: adding to list (3)
+0015.877 (0) finding files: 2015: adding to list (4)
+0015.878 (0) finding files: 2016: adding to list (5)
+0015.878 (0) Beginning creation of dump of uploads (split every: 500 Mb)
+0016.195 (0) Total entities for the zip file: 37 directories, 238 files (0 skipped as non-modified), 45.8 Mb
+0016.536 (0) Zip: backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-uploads.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0016.874 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 Mb added on this batch (25.1 Mb, 238 files batched, 182 (182) added so far); re-opening (prior size: 0 Kb)
+0017.855 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-uploads.zip.tmp: size is now: 24.30 Mb
+0017.858 (0) A useful amount of data was added after this amount of zip processing: 2.9 s (normalised: 2.8 s, rate: 9019.2 Kb/s)
+0017.859 (0) Performance is good - will increase the amount of data we attempt to batch (time=2.8513031005859, normalised_time=2.8383836389238, max_time=-1, data points known=0, old_max_bytes=26214400, new_max_bytes=55414073)
+0017.936 (0) Zip: backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-uploads.zip.tmp: 200 files added (on-disk size: 24869.1 Kb)
+0018.844 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-uploads.zip.tmp: size is now: 44.90 Mb
+0019.046 (0) Created uploads zip (0) - 45978.3 Kb in 3.2 s (14541.1 Kb/s) (SHA1 checksum: 7b621c2b8c8766b72eb44294abca886e414f2128)
+0019.050 (0) Beginning backup of other directories found in the content directory (index: 0)
+0019.050 (0) Exclusion option setting (others): upgrade,cache,updraft,index.php,backup,backups
+0019.051 (0) Looking for candidates to back up in: /home/2/t/tokenesvel/www/wp-content
+0019.052 (0) finding files: index.php: skipping: excluded by options
+0019.053 (0) finding files: sedlex: adding to list (1)
+0019.053 (0) finding files: upgrade: skipping: excluded by options
+0019.054 (0) finding files: languages: adding to list (2)
+0019.055 (0) finding files: themes: skipping: this is the themes directory
+0019.055 (0) finding files: updraft: skipping: this is the updraft directory
+0019.056 (0) finding files: uploads: skipping: this is the uploads directory
+0019.056 (0) finding files: backups: skipping: excluded by options
+0019.057 (0) finding files: plugins: skipping: this is the plugins directory
+0019.057 (0) finding files: cache: skipping: excluded by options
+0019.100 (0) Total entities for the zip file: 9 directories, 32 files (0 skipped as non-modified), 28.3 Mb
+0020.226 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-others.zip.tmp: size is now: 27.10 Mb
+0020.430 (0) Created others zip (0) - 27788.1 Kb in 1.4 s (20317.9 Kb/s) (SHA1 checksum: 05d5ee53805f7cba040195cd961f19a2f0e946f1)
+0020.442 (0) Saving backup status to database (elements: 8)
+0020.444 (0) Beginning creation of database dump (WordPress DB)
+0020.447 (0) Testing: /usr/bin/mysqldump
+0020.473 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0020.485 (0) Table wp_options: Total expected rows (approximate): 470
+0020.575 (0) Table wp_options: Total rows added: 396 in 0.09 seconds
+0020.588 (0) Table wp_options: finishing file (backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_options.table.gz - 195.2 Kb)
+0020.594 (0) Table wp_users: Total expected rows (approximate): 4
+0020.597 (0) Table wp_users: Total rows added: 4 in 0.00 seconds
+0020.599 (0) Table wp_users: finishing file (backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_users.table.gz - 0.8 Kb)
+0020.604 (0) Table wp_usermeta: Total expected rows (approximate): 82
+0020.611 (0) Table wp_usermeta: Total rows added: 82 in 0.00 seconds
+0020.613 (0) Table wp_usermeta: finishing file (backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_usermeta.table.gz - 2 Kb)
+0020.618 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0020.621 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0020.622 (0) Table wp_commentmeta: finishing file (backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_commentmeta.table.gz - 0.4 Kb)
+0020.633 (0) Table wp_comments: Total expected rows (approximate): 0
+0020.639 (0) Table wp_comments: Total rows added: 0 in 0.00 seconds
+0020.643 (0) Table wp_comments: finishing file (backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_comments.table.gz - 0.5 Kb)
+0020.648 (0) Table wp_links: Total expected rows (approximate): 0
+0020.651 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0020.655 (0) Table wp_links: finishing file (backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_links.table.gz - 0.4 Kb)
+0020.661 (0) Table wp_postmeta: Total expected rows (approximate): 430
+0020.677 (0) Table wp_postmeta: Total rows added: 434 in 0.02 seconds
+0020.682 (0) Table wp_postmeta: finishing file (backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_postmeta.table.gz - 7 Kb)
+0020.688 (0) Table wp_posts: Total expected rows (approximate): 356
+0020.744 (0) Table wp_posts: Total rows added: 385 in 0.06 seconds
+0020.752 (0) Table wp_posts: finishing file (backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_posts.table.gz - 24.1 Kb)
+0020.757 (0) Table wp_term_relationships: Total expected rows (approximate): 59
+0020.760 (0) Table wp_term_relationships: Total rows added: 59 in 0.00 seconds
+0020.761 (0) Table wp_term_relationships: finishing file (backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_term_relationships.table.gz - 0.6 Kb)
+0020.767 (0) Table wp_term_taxonomy: Total expected rows (approximate): 17
+0020.770 (0) Table wp_term_taxonomy: Total rows added: 17 in 0.00 seconds
+0020.772 (0) Table wp_term_taxonomy: finishing file (backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_term_taxonomy.table.gz - 0.6 Kb)
+0020.777 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0020.779 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0020.780 (0) Table wp_termmeta: finishing file (backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_termmeta.table.gz - 0.4 Kb)
+0020.784 (0) Table wp_terms: Total expected rows (approximate): 17
+0020.787 (0) Table wp_terms: Total rows added: 17 in 0.00 seconds
+0020.792 (0) Table wp_terms: finishing file (backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_terms.table.gz - 0.6 Kb)
+0020.797 (0) Table wp_groups_rs: Total expected rows (approximate): 8
+0020.800 (0) Table wp_groups_rs: Total rows added: 8 in 0.00 seconds
+0020.804 (0) Table wp_groups_rs: finishing file (backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_groups_rs.table.gz - 0.6 Kb)
+0020.809 (0) Table wp_role_scope_rs: Total expected rows (approximate): 2
+0020.812 (0) Table wp_role_scope_rs: Total rows added: 2 in 0.00 seconds
+0020.817 (0) Table wp_role_scope_rs: finishing file (backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_role_scope_rs.table.gz - 0.6 Kb)
+0020.821 (0) Table wp_user2group_rs: Total expected rows (approximate): 0
+0020.825 (0) Table wp_user2group_rs: Total rows added: 0 in 0.00 seconds
+0020.826 (0) Table wp_user2group_rs: finishing file (backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_user2group_rs.table.gz - 0.4 Kb)
+0020.830 (0) Table wp_user2role2object_rs: Total expected rows (approximate): 6
+0020.835 (0) Table wp_user2role2object_rs: Total rows added: 6 in 0.00 seconds
+0020.837 (0) Table wp_user2role2object_rs: finishing file (backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_user2role2object_rs.table.gz - 0.8 Kb)
+0020.842 (0) Table wp_wpb2d_excluded_files: Total expected rows (approximate): 0
+0020.844 (0) Table wp_wpb2d_excluded_files: Total rows added: 0 in 0.00 seconds
+0020.846 (0) Table wp_wpb2d_excluded_files: finishing file (backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_wpb2d_excluded_files.table.gz - 0.3 Kb)
+0020.851 (0) Table wp_wpb2d_options: Total expected rows (approximate): 13
+0020.854 (0) Table wp_wpb2d_options: Total rows added: 13 in 0.00 seconds
+0020.856 (0) Table wp_wpb2d_options: finishing file (backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_wpb2d_options.table.gz - 0.7 Kb)
+0020.860 (0) Table wp_wpb2d_premium_extensions: Total expected rows (approximate): 0
+0020.862 (0) Table wp_wpb2d_premium_extensions: Total rows added: 0 in 0.00 seconds
+0020.863 (0) Table wp_wpb2d_premium_extensions: finishing file (backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_wpb2d_premium_extensions.table.gz - 0.3 Kb)
+0020.867 (0) Table wp_wpb2d_processed_files: Total expected rows (approximate): 0
+0020.869 (0) Table wp_wpb2d_processed_files: Total rows added: 0 in 0.00 seconds
+0020.872 (0) Table wp_wpb2d_processed_files: finishing file (backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_wpb2d_processed_files.table.gz - 0.3 Kb)
+0020.878 (0) Table wp_wponlinebackup_activity_log: Total expected rows (approximate): 1
+0020.881 (0) Table wp_wponlinebackup_activity_log: Total rows added: 1 in 0.00 seconds
+0020.882 (0) Table wp_wponlinebackup_activity_log: finishing file (backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_wponlinebackup_activity_log.table.gz - 0.5 Kb)
+0020.887 (0) Table wp_wponlinebackup_event_log: Total expected rows (approximate): 8
+0020.891 (0) Table wp_wponlinebackup_event_log: Total rows added: 8 in 0.00 seconds
+0020.893 (0) Table wp_wponlinebackup_event_log: finishing file (backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_wponlinebackup_event_log.table.gz - 0.6 Kb)
+0020.898 (0) Table wp_wponlinebackup_generations: Total expected rows (approximate): 0
+0020.901 (0) Table wp_wponlinebackup_generations: Total rows added: 0 in 0.00 seconds
+0020.903 (0) Table wp_wponlinebackup_generations: finishing file (backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_wponlinebackup_generations.table.gz - 0.4 Kb)
+0020.908 (0) Table wp_wponlinebackup_items: Total expected rows (approximate): 2397
+0021.061 (0) Table wp_wponlinebackup_items: Total rows added: 2397 in 0.15 seconds
+0021.068 (0) Table wp_wponlinebackup_items: finishing file (backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_wponlinebackup_items.table.gz - 36.3 Kb)
+0021.078 (0) Table wp_wponlinebackup_scan_log: Total expected rows (approximate): 0
+0021.081 (0) Table wp_wponlinebackup_scan_log: Total rows added: 0 in 0.00 seconds
+0021.082 (0) Table wp_wponlinebackup_scan_log: finishing file (backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_wponlinebackup_scan_log.table.gz - 0.3 Kb)
+0021.087 (0) Table wp_wponlinebackup_status: Total expected rows (approximate): 1
+0021.091 (0) Table wp_wponlinebackup_status: Total rows added: 1 in 0.00 seconds
+0021.093 (0) Table wp_wponlinebackup_status: finishing file (backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_wponlinebackup_status.table.gz - 0.4 Kb)
+0021.098 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_options.table.gz (1/26): adding to final database dump
+0021.158 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_users.table.gz (2/26): adding to final database dump
+0021.159 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_usermeta.table.gz (3/26): adding to final database dump
+0021.161 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_commentmeta.table.gz (4/26): adding to final database dump
+0021.162 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_comments.table.gz (5/26): adding to final database dump
+0021.163 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_links.table.gz (6/26): adding to final database dump
+0021.164 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_postmeta.table.gz (7/26): adding to final database dump
+0021.168 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_posts.table.gz (8/26): adding to final database dump
+0021.177 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_term_relationships.table.gz (9/26): adding to final database dump
+0021.179 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_term_taxonomy.table.gz (10/26): adding to final database dump
+0021.180 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_termmeta.table.gz (11/26): adding to final database dump
+0021.181 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_terms.table.gz (12/26): adding to final database dump
+0021.182 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_groups_rs.table.gz (13/26): adding to final database dump
+0021.183 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_role_scope_rs.table.gz (14/26): adding to final database dump
+0021.185 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_user2group_rs.table.gz (15/26): adding to final database dump
+0021.186 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_user2role2object_rs.table.gz (16/26): adding to final database dump
+0021.187 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_wpb2d_excluded_files.table.gz (17/26): adding to final database dump
+0021.188 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_wpb2d_options.table.gz (18/26): adding to final database dump
+0021.190 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_wpb2d_premium_extensions.table.gz (19/26): adding to final database dump
+0021.192 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_wpb2d_processed_files.table.gz (20/26): adding to final database dump
+0021.193 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_wponlinebackup_activity_log.table.gz (21/26): adding to final database dump
+0021.194 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_wponlinebackup_event_log.table.gz (22/26): adding to final database dump
+0021.196 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_wponlinebackup_generations.table.gz (23/26): adding to final database dump
+0021.197 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_wponlinebackup_items.table.gz (24/26): adding to final database dump
+0021.212 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_wponlinebackup_scan_log.table.gz (25/26): adding to final database dump
+0021.213 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db-table-wp_wponlinebackup_status.table.gz (26/26): adding to final database dump
+0021.219 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db.gz: finished writing out complete database file (264 Kb)
+0021.230 (0) Total database tables backed up: 26 (backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db.gz, size: 275782, checksum (SHA1): 34dd98ec25030a7a9c7e24c69f6162cb244bcbaf)
+0021.232 (0) Saving backup history
+0021.236 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0021.237 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0021.237 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0021.238 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-others.zip: others: This file has not yet been successfully uploaded: will queue
+0021.239 (0) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db.gz: db: This file has not yet been successfully uploaded: will queue
+0021.241 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0021.244 (0) Cloud backup selection (1/1): googledrive (last)
+0021.244 (0) Beginning dispatch of backup to remote (googledrive)
+0021.245 (0) Google Drive: this account is not authorised
+0021.246 (0) An error condition has occurred for the first time during this job
+0021.247 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=1, retain_db=1
+0021.248 (0) Number of backup sets in history: 1
+0021.250 (0) Examining backup set with datestamp: 1453331204 (Jan 20 2016 23:06:44)
+0021.250 (0) 1453331204: this backup set remains non-empty (1/1); will retain in history
+0021.251 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0021.253 (0) Resume backup (68787ddad44b, 0): finish run
+0021.255 (0) Decremented the semaphore (fd) by 1
+0021.256 (0) Semaphore (fd) unlocked
+0021.256 (0) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0021.259 (0) Rescheduling resumption 1: moving to 120 seconds from now (1453331346)
+0021.260 (0) Sikkerhetskopien ble ikke fullført. En gjenopptakelse har blitt planlagt.
+0239.979 (1) Opened log file at time: Wed, 20 Jan 2016 23:10:44 +0000 on http://www.tokenesvel.com
+0239.980 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.4.1 PHP: 5.5.30-1~dotdeb+7.1 (Linux ws04k5 3.2.0-4-amd64 #1 SMP Debian 3.2.73-2+deb7u2 x86_64) MySQL: 5.5.47 Server: Apache/2.2.22 safe_mode: 0 max_execution_time: 30 memory_limit: 256M (used: 7.2M | 7.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0239.981 (1) Free space on disk containing Updraft's temporary directory: 657064 Mb
+0239.983 (1) Backup run: resumption=1, nonce=68787ddad44b, begun at=1453331204 (240s ago), job type=backup, previous check-in=21.1s
+0239.984 (1) Scheduling a resumption (2) after 300 seconds (1453331744) in case this run gets aborted
+0240.000 (1) Checking if we have a zip executable available
+0240.001 (1) Zip engine: found/will use a binary zip: /usr/bin/zip
+0240.002 (1) Creation of backups of directories: already finished
+0240.004 (1) Saving backup status to database (elements: 8)
+0240.006 (1) Database dump (WordPress DB): Creation was completed already
+0240.007 (1) Saving backup history
+0240.011 (1) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0240.012 (1) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0240.012 (1) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0240.013 (1) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-others.zip: others: This file has not yet been successfully uploaded: will queue
+0240.014 (1) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db.gz: db: This file has not yet been successfully uploaded: will queue
+0240.016 (1) Requesting upload of the files that have not yet been successfully uploaded (5)
+0240.017 (1) Cloud backup selection (1/1): googledrive (last)
+0240.022 (1) Beginning dispatch of backup to remote (googledrive)
+0240.022 (1) Google Drive: this account is not authorised
+0240.023 (1) An error condition has occurred for the first time during this job
+0240.025 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=1, retain_db=1
+0240.026 (1) Number of backup sets in history: 1
+0240.027 (1) Examining backup set with datestamp: 1453331204 (Jan 20 2016 23:06:44)
+0240.027 (1) 1453331204: this backup set remains non-empty (1/1); will retain in history
+0240.028 (1) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0240.030 (1) Resume backup (68787ddad44b, 1): finish run
+0240.030 (1) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0240.032 (1) Sikkerhetskopien ble ikke fullført. En gjenopptakelse har blitt planlagt.
+0541.110 (2) Opened log file at time: Wed, 20 Jan 2016 23:15:46 +0000 on http://www.tokenesvel.com
+0541.113 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.4.1 PHP: 5.5.30-1~dotdeb+7.1 (Linux ws04k5 3.2.0-4-amd64 #1 SMP Debian 3.2.73-2+deb7u2 x86_64) MySQL: 5.5.47 Server: Apache/2.2.22 safe_mode: 0 max_execution_time: 30 memory_limit: 256M (used: 7.2M | 7.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0541.115 (2) Free space on disk containing Updraft's temporary directory: 657007 Mb
+0541.116 (2) Backup run: resumption=2, nonce=68787ddad44b, begun at=1453331204 (542s ago), job type=backup
+0541.118 (2) Scheduling a resumption (3) after 300 seconds (1453332046) in case this run gets aborted
+0541.135 (2) Checking if we have a zip executable available
+0541.135 (2) Zip engine: found/will use a binary zip: /usr/bin/zip
+0541.136 (2) Creation of backups of directories: already finished
+0541.138 (2) Saving backup status to database (elements: 8)
+0541.140 (2) Database dump (WordPress DB): Creation was completed already
+0541.141 (2) Saving backup history
+0541.146 (2) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0541.147 (2) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0541.147 (2) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0541.148 (2) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-others.zip: others: This file has not yet been successfully uploaded: will queue
+0541.149 (2) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db.gz: db: This file has not yet been successfully uploaded: will queue
+0541.151 (2) Requesting upload of the files that have not yet been successfully uploaded (5)
+0541.153 (2) Cloud backup selection (1/1): googledrive (last)
+0541.158 (2) Beginning dispatch of backup to remote (googledrive)
+0541.159 (2) Google Drive: this account is not authorised
+0541.159 (2) An error condition has occurred for the first time during this job
+0541.161 (2) Retain: beginning examination of existing backup sets; user setting: retain_files=1, retain_db=1
+0541.162 (2) Number of backup sets in history: 1
+0541.163 (2) Examining backup set with datestamp: 1453331204 (Jan 20 2016 23:06:44)
+0541.164 (2) 1453331204: this backup set remains non-empty (1/1); will retain in history
+0541.164 (2) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0541.166 (2) Resume backup (68787ddad44b, 2): finish run
+0541.167 (2) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0541.169 (2) Sikkerhetskopien ble ikke fullført. En gjenopptakelse har blitt planlagt.
+1551.335 (3) Opened log file at time: Wed, 20 Jan 2016 23:32:36 +0000 on http://www.tokenesvel.com
+1551.336 (3) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.4.1 PHP: 5.5.30-1~dotdeb+7.1 (Linux ws04k5 3.2.0-4-amd64 #1 SMP Debian 3.2.73-2+deb7u2 x86_64) MySQL: 5.5.47 Server: Apache/2.2.22 safe_mode: 0 max_execution_time: 30 memory_limit: 256M (used: 7.2M | 7.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+1551.338 (3) Free space on disk containing Updraft's temporary directory: 656670 Mb
+1551.340 (3) Backup run: resumption=3, nonce=68787ddad44b, begun at=1453331204 (1552s ago), job type=backup
+1551.341 (3) Scheduling a resumption (4) after 300 seconds (1453333056) in case this run gets aborted
+1551.357 (3) Checking if we have a zip executable available
+1551.357 (3) Zip engine: found/will use a binary zip: /usr/bin/zip
+1551.358 (3) Creation of backups of directories: already finished
+1551.362 (3) Saving backup status to database (elements: 8)
+1551.364 (3) Database dump (WordPress DB): Creation was completed already
+1551.365 (3) Saving backup history
+1551.372 (3) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+1551.373 (3) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+1551.374 (3) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+1551.374 (3) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-others.zip: others: This file has not yet been successfully uploaded: will queue
+1551.375 (3) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db.gz: db: This file has not yet been successfully uploaded: will queue
+1551.377 (3) Requesting upload of the files that have not yet been successfully uploaded (5)
+1551.379 (3) Cloud backup selection (1/1): googledrive (last)
+1551.384 (3) Beginning dispatch of backup to remote (googledrive)
+1551.384 (3) Google Drive: this account is not authorised
+1551.385 (3) An error condition has occurred for the first time during this job
+1551.387 (3) Retain: beginning examination of existing backup sets; user setting: retain_files=1, retain_db=1
+1551.388 (3) Number of backup sets in history: 1
+1551.389 (3) Examining backup set with datestamp: 1453331204 (Jan 20 2016 23:06:44)
+1551.389 (3) 1453331204: this backup set remains non-empty (1/1); will retain in history
+1551.390 (3) Retain: saving new backup history (sets now: 1) and finishing retain operation
+1551.392 (3) Resume backup (68787ddad44b, 3): finish run
+1551.393 (3) There were errors in the uploads, so the 'resume' event is remaining scheduled
+1551.395 (3) Sikkerhetskopien ble ikke fullført. En gjenopptakelse har blitt planlagt.
+3689.667 (4) Opened log file at time: Thu, 21 Jan 2016 00:08:14 +0000 on http://www.tokenesvel.com
+3689.668 (4) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.4.1 PHP: 5.5.30-1~dotdeb+7.1 (Linux ws04k5 3.2.0-4-amd64 #1 SMP Debian 3.2.73-2+deb7u2 x86_64) MySQL: 5.5.47 Server: Apache/2.2.22 safe_mode: 0 max_execution_time: 30 memory_limit: 256M (used: 7.2M | 7.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+3689.669 (4) Free space on disk containing Updraft's temporary directory: 657001 Mb
+3689.671 (4) Backup run: resumption=4, nonce=68787ddad44b, begun at=1453331204 (3690s ago), job type=backup
+3689.671 (4) Long time past since expected resumption time: approx expected=1453333056.3, now=1453334894.7, diff=1838.3
+3689.674 (4) [Warning] Websiden din besøkes sjelden samtidig som UpdraftPlus ikke mottar de ressursene den håpet på. Se denne siden: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+3689.676 (4) Scheduling a resumption (5) after 300 seconds (1453335194) in case this run gets aborted
+3689.691 (4) Checking if we have a zip executable available
+3689.691 (4) Zip engine: found/will use a binary zip: /usr/bin/zip
+3689.692 (4) Creation of backups of directories: already finished
+3689.694 (4) Saving backup status to database (elements: 8)
+3689.696 (4) Database dump (WordPress DB): Creation was completed already
+3689.697 (4) Saving backup history
+3689.701 (4) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+3689.702 (4) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+3689.702 (4) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+3689.703 (4) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-others.zip: others: This file has not yet been successfully uploaded: will queue
+3689.704 (4) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db.gz: db: This file has not yet been successfully uploaded: will queue
+3689.706 (4) Requesting upload of the files that have not yet been successfully uploaded (5)
+3689.708 (4) Cloud backup selection (1/1): googledrive (last)
+3689.713 (4) Beginning dispatch of backup to remote (googledrive)
+3689.714 (4) Google Drive: this account is not authorised
+3689.714 (4) An error condition has occurred for the first time during this job
+3689.717 (4) Retain: beginning examination of existing backup sets; user setting: retain_files=1, retain_db=1
+3689.718 (4) Number of backup sets in history: 1
+3689.719 (4) Examining backup set with datestamp: 1453331204 (Jan 20 2016 23:06:44)
+3689.719 (4) 1453331204: this backup set remains non-empty (1/1); will retain in history
+3689.720 (4) Retain: saving new backup history (sets now: 1) and finishing retain operation
+3689.723 (4) Resume backup (68787ddad44b, 4): finish run
+3689.724 (4) There were errors in the uploads, so the 'resume' event is remaining scheduled
+3689.726 (4) Sikkerhetskopien ble ikke fullført. En gjenopptakelse har blitt planlagt.
+5498.341 (5) Opened log file at time: Thu, 21 Jan 2016 00:38:23 +0000 on http://www.tokenesvel.com
+5498.342 (5) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.4.1 PHP: 5.5.30-1~dotdeb+7.1 (Linux ws04k5 3.2.0-4-amd64 #1 SMP Debian 3.2.73-2+deb7u2 x86_64) MySQL: 5.5.47 Server: Apache/2.2.22 safe_mode: 0 max_execution_time: 30 memory_limit: 256M (used: 7.2M | 7.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+5498.343 (5) Free space on disk containing Updraft's temporary directory: 656992 Mb
+5498.345 (5) Backup run: resumption=5, nonce=68787ddad44b, begun at=1453331204 (5499s ago), job type=backup
+5498.345 (5) Long time past since expected resumption time: approx expected=1453335194.7, now=1453336703.3, diff=1508.7
+5498.346 (5) [Warning] Websiden din besøkes sjelden samtidig som UpdraftPlus ikke mottar de ressursene den håpet på. Se denne siden: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+5498.348 (5) Scheduling a resumption (6) after 300 seconds (1453337003) in case this run gets aborted
+5498.363 (5) Checking if we have a zip executable available
+5498.364 (5) Zip engine: found/will use a binary zip: /usr/bin/zip
+5498.364 (5) Creation of backups of directories: already finished
+5498.366 (5) Saving backup status to database (elements: 8)
+5498.368 (5) Database dump (WordPress DB): Creation was completed already
+5498.369 (5) Saving backup history
+5498.373 (5) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+5498.373 (5) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+5498.374 (5) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+5498.375 (5) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-others.zip: others: This file has not yet been successfully uploaded: will queue
+5498.376 (5) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db.gz: db: This file has not yet been successfully uploaded: will queue
+5498.377 (5) Requesting upload of the files that have not yet been successfully uploaded (5)
+5498.379 (5) Cloud backup selection (1/1): googledrive (last)
+5498.384 (5) Beginning dispatch of backup to remote (googledrive)
+5498.385 (5) Google Drive: this account is not authorised
+5498.385 (5) An error condition has occurred for the first time during this job
+5498.387 (5) Retain: beginning examination of existing backup sets; user setting: retain_files=1, retain_db=1
+5498.389 (5) Number of backup sets in history: 1
+5498.390 (5) Examining backup set with datestamp: 1453331204 (Jan 20 2016 23:06:44)
+5498.390 (5) 1453331204: this backup set remains non-empty (1/1); will retain in history
+5498.391 (5) Retain: saving new backup history (sets now: 1) and finishing retain operation
+5498.393 (5) Resume backup (68787ddad44b, 5): finish run
+5498.395 (5) There were errors in the uploads, so the 'resume' event is remaining scheduled
+5498.397 (5) Sikkerhetskopien ble ikke fullført. En gjenopptakelse har blitt planlagt.
+7350.830 (6) Opened log file at time: Thu, 21 Jan 2016 01:09:15 +0000 on http://www.tokenesvel.com
+7350.830 (6) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.4.1 PHP: 5.5.30-1~dotdeb+7.1 (Linux ws04k5 3.2.0-4-amd64 #1 SMP Debian 3.2.73-2+deb7u2 x86_64) MySQL: 5.5.47 Server: Apache/2.2.22 safe_mode: 0 max_execution_time: 30 memory_limit: 256M (used: 7.2M | 7.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+7350.831 (6) Free space on disk containing Updraft's temporary directory: 657137 Mb
+7350.833 (6) Backup run: resumption=6, nonce=68787ddad44b, begun at=1453331204 (7351s ago), job type=backup
+7350.834 (6) Long time past since expected resumption time: approx expected=1453337003.3, now=1453338555.8, diff=1552.5
+7350.835 (6) [Warning] Websiden din besøkes sjelden samtidig som UpdraftPlus ikke mottar de ressursene den håpet på. Se denne siden: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+7350.836 (6) Scheduling a resumption (7) after 300 seconds (1453338855) in case this run gets aborted
+7350.851 (6) Checking if we have a zip executable available
+7350.852 (6) Zip engine: found/will use a binary zip: /usr/bin/zip
+7350.853 (6) Creation of backups of directories: already finished
+7350.854 (6) Saving backup status to database (elements: 8)
+7350.856 (6) Database dump (WordPress DB): Creation was completed already
+7350.857 (6) Saving backup history
+7350.861 (6) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+7350.862 (6) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+7350.863 (6) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+7350.863 (6) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-others.zip: others: This file has not yet been successfully uploaded: will queue
+7350.864 (6) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db.gz: db: This file has not yet been successfully uploaded: will queue
+7350.866 (6) Requesting upload of the files that have not yet been successfully uploaded (5)
+7350.868 (6) Cloud backup selection (1/1): googledrive (last)
+7350.873 (6) Beginning dispatch of backup to remote (googledrive)
+7350.874 (6) Google Drive: this account is not authorised
+7350.874 (6) An error condition has occurred for the first time during this job
+7350.877 (6) Retain: beginning examination of existing backup sets; user setting: retain_files=1, retain_db=1
+7350.877 (6) Number of backup sets in history: 1
+7350.878 (6) Examining backup set with datestamp: 1453331204 (Jan 20 2016 23:06:44)
+7350.879 (6) 1453331204: this backup set remains non-empty (1/1); will retain in history
+7350.880 (6) Retain: saving new backup history (sets now: 1) and finishing retain operation
+7350.882 (6) Resume backup (68787ddad44b, 6): finish run
+7350.883 (6) There were errors in the uploads, so the 'resume' event is remaining scheduled
+7350.885 (6) Sikkerhetskopien ble ikke fullført. En gjenopptakelse har blitt planlagt.
+8331.772 (7) Opened log file at time: Thu, 21 Jan 2016 01:25:36 +0000 on http://www.tokenesvel.com
+8331.800 (7) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.4.1 PHP: 5.5.30-1~dotdeb+7.1 (Linux ws04k5 3.2.0-4-amd64 #1 SMP Debian 3.2.73-2+deb7u2 x86_64) MySQL: 5.5.47 Server: Apache/2.2.22 safe_mode: 0 max_execution_time: 30 memory_limit: 256M (used: 7.2M | 7.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+8331.801 (7) Free space on disk containing Updraft's temporary directory: 657082 Mb
+8331.803 (7) Backup run: resumption=7, nonce=68787ddad44b, begun at=1453331204 (8332s ago), job type=backup
+8331.805 (7) Scheduling a resumption (8) after 300 seconds (1453339836) in case this run gets aborted
+8331.820 (7) Checking if we have a zip executable available
+8331.878 (7) Zip engine: found/will use a binary zip: /usr/bin/zip
+8331.879 (7) Creation of backups of directories: already finished
+8331.881 (7) Saving backup status to database (elements: 8)
+8331.883 (7) Database dump (WordPress DB): Creation was completed already
+8331.883 (7) Saving backup history
+8331.887 (7) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+8331.888 (7) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+8331.889 (7) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+8331.890 (7) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-others.zip: others: This file has not yet been successfully uploaded: will queue
+8331.890 (7) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db.gz: db: This file has not yet been successfully uploaded: will queue
+8331.895 (7) Requesting upload of the files that have not yet been successfully uploaded (5)
+8331.897 (7) Cloud backup selection (1/1): googledrive (last)
+8331.904 (7) Beginning dispatch of backup to remote (googledrive)
+8331.905 (7) Google Drive: this account is not authorised
+8331.905 (7) An error condition has occurred for the first time during this job
+8331.907 (7) Retain: beginning examination of existing backup sets; user setting: retain_files=1, retain_db=1
+8331.909 (7) Number of backup sets in history: 1
+8331.909 (7) Examining backup set with datestamp: 1453331204 (Jan 20 2016 23:06:44)
+8331.910 (7) 1453331204: this backup set remains non-empty (1/1); will retain in history
+8331.911 (7) Retain: saving new backup history (sets now: 1) and finishing retain operation
+8331.913 (7) Resume backup (68787ddad44b, 7): finish run
+8331.915 (7) There were errors in the uploads, so the 'resume' event is remaining scheduled
+8331.917 (7) Sikkerhetskopien ble ikke fullført. En gjenopptakelse har blitt planlagt.
+10340.023 (8) Opened log file at time: Thu, 21 Jan 2016 01:59:05 +0000 on http://www.tokenesvel.com
+10340.024 (8) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.4.1 PHP: 5.5.30-1~dotdeb+7.1 (Linux ws04k5 3.2.0-4-amd64 #1 SMP Debian 3.2.73-2+deb7u2 x86_64) MySQL: 5.5.47 Server: Apache/2.2.22 safe_mode: 0 max_execution_time: 30 memory_limit: 256M (used: 7.2M | 7.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+10340.025 (8) Free space on disk containing Updraft's temporary directory: 657016 Mb
+10340.027 (8) Backup run: resumption=8, nonce=68787ddad44b, begun at=1453331204 (10341s ago), job type=backup
+10340.028 (8) Long time past since expected resumption time: approx expected=1453339836.8, now=1453341545, diff=1708.3
+10340.029 (8) [Warning] Websiden din besøkes sjelden samtidig som UpdraftPlus ikke mottar de ressursene den håpet på. Se denne siden: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+10340.032 (8) Scheduling a resumption (9) after 300 seconds (1453341845) in case this run gets aborted
+10340.047 (8) Checking if we have a zip executable available
+10340.048 (8) Zip engine: found/will use a binary zip: /usr/bin/zip
+10340.048 (8) Creation of backups of directories: already finished
+10340.050 (8) Saving backup status to database (elements: 8)
+10340.052 (8) Database dump (WordPress DB): Creation was completed already
+10340.053 (8) Saving backup history
+10340.057 (8) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+10340.057 (8) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+10340.058 (8) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+10340.059 (8) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-others.zip: others: This file has not yet been successfully uploaded: will queue
+10340.060 (8) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db.gz: db: This file has not yet been successfully uploaded: will queue
+10340.063 (8) Requesting upload of the files that have not yet been successfully uploaded (5)
+10340.065 (8) Cloud backup selection (1/1): googledrive (last)
+10340.070 (8) Beginning dispatch of backup to remote (googledrive)
+10340.071 (8) Google Drive: this account is not authorised
+10340.071 (8) An error condition has occurred for the first time during this job
+10340.073 (8) Retain: beginning examination of existing backup sets; user setting: retain_files=1, retain_db=1
+10340.074 (8) Number of backup sets in history: 1
+10340.075 (8) Examining backup set with datestamp: 1453331204 (Jan 20 2016 23:06:44)
+10340.076 (8) 1453331204: this backup set remains non-empty (1/1); will retain in history
+10340.076 (8) Retain: saving new backup history (sets now: 1) and finishing retain operation
+10340.079 (8) Resume backup (68787ddad44b, 8): finish run
+10340.080 (8) There were errors in the uploads, so the 'resume' event is remaining scheduled
+10340.082 (8) Sikkerhetskopien ble ikke fullført. En gjenopptakelse har blitt planlagt.
+13459.550 (9) Opened log file at time: Thu, 21 Jan 2016 02:51:04 +0000 on http://www.tokenesvel.com
+13459.551 (9) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.4.1 PHP: 5.5.30-1~dotdeb+7.1 (Linux ws04k5 3.2.0-4-amd64 #1 SMP Debian 3.2.73-2+deb7u2 x86_64) MySQL: 5.5.47 Server: Apache/2.2.22 safe_mode: 0 max_execution_time: 30 memory_limit: 256M (used: 7.2M | 7.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+13459.552 (9) Free space on disk containing Updraft's temporary directory: 656859 Mb
+13459.554 (9) Backup run: resumption=9, nonce=68787ddad44b, begun at=1453331204 (13460s ago), job type=backup
+13459.554 (9) Long time past since expected resumption time: approx expected=1453341845, now=1453344664.5, diff=2819.5
+13459.555 (9) [Warning] Websiden din besøkes sjelden samtidig som UpdraftPlus ikke mottar de ressursene den håpet på. Se denne siden: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+13459.557 (9) The current run is resumption number 9, and there was nothing useful done on the last run (last useful run: 0) - will not schedule a further attempt until we see something useful happening this time
+13459.572 (9) Creation of backups of directories: already finished
+13459.574 (9) Saving backup status to database (elements: 8)
+13459.576 (9) Database dump (WordPress DB): Creation was completed already
+13459.576 (9) Saving backup history
+13459.580 (9) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+13459.581 (9) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+13459.582 (9) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+13459.583 (9) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-others.zip: others: This file has not yet been successfully uploaded: will queue
+13459.584 (9) backup_2016-01-20-2306_Tokenes_Vel_68787ddad44b-db.gz: db: This file has not yet been successfully uploaded: will queue
+13459.586 (9) Requesting upload of the files that have not yet been successfully uploaded (5)
+13459.587 (9) Cloud backup selection (1/1): googledrive (last)
+13459.593 (9) Beginning dispatch of backup to remote (googledrive)
+13459.663 (9) Google Drive: this account is not authorised
+13459.664 (9) An error condition has occurred for the first time during this job
+13459.666 (9) Retain: beginning examination of existing backup sets; user setting: retain_files=1, retain_db=1
+13459.667 (9) Number of backup sets in history: 1
+13459.668 (9) Examining backup set with datestamp: 1453331204 (Jan 20 2016 23:06:44)
+13459.669 (9) 1453331204: this backup set remains non-empty (1/1); will retain in history
+13459.669 (9) Retain: saving new backup history (sets now: 1) and finishing retain operation
+13459.672 (9) Resume backup (68787ddad44b, 9): finish run
+13459.673 (9) There were errors in the uploads, so the 'resume' event is remaining scheduled
+13459.675 (9) Fetching RSS news feed
+13459.723 (9) Fetched RSS news feed; result is a: SimplePie
+13459.728 (9) Sending email ('Filer og database (Fullstendig sikkerhetskopi)') report (attachments: 1, size: 49.5 Kb) to: kjeti...
+13459.754 (9) Sikkerhetskopieringen feilet.

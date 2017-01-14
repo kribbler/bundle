@@ -1,0 +1,289 @@
+0000.002 (0) Opened log file at time: Fri, 22 Jan 2016 23:35:26 +0000 on http://www.tokenesvel.com
+0000.004 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.20 WP: 4.4.1 PHP: 5.5.30-1~dotdeb+7.1 (Linux ws04k5 3.2.0-4-amd64 #1 SMP Debian 3.2.73-2+deb7u2 x86_64) MySQL: 5.5.47 Server: Apache/2.2.22 safe_mode: 0 max_execution_time: 30 memory_limit: 256M (used: 7.1M | 7.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.004 (0) Free space on disk containing Updraft's temporary directory: 662223 Mb
+0000.009 (0) Tasks: Backup files: 1 (schedule: every4hours) Backup DB:  (schedule: every4hours)
+0000.010 (0) Processed schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.018 (0) Requesting semaphore lock (fd)
+0000.020 (0) Set semaphore last lock (fd) time to 2016-01-22 23:35:26
+0000.021 (0) Semaphore lock (fd) complete
+0000.025 (0) Backup run: resumption=0, nonce=a255ca1cf32f, begun at=1453505726 (0s ago), job type=backup
+0000.026 (0) Scheduling a resumption (1) after 300 seconds (1453506026) in case this run gets aborted
+0000.042 (0) Checking if we have a zip executable available
+0000.043 (0) Testing: /usr/bin/zip
+0000.060 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.073 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.074 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.075 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=128) (out=105) (deflated 18%)
+0000.076 (0) Output: total bytes=128, compressed=105 -> 18% savings
+0000.114 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=135) (out=111) (deflated 18%)
+0000.115 (0) Output: total bytes=263, compressed=216 -> 18% savings
+0000.134 (0) Working binary zip found: /usr/bin/zip
+0000.135 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.136 (0) Creation of backups of directories: beginning
+0000.142 (0) Beginning creation of dump of plugins (split every: 500 Mb)
+0002.687 (0) Total entities for the zip file: 225 directories, 1590 files (0 skipped as non-modified), 23.5 Mb
+0002.903 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 2.0 seconds have passed since the last write (0.3 Mb, 38 (38) files added so far); re-opening (prior size: 0 Kb)
+0002.975 (0) backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-plugins.zip.tmp: size is now: 0.20 Mb
+0003.312 (0) Zip: backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-plugins.zip.tmp: 100 files added (on-disk size: 189.1 Kb)
+0003.901 (0) Zip: backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-plugins.zip.tmp: 200 files added (on-disk size: 189.1 Kb)
+0004.397 (0) Zip: backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-plugins.zip.tmp: 300 files added (on-disk size: 189.1 Kb)
+0004.829 (0) Zip: backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-plugins.zip.tmp: 400 files added (on-disk size: 189.1 Kb)
+0005.393 (0) Zip: backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-plugins.zip.tmp: 500 files added (on-disk size: 189.1 Kb)
+0005.595 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (16.6 Mb, 1590 files batched, 501 (539) added so far); re-opening (prior size: 189.1 Kb)
+0006.930 (0) backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-plugins.zip.tmp: size is now: 5.50 Mb
+0007.449 (0) Zip: backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-plugins.zip.tmp: 600 files added (on-disk size: 5634.8 Kb)
+0007.911 (0) Zip: backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-plugins.zip.tmp: 700 files added (on-disk size: 5634.8 Kb)
+0008.385 (0) Zip: backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-plugins.zip.tmp: 800 files added (on-disk size: 5634.8 Kb)
+0008.848 (0) Zip: backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-plugins.zip.tmp: 900 files added (on-disk size: 5634.8 Kb)
+0009.027 (0) Zip: backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-plugins.zip.tmp: 1000 files added (on-disk size: 5634.8 Kb)
+0009.131 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.9 Mb, 1590 files batched, 501 (1040) added so far); re-opening (prior size: 5634.8 Kb)
+0010.101 (0) Zip: backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-plugins.zip.tmp: 1100 files added (on-disk size: 6333.7 Kb)
+0010.517 (0) Zip: backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-plugins.zip.tmp: 1200 files added (on-disk size: 6333.7 Kb)
+0011.224 (0) Zip: backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-plugins.zip.tmp: 1300 files added (on-disk size: 6333.7 Kb)
+0011.560 (0) Zip: backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-plugins.zip.tmp: 1400 files added (on-disk size: 6333.7 Kb)
+0011.913 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 2.0 seconds have passed since the last write (3.3 Mb, 417 (1457) files added so far); re-opening (prior size: 6333.7 Kb)
+0012.602 (0) backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-plugins.zip.tmp: size is now: 7.50 Mb
+0012.823 (0) Zip: backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-plugins.zip.tmp: 1500 files added (on-disk size: 7711.3 Kb)
+0013.589 (0) Created plugins zip (0) - 8246.7 Kb in 13.4 s (613.8 Kb/s) (SHA1 checksum: de90616a8eb8a41170e9dbc88eda95675ef1f59e)
+0013.605 (0) Beginning creation of dump of themes (split every: 500 Mb)
+0014.270 (0) Total entities for the zip file: 41 directories, 498 files (0 skipped as non-modified), 4.4 Mb
+0014.791 (0) Zip: backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-themes.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0015.260 (0) Zip: backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-themes.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0015.619 (0) Zip: backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-themes.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0015.904 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 2.0 seconds have passed since the last write (2.6 Mb, 351 (351) files added so far); re-opening (prior size: 0 Kb)
+0016.298 (0) backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-themes.zip.tmp: size is now: 2.20 Mb
+0016.429 (0) Zip: backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-themes.zip.tmp: 400 files added (on-disk size: 2231.4 Kb)
+0016.775 (0) backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-themes.zip.tmp: size is now: 3.50 Mb
+0016.795 (0) Created themes zip (0) - 3582.3 Kb in 3.2 s (1129.2 Kb/s) (SHA1 checksum: d20f3dade10fb4f4afd3e4110fc569e6fed61eac)
+0016.799 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone
+0016.800 (0) Looking for candidates to back up in: /home/2/t/tokenesvel/www/wp-content/uploads
+0016.801 (0) finding files: 2014: adding to list (1)
+0016.802 (0) finding files: 2013: adding to list (2)
+0016.802 (0) finding files: 2012: adding to list (3)
+0016.803 (0) finding files: 2015: adding to list (4)
+0016.803 (0) finding files: 2016: adding to list (5)
+0016.804 (0) Beginning creation of dump of uploads (split every: 500 Mb)
+0017.045 (0) Total entities for the zip file: 37 directories, 239 files (0 skipped as non-modified), 45.8 Mb
+0017.508 (0) Zip: backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-uploads.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0017.722 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 Mb added on this batch (25.1 Mb, 239 files batched, 182 (182) added so far); re-opening (prior size: 0 Kb)
+0018.922 (0) backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-uploads.zip.tmp: size is now: 24.30 Mb
+0018.925 (0) A useful amount of data was added after this amount of zip processing: 3 s (normalised: 3 s, rate: 8491 Kb/s)
+0018.927 (0) Performance is good - will increase the amount of data we attempt to batch (time=3.0286660194397, normalised_time=3.0149429134965, max_time=-1, data points known=0, old_max_bytes=26214400, new_max_bytes=52168947)
+0018.997 (0) Zip: backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-uploads.zip.tmp: 200 files added (on-disk size: 24869.1 Kb)
+0020.082 (0) backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-uploads.zip.tmp: size is now: 44.90 Mb
+0020.279 (0) Created uploads zip (0) - 45989.9 Kb in 3.5 s (13264.5 Kb/s) (SHA1 checksum: 7be0670048c39b814bb959348cc5f50c90c27f0e)
+0020.287 (0) Beginning backup of other directories found in the content directory (index: 0)
+0020.288 (0) Exclusion option setting (others): upgrade,cache,updraft,index.php,backup,backups
+0020.289 (0) Looking for candidates to back up in: /home/2/t/tokenesvel/www/wp-content
+0020.290 (0) finding files: index.php: skipping: excluded by options
+0020.291 (0) finding files: upgrade: skipping: excluded by options
+0020.292 (0) finding files: languages: adding to list (1)
+0020.292 (0) finding files: themes: skipping: this is the themes directory
+0020.293 (0) finding files: updraft: skipping: this is the updraft directory
+0020.294 (0) finding files: uploads: skipping: this is the uploads directory
+0020.295 (0) finding files: backups: skipping: excluded by options
+0020.295 (0) finding files: plugins: skipping: this is the plugins directory
+0020.296 (0) finding files: cache: skipping: excluded by options
+0020.395 (0) Total entities for the zip file: 3 directories, 22 files (0 skipped as non-modified), 1.5 Mb
+0020.662 (0) backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-others.zip.tmp: size is now: 0.40 Mb
+0020.673 (0) Created others zip (0) - 451.9 Kb in 0.4 s (1246.5 Kb/s) (SHA1 checksum: 672b753f9ad5c966283cbeda6b3e789b834877d6)
+0020.679 (0) Saving backup status to database (elements: 8)
+0020.682 (0) Beginning creation of database dump (WordPress DB)
+0020.710 (0) Testing: /usr/bin/mysqldump
+0020.731 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0020.743 (0) Table wp_options: Total expected rows (approximate): 1344
+0020.814 (0) Table wp_options: Total rows added: 390 in 0.07 seconds
+0020.846 (0) Table wp_options: finishing file (backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db-table-wp_options.table.gz - 198.7 Kb)
+0020.852 (0) Table wp_users: Total expected rows (approximate): 4
+0020.855 (0) Table wp_users: Total rows added: 4 in 0.00 seconds
+0020.857 (0) Table wp_users: finishing file (backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db-table-wp_users.table.gz - 0.8 Kb)
+0020.863 (0) Table wp_usermeta: Total expected rows (approximate): 82
+0020.868 (0) Table wp_usermeta: Total rows added: 82 in 0.00 seconds
+0020.875 (0) Table wp_usermeta: finishing file (backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db-table-wp_usermeta.table.gz - 2 Kb)
+0020.892 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0020.896 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0020.900 (0) Table wp_commentmeta: finishing file (backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db-table-wp_commentmeta.table.gz - 0.4 Kb)
+0020.905 (0) Table wp_comments: Total expected rows (approximate): 0
+0020.907 (0) Table wp_comments: Total rows added: 0 in 0.00 seconds
+0020.912 (0) Table wp_comments: finishing file (backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db-table-wp_comments.table.gz - 0.5 Kb)
+0020.917 (0) Table wp_links: Total expected rows (approximate): 0
+0020.919 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0020.925 (0) Table wp_links: finishing file (backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db-table-wp_links.table.gz - 0.4 Kb)
+0020.948 (0) Table wp_postmeta: Total expected rows (approximate): 339
+0020.958 (0) Table wp_postmeta: Total rows added: 434 in 0.01 seconds
+0020.963 (0) Table wp_postmeta: finishing file (backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db-table-wp_postmeta.table.gz - 7 Kb)
+0020.974 (0) Table wp_posts: Total expected rows (approximate): 362
+0021.017 (0) Table wp_posts: Total rows added: 394 in 0.04 seconds
+0021.025 (0) Table wp_posts: finishing file (backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db-table-wp_posts.table.gz - 24.6 Kb)
+0021.031 (0) Table wp_term_relationships: Total expected rows (approximate): 59
+0021.035 (0) Table wp_term_relationships: Total rows added: 59 in 0.00 seconds
+0021.039 (0) Table wp_term_relationships: finishing file (backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db-table-wp_term_relationships.table.gz - 0.6 Kb)
+0021.043 (0) Table wp_term_taxonomy: Total expected rows (approximate): 17
+0021.047 (0) Table wp_term_taxonomy: Total rows added: 17 in 0.00 seconds
+0021.057 (0) Table wp_term_taxonomy: finishing file (backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db-table-wp_term_taxonomy.table.gz - 0.6 Kb)
+0021.063 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0021.066 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0021.069 (0) Table wp_termmeta: finishing file (backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db-table-wp_termmeta.table.gz - 0.4 Kb)
+0021.073 (0) Table wp_terms: Total expected rows (approximate): 17
+0021.077 (0) Table wp_terms: Total rows added: 17 in 0.00 seconds
+0021.080 (0) Table wp_terms: finishing file (backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db-table-wp_terms.table.gz - 0.6 Kb)
+0021.084 (0) Table wp_groups_rs: Total expected rows (approximate): 8
+0021.088 (0) Table wp_groups_rs: Total rows added: 8 in 0.00 seconds
+0021.093 (0) Table wp_groups_rs: finishing file (backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db-table-wp_groups_rs.table.gz - 0.6 Kb)
+0021.098 (0) Table wp_role_scope_rs: Total expected rows (approximate): 2
+0021.101 (0) Table wp_role_scope_rs: Total rows added: 2 in 0.00 seconds
+0021.105 (0) Table wp_role_scope_rs: finishing file (backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db-table-wp_role_scope_rs.table.gz - 0.6 Kb)
+0021.109 (0) Table wp_user2group_rs: Total expected rows (approximate): 0
+0021.112 (0) Table wp_user2group_rs: Total rows added: 0 in 0.00 seconds
+0021.113 (0) Table wp_user2group_rs: finishing file (backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db-table-wp_user2group_rs.table.gz - 0.4 Kb)
+0021.118 (0) Table wp_user2role2object_rs: Total expected rows (approximate): 6
+0021.121 (0) Table wp_user2role2object_rs: Total rows added: 6 in 0.00 seconds
+0021.124 (0) Table wp_user2role2object_rs: finishing file (backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db-table-wp_user2role2object_rs.table.gz - 0.8 Kb)
+0021.128 (0) backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db-table-wp_options.table.gz (1/16): adding to final database dump
+0021.178 (0) backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db-table-wp_users.table.gz (2/16): adding to final database dump
+0021.179 (0) backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db-table-wp_usermeta.table.gz (3/16): adding to final database dump
+0021.181 (0) backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db-table-wp_commentmeta.table.gz (4/16): adding to final database dump
+0021.182 (0) backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db-table-wp_comments.table.gz (5/16): adding to final database dump
+0021.183 (0) backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db-table-wp_links.table.gz (6/16): adding to final database dump
+0021.187 (0) backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db-table-wp_postmeta.table.gz (7/16): adding to final database dump
+0021.190 (0) backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db-table-wp_posts.table.gz (8/16): adding to final database dump
+0021.200 (0) backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db-table-wp_term_relationships.table.gz (9/16): adding to final database dump
+0021.201 (0) backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db-table-wp_term_taxonomy.table.gz (10/16): adding to final database dump
+0021.203 (0) backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db-table-wp_termmeta.table.gz (11/16): adding to final database dump
+0021.204 (0) backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db-table-wp_terms.table.gz (12/16): adding to final database dump
+0021.205 (0) backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db-table-wp_groups_rs.table.gz (13/16): adding to final database dump
+0021.206 (0) backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db-table-wp_role_scope_rs.table.gz (14/16): adding to final database dump
+0021.208 (0) backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db-table-wp_user2group_rs.table.gz (15/16): adding to final database dump
+0021.209 (0) backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db-table-wp_user2role2object_rs.table.gz (16/16): adding to final database dump
+0021.216 (0) backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db.gz: finished writing out complete database file (208 Kb)
+0021.228 (0) Total database tables backed up: 16 (backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db.gz, size: 241128, checksum (SHA1): 2e78d8dca4d4aef8daf3507eebe84338d7c93a83)
+0021.229 (0) Saving backup history
+0021.234 (0) backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0021.235 (0) backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0021.235 (0) backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0021.236 (0) backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-others.zip: others: This file has not yet been successfully uploaded: will queue
+0021.237 (0) backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db.gz: db: This file has not yet been successfully uploaded: will queue
+0021.239 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0021.242 (0) Cloud backup selection (1/1): googledrive (last)
+0021.243 (0) Beginning dispatch of backup to remote (googledrive)
+0021.248 (0) Google Drive: requesting access token: client_id=170937604961-8p368a1gkm6i2rmnj77k652gchaqgrc4.apps.googleusercontent.com
+0021.610 (0) Google Drive: successfully obtained access token
+0022.761 (0) Google Drive: creating path: /UpdraftPlus
+0023.817 (0) Google Drive quota usage: used=3.8 Mb, total=15360 Mb, available=15356.2 Mb
+0023.818 (0) backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-plugins.zip: Attempting to upload to Google Drive (into folder id: 0B3pEuCdRwdKDNzVYN2tLOHBjbG8)
+0024.798 (0) Googledrive chunked upload: 12.4 % uploaded (1048576)
+0025.488 (0) Googledrive chunked upload: 24.8 % uploaded (2097152)
+0026.128 (0) Googledrive chunked upload: 37.3 % uploaded (3145728)
+0026.795 (0) Googledrive chunked upload: 49.7 % uploaded (4194304)
+0027.456 (0) Googledrive chunked upload: 62.1 % uploaded (5242880)
+0028.096 (0) Googledrive chunked upload: 74.5 % uploaded (6291456)
+0028.736 (0) Googledrive chunked upload: 86.9 % uploaded (7340032)
+0029.341 (0) Googledrive chunked upload: 99.3 % uploaded (8388608)
+0030.438 (0) Googledrive chunked upload: 100 % uploaded (8388608)
+0030.443 (0) OK: Archive backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-plugins.zip uploaded to Google Drive in 6.62 seconds
+0030.445 (0) Recording as successfully uploaded: backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-plugins.zip (5f4fea9b5635629e1295703289e03806)
+0030.453 (0) Deleting local file: backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-plugins.zip: OK
+0030.860 (0) Google Drive quota usage: used=11.9 Mb, total=15360 Mb, available=15348.1 Mb
+0030.861 (0) backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-themes.zip: Attempting to upload to Google Drive (into folder id: 0B3pEuCdRwdKDNzVYN2tLOHBjbG8)
+0031.834 (0) Googledrive chunked upload: 28.6 % uploaded (1048576)
+0032.459 (0) Googledrive chunked upload: 57.2 % uploaded (2097152)
+0033.102 (0) Googledrive chunked upload: 85.8 % uploaded (3145728)
+0034.331 (0) Googledrive chunked upload: 100 % uploaded (3145728)
+0034.333 (0) OK: Archive backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-themes.zip uploaded to Google Drive in 3.47 seconds
+0034.335 (0) Recording as successfully uploaded: backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-themes.zip (62c2a443af89ecdf3a726e9a10310ba0)
+0034.342 (0) Deleting local file: backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-themes.zip: OK
+0034.762 (0) Google Drive quota usage: used=15.3 Mb, total=15360 Mb, available=15344.7 Mb
+0034.764 (0) backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-uploads.zip: Attempting to upload to Google Drive (into folder id: 0B3pEuCdRwdKDNzVYN2tLOHBjbG8)
+0035.722 (0) Googledrive chunked upload: 2.2 % uploaded (1048576)
+0036.762 (0) Googledrive chunked upload: 4.5 % uploaded (2097152)
+0037.768 (0) Googledrive chunked upload: 6.7 % uploaded (3145728)
+0038.758 (0) Googledrive chunked upload: 8.9 % uploaded (4194304)
+0039.786 (0) Googledrive chunked upload: 11.1 % uploaded (5242880)
+0040.732 (0) Googledrive chunked upload: 13.4 % uploaded (6291456)
+0041.644 (0) Googledrive chunked upload: 15.6 % uploaded (7340032)
+0042.604 (0) Googledrive chunked upload: 17.8 % uploaded (8388608)
+0043.618 (0) Googledrive chunked upload: 20 % uploaded (9437184)
+0044.534 (0) Googledrive chunked upload: 22.3 % uploaded (10485760)
+0045.502 (0) Googledrive chunked upload: 24.5 % uploaded (11534336)
+0046.407 (0) Googledrive chunked upload: 26.7 % uploaded (12582912)
+0047.331 (0) Googledrive chunked upload: 28.9 % uploaded (13631488)
+0049.926 (0) Googledrive chunked upload: 31.2 % uploaded (14680064)
+0050.904 (0) Googledrive chunked upload: 33.4 % uploaded (15728640)
+0051.840 (0) Googledrive chunked upload: 35.6 % uploaded (16777216)
+0052.829 (0) Googledrive chunked upload: 37.9 % uploaded (17825792)
+0053.770 (0) Googledrive chunked upload: 40.1 % uploaded (18874368)
+0054.728 (0) Googledrive chunked upload: 42.3 % uploaded (19922944)
+0055.664 (0) Googledrive chunked upload: 44.5 % uploaded (20971520)
+0056.626 (0) Googledrive chunked upload: 46.8 % uploaded (22020096)
+0057.583 (0) Googledrive chunked upload: 49 % uploaded (23068672)
+0058.518 (0) Googledrive chunked upload: 51.2 % uploaded (24117248)
+0060.447 (0) Googledrive chunked upload: 53.4 % uploaded (25165824)
+0061.374 (0) Googledrive chunked upload: 55.7 % uploaded (26214400)
+0062.327 (0) Googledrive chunked upload: 57.9 % uploaded (27262976)
+0063.302 (0) Googledrive chunked upload: 60.1 % uploaded (28311552)
+0064.230 (0) Googledrive chunked upload: 62.3 % uploaded (29360128)
+0065.190 (0) Googledrive chunked upload: 64.6 % uploaded (30408704)
+0066.089 (0) Googledrive chunked upload: 66.8 % uploaded (31457280)
+0067.022 (0) Googledrive chunked upload: 69 % uploaded (32505856)
+0068.002 (0) Googledrive chunked upload: 71.3 % uploaded (33554432)
+0068.925 (0) Googledrive chunked upload: 73.5 % uploaded (34603008)
+0069.840 (0) Googledrive chunked upload: 75.7 % uploaded (35651584)
+0070.826 (0) Googledrive chunked upload: 77.9 % uploaded (36700160)
+0071.780 (0) Googledrive chunked upload: 80.2 % uploaded (37748736)
+0072.730 (0) Googledrive chunked upload: 82.4 % uploaded (38797312)
+0073.714 (0) Googledrive chunked upload: 84.6 % uploaded (39845888)
+0074.653 (0) Googledrive chunked upload: 86.8 % uploaded (40894464)
+0075.613 (0) Googledrive chunked upload: 89.1 % uploaded (41943040)
+0076.594 (0) Googledrive chunked upload: 91.3 % uploaded (42991616)
+0077.565 (0) Googledrive chunked upload: 93.5 % uploaded (44040192)
+0078.493 (0) Googledrive chunked upload: 95.7 % uploaded (45088768)
+0080.277 (0) Googledrive chunked upload: 98 % uploaded (46137344)
+0081.795 (0) Googledrive chunked upload: 100 % uploaded (46137344)
+0081.798 (0) OK: Archive backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-uploads.zip uploaded to Google Drive in 47.03 seconds
+0081.800 (0) Recording as successfully uploaded: backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-uploads.zip (198db01513d7628462bec9e45f555346)
+0081.821 (0) Deleting local file: backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-uploads.zip: OK
+0082.222 (0) Google Drive quota usage: used=60.3 Mb, total=15360 Mb, available=15299.7 Mb
+0082.223 (0) backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-others.zip: Attempting to upload to Google Drive (into folder id: 0B3pEuCdRwdKDNzVYN2tLOHBjbG8)
+0083.848 (0) Googledrive chunked upload: 100 % uploaded
+0083.851 (0) OK: Archive backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-others.zip uploaded to Google Drive in 1.63 seconds
+0083.852 (0) Recording as successfully uploaded: backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-others.zip (cb7c518c720a71c26c32d0f0ddae8db1)
+0083.859 (0) Deleting local file: backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-others.zip: OK
+0084.269 (0) Google Drive quota usage: used=60.7 Mb, total=15360 Mb, available=15299.3 Mb
+0084.270 (0) backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db.gz: Attempting to upload to Google Drive (into folder id: 0B3pEuCdRwdKDNzVYN2tLOHBjbG8)
+0085.809 (0) Googledrive chunked upload: 100 % uploaded
+0085.811 (0) OK: Archive backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db.gz uploaded to Google Drive in 1.54 seconds
+0085.813 (0) Recording as successfully uploaded: backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db.gz (4a58d987a7e905e3eac36877c6190817)
+0085.818 (0) Deleting local file: backup_2016-01-22-2335_Tokenes_Vel_a255ca1cf32f-db.gz: OK
+0085.822 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=1, retain_db=1
+0085.824 (0) Number of backup sets in history: 2
+0085.830 (0) Examining backup set with datestamp: 1453505726 (Jan 22 2016 23:35:26)
+0085.831 (0) 1453505726: this backup set remains non-empty (1/1); will retain in history
+0085.832 (0) Examining backup set with datestamp: 1453490592 (Jan 22 2016 19:23:12)
+0085.833 (0) 1453490592: db: this set includes a database (backup_2016-01-22-1923_Tokenes_Vel_e0292e9397fe-db.gz); db count is now 2
+0085.834 (0) 1453490592: db: over retain limit (1); will delete this database
+0085.835 (0) Delete file: backup_2016-01-22-1923_Tokenes_Vel_e0292e9397fe-db.gz, service=googledrive
+0086.208 (0) backup_2016-01-22-1923_Tokenes_Vel_e0292e9397fe-db.gz: Deletion failed: file was not found
+0086.211 (0) plugins: 1453490592: over retain limit (1); will delete this file (backup_2016-01-22-1923_Tokenes_Vel_e0292e9397fe-plugins.zip)
+0086.211 (0) themes: 1453490592: over retain limit (1); will delete this file (backup_2016-01-22-1923_Tokenes_Vel_e0292e9397fe-themes.zip)
+0086.212 (0) uploads: 1453490592: over retain limit (1); will delete this file (backup_2016-01-22-1923_Tokenes_Vel_e0292e9397fe-uploads.zip)
+0086.213 (0) others: 1453490592: over retain limit (1); will delete this file (backup_2016-01-22-1923_Tokenes_Vel_e0292e9397fe-others.zip)
+0086.213 (0) Delete file: backup_2016-01-22-1923_Tokenes_Vel_e0292e9397fe-plugins.zip, service=googledrive
+0086.217 (0) Delete file: backup_2016-01-22-1923_Tokenes_Vel_e0292e9397fe-themes.zip, service=googledrive
+0086.221 (0) Delete file: backup_2016-01-22-1923_Tokenes_Vel_e0292e9397fe-uploads.zip, service=googledrive
+0086.224 (0) Delete file: backup_2016-01-22-1923_Tokenes_Vel_e0292e9397fe-others.zip, service=googledrive
+0086.613 (0) backup_2016-01-22-1923_Tokenes_Vel_e0292e9397fe-plugins.zip: Deletion failed: file was not found
+0086.614 (0) backup_2016-01-22-1923_Tokenes_Vel_e0292e9397fe-themes.zip: Deletion failed: file was not found
+0086.615 (0) backup_2016-01-22-1923_Tokenes_Vel_e0292e9397fe-uploads.zip: Deletion failed: file was not found
+0086.616 (0) backup_2016-01-22-1923_Tokenes_Vel_e0292e9397fe-others.zip: Deletion failed: file was not found
+0086.618 (0) 1453490592: this backup set is now empty; will remove from history
+0086.621 (0) 1453490592: deleting log file (log.e0292e9397fe.txt)
+0086.624 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0086.627 (0) Resume backup (a255ca1cf32f, 0): finish run
+0086.629 (0) Decremented the semaphore (fd) by 1
+0086.630 (0) Semaphore (fd) unlocked
+0086.631 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0086.635 (0) The backup apparently succeeded and is now complete
+0086.636 (0) Fetching RSS news feed
+0086.815 (0) Fetched RSS news feed; result is a: SimplePie
+0086.818 (0) Sending email ('Filer og database (Fullstendig sikkerhetskopi)') report (attachments: 0, size: 0 Kb) to: kjeti...
+0086.864 (0) Sikkerhetskopieringen er fullført.

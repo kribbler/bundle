@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Evermore\n"
+"POT-Creation-Date: 2013-03-01 10:54+1000\n"
+"PO-Revision-Date: 2013-03-01 11:12+1000\n"
+"Last-Translator: \n"
+"Language-Team: Pexeto\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;pexeto_text\n"
+"X-Poedit-Basepath: .\n"
+
+
+msgid "404_text"
+msgstr "The requested page has not been found"
+
+msgid "no_posts_available"
+msgstr "No posts available"
+
+msgid "no_comments_text"
+msgstr "No comments"
+
+msgid "one_comment_text"
+msgstr "One comment"
+
+msgid "comments_text"
+msgstr "comments"
+
+msgid "comment_name_text"
+msgstr "Name"
+
+msgid "email_text"
+msgstr "E-mail"
+
+msgid "website_text"
+msgstr "Website"
+
+msgid "your_comment_text"
+msgstr "Your comment"
+
+msgid "leave_comment_text"
+msgstr "Leave a comment"
+
+msgid "submit_comment_text"
+msgstr "Submit comment"
+
+msgid "leave_reply_to_text"
+msgstr "Leave a reply"
+
+msgid "cancel_reply_text"
+msgstr "Cancel reply"
+
+msgid "ca_title"
+msgstr "Footer call to action title"
+
+msgid "ca_desc"
+msgstr "Footer call to action description"
+
+msgid "ca_btn_text"
+msgstr "Footer call to action button text"
+
+msgid "copyright_text"
+msgstr "Copyright"
+
+msgid "seo_home_title"
+msgstr "Home"
+
+msgid "seo_category_title"
+msgstr "Category"
+
+msgid "seo_tag_title"
+msgstr "Tag"
+
+msgid "search_tag_title"
+msgstr "Search"
+
+msgid "menu_text"
+msgstr "Menu"
+
+msgid "search_results_text"
+msgstr "Search results for"
+
+msgid "no_results_text"
+msgstr "No results found. Try a different search?"
+
+msgid "search_text"
+msgstr "Search"
+
+msgid "categories"
+msgstr "Categories"
+
+msgid "month_archive"
+msgstr "Monthly archive"
+
+msgid "post_list"
+msgstr "Post List"
+
+msgid "all_text"
+msgstr "All"
+
+msgid "reply_text"
+msgstr "Reply"
+
+msgid "prev_project_text"
+msgstr "Prev Project"
+
+msgid "back_to_gallery_text"
+msgstr "Back to gallery"
+
+msgid "next_project_text"
+msgstr "Next project"
+
+msgid "portfolio_carousel_title"
+msgstr "Related Projects"
+
+msgid "share_text"
+msgstr "Share"
+
+msgid "click_message"
+msgstr "Right click disabled"
+
+msgid "wrong_captcha_error_text"
+msgstr ""
+"The text you have entered did not match the text on the image. Please try "
+"again."
+
+msgid "contact_fail_error_text"
+msgstr "n error occurred. Message not sent."
+
+msgid "contact_validation_error_text"
+msgstr "Please fill in all the fields correctly."
+
+msgid "contact_message_sent_text"
+msgstr "Message sent"
+
+msgid "name_text"
+msgstr "Name"
+
+msgid "your_email_text"
+msgstr "E-mail"
+
+msgid "send_text"
+msgstr "Send"
+
+msgid "question_text"
+msgstr "Your question"
+
+msgid "captcha_text"
+msgstr "Insert the text from the image"
+
+msgid "refresh_btn_text"
+msgstr "Get a new challenge"
+
+msgid "previous_text"
+msgstr "Previous"
+
+msgid "next_text"
+msgstr "Next"
+
+msgid "read_more"
+msgstr "Read More"
+
+msgid "in_text"
+msgstr "in"
+
+msgid "by_text"
+msgstr "by"
+
+msgid "post_tags"
+msgstr "Post Tags"
