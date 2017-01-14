@@ -1,0 +1,1596 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+	<meta charset="utf-8">
+
+	<title>The Retailer | Theme Documentation</title>
+	<meta name="description" content="The Retailer, WordPress Theme Documentation">
+	<meta name="author" content="Get Bowtied">
+
+	<link rel="shortcut icon" href="favicon.ico">
+	
+	<link rel="stylesheet" href="css/normalize.css">
+	<link rel="stylesheet" href="css/styles.css?v=1.0">
+
+	<link rel="stylesheet" type="text/css" href="src/css/ilightbox.css"/>
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+</head>
+<body>
+
+
+<div class="container">
+
+
+    <div class="sticky_menu">
+        <a class="navigation"><strong>Table of Contents &#9662;</strong></a>
+        <ul id="accordion">
+            <li>
+                <a href="#" class="item"><strong>Getting Started &#9662;</strong></a>
+                <ul>
+                    <li><a href="#theme-files">Theme Files</a></li>
+                    <li><a href="#theme-req">Theme Requirements</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="#full-video" ><strong>Theme Instalation</strong> & <strong>Configuration</strong> &#8212; Full Video Tutorial</a>
+            </li>
+            <li>
+                <a href="#" class="item"><strong>Theme Instalation &#9662;</strong></a>
+                <ul>
+                    <li><a href="#upload-activate">Step 1: Upload and Activation</a></li>
+                    <li><a href="#plugin-installation">Step 2: Plugin Installation</a></li>
+                    <li><a href="#woo-image-options">Step 3: WooCommerce Image Options</a></li>
+					<li><a href="#dummy-data">Optional Dummy Data Import</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="#" class="item"><strong>Navigation Setup &#9662;</strong></a>
+                <ul>
+                    <li><a href="#new-menu">Setting Up New Menus</a></li>
+                    <li><a href="#menu-locations">Menu Locations</a></li>
+                </ul>
+            </li>
+			<li>
+                <a href="#" class="item"><strong>Theme Options &#9662;</strong></a>
+                <ul>
+                    <li><a href="#theme-options-panel">The Theme Options Panel</a></li>
+                    <li><a href="#backup-options">Backup and Restore Your Options</a></li>
+					<li><a href="#transfer-options">Transfer Theme Options Data</a></li>
+                </ul>
+            </li>
+			<li>
+                <a href="#" class="item"><strong>Setting Up Pages &#9662;</strong></a>
+                <ul>
+                    <li><a href="#new-page">Create a New Page</a></li>
+                    <li><a href="#home-setup">Homepage Setup</a></li>
+					<li><a href="#blog-setup">Blog Setup</a></li>
+					<li><a href="#portfolio-setup">Portfolio Setup</a></li>
+					<li><a href="#new-portfolio-items">Add New Portfolio Items</a></li>
+                </ul>
+            </li>	
+			<li>
+                <a href="#" class="item"><strong>Using Pre-defined Page Layouts &#9662;</strong></a>
+                <ul>
+                    <li><a href="#about-us-v1">About Us V1</a></li>
+                    <li><a href="#about-us-v2">About Us V2</a></li>
+					<li><a href="#faqs">FAQs</a></li>
+					<li><a href="#contact-us-no-map">Contact Us – No Map</a></li>
+					<li><a href="#contact-us-map">Contact Us – With Google Map</a></li>
+					<li><a href="#features">Features</a></li>
+					<li><a href="#services">Services</a></li>
+					<li><a href="#archive">Archive</a></li>
+                </ul>
+            </li>	
+            <li>
+                <a href="#widget-areas"><strong>Sidebars & Widget Areas</strong></a>
+            </li>		
+            <li>
+                <a href="#slider-setup"><strong>Sliders Setup</strong></a>
+            </li>	
+            <li>
+                <a href="#shortcodes"><strong>Shortcodes</strong></a>
+            </li>			
+            <li>
+                <a href="#credits"><strong>Credits</strong></a>
+            </li>				
+        </ul>
+    </div>
+
+	<img src="img/docs.gif" />
+
+	
+	
+	<h1 class="main-title">Theme </br>Documentation</h1>
+	
+	<p class="note-yellow"><strong>Important Note:</strong><br/> To make sure you're using the latest version of this help file, please check out the <a href="http://theretailer.getbowtied.com/docs/" target="_blank">Online Documentation &rarr;</a>.</p>
+	
+	<p class="higher">
+			<strong>Documentation Version:</strong> 1.2</br>
+			<strong>Last Update:</strong> May 4th, 2013</br>
+			<strong>Created By:</strong> <a href="http://themeforest.net/user/getbowtied" target="_blank">Get Bowtied</a></br>
+			<strong>Theme Demo:</strong> <a href="http://theretailer.getbowtied.com/demo/" target="_blank">View Demo</a></br>
+			<strong>Support Forum:</strong> <a href="http://getbowtiedsupport.ticksy.com/" target="_blank">Ask a Question</a></br>
+	</p>
+	
+<hr>
+	
+			<h1 class="congrats">Congratulations!</h1><h2>You’re The New Owner of 'The Retailer' … <br/>Now What?</h2>
+			<p>&nbsp;</p>
+			<p>The scope of this documentation file is to provide you with the information you need to help you get started with your new theme. From the first steps of installing the theme, to creating custom pages and styling the whole thing for your needs. </p>
+			<p>Should you have any questions that are beyond the scope of this help file, please feel free to post them to on our <a href="http://getbowtiedsupport.ticksy.com/" target="_blank">Support Forum</a>.</p>
+
+			
+			
+<hr>
+	
+	<section>
+		<h1>Getting Started</h1>
+		
+		<a name="theme-files"></a>	
+		<p>The first step would be to get familiarized with the zip file you have downloaded from Theme Forest. The zip includes the theme files and all the assets that come with it. Here is a brief description of the theme deliverables.
+		
+	  <h2 id="about-the-theme">Theme Files</h2>
+			<ul class="dividers" style="padding: 0;">
+				<li><strong>Assets</strong>
+					<ul class="dividers" style="padding: 0;">
+					<li><strong>Dummy Data</strong> &#8212; Contains an XML file that you can import into your WP instance to populate your site with dummy data. </li>
+					<li><strong>PSD Files</strong> &#8212; Photoshop (.psd) files for the sprites used in the themes as well as a few layouts and elements that will help designers easily sketch ideas using elements from the original 'The Retailer' design. </li>
+					</ul>
+				</li>			
+				<li><strong>Documentation</strong>  &#8212; Contains the current help file that comes with the theme as well as the documentation files that come with the 'Slider Revolution' plugin.</li>				
+				<li><strong>License</strong> &#8212; Licensing information files.<a name="theme-req"></a></li>
+				<li><strong>Theme Files</strong>  &#8212; Here are all the theme files you'll need to get started (zipped & unzipped).</li>
+			</ul>
+		</p>
+		
+		<a name="theme-req"></a>
+		<h2 id="requirements">Theme Requirements</h2>
+		<p>In order to proceed with the theme installation, you need to make sure you have the latest version of <a href="http://wordpress.org/download/" target="main"><strong>WordPress</strong></a> (3.5+) on your self-hosted site. The theme has been built to work with the latest version of <a href="http://www.woothemes.com/woocommerce/" target="new"><strong>WooCommerce</strong></a> (2.0+) as well as with older versions (1.6+).</p>
+		<p><a href="http://wordpress.org/about/requirements/" target="_blank"><strong>Click here</strong></a> to read more about what you need to run <strong>WordPress</strong> on your host.</p>
+
+		<p>&nbsp;</p>
+		
+		<p class="note-yellow">
+			<strong>Need Help with WooCommerce?</strong><br />
+			In case you're new to <strong>WooCommerce</strong> and you need help with the Installation and the Administration of your WooCommerce based shop, you should check out the <a href="http://docs.woothemes.com/document/woocommerce/" target="_blank">WooCommerce User Guide &rarr;.</a>
+		</p>
+	</section>
+
+<a name="full-video"></a>	
+<hr>
+
+
+	<section>
+		<h1>Theme Installation & Configuration</h1>
+		<p><iframe width="800" height="450" src="http://www.youtube.com/embed/phvRUqTWXVA?rel=0&vq=hd720" frameborder="0" allowfullscreen></iframe></p>	
+		<p>This is the full video tutorial that will assist you in installing and configuring your new theme. It covers the following few section of this documentation file:
+	  <ul>
+			<li>Theme Upload and Activation</li>
+			<li>Required and Recommended Plugin Installation</li>
+			<li>Setting up the WooCommerce Image Options</li>
+			<li>Dummy Data Import</li>
+			<li>Homepage & Blog Setup</li>
+			<li>Navigation Setup</li>
+			<li>Widget and Widget Areas</li>
+		</ul>
+		</p>	
+	
+	</section>
+
+<hr>
+	
+	<section><a name="upload-activate"></a>	
+		<h1>Theme Installation</h1>
+		
+		<h2 id="step1-upload-activation">Step 1: Upload and Activation</h2>
+		
+		<p>There are two ways to install WordPress theme, either by uploading the zipped theme file via the WordPress admin theme installer, or by uploading the unzipped theme folder containing all the theme files via FTP.</p>
+		
+
+		<h3>OPTION 1: Using WordPress Theme Installer</h3>
+		<a href="img/large/theme-installer.jpg" id="singleimage_1" data-options="skin: 'dark'" class="image1"><img src="img/thumbs/theme-installer.jpg" class="right-visual"></a>
+			<p>
+				<ol class="dividers">
+					<li>Log into your WP Admin dashboard and browse for <strong>Appearance</strong> &rarr; <strong>Themes</strong>.</li>
+					<li>Now go to the secondary tab: <strong>Install Themes</strong> and click the <strong>Upload</strong> link option.</li>
+					<li>Follow the instructions by choosing the file "<strong>theretailer.zip</strong>", which you can find inside the .zip downloaded from Themeforest ('Theme Files' folder) and click <strong>Install now</strong>.</li>
+					<li>Click <strong>Activate</strong> once the upload has finished and you're ready for the next steps.</li>
+				</ol>
+			</p>
+				
+		<h3>OPTION 2: Using FTP</h3>
+				<p>
+				<ol class="dividers">
+					<li>Log into your site via FTP and browse for your WordPress themes folder <strong>wp-content/themes</strong></li>
+					<li>Upload the main theme folder called "<strong>theretailer</strong>" (unzipped), found inside the .zip file downloaded from Themeforest (in the 'Theme Files' folder).</li>
+					<li>Once the upload has finished, log into your WP Admin dashboard and browse for <strong>Appearance</strong> &rarr; <strong>Themes</strong> to activate your new theme.</li>
+				</ol>
+				</p>
+		
+		<a name="plugin-installation"></a>	
+		<p>&nbsp;</p>	
+		<h2 id="step2-plugin-installation">Step 2: Plugin Installation</h2>
+
+		<a href="img/large/plugin-installation.jpg" id="singleimage_1" data-options="skin: 'dark'" class="image2"><img src="img/thumbs/plugin-installation.jpg" class="right-visual"></a>
+
+		<p>A yellow notice at the top of the screen will now suggest to continue with the recommended plugins installation. Click '<strong>Begin installing plugins</strong>' and select the plugins you need to install from the list. All plugins must be activated once the installation has finished.</p>
+		<h3>Required Plugins:</h3>
+		<ul class="dividers">
+			<li><strong>Previous and Next Post in Same Taxonomy</strong> — Extends the prev/next links to let you limit to same taxonomy. Used for testing WP Core patch, and can be disabled if patch is committed to core.</li>
+			
+		</ul>
+		
+		<p>&nbsp;</p>
+		
+		<h3>Recommended Plugins:</h3>
+
+		<ul class="dividers">
+			<li><strong>WooCommerce</strong> — An e-commerce toolkit that helps you sell anything. Beautifully.</li>
+			<li><strong>Contact From 7</strong> — Allows you to handle  the contact form on 'Contact Us' pages.</li>
+			<li><strong>WooSidebars</strong> — Allows you to replace widget areas in your theme for specific pages, archives and other sections of WordPress.</li>
+			<li><strong>Revolution Slider</strong> — Revolution Slider - Premium responsive slider.</li>
+			<li><strong>Regenerate Thumbnails</strong> — Allows you to regenerate all thumbnails after changing the thumbnail sizes.</li>
+		</ul>
+			
+		<a name="woo-image-options"></a>	
+	  <p>&nbsp;</p>	
+		
+		<h2 id="step3-woocommerce-image-options">Step 3: WooCommerce Image Options</h2>
+		<a href="img/large/woo-image-options.jpg" id="singleimage_1" data-options="skin: 'dark'" class="thumb-woocommerce-image-options"><img src="img/thumbs/woo-image-options.jpg" class="right-visual"></a>		
+		<p>You need to make sure the default WooCommerce image sizes are the correct ones for your newly installed theme. These settings affect the actual dimensions of your product images in the shop pages.  
+			<ol class="dividers">
+				<li>Navigate from your WordPress Dashboard to <strong>WooCommerce</strong> &rarr; <strong>Settings</strong> &rarr; <strong>Catalog</strong> and find the "<strong>Image Options</strong>" section at the bottom of the page.</li>
+				<li>Update those values with the following ones:<br />
+					<strong>Catalog Images:</strong> Width = <strong>190</strong>, Height = <strong>243</strong><br />
+					<strong>Single Product Image:</strong> Width = <strong>510</strong>, Height = <strong>652</strong><br />
+					<strong>Product Thumbnails:</strong> Width = <strong>114</strong>, Height = <strong>145</strong>
+				</li>
+			</ol>
+		</p>
+		
+		<p class="note-yellow">
+			<strong>Installing on a site with existing content?</strong><br />
+			If you are not installing the theme on a fresh WordPress instance, you probably already have posts, pages or products added to your site.
+			After activating the theme, you'll need to have WordPress recreate all image thumbnails to make the sizes fit with your new theme.
+			You don't need to do it manually, <a href="http://wordpress.org/extend/plugins/regenerate-thumbnails/" target="_blank">Regenerate Thumbnails</a> WP plugin can automatically handle this job for you.
+		</p>
+
+		<a name="dummy-data"></a>
+		<p>&nbsp;</p>
+		
+		<h2 id="demo-data">Optional Dummy Data Import</h2>
+		
+		<p>The theme comes with a .xml file containing demo content you can import into your WordPress site to populate your database. This will help you get started, in case you are running on a fresh WordPress installation with no content at all.</p>
+		<p>The XML file includes Demo Blog Pages, Demo Blog Posts, Demo Homepages, Demo Comments, etc. The XML file does not include any of the images in the demo or Revolution Slider data.</p>
+		<p>
+			<ol class="dividers">
+				<li>From your WP Admin Dashboard, navigate to <strong>Tools</strong> &rarr; <strong>Import</strong>.</li>
+				<li>Select the .xml file in the Assets\Dummy Data\ folder from the zip-file you've downloaded from Themeforest.</li>
+			</ol>
+		</p>
+
+
+	</section>
+
+<hr>
+	
+	<section><a name="new-menu"></a>
+		
+		<h1>Navigation Setup</h1>
+		
+		<h2 id="setting-up-new-menus">Setting Up New Menus</h2>
+		<a href="img/large/theme-locations.jpg" id="ilightbox" data-options="skin: 'dark'" class="thumb-menu-locations"><img src="img/thumbs/theme-locations.jpg" class="right-visual"></a>
+		
+		<p>Follow the next steps to define menus for each of the theme's menu locations. In each menu, you can add as many items you need: links, pages, posts, custom links, shop categories, direct links to products, internal or external link.
+		<ol class="dividers">
+			<li>Navigate to <strong>Appearance</strong> &rarr; <strong>Menus</strong> and click <strong>Add Menu</strong>.</li>
+			<li>Name it, define your menu links and click <strong>Save Menu</strong>.</li>
+			<li>Assign a Menu Location for your newly created menu, by selecting it for the preferred Theme Location.<a name="menu-locations"></a></li>
+		</ol>
+		</p>
+
+		
+		<p>&nbsp;</p>	
+		
+		<h2>Menu Locations</h2>
+		<a href="img/large/menu-locations.jpg" id="ilightbox" data-options="skin: 'dark'" class="thumb-menu-locations"><img src="img/thumbs/menu-locations.jpg" class="right-visual"></a>
+		
+		<p>The theme comes with 4 custom menu locations. You must define your menu items for each menu location, once you have created your pages.
+		<ol class="dividers">
+		  <li><strong>Top Header Menu</strong></li>
+			<li><strong>Primary Menu</strong></li>
+			<li><strong>Secondary Menu</strong></li>
+			<li><strong>My Account Menu</strong></li>
+		</ol>
+		</p>
+
+	</section>		
+	
+<a name="theme-options-panel"></a>	
+<hr>	
+	
+	<section>
+		<h1>Theme Options</h1>
+		
+		<h2>The Theme Options Panel</h2>
+		<p>The Theme Options Panel helps you easily take control over your site, by allowing you to upload your logo, style the appearance of the theme with your custom colors, change fonts, turn features on and off, without having to write any code.</p>
+		<p>To access the Theme Options panel, navigate to <strong>Appearance</strong> &rarr; <strong>Theme Options</strong>.</p>
+		<p><img src="img/theme-options.jpg"></p>
+		<p>Note: Clicking '<strong>Options Reset</strong>' button will replace your current settings with the default ones. You might consider creating a backup for your options.</p>
+		
+		<a name="backup-options"></a>	
+		<p>&nbsp;</p>
+		
+		<h2>Backup and Restore Your Options</h2>
+		<p>After you create a set of settings, you might want to save your work. This is useful if you want to experiment with the options while keeping the old settings in case you need them again.</p>
+		<p>Navigate to the <strong>Backup</strong> section in the Theme Options Panel and click the '<strong>Backup Options</strong>' button. Once the options page has reloaded, you will be able to restore your options by clicking the '<strong>Restore Options</strong>' button.</p>
+
+		<a name="transfer-options"></a>	
+	  <p>&nbsp;</p>
+		
+		<h2>Transfer Theme Options Data</h2>
+		<p>You will find this feature useful in case you need to transfer the saved options data between different WordPress installs, or you just want to save/import/export different backup versions of your theme options.</p>
+		<p>Navigate to the <strong>Backup</strong> section in the Theme Options Panel and paste your code in the '<strong>Transfer Theme Options Data</strong>' textbox. Click '<strong>Import Options</strong>' and your options should be imported and activated instantly.</p>
+	</section>
+
+<a name="new-page"></a>
+<hr>	
+	
+	<section id="setting-up-pages">
+		<h1>Setting Up Pages</h1>
+
+		<h2>Create a New Page</h2>
+		<a href="img/large/new-page.jpg" id="singleimage_1" data-options="skin: 'dark'" class="thumb-create-a-new-page"><img src="img/thumbs/new-page.jpg" class="right-visual"></a>	
+	
+		<p>For your flexibility, all pages in the demo are built using a combination of shortcodes and a page template. Take the following steps to create new pages for your site.</p>
+		<ol class="dividers">
+			<li>Navigate to <strong>Pages</strong> &rarr; <strong>Add New</strong>. </li>
+			<li>In the <strong>Page Attributes</strong> section, select one of the <strong>Templates</strong> from the list.</li>
+			<li>Start adding content in the text editor or paste one of the shortcodes combinations (see below) for a pre-defined layout (see below).</li>
+		</ol>
+		
+<p>&nbsp;</p>
+		
+		<h3>Available Page Templates:</h3>
+		<a href="img/large/page-templates.jpg" id="singleimage_1" data-options="skin: 'dark'" class="thumb-page-templates"><img src="img/thumbs/page-templates.jpg" class="right-visual"></a>
+		
+		
+		<p><ul class="dividers">
+			<li><strong>Default Template</strong> &#8212; The default template is used to create most of the pages, except homepages. It's a full width template with no sidebars.</li>
+			<li><strong>Default Template - Single Footer</strong> &#8212; Single footer version of the Default Template.</li>
+			<li><strong>100% Width</strong> &#8212; Used to create homepages, using 100% of the screen in term of width, giving the option to use a fullscreen slider on  your homepage.</li>
+			<li><strong>100% Width - Single Footer</strong> &#8212; Single footer version of the 100% Width Template.</li>
+			<li><strong>Archive</strong> &#8212; Classic archive page template for WordPress.</li>
+			<li><strong>Blog</strong> &#8212; Posts the page template for building a blog.</li>
+			<li><strong>Page With Sidebar</strong> &#8212; The default template with sidebar on the right.</li>
+			<li><strong>Page With Sidebar - Single Footer</strong> &#8212; Single footer version of the Page With Sidebar Template.</li>
+			<li><strong>Portfolio 2 Columns</strong> &#8212; Portfolio listing template with two columns.</li>
+			<li><strong>Portfolio 3 Columns</strong> &#8212; Portfolio listing template with three columns.</li>
+			<li><strong>Portfolio 4 Columns</strong> &#8212; Portfolio listing template with four columns.</li>
+		</ul></p>
+
+		<a name="home-setup"></a>
+		<p>&nbsp;</p>
+		
+		<h2 id="#">Homepage Setup</h2>
+		<a href="img/large/home-reading-settings.jpg" id="singleimage_1" data-options="skin: 'dark'" class="thumb-home-setup"><img src="img/thumbs/home-reading-settings.jpg" class="right-visual"></a>	
+		
+		<p>To set one of the pages you have create as a Homepage, navigate to <strong>Settings</strong> &rarr; <strong>Reading</strong>, select "<strong>A static page</strong>" and choose "<strong>Your Homepage</strong>" as the Front Page.</p>
+		
+		
+		<h3>Using a Pre-Defined Homepage Layout:</h3>
+		<p>You can quickly build a homepage using one of the pre-defined layouts you can see in the <a href="http://theretailer.getbowtied.com/demo/" target="_blank">demo</a>, by following the instructions below. All homepage options are created by using a combination of shortcodes and a page template.</p>
+		
+		<p>&nbsp;</p>
+		
+		<h3><a href="http://theretailer.getbowtied.com/demo/" target="_blank" title="View Demo">Homepage v1</a></h3>
+		Create a <strong>New Page</strong> and select the template '<strong>100% Width</strong>'. Paste the following code in the WordPress text editor.
+
+		<textarea class="codecopy">[Your Slider Shortcode Goes Here]
+
+[container]
+
+[empty_separator top_space="10px" bottom_space="10px"]
+
+[full_column][banner_simple link_url="#" title="Free shipping on all orders over <strong>$75</strong>" subtitle="Free over $125 for international orders" h_padding="20px" v_padding="20px" sep_padding="5px" border_color="#b39964" bg_color="#b39964" title_color="#fff" subtitle_color="#fff" with_bullet="yes" bullet_bg_color="#000" bullet_text_color="#fff" bullet_text="Delivered
+to your
+door
+<strong>in 4 days</strong>"][/full_column]
+
+[full_column][custom_featured_products title="Featured products"][/full_column]
+
+[full_column][custom_best_sellers title="Best Sellers" per_page="12"][/full_column]
+
+[full_column][from_the_blog title="From the blog" posts="6"][/full_column]
+
+[/container]</textarea>
+
+<p>&nbsp;</p>	
+
+			<h3><a href="http://theretailer.getbowtied.com/demo/pages/homepage-v2/" target="_blank" title="View Demo">Homepage v2</a></h3>
+			Create a <strong>New Page</strong> and select the template '<strong>100% Width</strong>'. Paste the following code in the WordPress text editor.
+			<textarea class="codecopy">[empty_separator top_space="20px" bottom_space="30px"]
+
+[container]
+
+[one_third][banner_simple link_url="http://theretailer.getbowtied.com/demo/shop/" bg_image="http://theretailer.getbowtied.com/demo/wp-content/uploads/2013/02/banner_img_dark.jpg" title="Shop Sales" subtitle="30% off everything" h_padding="30px" v_padding="180px" sep_padding="15px" sep_color="#fff" bg_color="none" border_color="#fff"  inner_stroke="0" title_color="#fff" subtitle_color="#fff"][/one_third]
+
+[one_third][banner_simple link_url="http://theretailer.getbowtied.com/demo/shop/" title="Latest Products" subtitle="Shop New Arrivals" h_padding="30px" v_padding="180px" sep_padding="15px" border_color="#b39964" bg_color="none" bg_image="http://theretailer.getbowtied.com/demo/wp-content/uploads/2013/02/banner_img_dark.jpg"  inner_stroke="0" title_color="#fff" subtitle_color="#fff"][/one_third]
+
+[one_third][banner_simple link_url="http://theretailer.getbowtied.com/demo/blog/" bg_image="http://theretailer.getbowtied.com/demo/wp-content/uploads/2013/02/banner_img_dark.jpg" title="Read The Blog" subtitle="Latest fashion news" h_padding="30px" v_padding="180px" sep_padding="15px" border_color="#fff" bg_color="none" inner_stroke="0" title_color="#fff" subtitle_color="#fff"][/one_third]
+
+[full_column][banner_simple link_url="#" title="Free shipping on all orders over <strong>$75</strong>" subtitle="Free over $125 for international orders" h_padding="20px" v_padding="20px" sep_padding="5px" bg_color="none" title_color="#fff" subtitle_color="#fff" with_bullet="yes" bullet_bg_color="#b39964" bullet_text_color="#fff" bullet_text="Have it
+delivered
+<strong>in 4 days</strong>"][/full_column]
+
+[full_column][custom_featured_products title="Featured products"][/full_column]
+
+[full_column][custom_on_sale_products title="Sales" per_page="12" orderby="date" order="desc"][/full_column]
+
+[/container]</textarea>
+
+<p>&nbsp;</p>
+
+			<h3><a href="http://theretailer.getbowtied.com/demo/pages/homepage-v3/" target="_blank" title="View Demo">Homepage v3</a></h3>
+			Create a <strong>New Page</strong> and select the template '<strong>100% Width</strong>'. Paste the following code in the WordPress text editor.
+			
+			<textarea class="codecopy">[empty_separator top_space="20px" bottom_space="40px"]
+
+[container]
+
+[full_column][Your Slider Shortcode Goes Here][/full_column]
+
+[empty_separator top_space="30px" bottom_space="5px"]
+
+[full_column]<h1 style="text-align: center;">We Empower WordPress Developers With Design-Driven Themes And A Classy Experience Their Clients Will Just Love</h1>[/full_column]
+
+[full_column]
+[separator top_space="20px" bottom_space="20px"]
+<h1 style="text-align: center;">A FEW FEATURES</h1>
+[separator top_space="0px" bottom_space="20px"]
+[/full_column]
+
+[one_half]
+[our_services image_url="http://theretailer.getbowtied.com/blank-v2/wp-content/uploads/2013/03/retina-small.jpg" title="Retina Ready" link_name="Find out more" link_url="#"]
+Thundercats squid single-origin coffee YOLO selfies disrupt, master cleanse semiotics DIY aesthetic narwhal.
+[/our_services]
+[/one_half]
+
+[one_half]
+[our_services image_url="http://theretailer.getbowtied.com/blank-v2/wp-content/uploads/2013/03/device-small.jpg" title="Super Mobile-Friendly" link_name="Find out more" link_url="#"]
+Thundercats squid single-origin coffee YOLO selfies disrupt, master cleanse semiotics letterpress typewriter.
+[/our_services]
+[/one_half]
+
+[one_half]
+[our_services image_url="http://theretailer.getbowtied.com/blank-v2/wp-content/uploads/2013/03/light-bulb-small.jpg" title="Wide or Boxed Layout" link_name="Find out more" link_url="#"]
+Thundercats squid single-origin coffee YOLO selfies disrupt, master cleanse semiotics DIY aesthetic letterpress typewriter narwhal.
+[/our_services]
+[/one_half]
+
+[one_half]
+[our_services image_url="http://theretailer.getbowtied.com/blank-v2/wp-content/uploads/2013/03/theme-options-small.jpg" title="Theme Options Panel" link_name="Find out more" link_url="#"]
+Thundercats squid single-origin coffee YOLO selfies disrupt, master cleanse semiotics DIY aesthetic letterpress typewriter narwhal.
+[/our_services]
+[/one_half]
+
+[full_column]
+[separator top_space="20px" bottom_space="20px"]
+<h1 style="text-align: center;">MEET OUR TEAM</h1>
+[separator top_space="0px" bottom_space="30px"]
+[/full_column]
+
+[one_fourth]
+[team_member image_url="http://theretailer.getbowtied.com/blank-v2/wp-content/uploads/2013/03/team_member.jpg" name="Joshua Wilkinson" role="WordPress Designer"]Thundercats squid single-origin coffee YOLO selfies disrupt, master cleanse semiotics DIY aesthetic letterpress.[/team_member]
+[/one_fourth]
+
+[one_fourth]
+[team_member image_url="http://theretailer.getbowtied.com/blank-v2/wp-content/uploads/2013/03/team_member.jpg" name="Nicholas Warner" role="WordPress Developer"]Thundercats squid single-origin coffee YOLO selfies disrupt, master cleanse semiotics DIY aesthetic letterpress.[/team_member]
+[/one_fourth]
+
+[one_fourth]
+[team_member image_url="http://theretailer.getbowtied.com/blank-v2/wp-content/uploads/2013/03/team_member.jpg" name="Alicia Thornton" role="Pretty Face"]Thundercats squid single-origin coffee YOLO selfies disrupt, master cleanse semiotics DIY aesthetic letterpress.[/team_member]
+[/one_fourth]
+
+[one_fourth]
+[team_member image_url="http://theretailer.getbowtied.com/blank-v2/wp-content/uploads/2013/03/team_member.jpg" name="Terry Richardson" role="WordPress Developer"]Thundercats squid single-origin coffee YOLO selfies disrupt, master cleanse semiotics DIY aesthetic letterpress.[/team_member]
+[/one_fourth]
+
+[empty_separator top_space="0px" bottom_space="30px"]
+
+[full_column][from_the_blog title="From the blog" posts="6"][/full_column]
+
+[/container]</textarea>
+
+<p>&nbsp;</p>			
+			
+			<h3><a href="http://theretailer.getbowtied.com/demo/pages/homepage-v4/" target="_blank" title="View Demo">Homepage v4</a></h3>
+			Create a <strong>New Page</strong> and select the template '<strong>100% Width</strong>'. Paste the following code in the WordPress text editor.
+			<textarea class="codecopy">[Your Slider Shortcode Goes Here]
+
+[container]
+
+[empty_separator top_space="20px" bottom_space="20px"]
+
+[one_third]
+[featured_1 image_url="http://theretailer.getbowtied.com/blank-v2/wp-content/uploads/2013/03/shop-circle.jpg" title="WordPress Development" button_text="Find out more" button_url="#"]
+Fanny pack godard YOLO VHS Austin irony bespoke, you probably haven't heard of them fashion axe church-key wes anderson kale.
+[/featured_1]
+[/one_third]
+
+[one_third]
+[featured_1 image_url="http://theretailer.getbowtied.com/blank-v2/wp-content/uploads/2013/03/thumb-circle.jpg" title="UI Innovation" button_text="Find out more" button_url="#"]
+Fanny pack godard YOLO VHS Austin irony bespoke, you probably haven't heard of them fashion axe church-key wes anderson kale.
+[/featured_1]
+[/one_third]
+
+[one_third]
+[featured_1 image_url="http://theretailer.getbowtied.com/blank-v2/wp-content/uploads/2013/03/tag-circle.jpg" title="Digital Marketing" button_text="Find out more" button_url="#"]
+Fanny pack godard YOLO VHS Austin irony bespoke, you probably haven't heard of them fashion axe church-key wes anderson kale.
+[/featured_1]
+[/one_third]
+[empty_separator top_space="20px" bottom_space="30px"]
+
+[full_column][from_the_blog title="From the blog" posts="6"][/full_column]
+
+[/container]</textarea>
+
+<p>&nbsp;</p>			
+			
+			<h3><a href="http://theretailer.getbowtied.com/demo/pages/homepage-v5/" target="_blank" title="View Demo">Homepage v5</a></h3>
+			Create a <strong>New Page</strong> and select the template '<strong>100% Width - Single Footer</strong>'. Paste the following code in the WordPress text editor.
+			<textarea class="codecopy">[Your Slider Shortcode Goes Here]
+
+[container]
+
+[empty_separator top_space="25px" bottom_space="25px"]
+
+[full_column]
+<h1 style="text-align: center;">We Empower WordPress Developers With Design-Driven Themes And A Classy Experience Their Clients Will Just Love</h1>
+[/full_column]
+
+[empty_separator top_space="0px" bottom_space="25px"]
+
+[full_column]
+[from_the_blog title="From the blog" posts="6"]
+[/full_column]
+
+[empty_separator top_space="0px" bottom_space="25px"]
+
+[full_column][bold_title]Latest work[/bold_title][/full_column]
+[full_column][from_the_portfolio posts="4"][/full_column]
+
+[empty_separator top_space="25px" bottom_space="25px"]
+
+[/container]</textarea>		
+
+<p>&nbsp;</p>			
+			
+			<h3><a href="http://theretailer.getbowtied.com/demo/pages/homepage-v6/" target="_blank" title="View Demo">Homepage v6</a></h3>
+			Create a <strong>New Page</strong> and select the template '<strong>100% Width</strong>'. Paste the following code in the WordPress text editor.
+			<textarea class="codecopy">[empty_separator top_space="20px" bottom_space="20px"]
+
+[container]
+
+[Your Slider Shortcode Goes Here]
+
+[empty_separator top_space="0px" bottom_space="20px"]
+
+[one_third][banner_simple link_url="#" title="Latest Products" subtitle="New Arrivals" h_padding="30px" v_padding="37px" sep_padding="10px" border_color="none" inner_stroke="0" bg_color="none" bg_image="http://theretailer.getbowtied.com/blank-v2/wp-content/uploads/2013/03/banner_bg_1.jpg" title_color="#fff" subtitle_color="#fff"][/one_third]
+
+[one_third][banner_simple link_url="#" bg_image="http://theretailer.getbowtied.com/blank-v2/wp-content/uploads/2013/03/banner_bg_2.jpg" title="Read The Blog" subtitle="Latest fashion news" h_padding="30px" v_padding="37px" sep_padding="10px" border_color="#fff"  inner_stroke="0" bg_color="none" title_color="#fff" subtitle_color="#fff"][/one_third]
+
+[one_third][banner_simple link_url="#" title="Shop Sales" subtitle="Extra 30% OFF" h_padding="30px" v_padding="35px" sep_padding="10px" sep_color="#fff" bg_color="#b39964" border_color="#b39964" title_color="#fff" subtitle_color="#fff"][/one_third]
+
+[separator top_space="10px" bottom_space="0px"][full_column]<h1 style="text-align: center;">LATEST PRODUCTS IN THE SHOP</h1>[/full_column][separator top_space="0px" bottom_space="30px"]
+
+[full_column][recent_products per_page="8" orderby="date" order="desc"][/full_column]
+
+[empty_separator top_space="0px" bottom_space="20px"]
+
+[full_column][banner_simple link_url="http://theretailer.getbowtied.com/demo/shop/" title="Free shipping on all orders over <strong>$75</strong>" subtitle="Free over $125 for international orders" h_padding="20px" v_padding="20px" sep_padding="5px" bg_image="http://theretailer.getbowtied.com/demo/wp-content/uploads/2013/02/bg-collage-dark.jpg" bg_color="none" border_color="none" inner_stroke="2" title_color="#fff" subtitle_color="#fff"][/full_column]
+
+[empty_separator top_space="30px" bottom_space="30px"]
+
+[/container]</textarea>	
+
+<p>&nbsp;</p>			
+			
+			<h3><a href="http://theretailer.getbowtied.com/demo/pages/homepage-v7/" target="_blank" title="View Demo">Homepage v7</a></h3>
+			Create a <strong>New Page</strong> and select the template '<strong>100% Width</strong>'. This page is created using a slider only. Paste the shortcode for your slider in the text editor and you're ready to go.
+			<textarea class="codecopy">[Your Slider Shortcode Goes Here]</textarea>	
+
+<p>&nbsp;</p>			
+			
+			<h3><a href="http://theretailer.getbowtied.com/demo/pages/homepage-v8/" target="_blank" title="View Demo">Homepage v8</a></h3>
+			Create a <strong>New Page</strong> and select the template '<strong>100% Width - Single Footer</strong>'. Paste the following code in the WordPress text editor.
+			<textarea class="codecopy">[empty_separator top_space=20px bottom_space=30px]
+
+[container]
+[full_column]<h1 style="text-align: center;">A great way to display your Featured Products!</h1>[/full_column]
+[/container]
+
+[empty_separator top_space=0px bottom_space=15px]
+
+[products_slider]
+
+[empty_separator top_space=20px bottom_space=20px]
+
+[container]
+[full_column]
+<h3 style="text-align: center;">This slider is created using one single shortcode.</h3>
+<p style="text-align: center;">[dark_button url="#"]THE TEXT ON THE BUTTON[/dark_button]</p>
+[/full_column]
+[/container]
+
+[empty_separator top_space=0px bottom_space=20px]</textarea>	
+
+
+<a name="blog-setup"></a>
+<p>&nbsp;</p>		
+		
+		<h2 id="#">Blog Setup</h2>
+		<a href="img/large/blog-reading-settings.jpg" id="singleimage_1" data-options="skin: 'dark'" class="thumb-blog-setup"><img src="img/thumbs/home-reading-settings.jpg" class="right-visual"></a>	
+	
+		<p>To set up a blog page you have created, navigate to <strong>Settings</strong> &rarr; <strong>Reading</strong>, select "<strong>A static page</strong>" and choose your "<strong>Blog</strong>" page as the <strong>Posts Page</strong>.</p>
+		<p>To start adding posts to your blog, navigate to <strong>Posts</strong> &rarr; <strong>Add New</strong>.</p>
+
+<a name="portfolio-setup"></a>		
+<p>&nbsp;</p>			
+		
+		<h2 id="#">Portfolio Setup</h2>
+		<a href="img/large/portfolio-page-setup.jpg" id="singleimage_1" data-options="skin: 'dark'" class="thumb-portfolio-setup"><img src="img/thumbs/portfolio-page-setup.jpg" class="right-visual"></a>
+		
+		<p>To set up a portfolio, you just need to select the template of choice for listing the portfolio items in your portfolio page. You can choose to list your items on a two, three, or four column layout. Find the template options by navigating to <strong>Page Attributes</strong> when editing your Portfolio page.</p>
+
+<a name="new-portfolio-items"></a>		
+<p>&nbsp;</p>
+
+		<h2 id="#">Add New Portfolio Items</h2>
+		<a href="img/large/portfolio-large.jpg" id="singleimage_1" data-options="skin: 'dark'" class="thumb-portfolio-add-new"><img src="img/thumbs/portfolio-add-new.jpg" class="right-visual"></a>
+	
+		<p>Start adding portfolio items, by navigating to <strong>Portfolio</strong> &rarr; <strong>Add New</strong>.</p>
+
+
+<a name="about-us-v1"></a>	
+<hr>
+
+<h1>Using Pre-defined Page Layouts</h1>			
+
+		<p>All pages are conveniently created using shortcode combinations, to maximize the theme's flexibility. The following shortcode combinations will help you get started with creating pages, based on our demo pages. Just copy/paste the code and make sure you're on the "text" tab of the WordPress text editor.</p>
+		
+		<h3><a href="http://theretailer.getbowtied.com/demo/pages/about-us/" target="_blank" title="View Demo">About Us V1 </a></h3>
+		Create a <strong>New Page</strong> and just paste the following combination of shortcodes in the WordPress text editor.<br/>
+		Leave the '<strong>Default Template</strong>' selected for this page.
+		<textarea class="codecopy">[featured_box title="We empower WordPress developers with design-driven themes 
+and a classy experience their clients will just love"  background_url=""]Fanny pack godard YOLO VHS Austin irony bespoke, you probably haven't heard of them fashion axe church-key wes anderson kale chips four loko. Gentrify stumptown chillwave, pop-up tofu DIY cardigan jean shorts blog wayfarers before they sold out authentic bushwick high life Austin. Scenester blue bottle wolf beard, bespoke truffaut tousled viral organic.
+[/featured_box]
+
+[full_column][bold_title]Meet Our Team[/bold_title][/full_column]
+
+[one_fourth]
+[team_member image_url="http://theretailer.getbowtied.com/blank-v2/wp-content/uploads/2013/03/team_member.jpg" name="Joshua Wilkinson" role="WordPress Designer"]Thundercats squid single-origin coffee YOLO selfies disrupt, master cleanse semiotics DIY aesthetic letterpress.[/team_member]
+[/one_fourth]
+
+[one_fourth]
+[team_member image_url="http://theretailer.getbowtied.com/blank-v2/wp-content/uploads/2013/03/team_member.jpg" name="Nicholas Warner" role="WordPress Developer"]Thundercats squid single-origin coffee YOLO selfies disrupt, master cleanse semiotics aesthetic coffee typewriter.[/team_member]
+[/one_fourth]
+
+[one_fourth]
+[team_member image_url="http://theretailer.getbowtied.com/blank-v2/wp-content/uploads/2013/03/team_member.jpg" name="Alicia Thornton" role="Pretty Face"]Thundercats squid single-origin coffee YOLO selfies disrupt, master cleanse semiotics DIY aesthetic letterpress.[/team_member]
+[/one_fourth]
+
+[one_fourth]
+[team_member image_url="http://theretailer.getbowtied.com/blank-v2/wp-content/uploads/2013/03/team_member.jpg" name="Terry Richardson" role="WordPress Developer"]Thundercats squid single-origin coffee YOLO selfies disrupt, master cleanse semiotics DIY aesthetic letterpress.[/team_member]
+[/one_fourth]
+
+[full_column][bold_title]A Few Features[/bold_title][/full_column]
+
+[one_half]
+[our_services image_url="http://theretailer.getbowtied.com/blank-v2/wp-content/uploads/2013/03/retina-small.jpg" title="Retina Ready" link_name="Find out more" link_url="#"]
+Thundercats squid single-origin coffee YOLO selfies disrupt, master cleanse semiotics DIY aesthetic letterpress typewriter narwhal.
+[/our_services]
+
+[separator top_space="0px" bottom_space="30px"]
+
+[/one_half]
+
+[one_half]
+[our_services image_url="http://theretailer.getbowtied.com/blank-v2/wp-content/uploads/2013/03/device-small.jpg" title="Super Mobile-Friendly" link_name="Find out more" link_url="#"]
+Thundercats squid single-origin coffee YOLO selfies disrupt, master cleanse semiotics DIY aesthetic letterpress typewriter narwhal.
+[/our_services]
+
+[separator top_space="0px" bottom_space="30px"]
+
+[/one_half]
+
+[one_half]
+[our_services image_url="http://theretailer.getbowtied.com/blank-v2/wp-content/uploads/2013/03/light-bulb-small.jpg" title="Wide or Boxed Layout" link_name="Find out more" link_url="#"]
+Thundercats squid single-origin coffee YOLO selfies disrupt, master cleanse semiotics DIY aesthetic letterpress typewriter narwhal.
+[/our_services]
+[/one_half]
+
+[one_half]
+[our_services image_url="http://theretailer.getbowtied.com/blank-v2/wp-content/uploads/2013/03/theme-options-small.jpg" title="Theme Options Panel" link_name="Find out more" link_url="#"]
+Thundercats squid single-origin coffee YOLO selfies disrupt, master cleanse semiotics DIY aesthetic letterpress typewriter narwhal.
+[/our_services]
+[/one_half]
+
+[empty_separator top_space="20px" bottom_space="20px"]</textarea>
+
+<a name="about-us-v2"></a>	
+<p>&nbsp;</p>
+
+		<h3><a href="http://theretailer.getbowtied.com/demo/pages/about-us-v2/" target="_blank" title="View Demo">About Us V2 </a></h3>
+		Create a <strong>New Page</strong> and just paste the following combination of shortcodes in the WordPress text editor.<br/>
+		Leave the '<strong>Default Template</strong>' selected for this page.
+		<textarea class="codecopy">[separator top_space="0px" bottom_space="30px"]
+
+[one_half]<img class="size-full wp-image-1779 alignnone" alt="TheRetailer" src="http://theretailer.getbowtied.com/blank-v2/wp-content/uploads/2013/05/about_image.jpg" width="430" height="410" />
+[empty_separator top_space="20px" bottom_space="0px"][/one_half]
+
+[one_half]<h1>We empower WordPress developers with design-driven themes and a classy experience their clients will just love</h1>
+Gluten-free quinoa selfies carles, kogi gentrify retro marfa viral. Odd future photo booth flannel ethnic pug, occupy keffiyeh synth blue bottle tofu tonx iphone. Blue bottle 90's vice trust fund gastropub gentrify retro marfa viral.
+
+[separator top_space="0px" bottom_space="20px"]
+
+<blockquote>Odd future photo booth flannel ethnic pug, occupy keffiyeh synth blue bottle tofu tonx iphone. Blue bottle 90's vice trust fund gastropub gentrify retro marfa viral. Gluten-free quinoa selfies carles, kogi gentrify retro marfa viral. Odd future photo booth flannel ethnic pug, occupy keffiyeh synth blue bottle tofu tonx iphone.</blockquote>
+[/one_half]
+
+[separator top_space="40px" bottom_space="40px"]
+
+[one_third][featured_1 image_url="http://theretailer.getbowtied.com/blank-v2/wp-content/uploads/2013/03/shop.jpg" title="WordPress Development" button_text="Find out more" button_url="#"]
+Fanny pack godard YOLO VHS Austin irony bespoke, you probably haven't heard of them fashion axe church-key wes anderson kale.[/featured_1][/one_third]
+
+[one_third][featured_1 image_url="http://theretailer.getbowtied.com/blank-v2/wp-content/uploads/2013/03/thumb.jpg" title="UI Innovation" button_text="Find out more" button_url="#"]
+Fanny pack godard YOLO VHS Austin irony bespoke, you probably haven't heard of them fashion axe church-key wes anderson kale.[/featured_1][/one_third]
+
+[one_third][featured_1 image_url="http://theretailer.getbowtied.com/blank-v2/wp-content/uploads/2013/03/tag.jpg" title="Digital Marketing" button_text="Find out more" button_url="#"]
+Fanny pack godard YOLO VHS Austin irony bespoke, you probably haven't heard of them fashion axe church-key wes anderson kale.[/featured_1][/one_third]
+
+[separator top_space="40px" bottom_space="60px"]
+
+[one_half]
+[accordion title="Why Choose Us?" open="0"]
+
+[accordion-item title="Super Mobile-Friendly Design"]
+
+Williamsburg swag tofu odd future marfa, single-origin coffee literally vinyl scenester aesthetic kale chips wayfarers street art synth. 3 wolf moon whatever 8-bit.
+
+[/accordion-item]
+
+[accordion-item title="Sharp on Retina Displays"]
+
+Williamsburg swag tofu odd future marfa, single-origin coffee literally vinyl scenester aesthetic kale chips wayfarers street art synth. 3 wolf moon whatever 8-bit.
+
+[/accordion-item]
+
+[accordion-item title="Includes Revolution Slider"]
+
+Williamsburg swag tofu odd future marfa, single-origin coffee literally vinyl scenester aesthetic kale chips wayfarers street art synth. 3 wolf moon whatever 8-bit.
+
+[/accordion-item]
+
+[accordion-item title="Unlimited Customisation Possibilities"]
+
+Williamsburg swag tofu odd future marfa, single-origin coffee literally vinyl scenester aesthetic kale chips wayfarers street art synth. 3 wolf moon whatever 8-bit.
+
+[/accordion-item]
+
+[accordion-item title="Photoshop .PSD files included"]
+
+Williamsburg swag tofu odd future marfa, single-origin coffee literally vinyl scenester aesthetic kale chips wayfarers street art synth. 3 wolf moon whatever 8-bit.
+
+[/accordion-item]
+
+[accordion-item title="Very Well Documented"]
+
+Williamsburg swag tofu odd future marfa, single-origin coffee literally vinyl scenester aesthetic kale chips wayfarers street art synth. 3 wolf moon whatever 8-bit.
+
+[/accordion-item]
+[/accordion]
+[/one_half]
+
+[one_half]
+[tabgroup title="Our Skills"]
+[tab title="Branding"]
+<h3>Authentic Squid Fashion</h3>
+Squid synth carles, forage tousled terry richardson intelligentsia vice. Polaroid scenester portland vice +1 plaid. Fap PBR church-key blog pug. Authentic squid fashion axe hella, you probably haven’t heard of them twee vice truffaut retro gastropub sartorial.
+
+Four loko put a bird on it vinyl typewriter ethnic neutra. Marfa kale chips authentic fingerstache, ennui stumptown sustainable gluten-free truffaut. Pitchfork actually fixie, next level echo park you probably haven’t heard of them semiotics marfa ethnic. Cosby sweater four loko deep v, trust fund ugh cliche squid selfies.
+
+[/tab]
+[tab title="Interaction design"]
+<h3>Chillwave Bowties Intelligentsia Letterpress</h3>
+Four loko put a bird on it vinyl typewriter ethnic neutra. Marfa kale chips authentic fingerstache, ennui stumptown sustainable gluten-free truffaut. Pitchfork actually fixie, next level echo park you probably haven’t heard of them semiotics marfa ethnic.
+
+Cosby sweater four loko deep v, trust fund ugh cliche squid selfies. Gentrify lo-fi meh street art, kale chips tumblr tattooed art party truffaut. Jean shorts lo-fi viral flexitarian PBR skateboard cray, pug VHS flannel readymade 3 wolf moon marfa. Ennui banksy polaroid scenester.
+
+[/tab]
+[tab title="Art Direction"]
+<h3>Thundercats Outdoor Art Party</h3>
+Squid synth carles, forage tousled terry richardson intelligentsia vice. Polaroid scenester portland vice +1 plaid. Fap PBR church-key blog pug. Authentic squid fashion axe hella, you probably haven’t heard of them twee vice truffaut retro gastropub sartorial.
+
+PBR literally stumptown fixie retro. Marfa art party 3 wolf moon 90′s photo booth, try-hard stumptown cosby sweater +1. Pitchfork vice direct trade keffiyeh, letterpress sriracha tonx typewriter godard bushwick try-hard single-origin coffee.
+
+[/tab]
+[/tabgroup]
+[/one_half]
+
+[empty_separator top_space="50px" bottom_space="30px"]</textarea>
+
+<a name="faqs"></a>		
+<p>&nbsp;</p>
+	
+		<h3><a href="http://theretailer.getbowtied.com/demo/pages/frequently-asked-questions/" target="_blank" title="View Demo">FAQs </a></h3>
+		Create a <strong>New Page</strong> and just paste the following combination of shortcodes in the WordPress text editor.<br/>
+		Leave the '<strong>Default Template</strong>' selected for this page.
+		<textarea class="codecopy">[full_column]
+[accordion title="Pre-Sale Questions" open="0"]
+
+[accordion-item title="Can I Preview the <strong>Documentation</strong> Before I Purchase the Theme?"]
+
+Williamsburg swag tofu odd future marfa, single-origin coffee literally vinyl scenester aesthetic kale chips wayfarers street art synth. 3 wolf moon whatever 8-bit, ugh pitchfork messenger bag umami stumptown bicycle rights keffiyeh gastropub salvia. Occupy gastropub ethical sartorial beard selvage. Beard mcsweeney's authentic chambray echo park semiotics, whatever high life. 3 wolf moon truffaut YOLO readymade terry richardson aesthetic, portland chillwave vice small batch disrupt locavore whatever. Organic narwhal street art, retro banksy irony quinoa tattooed williamsburg selvage butcher ethical hashtag messenger bag 8-bit. Butcher banksy +1, echo park keytar tofu swag viral narwhal occupy wolf banjo kale chips tattooed.
+
+[/accordion-item]
+
+[accordion-item title="How Do I Get <strong>Support</strong> For My copy of the Theme, Beyond the Help of Documentation?"]
+
+Carles cliche YOLO messenger bag, organic Austin lomo bushwick iphone. Trust fund +1 cray lomo, cred chillwave disrupt biodiesel. Selvage leggings tattooed direct trade. Banjo meh lomo umami, skateboard mixtape godard single-origin coffee 8-bit pitchfork aesthetic retro iphone salvia. Put a bird on it food truck photo booth biodiesel fixie mcsweeney's. Vice mixtape keffiyeh sriracha echo park church-key. Locavore seitan fashion axe wes anderson williamsburg church-key typewriter keffiyeh, street art odd future hashtag organic readymade vinyl godard.
+
+[/accordion-item]
+
+[accordion-item title="Where Can I Find My Item <strong>Purchase Code</strong>?"]
+
+Jean shorts mcsweeney's salvia food truck viral. Squid keffiyeh blue bottle actually. Twee master cleanse VHS typewriter cray sartorial. 3 wolf moon irony umami meh, readymade mlkshk VHS squid gastropub mcsweeney's raw denim locavore swag wolf. Single-origin coffee hoodie photo booth Austin blue bottle, kogi wolf. Retro american apparel banh mi chillwave, mlkshk keffiyeh messenger bag craft beer. Hoodie pitchfork craft beer, pug DIY chillwave YOLO PBR raw denim fap fanny pack tattooed salvia plaid umami.
+
+[/accordion-item]
+
+[accordion-item title="Does This Theme Come with <strong>Multi-Language</strong> Support?"]
+
+Jean shorts mcsweeney's salvia food truck viral. Squid keffiyeh blue bottle actually. Twee master cleanse VHS typewriter cray sartorial. 3 wolf moon irony umami meh, readymade mlkshk VHS squid gastropub mcsweeney's raw denim locavore swag wolf. Single-origin coffee hoodie photo booth Austin blue bottle, kogi wolf. Retro american apparel banh mi chillwave, mlkshk keffiyeh messenger bag craft beer. Hoodie pitchfork craft beer, pug DIY chillwave YOLO PBR raw denim fap fanny pack tattooed salvia plaid umami.
+
+[/accordion-item]
+
+[accordion-item title="Does This Theme Come With <strong>PSD Files</strong>?"]
+
+Jean shorts mcsweeney's salvia food truck viral. Squid keffiyeh blue bottle actually. Twee master cleanse VHS typewriter cray sartorial. 3 wolf moon irony umami meh, readymade mlkshk VHS squid gastropub mcsweeney's raw denim locavore swag wolf. Single-origin coffee hoodie photo booth Austin blue bottle, kogi wolf. Retro american apparel banh mi chillwave, mlkshk keffiyeh messenger bag craft beer. Hoodie pitchfork craft beer, pug DIY chillwave YOLO PBR raw denim fap fanny pack tattooed salvia plaid umami.
+
+[/accordion-item]
+
+[accordion-item title="How Do I Know About the <strong>Updates</strong> for This Theme?"]
+
+Jean shorts mcsweeney's salvia food truck viral. Squid keffiyeh blue bottle actually. Twee master cleanse VHS typewriter cray sartorial. 3 wolf moon irony umami meh, readymade mlkshk VHS squid gastropub mcsweeney's raw denim locavore swag wolf. Single-origin coffee hoodie photo booth Austin blue bottle, kogi wolf. Retro american apparel banh mi chillwave, mlkshk keffiyeh messenger bag craft beer. Hoodie pitchfork craft beer, pug DIY chillwave YOLO PBR raw denim fap fanny pack tattooed salvia plaid umami.
+
+[/accordion-item]
+
+[/accordion]
+[/full_column]
+
+[full_column]
+[accordion title="A 2nd block of FAQs" open="0"]
+
+[accordion-item title="Can I Preview the <strong>Documentation</strong> Before I Purchase the Theme?"]
+
+Williamsburg swag tofu odd future marfa, single-origin coffee literally vinyl scenester aesthetic kale chips wayfarers street art synth. 3 wolf moon whatever 8-bit, ugh pitchfork messenger bag umami stumptown bicycle rights keffiyeh gastropub salvia. Occupy gastropub ethical sartorial beard selvage. Beard mcsweeney's authentic chambray echo park semiotics, whatever high life. 3 wolf moon truffaut YOLO readymade terry richardson aesthetic, portland chillwave vice small batch disrupt locavore whatever. Organic narwhal street art, retro banksy irony quinoa tattooed williamsburg selvage butcher ethical hashtag messenger bag 8-bit. Butcher banksy +1, echo park keytar tofu swag viral narwhal occupy wolf banjo kale chips tattooed.
+
+[/accordion-item]
+
+[accordion-item title="How Do I Get <strong>Support</strong> For My copy of the Theme, Beyond the Help of Documentation?"]
+
+Carles cliche YOLO messenger bag, organic Austin lomo bushwick iphone. Trust fund +1 cray lomo, cred chillwave disrupt biodiesel. Selvage leggings tattooed direct trade. Banjo meh lomo umami, skateboard mixtape godard single-origin coffee 8-bit pitchfork aesthetic retro iphone salvia. Put a bird on it food truck photo booth biodiesel fixie mcsweeney's. Vice mixtape keffiyeh sriracha echo park church-key. Locavore seitan fashion axe wes anderson williamsburg church-key typewriter keffiyeh, street art odd future hashtag organic readymade vinyl godard.
+
+[/accordion-item]
+
+[accordion-item title="Where Can I Find My Item <strong>Purchase Code</strong>?"]
+
+Jean shorts mcsweeney's salvia food truck viral. Squid keffiyeh blue bottle actually. Twee master cleanse VHS typewriter cray sartorial. 3 wolf moon irony umami meh, readymade mlkshk VHS squid gastropub mcsweeney's raw denim locavore swag wolf. Single-origin coffee hoodie photo booth Austin blue bottle, kogi wolf. Retro american apparel banh mi chillwave, mlkshk keffiyeh messenger bag craft beer. Hoodie pitchfork craft beer, pug DIY chillwave YOLO PBR raw denim fap fanny pack tattooed salvia plaid umami.
+
+[/accordion-item]
+
+[accordion-item title="Does This Theme Come with <strong>Multi-Language</strong> Support?"]
+
+Jean shorts mcsweeney's salvia food truck viral. Squid keffiyeh blue bottle actually. Twee master cleanse VHS typewriter cray sartorial. 3 wolf moon irony umami meh, readymade mlkshk VHS squid gastropub mcsweeney's raw denim locavore swag wolf. Single-origin coffee hoodie photo booth Austin blue bottle, kogi wolf. Retro american apparel banh mi chillwave, mlkshk keffiyeh messenger bag craft beer. Hoodie pitchfork craft beer, pug DIY chillwave YOLO PBR raw denim fap fanny pack tattooed salvia plaid umami.
+
+[/accordion-item]
+
+
+[/accordion]
+[/full_column]
+
+[full_column]
+[accordion title="Shipping & Returns" open="0"]
+
+[accordion-item title="Can I Preview the <strong>Documentation</strong> Before I Purchase the Theme?"]
+
+Williamsburg swag tofu odd future marfa, single-origin coffee literally vinyl scenester aesthetic kale chips wayfarers street art synth. 3 wolf moon whatever 8-bit, ugh pitchfork messenger bag umami stumptown bicycle rights keffiyeh gastropub salvia. Occupy gastropub ethical sartorial beard selvage. Beard mcsweeney's authentic chambray echo park semiotics, whatever high life. 3 wolf moon truffaut YOLO readymade terry richardson aesthetic, portland chillwave vice small batch disrupt locavore whatever. Organic narwhal street art, retro banksy irony quinoa tattooed williamsburg selvage butcher ethical hashtag messenger bag 8-bit. Butcher banksy +1, echo park keytar tofu swag viral narwhal occupy wolf banjo kale chips tattooed.
+
+[/accordion-item]
+
+[accordion-item title="How Do I Get <strong>Support</strong> For My copy of the Theme, Beyond the Help of Documentation?"]
+
+Carles cliche YOLO messenger bag, organic Austin lomo bushwick iphone. Trust fund +1 cray lomo, cred chillwave disrupt biodiesel. Selvage leggings tattooed direct trade. Banjo meh lomo umami, skateboard mixtape godard single-origin coffee 8-bit pitchfork aesthetic retro iphone salvia. Put a bird on it food truck photo booth biodiesel fixie mcsweeney's. Vice mixtape keffiyeh sriracha echo park church-key. Locavore seitan fashion axe wes anderson williamsburg church-key typewriter keffiyeh, street art odd future hashtag organic readymade vinyl godard.
+
+[/accordion-item]
+
+[accordion-item title="Where Can I Find My Item <strong>Purchase Code</strong>?"]
+
+Jean shorts mcsweeney's salvia food truck viral. Squid keffiyeh blue bottle actually. Twee master cleanse VHS typewriter cray sartorial. 3 wolf moon irony umami meh, readymade mlkshk VHS squid gastropub mcsweeney's raw denim locavore swag wolf. Single-origin coffee hoodie photo booth Austin blue bottle, kogi wolf. Retro american apparel banh mi chillwave, mlkshk keffiyeh messenger bag craft beer. Hoodie pitchfork craft beer, pug DIY chillwave YOLO PBR raw denim fap fanny pack tattooed salvia plaid umami.
+
+[/accordion-item]
+
+[accordion-item title="Does This Theme Come with <strong>Multi-Language</strong> Support?"]
+
+Jean shorts mcsweeney's salvia food truck viral. Squid keffiyeh blue bottle actually. Twee master cleanse VHS typewriter cray sartorial. 3 wolf moon irony umami meh, readymade mlkshk VHS squid gastropub mcsweeney's raw denim locavore swag wolf. Single-origin coffee hoodie photo booth Austin blue bottle, kogi wolf. Retro american apparel banh mi chillwave, mlkshk keffiyeh messenger bag craft beer. Hoodie pitchfork craft beer, pug DIY chillwave YOLO PBR raw denim fap fanny pack tattooed salvia plaid umami.
+
+[/accordion-item]
+
+[/accordion]
+[/full_column]</textarea>
+
+<a name="contact-us-no-map"></a>		
+<p>&nbsp;</p>
+	
+		<h3><a href="http://theretailer.getbowtied.com/demo/pages/contact/" target="_blank" title="View Demo">Contact Us</a> – No Map</h3>
+		Create a <strong>New Page</strong>, then paste the following code in the WordPress text editor. The contact form is handled by '<strong>Contact From 7</strong>' WP plugin. Leave the '<strong>Default Template</strong>' selected for this page.
+		<textarea class="codecopy">[separator]
+
+[empty_separator top_space="30px" bottom_space="30px"]
+
+[one_half][section_title]Contact form[/section_title][contact-form-7 id="1123" title="Contact form 1"][/one_half]
+
+[one_half]<h1>We'd Love To Hear From You</h1>
+<h4>Master cleanse ethnic freegan salvia actually next level tousled marfa. Vice trust fund master cleanse, flannel photo booth. Godard pour-over iphone food truck, typewriter +1 intelligentsia.</h4>
+Avenida Guerra Junqueiro 35
+2610-035 AMADORA
+
+<a title="Call Us" href="tel:(323) 21 217 617 2972">(323) 21 217 617 2972</a>
+<a title="Call Us" href="tel:(323) 21 217 617 2972">(323) 21 217 617 2972</a>
+
+<a title="Email Us" href="mailto:contact@yourstore.com" target="_blank">contact@yourstore.com</a>
+<a title="Your Site URL" href="#" target="_blank">www.yourstore.com</a>
+[/one_half]
+
+[separator top_space="30px" bottom_space="30px"]
+
+[one_third]
+[section_title]London[/section_title]
+17 Princess Road
+London, Greater London NW1 8JR,
+United Kingdom
+[/one_third]
+
+[one_third]
+[section_title]Paris[/section_title]
+Appartement 37, Bâtiment 4
+218 rue de la Tombe-Issoire
+75014 Paris
+France
+[/one_third]
+
+[one_third]
+[section_title]Barcelona[/section_title]
+Rambla de Catalunya, 18
+08007 Barcelona,
+Spain
+[/one_third]
+
+[empty_separator top_space="50px" bottom_space="50px"]</textarea>				
+
+<a name="contact-us-map"></a>	
+<p>&nbsp;</p>
+	
+		<h3><a href="http://theretailer.getbowtied.com/demo/pages/contact/" target="_blank" title="View Demo">Contact Us</a> – With Google Map</h3>
+		Create a <strong>New Page</strong>, then paste the following code in the WordPress text editor. The contact form is handled by the '<strong>Contact From 7</strong>' WP plugin. You can create this page using the '<strong>Default Template</strong>', the '<strong>100% Width</strong>' template or the'<strong>100% Width - Single Footer</strong>' selected for this page.
+		The <a href="http://theretailer.getbowtied.com/demo/shortcodes/custom-google-map/" target="_blank">Google Maps Shortcode</a> can be used in with full width, as well as inside a specific number of columns you can set using the <a href="http://theretailer.getbowtied.com/demo/pages/columns-without-sidebar/" target="_blank">Columns shortcodes</a>. The height of the map is customizable as well for maximum flexibility. Style the map easily by specifying a main color in the shortcode.
+		<textarea class="codecopy">[google_map lat="51.51526" long="-0.13218" height="400px"]
+
+[container]
+
+[empty_separator top_space="30px" bottom_space="30px"]
+
+[one_half][section_title]Contact form[/section_title][contact-form-7 id="1123" title="Contact form 1"][/one_half]
+
+[one_half]<h1>We'd Love To Hear From You</h1>
+<h4>Master cleanse ethnic freegan salvia actually next level tousled marfa. Vice trust fund master cleanse, flannel photo booth. Godard pour-over iphone food truck, typewriter +1 intelligentsia.</h4>
+17 Princess Road
+London, Greater London NW1 8JR,
+United Kingdom
+
+<a title="Call Us" href="tel:(323) 21 217 617 2972">(323) 21 217 617 2972</a>
+<a title="Call Us" href="tel:(323) 21 217 617 2972">(323) 21 217 617 2972</a>
+
+<a title="Email Us" href="mailto:contact@yourstore.com" target="_blank">contact@yourstore.com</a>
+<a title="Your Site URL" href="#" target="_blank">www.yourstore.com</a>[/one_half]
+
+[separator top_space="30px" bottom_space="30px"]
+
+[one_third]
+[section_title]London[/section_title]
+17 Princess Road
+London, Greater London NW1 8JR,
+United Kingdom
+[/one_third]
+
+[one_third]
+[section_title]Paris[/section_title]
+Appartement 37, Bâtiment 4
+218 rue de la Tombe-Issoire
+75014 Paris
+France
+[/one_third]
+
+[one_third]
+[section_title]Barcelona[/section_title]
+Rambla de Catalunya, 18
+08007 Barcelona,
+Spain
+[/one_third]
+
+[empty_separator top_space="50px" bottom_space="50px"]
+
+[/container]</textarea>
+
+<a name="our team"></a>	
+<p>&nbsp;</p>
+	
+		<h3><a href="http://theretailer.getbowtied.com/demo/pages/our-team/" target="_blank" title="Our Team">Our Team</a></h3>
+		Create a <strong>New Page</strong> and just paste the following combination of shortcodes in the WordPress text editor.<br/>
+		Leave the '<strong>Default Template</strong>' selected for this page.
+		<textarea class="codecopy">[full_column][bold_title]Founding Partners[/bold_title][/full_column]
+
+[one_half]
+[team_member image_url="http://theretailer.getbowtied.com/blank-v2/wp-content/uploads/2013/03/team_member.jpg" name="Terry Richardson" role="WordPress Designer"]Thundercats squid single-origin coffee YOLO selfies disrupt, master cleanse semiotics DIY aesthetic letterpress typewriter narwhal.[/team_member]
+[/one_half]
+
+[one_half]
+[team_member image_url="http://theretailer.getbowtied.com/blank-v2/wp-content/uploads/2013/03/team_member.jpg" name="Alicia Thornton" role="Pretty Face"]Thundercats squid single-origin coffee YOLO selfies disrupt, master cleanse semiotics DIY aesthetic letterpress typewriter narwhal.[/team_member]
+[/one_half]
+
+[full_column][bold_title]The Team[/bold_title][/full_column]
+
+[one_fourth]
+[team_member image_url="http://theretailer.getbowtied.com/blank-v2/wp-content/uploads/2013/03/team_member.jpg" name="Joshua Wilkinson" role="WordPress Designer"]Thundercats squid single-origin coffee YOLO selfies disrupt, master cleanse semiotics.[/team_member]
+[/one_fourth]
+
+[one_fourth]
+[team_member image_url="http://theretailer.getbowtied.com/blank-v2/wp-content/uploads/2013/03/team_member.jpg" name="Nicholas Warner" role="WordPress Developer"]Thundercats squid single-origin coffee YOLO selfies disrupt, master cleanse semiotics.[/team_member]
+[/one_fourth]
+
+[one_fourth]
+[team_member image_url="http://theretailer.getbowtied.com/blank-v2/wp-content/uploads/2013/03/team_member.jpg" name="Alicia Thornton" role="Pretty Face"]Thundercats squid single-origin coffee YOLO selfies disrupt, master cleanse semiotics.[/team_member]
+[/one_fourth]
+
+[one_fourth]
+[team_member image_url="http://theretailer.getbowtied.com/blank-v2/wp-content/uploads/2013/03/team_member.jpg" name="Joshua Wilkinson" role="WordPress Developer"]Thundercats squid single-origin coffee YOLO selfies disrupt, master cleanse semiotics.[/team_member]
+[/one_fourth]
+
+[full_column][bold_title]We are hiring![/bold_title][/full_column]
+<h1 style="text-align: center;">Check out the available positions below:</h1>
+[full_column]
+[accordion title="" open="0"]
+
+[accordion-item title="<strong>Sales and Marketing Consultant Retail Merchandising</strong>"] 
+
+Williamsburg swag tofu odd future marfa, single-origin coffee literally vinyl scenester aesthetic kale chips wayfarers street art synth. 3 wolf moon whatever 8-bit, ugh pitchfork messenger bag umami stumptown bicycle rights keffiyeh gastropub salvia. Occupy gastropub ethical sartorial beard selvage. Beard mcsweeney's authentic chambray echo park semiotics, whatever high life. 3 wolf moon truffaut YOLO readymade terry richardson aesthetic, portland chillwave vice small batch disrupt locavore whatever. Organic narwhal street art, retro banksy irony quinoa tattooed williamsburg selvage butcher ethical hashtag messenger bag 8-bit. Butcher banksy +1, echo park keytar tofu swag viral narwhal occupy wolf banjo kale chips tattooed.
+
+<a title="Contact Us" href="http://theretailer.getbowtied.com/demo/pages/contact/">Contact Us</a>
+
+[/accordion-item]
+
+[accordion-item title="<b>Merchandising Execution Manager</b>"]
+
+Carles cliche YOLO messenger bag, organic Austin lomo bushwick iphone. Trust fund +1 cray lomo, cred chillwave disrupt biodiesel. Selvage leggings tattooed direct trade. Banjo meh lomo umami, skateboard mixtape godard single-origin coffee 8-bit pitchfork aesthetic retro iphone salvia. Put a bird on it food truck photo booth biodiesel fixie mcsweeney's. Vice mixtape keffiyeh sriracha echo park church-key. Locavore seitan fashion axe wes anderson williamsburg church-key typewriter keffiyeh, street art odd future hashtag organic readymade vinyl godard.
+
+<a title="Contact Us" href="http://theretailer.getbowtied.com/demo/pages/contact/">Contact Us</a>
+[/accordion-item]
+
+[accordion-item title="<strong>Art Director / Designer - Must have Fashion / Luxury experience</strong>"]
+
+Jean shorts mcsweeney's salvia food truck viral. Squid keffiyeh blue bottle actually. Twee master cleanse VHS typewriter cray sartorial. 3 wolf moon irony umami meh, readymade mlkshk VHS squid gastropub mcsweeney's raw denim locavore swag wolf. Single-origin coffee hoodie photo booth Austin blue bottle, kogi wolf. Retro american apparel banh mi chillwave, mlkshk keffiyeh messenger bag craft beer. Hoodie pitchfork craft beer, pug DIY chillwave YOLO PBR raw denim fap fanny pack tattooed salvia plaid umami.
+
+<a title="Contact Us" href="http://theretailer.getbowtied.com/demo/pages/contact/">Contact Us</a>
+
+[/accordion-item]
+
+[accordion-item title="<strong>Fashion Illustration Internship</strong>"]
+
+Jean shorts mcsweeney's salvia food truck viral. Squid keffiyeh blue bottle actually. Twee master cleanse VHS typewriter cray sartorial. 3 wolf moon irony umami meh, readymade mlkshk VHS squid gastropub mcsweeney's raw denim locavore swag wolf. Single-origin coffee hoodie photo booth Austin blue bottle, kogi wolf. Retro american apparel banh mi chillwave, mlkshk keffiyeh messenger bag craft beer. Hoodie pitchfork craft beer, pug DIY chillwave YOLO PBR raw denim fap fanny pack tattooed salvia plaid umami.
+
+<a title="Contact Us" href="http://theretailer.getbowtied.com/demo/pages/contact/">Contact Us</a>
+
+[/accordion-item]
+
+[/accordion]
+[/full_column]
+
+[full_column][bold_title]Learn More About Us[/bold_title][/full_column]
+
+[one_third][empty_separator top_space="0px" bottom_space="30px"][text_block title="Who We Are"]Portland chillwave intelligentsia, godard squid yr carles cliche leggings ennui try-hard post-ironic cred bushwick. Gentrify vegan cardigan, typewriter photo booth sustainable tofu tumblr before they sold out portland kale chips deep v scenester lo-fi wolf.[/text_block][/one_third]
+
+[one_third][empty_separator top_space="0px" bottom_space="30px"][text_block title="What We Do"]Gentrify stumptown chillwave, pop-up tofu DIY cardigan jean shorts blog wayfarers before they sold out authentic bushwick high life Austin. Scenester blue bottle wolf beard, bespoke truffaut tousled viral organic.[/text_block][/one_third]
+
+[one_third][empty_separator top_space="0px" bottom_space="30px"][text_block title="Our Philosophy"]Portland chillwave intelligentsia, godard squid yr carles cliche leggings ennui try-hard post-ironic cred bushwick. Gentrify vegan cardigan, typewriter photo booth sustainable tofu tumblr before they sold out portland kale chips deep v scenester lo-fi wolf.[/text_block][/one_third]
+
+[empty_separator top_space="0px" bottom_space="60px"]</textarea>
+
+<a name="features"></a>	
+<p>&nbsp;</p>
+			
+			
+		<h3><a href="http://theretailer.getbowtied.com/demo/pages/features/" target="_blank" title="View Demo">Features</a></h3>
+		Create a <strong>New Page</strong> and just paste the following combination of shortcodes in the WordPress text editor.<br/>
+		Leave the '<strong>Default Template</strong>' selected for this page.
+		<textarea class="codecopy">[separator top_space="0px" bottom_space="60px"]
+
+<img class="aligncenter size-full wp-image-2558" alt="Features" src="http://theretailer.getbowtied.com/blank/wp-content/uploads/2013/03/image_2.jpg" width="940" height="418" />
+
+[empty_separator top_space="20px" bottom_space="20px"]
+
+[full_column]
+<h1 style="text-align: center;">We Empower WordPress Developers With Design-Driven Themes
+And A Classy Experience Their Clients Will Just Love</h1>
+[separator top_space="40px" bottom_space="30px"]
+
+[/full_column]
+
+[one_half]
+[our_services image_url="http://theretailer.getbowtied.com/blank/wp-content/uploads/2013/03/retina-small.jpg" title="Retina Ready" link_name="Find out more" link_url="#"]
+Thundercats squid single-origin coffee YOLO selfies disrupt, master cleanse semiotics DIY aesthetic letterpress typewriter narwhal.
+[/our_services]
+
+[separator top_space="0px" bottom_space="30px"]
+
+[/one_half]
+
+[one_half]
+[our_services image_url="http://theretailer.getbowtied.com/blank/wp-content/uploads/2013/03/device-small.jpg" title="Super Mobile-Friendly" link_name="Find out more" link_url="#"]
+Thundercats squid single-origin coffee YOLO selfies disrupt, master cleanse semiotics DIY aesthetic letterpress typewriter narwhal.
+[/our_services]
+
+[separator top_space="0px" bottom_space="30px"]
+
+[/one_half]
+
+[one_half]
+[our_services image_url="http://theretailer.getbowtied.com/blank/wp-content/uploads/2013/03/light-bulb-small.jpg" title="Wide or Boxed Layout" link_name="Find out more" link_url="#"]
+Thundercats squid single-origin coffee YOLO selfies disrupt, master cleanse semiotics DIY aesthetic letterpress typewriter narwhal.
+[/our_services]
+
+[separator top_space="0px" bottom_space="30px"]
+
+[/one_half]
+
+[one_half]
+[our_services image_url="http://theretailer.getbowtied.com/blank/wp-content/uploads/2013/03/theme-options-small.jpg" title="Theme Options Panel" link_name="Find out more" link_url="#"]
+Thundercats squid single-origin coffee YOLO selfies disrupt, master cleanse semiotics DIY aesthetic letterpress typewriter narwhal.
+[/our_services]
+
+[separator top_space="0px" bottom_space="30px"]
+
+[/one_half]
+
+[one_half]
+[our_services image_url="http://theretailer.getbowtied.com/blank/wp-content/uploads/2013/03/cofee-small.jpg" title="Slider Revolution (15$ Value)" link_name="Find out more" link_url="#"]
+Thundercats squid single-origin coffee YOLO selfies disrupt, master cleanse semiotics DIY aesthetic letterpress typewriter narwhal.
+[/our_services]
+
+[separator top_space="0px" bottom_space="30px"]
+
+[/one_half]
+
+[one_half]
+[our_services image_url="http://theretailer.getbowtied.com/blank/wp-content/uploads/2013/03/thumb-small.jpg" title="Friendly Free Support" link_name="Find out more" link_url="#"]
+Thundercats squid single-origin coffee YOLO selfies disrupt, master cleanse semiotics DIY aesthetic letterpress typewriter narwhal.
+[/our_services]
+
+[separator top_space="0px" bottom_space="30px"]
+
+[/one_half]
+
+[one_half]
+[our_services image_url="http://theretailer.getbowtied.com/blank/wp-content/uploads/2013/03/translation-small.jpg" title="Translation Ready" link_name="Find out more" link_url="#"]
+Thundercats squid single-origin coffee YOLO selfies disrupt, master cleanse semiotics DIY aesthetic letterpress typewriter narwhal.
+[/our_services]
+[/one_half]
+
+[one_half]
+[our_services image_url="http://theretailer.getbowtied.com/blank/wp-content/uploads/2013/03/star-small.jpg" title="Friendly Free Support" link_name="Find out more" link_url="#"]
+Thundercats squid single-origin coffee YOLO selfies disrupt, master cleanse semiotics DIY aesthetic letterpress typewriter narwhal.
+[/our_services]
+[/one_half]
+
+[empty_separator top_space="20px" bottom_space="20px"]</textarea>		
+
+<a name="services"></a>	
+<p>&nbsp;</p>
+
+		<h3><a href="http://theretailer.getbowtied.com/demo/pages/services/" target="_blank" title="View Demo">Services</a></h3>
+		Create a <strong>New Page</strong> and just paste the following combination of shortcodes in the WordPress text editor.<br/>
+		Leave the '<strong>Default Template</strong>' selected for this page.
+		<textarea class="codecopy">[separator top_space="0px" bottom_space="10px"]
+
+[one_third]
+[empty_separator top_space="0px" bottom_space="30px"]
+[text_block title="Who We Are"]
+Portland chillwave intelligentsia, godard squid yr carles cliche leggings ennui try-hard post-ironic cred bushwick. Gentrify vegan cardigan, typewriter photo booth sustainable tofu tumblr before they sold out portland kale chips deep v scenester lo-fi wolf.
+[/text_block]
+[/one_third]
+
+[one_third]
+[empty_separator top_space="0px" bottom_space="30px"]
+[text_block title="What We Do"]
+Gentrify stumptown chillwave, pop-up tofu DIY cardigan jean shorts blog wayfarers before they sold out authentic bushwick high life Austin. Scenester blue bottle wolf beard, bespoke truffaut tousled viral organic.
+[/text_block]
+[/one_third]
+
+[one_third]
+[empty_separator top_space="0px" bottom_space="30px"]
+[text_block title="Our Philosophy"]
+Portland chillwave intelligentsia, godard squid yr carles cliche leggings ennui try-hard post-ironic cred bushwick. Gentrify vegan cardigan, typewriter photo booth sustainable tofu tumblr before they sold out portland kale chips deep v scenester lo-fi wolf.
+[/text_block]
+[/one_third]
+
+[empty_separator top_space="0px" bottom_space="20px"]
+
+[full_column][bold_title]Our Services[/bold_title][/full_column]
+
+[one_third]
+[featured_1 image_url="http://theretailer.getbowtied.com/demo/wp-content/uploads/2013/01/shop.jpg" title="WordPress Development" button_text="Find out more" button_url="http://www.google.com"]
+Fanny pack godard YOLO VHS Austin irony bespoke, you probably haven't heard of them fashion axe church-key wes anderson kale.
+[/featured_1]
+[/one_third]
+
+[one_third]
+[featured_1 image_url="http://theretailer.getbowtied.com/demo/wp-content/uploads/2013/01/thumb.jpg" title="UI Innovation" button_text="Find out more" button_url="http://www.google.com"]
+Fanny pack godard YOLO VHS Austin irony bespoke, you probably haven't heard of them fashion axe church-key wes anderson kale.
+[/featured_1]
+[/one_third]
+
+[one_third]
+[featured_1 image_url="http://theretailer.getbowtied.com/demo/wp-content/uploads/2013/01/tag.jpg" title="Digital Marketing" button_text="Find out more" button_url="http://www.google.com"]
+Fanny pack godard YOLO VHS Austin irony bespoke, you probably haven't heard of them fashion axe church-key wes anderson kale.
+[/featured_1]
+[/one_third]
+
+[empty_separator]
+
+[one_third]
+[featured_1 image_url="http://theretailer.getbowtied.com/demo/wp-content/uploads/2013/01/eye.jpg" title="Branding &amp; Identity" button_text="Find out more" button_url="http://www.google.com"]
+Fanny pack godard YOLO VHS Austin irony bespoke, you probably haven't heard of them fashion axe church-key wes anderson kale.
+[/featured_1]
+[/one_third]
+
+[one_third]
+[featured_1 image_url="http://theretailer.getbowtied.com/demo/wp-content/uploads/2013/01/device.jpg" title="App Development" button_text="Find out more" button_url="http://www.google.com"]
+Fanny pack godard YOLO VHS Austin irony bespoke, you probably haven't heard of them fashion axe church-key wes anderson kale.
+[/featured_1]
+[/one_third]
+
+[one_third]
+[featured_1 image_url="http://theretailer.getbowtied.com/demo/wp-content/uploads/2013/01/light-bulb.jpg" title="Information Architecture" button_text="Find out more" button_url="http://www.google.com"]
+Fanny pack godard YOLO VHS Austin irony bespoke, you probably haven't heard of them fashion axe church-key wes anderson kale.
+[/featured_1]
+[/one_third]
+
+[separator top_space="40px" bottom_space="60px"]
+
+[one_half]
+[accordion title="Why Choose Us?" open="0"]
+
+[accordion-item title="Super Mobile-Friendly Design"]
+
+Williamsburg swag tofu odd future marfa, single-origin coffee literally vinyl scenester aesthetic kale chips wayfarers street art synth. 3 wolf moon whatever 8-bit.
+
+[/accordion-item]
+
+[accordion-item title="Sharp on Retina Displays"]
+
+Williamsburg swag tofu odd future marfa, single-origin coffee literally vinyl scenester aesthetic kale chips wayfarers street art synth. 3 wolf moon whatever 8-bit.
+
+[/accordion-item]
+
+[accordion-item title="Includes Revolution Slider"]
+
+Williamsburg swag tofu odd future marfa, single-origin coffee literally vinyl scenester aesthetic kale chips wayfarers street art synth. 3 wolf moon whatever 8-bit.
+
+[/accordion-item]
+
+[accordion-item title="Unlimited Customisation Possibilities"]
+
+Williamsburg swag tofu odd future marfa, single-origin coffee literally vinyl scenester aesthetic kale chips wayfarers street art synth. 3 wolf moon whatever 8-bit.
+
+[/accordion-item]
+
+[accordion-item title="Photoshop .PSD files included"]
+
+Williamsburg swag tofu odd future marfa, single-origin coffee literally vinyl scenester aesthetic kale chips wayfarers street art synth. 3 wolf moon whatever 8-bit.
+
+[/accordion-item]
+
+[accordion-item title="Very Well Documented"]
+
+Williamsburg swag tofu odd future marfa, single-origin coffee literally vinyl scenester aesthetic kale chips wayfarers street art synth. 3 wolf moon whatever 8-bit.
+
+[/accordion-item]
+[/accordion]
+[/one_half]
+
+[one_half]
+[tabgroup title="Our Skills"]
+[tab title="Branding"]
+<h3>Authentic Squid Fashion</h3>
+Squid synth carles, forage tousled terry richardson intelligentsia vice. Polaroid scenester portland vice +1 plaid. Fap PBR church-key blog pug. Authentic squid fashion axe hella, you probably haven’t heard of them twee vice truffaut retro gastropub sartorial.
+
+Four loko put a bird on it vinyl typewriter ethnic neutra. Marfa kale chips authentic fingerstache, ennui stumptown sustainable gluten-free truffaut. Pitchfork actually fixie, next level echo park you probably haven’t heard of them semiotics marfa ethnic. Cosby sweater four loko deep v, trust fund ugh cliche squid selfies.
+
+[/tab]
+[tab title="Interaction design"]
+<h3>Chillwave Bowties Intelligentsia Letterpress</h3>
+Four loko put a bird on it vinyl typewriter ethnic neutra. Marfa kale chips authentic fingerstache, ennui stumptown sustainable gluten-free truffaut. Pitchfork actually fixie, next level echo park you probably haven’t heard of them semiotics marfa ethnic.
+
+Cosby sweater four loko deep v, trust fund ugh cliche squid selfies. Gentrify lo-fi meh street art, kale chips tumblr tattooed art party truffaut. Jean shorts lo-fi viral flexitarian PBR skateboard cray, pug VHS flannel readymade 3 wolf moon marfa. Ennui banksy polaroid scenester.
+
+[/tab]
+[tab title="Art Direction"]
+<h3>Thundercats Outdoor Art Party</h3>
+Squid synth carles, forage tousled terry richardson intelligentsia vice. Polaroid scenester portland vice +1 plaid. Fap PBR church-key blog pug. Authentic squid fashion axe hella, you probably haven’t heard of them twee vice truffaut retro gastropub sartorial.
+
+PBR literally stumptown fixie retro. Marfa art party 3 wolf moon 90′s photo booth, try-hard stumptown cosby sweater +1. Pitchfork vice direct trade keffiyeh, letterpress sriracha tonx typewriter godard bushwick try-hard single-origin coffee.
+
+[/tab]
+[/tabgroup]
+[/one_half]
+
+[empty_separator top_space="40px" bottom_space="40px"]</textarea>		
+
+<a name="archive"></a>	
+<p>&nbsp;</p>
+
+		<h3><a href="http://theretailer.getbowtied.com/demo/pages/archive/" target="_blank" title="View Demo">Archive</a></h3>
+		Create a <strong>New Page</strong> and just select the '<strong>Archive page</strong>' template in Page Attributes.<br/>
+		No shortcodes are required to build this page.
+		
+	</section>
+	
+<a name="widget-areas"></a>	
+<hr>
+	
+	<section>
+		<h1>Sidebars & Widget Areas</h1>
+		
+		<p>If you navigate to <strong>Appearance</strong> &rarr; <strong>Widgets</strong> in your admin panel, you will see four widet-ready areas for this theme: 
+	  <ol class="dividers">
+			<li><strong>Sidebar</strong>: this sidebar will be displayed on the Blog as well as on the pages that use the 'Page With Sidebar' template.</li>
+			<li><strong>Product Listing</strong>: this sidebar will be displayed on the shop pages only, in case the shop sidebar is turned on from the Theme Options panel.</li>
+			<li><strong>Light Footer</strong>: displayed in the lighter, top part of the footer.</li>
+			<li><strong>Dark Footer</strong>: displayed in the darker, lower part of the footer.</li>
+		</ol>
+		</p>
+	  <p>To setup you widgets, just drag one widget at a time and drop it in the desired widget area from the list above.</p>
+		<p>Please note that you can define unique widgets per page for any of the widgetized areas mentioned above, using the WooSidebars plugin that comes with the theme.</p>
+
+	</section>	
+	
+
+<a name="slider-setup"></a>	
+<hr>
+	
+	<section>
+		<h1>Sliders Setup</h1>
+		
+		<h2>Creating a New Slide</h2>
+		<p>The sliders are built using the powerful premium wp plugin, Slider Revolution, which comes with this theme. The slides you're creating can be placed on any page of your website, using shortcodes. This quick tutorial will teach you how to set up slides for your site.</p>
+		<iframe width="790" height="400" src="http://www.youtube.com/embed/fCgspm_GaP8" frameborder="0" allowfullscreen></iframe>
+		
+		<p>&nbsp;</p>
+		<p class="note-yellow">
+			<strong>Need Help with Slider Revolution?</strong>
+			In case you're new to Slider Revolution and you need help with creating your slides, you should check out the Slider Revolution Documentation, included in the theme files.
+		</p>
+
+		
+	</section>	
+	
+<a name="shortcodes"></a>	
+<hr>
+	
+	<section>
+		<h1>Shortcodes</h1>
+		
+		<p>The theme comes with a built-in library of shortcodes that will help you create custom pages or display specific content inside your posts. All shortcodes are accessible in the Post/Page Editor, in a select box, near the 'Add Media' button.</p>
+		<p><img src="img/shortcodes.jpg" /></p>
+		<p>On our Demo Site, you can find examples of usage for all shortcodes, along with descriptions and attributes for each one. You can easily create something similar, by copying the code provided in each shortcode page then pasting it in the text editor of your page.</p>
+		<h3>Shortcode Demos</h3>
+		<ul class="dividers" style="padding:0px;">
+			<li><a href="http://theretailer.getbowtied.com/demo/pages/columns-without-sidebar/" target="_blank"><strong>Columns</strong></a></li>
+			<li><a href="http://theretailer.getbowtied.com/demo/shortcodes/slide-everything/" target="_blank"><strong>Slide Everything</strong></a></li>
+			<li><a href="http://theretailer.getbowtied.com/demo/featured-products-slider/" target="_blank"><strong>Featured Products Slider 1</strong></a></li>
+			<li><a href="http://theretailer.getbowtied.com/demo/shortcodes/featured-products/" target="_blank"><strong>Featured Products Slider 2</strong></a></li>
+			<li><a href="http://theretailer.getbowtied.com/demo/shortcodes/banners/" target="_blank"><strong>Banners</strong></a></li>
+			<li><a href="http://theretailer.getbowtied.com/demo/shortcodes/accordion/" target="_blank"><strong>Accordion</strong></a></li>
+			<li><a href="http://theretailer.getbowtied.com/demo/shortcodes/buttons/" target="_blank"><strong>Buttons</strong></a></li>
+			<li><a href="http://theretailer.getbowtied.com/demo/shortcodes/featured-content-box/" target="_blank"><strong>Featured Content Box</strong></a></li>
+			<li><a href="http://theretailer.getbowtied.com/demo/shortcodes/services-list/" target="_blank"><strong>Services List</strong></a></li>
+			<li><a href="http://theretailer.getbowtied.com/demo/shortcodes/tabs/" target="_blank"><strong>Tabs</strong></a></li>
+			<li><a href="http://theretailer.getbowtied.com/demo/shortcodes/team-members/" target="_blank"><strong>Team Members</strong></a></li>
+			<li><a href="http://theretailer.getbowtied.com/demo/shortcodes/features/" target="_blank"><strong>Features List</strong></a></li>
+			<li><a href="http://theretailer.getbowtied.com/demo/shortcodes/text-blocks/" target="_blank"><strong>Text Blocks</strong></a></li>
+			<li><a href="http://theretailer.getbowtied.com/demo/shortcodes/shop-shortcodes/testimonials/" target="_blank"><strong>Testimonials</strong></a></li>
+			<li><a href="http://theretailer.getbowtied.com/demo/shortcodes/separators/" target="_blank"><strong>Separators</strong></a></li>
+			<li><a href="http://theretailer.getbowtied.com/demo/shortcodes/recent-work/" target="_blank"><strong>Recent Work</strong></a></li>
+			<li><a href="http://theretailer.getbowtied.com/demo/shortcodes/latest-news/" target="_blank"><strong>Latest News</strong></a></li>
+			<li><a href="http://theretailer.getbowtied.com/demo/shortcodes/custom-google-map/" target="_blank"><strong>Custom Google Map</strong></a></li>
+			<li><a href="http://theretailer.getbowtied.com/demo/shortcodes/shop-shortcodes/on-sale-products/" target="_blank"><strong>On Sale Products Slider</strong></a></li>
+			<li><a href="http://theretailer.getbowtied.com/demo/shortcodes/shop-shortcodes/latest-products/" target="_blank"><strong>Latest Products Slider</strong></a></li>
+			<li><a href="http://theretailer.getbowtied.com/demo/shortcodes/shop-shortcodes/best-sellers/" target="_blank"><strong>Best Sellers Slider</strong></a></li>
+			<li><a href="http://theretailer.getbowtied.com/demo/shortcodes/shop-shortcodes/products-by-skuid/" target="_blank"><strong>Products by SKU/ID Slider</strong></a></li>
+			<li><a href="http://theretailer.getbowtied.com/demo/shortcodes/shop-shortcodes/product-categories/" target="_blank"><strong>Product Categories</strong></a></li>
+			<li><a href="http://theretailer.getbowtied.com/demo/shortcodes/shop-shortcodes/recent-products/" target="_blank"><strong>Recent Products</strong></a> (Non Sliding)</li>
+			<li><a href="http://theretailer.getbowtied.com/demo/shortcodes/shop-shortcodes/featured-products/" target="_blank"><strong>Featured Products</strong></a> (Non Sliding)</li>
+		</ul>
+	</section>	
+
+<a name="credits"></a>		
+<hr>	
+	
+
+	<section>
+		<h1>Credits</h1>
+
+		<ul style="padding:0px;" class="dividers">
+			<li><a href="http://wordpress.org/" target="_blank"><strong>WordPress</strong></a></li>
+			<li><a href="http://www.woothemes.com/woocommerce/" target="_blank"><strong>WooCommerce</strong></a></li>
+			<li><a href="http://jquery.com/" target="_blank"><strong>jQuery</strong></a></li>
+			<li><a href="http://iosscripts.com/iosslider/" target="_blank"><strong>Slider Revolution</strong></a> (Premium) &#8212; A fully developed slide displaying system offering the capability to show images, videos and captions paired with simple, modern and fancy 3D transitions. Fully responsive and mobile optimized.</li>
+			<li><a href="http://iosscripts.com/iosslider/" target="_blank"><strong>iOS Slider</strong></a> (Premium) &#8212; Touch Enabled jQuery Horizontal Slider Plugin.</li>
+			<li><a href="https://github.com/sy4mil/Options-Framework" target="_blank"><strong>Slightly Modded Options Framework</strong></a> &#8212; SMOF is a back-end framework for creating and managing options.</li>
+			<li><a href="https://github.com/thomasgriffin/TGM-Plugin-Activation" target="_blank"><strong>TGM-Plugin-Activation</strong></a> &#8212; It allows users to install plugins in singular or bulk fashion using native WordPress classes, functions and interfaces.</li>			
+			<li><a href="http://iosscripts.com/iosslider/" target="_blank"><strong>hoverIntent</strong></a> &#8212; A plug-in that attempts to determine the user's intent... like a crystal ball, only with mouse movement! Instead of calling the handlerIn function immediately, hoverIntent waits until the user's mouse slows down enough before making the call.</li>
+			<li><a href="https://github.com/aFarkas/html5shiv" target="_blank"><strong>html5shiv</strong></a> &#8212; The HTML5 Shiv enables use of HTML5 sectioning elements in legacy Internet Explorer and provides basic HTML5 styling for Internet Explorer 6-9, Safari 4.x (and iPhone 3.x), and Firefox 3.x..</li>
+			<li><a href="http://adam.co/lab/jquery/customselect/" target="_blank"><strong>customSelect</strong></a> &#8212; This lightweight, unintrusive technique uses the native select box functionality of the web browser, and overlays a stylable <span> element in order to acheive your desired look.</li>
+			<li><a href="http://users.tpg.com.au/j_birch/plugins/superfish/" target="_blank"><strong>Superfish</strong></a> &#8212; An enhanced Suckerfish-style menu jQuery plugin that takes an existing pure CSS drop-down menu and adds the following much-sought-after enhancements.</li>
+			<li><a href="https://github.com/scottjehl/Respond" target="_blank"><strong>Respond.js</strong></a> &#8212; The goal of this script is to provide a fast and lightweight script to enable responsive web designs in browsers that don't support CSS3 Media Queries - in particular, Internet Explorer 8 and under.</li>
+			<li><a href="http://themergency.com/footable/" target="_blank"><strong>Footable</strong></a> &#8212; A jQuery plugin that aims to make HTML tables on smaller devices look awesome.</li>
+			<li><a href="http://designmodo.com/linecons-free/" target="_blank"><strong>Linecons</strong></a> &#8212; Linecons Free is a set of remarkable free vector icons. The set contains 48 fully scalable vector icons with outline styles.</li>
+			<li><a href="http://wordpress.org/extend/plugins/simple-wp-retina/" target="_blank"><strong>Simple WP Retina</strong></a> &#8212; Seamlessly replaces images with @2x versions on Retina and other high pixel density screens. Change is performed server side saving requests..</li>
+		</ul>
+		</p>
+	</section>
+	
+	
+
+	
+<p>&nbsp;</p>	<p>&nbsp;</p>	
+
+	<footer>
+	<p>&copy; Get Bowtied 2013. All rights reserved.</p>
+
+	</footer>
+
+	<a href="#top" class="top-link" id="top-link">&#9650; Top</a>
+
+</div><!-- .container -->
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+<script type="text/javascript" src="src/js/jquery.mousewheel.js"></script>
+<script type="text/javascript" src="src/js/ilightbox.packed.js"></script>
+<script type="text/javascript" src="js/jquery.fixedTOC.js"></script>
+
+<script>
+	// call the plugin on the "#toc" element
+	/*$('#toc').fixedTOC({
+		menuOpens: 'click', // or 'mouseenter'
+		scrollSpeed: 1000,
+		menuSpeed: 300,
+		useSubMenus: true,
+		resetSubMenus: true,
+		topLinkWorks: true
+	});*/
+	
+	$('.image1').iLightBox();
+	$('.image2').iLightBox();
+	$('.video1').iLightBox();
+	$('.thumb-menu-locations').iLightBox();
+	$('.thumb-woocommerce-image-options').iLightBox();
+	$('.thumb-create-a-new-page').iLightBox();
+	$('.thumb-page-templates').iLightBox();
+	$('.thumb-home-setup').iLightBox();
+	$('.thumb-blog-setup').iLightBox();
+	$('.thumb-portfolio-setup').iLightBox();
+	$('.thumb-portfolio-add-new').iLightBox();
+	
+</script>
+
+<script>
+
+$(document).ready(function () {
+		
+		
+	$('.sticky_menu .navigation').click(function () {
+		
+		$('#accordion a.item').each(function () {
+			$(this).removeClass($(this).attr('rel') + 'active');	
+		});
+		
+		$('#accordion li').children('ul').slideUp('fast');
+
+		$('#accordion').slideToggle('fast');
+	});
+	
+	
+	
+	$('.sticky_menu').mouseleave(function () {
+					
+		$('#accordion a.item').each(function () {
+			$(this).removeClass($(this).attr('rel') + 'active');	
+		});
+		
+		$('#accordion li').children('ul').slideUp('fast');
+
+		$('#accordion').slideUp('fast');
+	});
+	
+	
+	$('#accordion a.item').click(function () {
+
+		if (!$(this).hasClass('active')) {
+		
+			//slideup or hide all the Submenu
+			$('#accordion li').children('ul').slideUp('fast');	
+			
+			//remove all the "Over" class, so that the arrow reset to default
+			$('#accordion a.item').each(function () {
+				$(this).removeClass($(this).attr('rel') + 'active');	
+			});
+			
+			//show the selected submenu
+			$(this).siblings('ul').slideDown('fast');
+			
+			//add "Over" class, so that the arrow pointing down
+			$(this).addClass($(this).attr('rel') + 'active');			
+
+			return false;
+		
+		} else {
+			
+			//slideup or hide all the Submenu
+			$('#accordion li').children('ul').slideUp('fast');
+			
+			//remove all the "Over" class, so that the arrow reset to default
+			$('#accordion a.item').each(function () {
+				$(this).removeClass($(this).attr('rel') + 'active');	
+			});
+			
+		}
+
+	});
+
+});
+
+</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-34525675-1']);
+  _gaq.push(['_setDomainName', 'getbowtied.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</body>
+</html>

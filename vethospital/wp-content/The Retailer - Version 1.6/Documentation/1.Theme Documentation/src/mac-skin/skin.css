@@ -1,0 +1,122 @@
+.ilightbox-overlay.mac {
+	background: #2B2B2B;
+}
+
+.ilightbox-loader.mac {
+	-webkit-box-shadow: black 0px 0px 85px, black 0px 0px 85px;
+	        box-shadow: black 0px 0px 85px, black 0px 0px 85px;
+}
+.ilightbox-loader.mac div {
+	background: #141414 url('preloader.gif') no-repeat center;
+}
+
+.ilightbox-holder.mac {
+	padding: 10px;
+	background: #FFF;
+
+	-webkit-box-shadow: 0 38px 30px -18px rgba(0, 0, 0, .6);
+	-moz-box-shadow: 0 38px 30px -18px rgba(0, 0, 0, .6);
+	box-shadow: 0 38px 30px -18px rgba(0, 0, 0, .6);
+}
+
+.ilightbox-holder.mac .ilightbox-container  .ilightbox-caption {
+	background: #FFF;
+	color: #000;
+	padding-bottom: 0;
+	
+	-webkit-border-radius: 0;
+	        border-radius: 0;
+}
+
+.ilightbox-holder.mac .ilightbox-alert {
+	background: url('alert.png') no-repeat center top;
+	color: #555;
+}
+
+.ilightbox-toolbar.mac {
+	top: 11px;
+	left: 10px;
+}
+
+.ilightbox-toolbar.mac {
+	background: black;
+	border: #FFF 2px solid;
+	
+	-webkit-border-radius: 50px;
+	        border-radius: 50px;
+	
+	-webkit-box-shadow: 0 0 5px hsla(0,0%,0%,.8);
+	        box-shadow: 0 0 5px hsla(0,0%,0%,.8);
+}
+
+.ilightbox-toolbar.mac a {
+	width: 18px;
+	height: 18px;
+	background: url('buttons.png') no-repeat 4px 4px;
+}
+
+.ilightbox-toolbar.mac a:hover {
+	background-color: #343434;
+}
+
+.ilightbox-toolbar.mac a.ilightbox-fullscreen {
+	background-position: 4px -37px;
+	right: 35px;
+}
+
+.ilightbox-toolbar.mac a:first-of-type {
+	-webkit-border-bottom-left-radius: 50px;
+	-webkit-border-top-left-radius: 50px;
+		    border-bottom-left-radius: 50px;
+		    border-top-left-radius: 50px;
+}
+
+.ilightbox-toolbar.mac a:last-of-type {
+	-webkit-border-bottom-right-radius: 50px;
+	-webkit-border-top-right-radius: 50px;
+		    border-bottom-right-radius: 50px;
+		    border-top-right-radius: 50px;
+}
+
+.ilightbox-thumbnails.mac .ilightbox-thumbnails-grid .ilightbox-thumbnail img {
+	box-shadow: 0 0 6px rgba(0, 0, 0, .9);
+	
+	-webkit-border-radius: 0;
+	        border-radius: 0;
+}
+
+.ilightbox-thumbnails.mac .ilightbox-thumbnails-grid .ilightbox-thumbnail .ilightbox-thumbnail-video {
+	background: url('thumb-overlay-play.png') no-repeat center;
+}
+
+.ilightbox-holder.mac .ilightbox-inner-toolbar .ilightbox-title {
+	font-size: 18px;
+	padding: 10px 8px;
+	color: #000;
+}
+
+.ilightbox-holder.mac .ilightbox-inner-toolbar .ilightbox-toolbar {
+	left: -25px;
+	top: -25px;
+}
+
+.ilightbox-holder.mac .ilightbox-inner-toolbar .ilightbox-toolbar a {
+	float: right;
+	
+	-webkit-border-radius: 0;
+	        border-radius: 0;
+}
+
+.ilightbox-holder.mac .ilightbox-inner-toolbar .ilightbox-toolbar a:first-of-type {
+	-webkit-border-bottom-right-radius: 50px;
+	-webkit-border-top-right-radius: 50px;
+		    border-bottom-right-radius: 50px;
+		    border-top-right-radius: 50px;
+}
+
+.ilightbox-holder.mac .ilightbox-inner-toolbar .ilightbox-toolbar a:last-of-type {
+	-webkit-border-bottom-left-radius: 50px;
+	-webkit-border-top-left-radius: 50px;
+		    border-bottom-left-radius: 50px;
+		    border-top-left-radius: 50px;
+}

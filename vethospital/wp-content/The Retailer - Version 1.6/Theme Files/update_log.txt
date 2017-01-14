@@ -1,0 +1,86 @@
+Update History
+
+***********************************************
+The Retailer v1.6 – Pending Approval
+***********************************************
+- NEW: Added Next/Prev to Lightbox Images.
+- NEW: Localization support for sharing links in product page.
+- NEW: Updated Dummy Data.
+- NEW: Include currency code in schema.
+- NEW: Calculate Shipping field styles.
+- NEW: Review Form Styling when Lightbox is disabled.
+- NEW: 'Add to Cart Button' Shortcode  Styles Update.
+- NEW: Added support for multiple languages in Theme Options - Register/Login Sections.
+- NEW: Show the excerpt instead of the content in category/tag blog listing.
+- NEW: Add pagination in blog listing from for a category or tag.
+- NEW: Added support for WooCommerce 2.0.9.
+- NEW: Added support for Contact Form 7 3.4.1.
+- TWEAK: Image quality and image sizes in Single Product.
+- TWEAK: Product Meta tags singular/plural.
+- FIX: Categories Display Settings in WooCommerce.
+- FIX: Footers with no widgets don't respond to theme option to hide.
+- FIX: Uppercase in title breaks socials links.
+- FIX: Custom Sidebar on Shop.
+- FIX: Footers with no widgets don't respond to theme option to change background color.
+- FIX: Error in view order for downloadable items.
+
+
+***********************************************
+The Retailer v1.5 – April 27th, 2013
+***********************************************
+- NEW: Added support for Ubermenu.
+- NEW: Added support for WooCommerce 2.0.8.
+- NEW: Added new Google Fonts.
+- NEW: Added the Option to Turn Off Light Footer on All Site.
+- NEW: Added the Option to Turn Off Dark Footer on All Site.
+- NEW: Added the Option to change the color for Primary Menu.
+- NEW: Added the Option to change the color for Secondary Menu.
+- NEW: Added new query for [custom_on_sale_products] shortcode.
+- FIX: Minicart disappears in some situations.
+- FIX: Revolution Slider background - Firefox.
+- FIX: Navigation not being centered in Catalog Mode on mobiles.
+- FIX: PHP Warning when product not being part of a category.
+
+***********************************************
+The Retailer v1.4 – April 09th, 2013
+***********************************************
+- NEW: Product flipping image logic.
+- NEW: New language strings added.
+- FIX: Styles update for better landscape imagery support.
+
+
+***********************************************
+The Retailer v1.3 – April 03th, 2013
+***********************************************
+- NEW: Added support for product category base permalink.
+- NEW: Added support for custom image per product variation.
+- NEW: Added support for Cross-Sells products in the Shopping Bag.
+- NEW: Slider PSD files available in the theme pack.
+- FIX: Order total and shipping bug.
+- FIX: My account styles updated.
+- FIX: Translation strings updated.
+- FIX: Coupon Code bug.
+- FIX: Product lists alignment in widgets.
+
+***********************************************
+The Retailer v1.2 – March 29th, 2013
+***********************************************
+- NEW: Added option to enter the number of products/page in Products Listing.
+- NEW: Added option to change the Copyright text color in Footer.
+- NEW: Added category filter for [from_the_blog] shortcode.
+- FIX: Filter by price bug.
+
+***********************************************
+The Retailer v1.1 – March 27th, 2013
+***********************************************
+- NEW: Added support for WooCommerce 2.0.5.
+- NEW: Added Left Column for Pages.
+- NEW: Added option to hide the Light Footer on Blog.
+- NEW: Added Prettyphoto (modal lightbox) to WP [gallery] with link=file.
+- FIX: Plugin install fails if Child theme active.
+- FIX: Images in Product Image Gallery Won't Delete.
+
+***********************************************
+The Retailer v1.0 – March 26th, 2013
+***********************************************
+- Initial Release.

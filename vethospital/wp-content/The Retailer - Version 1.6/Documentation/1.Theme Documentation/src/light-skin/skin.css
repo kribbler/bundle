@@ -1,0 +1,120 @@
+.ilightbox-overlay.light {
+	background: #FFF;
+}
+
+.ilightbox-loader.light {
+	-webkit-box-shadow: hsla(255,90%,90%,1) 0px 0px 85px, hsla(255,90%,90%,1) 0px 0px 85px;
+	        box-shadow: hsla(255,90%,90%,1) 0px 0px 85px, hsla(255,90%,90%,1) 0px 0px 85px;
+}
+.ilightbox-loader.light div {
+	background: #FFF url('preloader.gif') no-repeat center;
+}
+
+.ilightbox-holder.light {
+	padding: 10px;
+	background: #FFF;
+	
+	-webkit-box-shadow: 0 0 15px hsla(255,90%,90%,1);
+	        box-shadow: 0 0 15px hsla(255,90%,90%,1);
+	
+	-webkit-border-radius: 2px;
+	        border-radius: 2px;
+}
+
+.ilightbox-holder.light .ilightbox-container .ilightbox-caption {
+	background: url('caption-bg.png');
+	color: #000;
+	text-shadow: 0 1px #FFF;
+}
+
+.ilightbox-holder.light .ilightbox-alert {
+	background: url('alert.png') no-repeat center top;
+	color: #89949B;
+}
+
+.ilightbox-toolbar.light {
+	top: 8px;
+	left: 8px;
+	height: 23px;
+	
+	-webkit-box-shadow: 0 0 7px hsla(255,90%,90%,1);
+	        box-shadow: 0 0 7px hsla(255,90%,90%,1);
+	
+	-webkit-border-radius: 3px;
+	        border-radius: 3px;
+}
+
+.ilightbox-toolbar.light a {
+	width: 25px;
+	height: 23px;
+	background: white url('buttons.png') no-repeat 7px 6px;
+}
+
+.ilightbox-toolbar.light a:first-of-type {
+	-webkit-border-bottom-left-radius: 3px;
+	-webkit-border-top-left-radius: 3px;
+		    border-bottom-left-radius: 3px;
+		    border-top-left-radius: 3px;
+}
+
+.ilightbox-toolbar.light a:last-of-type {
+	-webkit-border-bottom-right-radius: 3px;
+	-webkit-border-top-right-radius: 3px;
+		    border-bottom-right-radius: 3px;
+		    border-top-right-radius: 3px;
+}
+
+.ilightbox-toolbar.light a.ilightbox-close:hover {
+	background-position: -32px 6px;
+}
+
+.ilightbox-toolbar.light a.ilightbox-fullscreen {
+	background-position: 6px -33px;
+}
+
+.ilightbox-toolbar.light a.ilightbox-fullscreen:hover {
+	background-position: -31px -33px;
+}
+
+.ilightbox-thumbnails.light .ilightbox-thumbnails-grid .ilightbox-thumbnail img {
+	box-shadow: 0 0 6px hsla(255,90%,90%,1);
+}
+
+.ilightbox-thumbnails.light .ilightbox-thumbnails-grid .ilightbox-thumbnail .ilightbox-thumbnail-video {
+	background: url('thumb-overlay-play.png') no-repeat center;
+}
+
+.ilightbox-holder.light .ilightbox-inner-toolbar .ilightbox-title {
+	font-size: 18px;
+	padding: 10px 8px;
+	padding-right: 60px;
+	color: #000;
+}
+
+.ilightbox-holder.light .ilightbox-inner-toolbar .ilightbox-toolbar {
+	left: auto;
+	top: 5px;
+	right: 5px;
+}
+
+.ilightbox-holder.light .ilightbox-inner-toolbar .ilightbox-toolbar a {
+	float: right;
+}
+
+.ilightbox-holder.light .ilightbox-inner-toolbar .ilightbox-toolbar a:first-of-type {
+	-webkit-border-radius: 0;
+	-webkit-border-bottom-right-radius: 3px;
+	-webkit-border-top-right-radius: 3px;
+	        border-radius: 0;
+		    border-bottom-right-radius: 3px;
+		    border-top-right-radius: 3px;
+}
+
+.ilightbox-holder.light .ilightbox-inner-toolbar .ilightbox-toolbar a:last-of-type {
+	-webkit-border-radius: 0;
+	-webkit-border-bottom-left-radius: 3px;
+	-webkit-border-top-left-radius: 3px;
+	        border-radius: 0;
+		    border-bottom-left-radius: 3px;
+		    border-top-left-radius: 3px;
+}
