@@ -1,0 +1,1602 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Quite Nice Booking 2.4.0\n"
+"POT-Creation-Date: 2014-01-09 15:55+0800\n"
+"PO-Revision-Date: 2014-01-09 15:55+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../includes/quitenicebooking.class.php:237
+msgid "Please fill out the required fields marked with *"
+msgstr ""
+
+#: ../includes/quitenicebooking.class.php:238
+#: ../includes/quitenicebooking.class.php:861
+#: ../includes/quitenicebooking_settings.class.php:283
+msgid "Please enter a valid email address"
+msgstr ""
+
+#: ../includes/quitenicebooking.class.php:239
+#: ../includes/quitenicebooking.class.php:867
+msgid "Please select a payment method"
+msgstr ""
+
+#: ../includes/quitenicebooking.class.php:240
+msgid "Please accept the terms and conditions"
+msgstr ""
+
+#: ../includes/quitenicebooking.class.php:241
+#: ../templates/single-accommodation.php:112 ../views/booking_form.htm.php:3
+#: ../views/booking_step_1.htm.php:125 ../views/booking_step_2.htm.php:375
+#: ../views/booking_step_2.htm.php:399 ../views/booking_step_3.htm.php:222
+#: ../views/booking_step_4.htm.php:100 ../views/payment_success.htm.php:86
+#: ../views/reservation_form_widget.htm.php:4
+msgid "Check In"
+msgstr ""
+
+#: ../includes/quitenicebooking.class.php:242
+#: ../templates/single-accommodation.php:113 ../views/booking_form.htm.php:4
+#: ../views/booking_step_1.htm.php:130 ../views/booking_step_2.htm.php:376
+#: ../views/booking_step_2.htm.php:403 ../views/booking_step_3.htm.php:223
+#: ../views/booking_step_4.htm.php:101 ../views/payment_success.htm.php:87
+#: ../views/reservation_form_widget.htm.php:5
+msgid "Check Out"
+msgstr ""
+
+#: ../includes/quitenicebooking.class.php:243
+msgid "Please Select Booking Dates"
+msgstr ""
+
+#: ../includes/quitenicebooking.class.php:244
+msgid "Check In and Check Out Dates Cannot Be On The Same Day"
+msgstr ""
+
+#: ../includes/quitenicebooking.class.php:245
+msgid "Check In Date Must Be Before Check Out Date"
+msgstr ""
+
+#: ../includes/quitenicebooking.class.php:246
+msgid "Please select at least 1 guest for Room"
+msgstr ""
+
+#: ../includes/quitenicebooking.class.php:247
+#: ../includes/quitenicebooking.class.php:704
+msgid "Booking must have at least 1 adult"
+msgstr ""
+
+#: ../includes/quitenicebooking.class.php:365
+#: ../includes/quitenicebooking.class.php:405
+msgid ""
+"Please do not reload the page.  You will be redirected to the first booking "
+"step momentarily."
+msgstr ""
+
+#: ../includes/quitenicebooking.class.php:400
+#: ../includes/quitenicebooking.class.php:430
+msgid ""
+"Your session has expired.  You will be redirected to the first booking step "
+"momentarily."
+msgstr ""
+
+#: ../includes/quitenicebooking.class.php:436
+msgid ""
+"Please do not reload the page.  If you have already made a reservation, your "
+"reservation details have been emailed to you."
+msgstr ""
+
+#: ../includes/quitenicebooking.class.php:512
+#: ../includes/quitenicebooking.class.php:1198
+#: ../includes/quitenicebooking.class.php:1333
+#: ../includes/quitenicebooking.class.php:1430
+#: ../views/booking_step_2.htm.php:380
+msgid "Adult"
+msgid_plural "Adults"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/quitenicebooking.class.php:513
+#: ../includes/quitenicebooking.class.php:1201
+#: ../includes/quitenicebooking.class.php:1334
+#: ../includes/quitenicebooking.class.php:1431
+#: ../views/booking_step_2.htm.php:381
+msgid "Child"
+msgid_plural "Children"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/quitenicebooking.class.php:587
+msgid "More rooms &rarr;"
+msgstr ""
+
+#: ../includes/quitenicebooking.class.php:588
+msgid "&larr; More rooms"
+msgstr ""
+
+#: ../includes/quitenicebooking.class.php:626
+msgid "No rooms have been added yet"
+msgstr ""
+
+#: ../includes/quitenicebooking.class.php:666
+#: ../includes/quitenicebooking.class.php:779
+#: ../includes/quitenicebooking.class.php:785
+#: ../includes/quitenicebooking.class.php:809
+#: ../includes/quitenicebooking.class.php:856
+msgid "Please fill in all the required fields"
+msgstr ""
+
+#: ../includes/quitenicebooking.class.php:674
+#, php-format
+msgid "Select booking dates. They must be in format %s"
+msgstr ""
+
+#: ../includes/quitenicebooking.class.php:682
+#: ../includes/quitenicebooking.class.php:793
+msgid "Check out date must be after check in date"
+msgstr ""
+
+#: ../includes/quitenicebooking.class.php:688
+msgid "Select at least 1 room for this booking"
+msgstr ""
+
+#: ../includes/quitenicebooking.class.php:694
+#, php-format
+msgid "Select at least 1 guest for Room %d"
+msgstr ""
+
+#: ../includes/quitenicebooking.class.php:740
+msgid "Invalid room selected"
+msgstr ""
+
+#: ../includes/quitenicebooking.class.php:758
+msgid "Invalid bed/room selected"
+msgstr ""
+
+#: ../includes/quitenicebooking.class.php:764
+msgid "Invalid bed/room selection"
+msgstr ""
+
+#: ../includes/quitenicebooking.class.php:800
+msgid "Room must have at least 1 guest"
+msgstr ""
+
+#: ../includes/quitenicebooking.class.php:882
+msgid "The coupon code is not valid"
+msgstr ""
+
+#: ../includes/quitenicebooking.class.php:1192
+msgid "D jS F Y"
+msgstr ""
+
+#: ../includes/quitenicebooking.class.php:1381
+msgid ""
+"One or more of your requested rooms have become unavailable since the "
+"booking process began.  Please reselect your rooms.  We apologize for the "
+"inconvenience."
+msgstr ""
+
+#: ../includes/quitenicebooking.class.php:1455
+#, php-format
+msgid "%d room booking for %s %s (%s - %s)"
+msgstr ""
+
+#: ../includes/quitenicebooking.class.php:1559
+#, php-format
+msgid "Room deposit for %s %s (Booking ID: %s)"
+msgstr ""
+
+#: ../includes/quitenicebooking.class.php:1572
+#, php-format
+msgid "%s booking confirmation"
+msgstr ""
+
+#: ../includes/quitenicebooking.class.php:1601
+#, php-format
+msgid "New %d room booking for %s %s"
+msgstr ""
+
+#: ../includes/quitenicebooking.class.php:1609
+msgid ""
+"Your reservation has been made, but the system was unable to send out a "
+"confirmation email.  Please contact us for assistance."
+msgstr ""
+
+#: ../includes/quitenicebooking.class.php:1610
+#, php-format
+msgid "The error message was: %s"
+msgstr ""
+
+#: ../includes/quitenicebooking_accommodation_post.class.php:105
+msgid "Accommodations"
+msgstr ""
+
+#: ../includes/quitenicebooking_accommodation_post.class.php:106
+msgid "Accommodation"
+msgstr ""
+
+#: ../includes/quitenicebooking_accommodation_post.class.php:107
+msgctxt "accommodation"
+msgid "Add New"
+msgstr ""
+
+#: ../includes/quitenicebooking_accommodation_post.class.php:108
+msgid "Add New Accommodation"
+msgstr ""
+
+#: ../includes/quitenicebooking_accommodation_post.class.php:114
+msgid "accommodation"
+msgstr ""
+
+#: ../includes/quitenicebooking_accommodation_post.class.php:130
+msgid "Pricing Options"
+msgstr ""
+
+#: ../includes/quitenicebooking_accommodation_post.class.php:138
+#: ../views/accommodation.htm.php:57
+msgid "Room Details"
+msgstr ""
+
+#: ../includes/quitenicebooking_accommodation_post.class.php:145
+msgid "Bed Availability"
+msgstr ""
+
+#: ../includes/quitenicebooking_accommodation_post.class.php:152
+msgid "Tab Content"
+msgstr ""
+
+#: ../includes/quitenicebooking_accommodation_post.class.php:159
+msgid "Slideshow"
+msgstr ""
+
+#: ../includes/quitenicebooking_beds.class.php:23
+msgid "King bed"
+msgstr ""
+
+#: ../includes/quitenicebooking_beds.class.php:25
+msgid "Queen bed"
+msgstr ""
+
+#: ../includes/quitenicebooking_beds.class.php:27
+msgid "Single bed"
+msgstr ""
+
+#: ../includes/quitenicebooking_beds.class.php:29
+msgid "Double bed"
+msgstr ""
+
+#: ../includes/quitenicebooking_beds.class.php:31
+msgid "Twin beds"
+msgstr ""
+
+#: ../includes/quitenicebooking_beds.class.php:33
+#: ../views/booking_step_3.htm.php:221 ../views/booking_step_4.htm.php:99
+#: ../views/payment_success.htm.php:85
+msgid "Room"
+msgstr ""
+
+#: ../includes/quitenicebooking_booking_post.class.php:141
+msgid "Bookings"
+msgstr ""
+
+#: ../includes/quitenicebooking_booking_post.class.php:142
+msgid "Booking"
+msgstr ""
+
+#: ../includes/quitenicebooking_booking_post.class.php:143
+msgctxt "booking"
+msgid "Add New"
+msgstr ""
+
+#: ../includes/quitenicebooking_booking_post.class.php:144
+msgid "Add New Booking"
+msgstr ""
+
+#: ../includes/quitenicebooking_booking_post.class.php:150
+msgid "booking"
+msgstr ""
+
+#: ../includes/quitenicebooking_booking_post.class.php:164
+msgid "Booking Details"
+msgstr ""
+
+#: ../includes/quitenicebooking_booking_post.class.php:171
+msgid "Payment Details"
+msgstr ""
+
+#: ../includes/quitenicebooking_booking_post.class.php:178
+#: ../views/booking_step_1.htm.php:140
+msgid "Rooms"
+msgstr ""
+
+#: ../includes/quitenicebooking_entity_per_person.class.php:26
+msgid "Per Adult"
+msgstr ""
+
+#: ../includes/quitenicebooking_entity_per_person.class.php:28
+msgid "Per Child"
+msgstr ""
+
+#: ../includes/quitenicebooking_entity_per_room.class.php:26
+msgid "Per Room"
+msgstr ""
+
+#: ../includes/quitenicebooking_price_filters.class.php:95
+msgid "Seasonal Price Filters"
+msgstr ""
+
+#: ../includes/quitenicebooking_prices_daily.class.php:42
+msgid "Weekdays (Mon-Thu)"
+msgstr ""
+
+#: ../includes/quitenicebooking_prices_daily.class.php:44
+msgid "Weekends (Fri-Sun)"
+msgstr ""
+
+#: ../includes/quitenicebooking_reservation_form_widget.class.php:14
+msgid "Display A Reservation Form"
+msgstr ""
+
+#: ../includes/quitenicebooking_reservation_form_widget.class.php:21
+msgid "Reservation Form Widget"
+msgstr ""
+
+#: ../includes/quitenicebooking_reservation_form_widget.class.php:55
+msgid "Title:"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:104
+msgid "Australian Dollar"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:105
+msgid "Brazilian Real"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:106
+msgid "Canadian Dollar"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:107
+msgid "Czech Koruna"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:108
+msgid "Danish Krone"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:109
+msgid "Euro"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:110
+msgid "Hong Kong Dollars"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:111
+msgid "Hungarian Forint"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:112
+msgid "Israeli New Sheqel"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:113
+msgid "Japanese Yen"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:114
+msgid "Malaysian Ringgit"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:115
+msgid "Mexican Peso"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:116
+msgid "Norwegian Krone"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:117
+msgid "New Zealand Dollar"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:118
+msgid "Philippine Peso"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:119
+msgid "Polish Zloty"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:120
+msgid "Pound Sterling"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:121
+msgid "Singapore Dollar"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:122
+msgid "Swedish Krona"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:123
+msgid "Swiss Franc"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:124
+msgid "Taiwan New Dollar"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:125
+msgid "Thai Baht"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:126
+msgid "Turkish Lira"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:127
+msgid "U.S. Dollars"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:135
+msgctxt "Do not replace slash"
+msgid "DD/MM/YYYY"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:142
+msgctxt "Do not replace slash"
+msgid "MM/DD/YYYY"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:149
+msgctxt "Do not replace slash"
+msgid "YYYY/MM/DD"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:187
+msgid "You are not allowed to change this plugin's settings."
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:398
+msgid "Please enter a currency unit"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:406
+msgid "Please enter a booking success message"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:414
+msgid "Please enter a confirmation email message"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:428
+msgid "Please enter a valid deposit percentage"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:434
+msgid "Please enter a valid deposit price"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:440
+msgid "Please select a valid deposit duration"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:453
+msgid "Please enter a valid Paypal email address"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:467
+msgid "Please enter bank transfer information"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:477
+msgid "Please enter an SMTP host"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:482
+msgid "Please enter a valid SMTP port number"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:490
+msgid "Please enter an SMTP username"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:516
+#: ../includes/quitenicebooking_settings.class.php:572
+msgid "Backup restored"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:521
+msgid "Settings saved"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:547
+#: ../includes/quitenicebooking_settings.class.php:553
+msgid "Upload error"
+msgstr ""
+
+#: ../includes/quitenicebooking_settings.class.php:559
+msgid "The restoration file is in an invalid format"
+msgstr ""
+
+#: ../templates/single-accommodation.php:50
+msgid "Room Description"
+msgstr ""
+
+#: ../templates/single-accommodation.php:92
+msgid "Reserve This Room"
+msgstr ""
+
+#: ../templates/single-accommodation.php:99
+msgid "Room From"
+msgstr ""
+
+#: ../templates/single-accommodation.php:109
+msgid "Per Night"
+msgstr ""
+
+#: ../templates/single-accommodation.php:117 ../views/booking_form.htm.php:8
+#: ../views/booking_step_1.htm.php:162 ../views/booking_step_2.htm.php:415
+#: ../views/reservation_form_widget.htm.php:9
+#: ../views/admin/booking_rooms_meta.htm.php:40
+msgid "Adults"
+msgstr ""
+
+#: ../templates/single-accommodation.php:127 ../views/booking_form.htm.php:18
+#: ../views/booking_step_1.htm.php:178 ../views/booking_step_2.htm.php:427
+#: ../views/reservation_form_widget.htm.php:19
+#: ../views/admin/booking_rooms_meta.htm.php:48
+msgid "Children"
+msgstr ""
+
+#: ../templates/single-accommodation.php:139 ../views/accommodation.htm.php:60
+#: ../views/booking_form.htm.php:28 ../views/booking_step_1.htm.php:206
+#: ../views/booking_step_2.htm.php:448
+#: ../views/reservation_form_widget.htm.php:29
+msgid "Check Availability"
+msgstr ""
+
+#: ../templates/single-accommodation.php:142 ../views/booking_form.htm.php:31
+#: ../views/reservation_form_widget.htm.php:31
+msgid "Multi-room booking?"
+msgstr ""
+
+#: ../templates/single-accommodation.php:152
+msgid "Direct Reservations"
+msgstr ""
+
+#: ../templates/single-accommodation.php:156
+#: ../views/booking_step_4.htm.php:60 ../views/payment_fail.htm.php:18
+#: ../views/payment_success.htm.php:53
+#: ../views/payment_success_error.htm.php:20
+msgid "Phone"
+msgstr ""
+
+#: ../templates/single-accommodation.php:160
+#: ../views/booking_step_4.htm.php:64 ../views/payment_fail.htm.php:22
+#: ../views/payment_success.htm.php:57
+#: ../views/payment_success_error.htm.php:24
+msgid "Fax"
+msgstr ""
+
+#: ../templates/single-accommodation.php:164
+#: ../views/booking_step_4.htm.php:68 ../views/payment_fail.htm.php:26
+#: ../views/payment_success.htm.php:61
+#: ../views/payment_success_error.htm.php:28
+#: ../views/admin/admin_header.htm.php:8
+msgid "Email"
+msgstr ""
+
+#: ../views/accommodation.htm.php:27
+msgid "Beds"
+msgstr ""
+
+#: ../views/accommodation.htm.php:32 ../views/booking_step_2.htm.php:98
+#: ../views/booking_step_2.htm.php:268
+#: ../views/admin/accommodation_details_meta.htm.php:60
+msgid "Number of Bedrooms"
+msgstr ""
+
+#: ../views/accommodation.htm.php:37 ../views/booking_step_2.htm.php:102
+#: ../views/booking_step_2.htm.php:272
+msgid "Occupancy"
+msgstr ""
+
+#: ../views/accommodation.htm.php:42 ../views/booking_step_2.htm.php:105
+#: ../views/booking_step_2.htm.php:275
+#: ../views/admin/accommodation_details_meta.htm.php:36
+msgid "Size"
+msgstr ""
+
+#: ../views/accommodation.htm.php:47 ../views/booking_step_2.htm.php:108
+#: ../views/booking_step_2.htm.php:278
+#: ../views/admin/accommodation_details_meta.htm.php:48
+msgid "View"
+msgstr ""
+
+#: ../views/accommodation.htm.php:52
+msgid "Rates From"
+msgstr ""
+
+#: ../views/booking_step_1.htm.php:28 ../views/booking_step_2.htm.php:13
+#: ../views/booking_step_3.htm.php:16 ../views/booking_step_4.htm.php:13
+#: ../views/payment_success.htm.php:13
+msgid "Choose Your Date"
+msgstr ""
+
+#: ../views/booking_step_1.htm.php:35 ../views/booking_step_2.htm.php:20
+#: ../views/booking_step_2.htm.php:228 ../views/booking_step_3.htm.php:23
+#: ../views/booking_step_4.htm.php:20 ../views/payment_success.htm.php:20
+msgid "Choose Your Room"
+msgstr ""
+
+#: ../views/booking_step_1.htm.php:42 ../views/booking_step_2.htm.php:27
+#: ../views/booking_step_3.htm.php:30 ../views/booking_step_4.htm.php:27
+#: ../views/payment_success.htm.php:27
+msgid "Place Your Reservation"
+msgstr ""
+
+#: ../views/booking_step_1.htm.php:49 ../views/booking_step_2.htm.php:34
+#: ../views/booking_step_3.htm.php:37 ../views/booking_step_4.htm.php:34
+#: ../views/payment_success.htm.php:34
+msgid "Confirmation"
+msgstr ""
+
+#: ../views/booking_step_1.htm.php:66 ../views/booking_step_2.htm.php:209
+#: ../views/booking_step_3.htm.php:54
+msgid ""
+"Please enable Javascript in your web browser for an optimal browsing "
+"experience"
+msgstr ""
+
+#: ../views/booking_step_1.htm.php:71 ../views/booking_step_2.htm.php:214
+#: ../views/booking_step_3.htm.php:59
+msgid "Please correct the following errors in your booking:"
+msgstr ""
+
+#: ../views/booking_step_1.htm.php:81
+msgid "Please select your dates from the calendar"
+msgstr ""
+
+#: ../views/booking_step_1.htm.php:83
+msgid "Please wait; loading available dates..."
+msgstr ""
+
+#: ../views/booking_step_1.htm.php:91
+msgid "Unavailable"
+msgstr ""
+
+#: ../views/booking_step_1.htm.php:96
+msgid "Available"
+msgstr ""
+
+#: ../views/booking_step_1.htm.php:101
+msgid "Selected Dates"
+msgstr ""
+
+#: ../views/booking_step_1.htm.php:118 ../views/booking_step_2.htm.php:367
+#: ../views/booking_step_3.htm.php:216 ../views/booking_step_4.htm.php:94
+#: ../views/payment_success.htm.php:80
+msgid "Your Reservation"
+msgstr ""
+
+#: ../views/booking_step_1.htm.php:160
+#: ../views/admin/booking_rooms_meta.htm.php:6
+#, php-format
+msgid "Room %d"
+msgstr ""
+
+#: ../views/booking_step_2.htm.php:62
+msgid "Your Chosen Room Is Available"
+msgstr ""
+
+#: ../views/booking_step_2.htm.php:64
+msgid "Sorry, Your Chosen Room Is Unavailable"
+msgstr ""
+
+#: ../views/booking_step_2.htm.php:102 ../views/booking_step_2.htm.php:272
+msgid "Person"
+msgid_plural "Persons"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../views/booking_step_2.htm.php:116 ../views/booking_step_2.htm.php:286
+#: ../views/admin/accommodation_price_filters_meta.htm.php:20
+msgid "From"
+msgstr ""
+
+#: ../views/booking_step_2.htm.php:116 ../views/booking_step_2.htm.php:286
+msgid "Night"
+msgstr ""
+
+#: ../views/booking_step_2.htm.php:118 ../views/booking_step_2.htm.php:120
+#: ../views/booking_step_2.htm.php:129 ../views/booking_step_2.htm.php:287
+#: ../views/booking_step_2.htm.php:294 ../views/booking_step_3.htm.php:249
+#: ../views/booking_step_4.htm.php:128 ../views/payment_success.htm.php:114
+msgid "Price Breakdown"
+msgstr ""
+
+#: ../views/booking_step_2.htm.php:139 ../views/booking_step_2.htm.php:304
+#: ../views/booking_step_3.htm.php:264 ../views/booking_step_4.htm.php:143
+#: ../views/mail_admin.mail.php:20 ../views/mail_user.mail.php:20
+#: ../views/payment_success.htm.php:129
+msgid "Date"
+msgstr ""
+
+#: ../views/booking_step_2.htm.php:140 ../views/booking_step_2.htm.php:305
+#: ../views/booking_step_3.htm.php:265 ../views/booking_step_4.htm.php:144
+#: ../views/payment_success.htm.php:130
+#: ../views/admin/admin_payment.htm.php:79
+msgid "Price"
+msgstr ""
+
+#: ../views/booking_step_2.htm.php:145 ../views/booking_step_2.htm.php:310
+#: ../views/booking_step_3.htm.php:286 ../views/booking_step_4.htm.php:165
+#: ../views/payment_success.htm.php:151
+msgid "Total"
+msgstr ""
+
+#: ../views/booking_step_2.htm.php:169 ../views/booking_step_2.htm.php:171
+#: ../views/booking_step_2.htm.php:181 ../views/booking_step_2.htm.php:183
+#: ../views/booking_step_2.htm.php:333 ../views/booking_step_2.htm.php:341
+#, php-format
+msgctxt "Select bed/room button"
+msgid "Select %s"
+msgstr ""
+
+#: ../views/booking_step_2.htm.php:226
+msgid "Other Available Rooms"
+msgstr ""
+
+#: ../views/booking_step_2.htm.php:233
+msgid "Sorry! There are no rooms available for these dates"
+msgstr ""
+
+#: ../views/booking_step_2.htm.php:369 ../views/booking_step_3.htm.php:218
+#: ../views/booking_step_4.htm.php:96 ../views/payment_success.htm.php:82
+#, php-format
+msgid "Room %d of %d"
+msgstr ""
+
+#: ../views/booking_step_2.htm.php:378 ../views/booking_step_3.htm.php:224
+#: ../views/booking_step_4.htm.php:102 ../views/mail_admin.mail.php:21
+#: ../views/mail_user.mail.php:21 ../views/payment_success.htm.php:88
+msgid "Guests"
+msgstr ""
+
+#: ../views/booking_step_2.htm.php:387
+msgid "Edit Reservation"
+msgstr ""
+
+#: ../views/booking_step_2.htm.php:461
+msgid "&larr; Edit previous room"
+msgstr ""
+
+#: ../views/booking_step_3.htm.php:71
+msgid "Guest Details"
+msgstr ""
+
+#: ../views/booking_step_3.htm.php:78
+msgid "First Name"
+msgstr ""
+
+#: ../views/booking_step_3.htm.php:83
+msgid "Last Name"
+msgstr ""
+
+#: ../views/booking_step_3.htm.php:88 ../views/mail_admin.mail.php:27
+msgid "Email Address"
+msgstr ""
+
+#: ../views/booking_step_3.htm.php:138
+#, php-format
+msgid "Coupon code applied: %s"
+msgstr ""
+
+#: ../views/booking_step_3.htm.php:141
+msgid "Remove Coupon"
+msgstr ""
+
+#: ../views/booking_step_3.htm.php:150
+msgid "Coupon Code"
+msgstr ""
+
+#: ../views/booking_step_3.htm.php:154
+msgid "Apply Coupon"
+msgstr ""
+
+#: ../views/booking_step_3.htm.php:164 ../views/admin/admin_payment.htm.php:97
+msgid "Paypal"
+msgstr ""
+
+#: ../views/booking_step_3.htm.php:166
+msgid ""
+"Pay via Paypal.  Accepts MasterCard, VISA, American Express, and Discover "
+"cards."
+msgstr ""
+
+#: ../views/booking_step_3.htm.php:172
+msgid "Direct bank transfer"
+msgstr ""
+
+#: ../views/booking_step_3.htm.php:174
+msgid "Make your payment directly into our bank account."
+msgstr ""
+
+#: ../views/booking_step_3.htm.php:187
+msgid "Terms and Conditions"
+msgstr ""
+
+#: ../views/booking_step_3.htm.php:195
+msgid "I have read and accept the"
+msgstr ""
+
+#: ../views/booking_step_3.htm.php:195
+msgid "terms and conditions"
+msgstr ""
+
+#: ../views/booking_step_3.htm.php:198
+msgid "Book Now &amp; Pay Deposit"
+msgstr ""
+
+#: ../views/booking_step_3.htm.php:198
+msgid "Book Now"
+msgstr ""
+
+#: ../views/booking_step_3.htm.php:231 ../views/booking_step_4.htm.php:110
+#, php-format
+msgid "%d%% Deposit Due Now"
+msgstr ""
+
+#: ../views/booking_step_3.htm.php:234 ../views/booking_step_3.htm.php:239
+#: ../views/booking_step_3.htm.php:241 ../views/booking_step_4.htm.php:113
+#: ../views/booking_step_4.htm.php:118 ../views/booking_step_4.htm.php:120
+#: ../views/mail_admin.mail.php:38 ../views/mail_user.mail.php:36
+#: ../views/payment_success.htm.php:99 ../views/payment_success.htm.php:104
+#: ../views/payment_success.htm.php:106
+msgid "Total Price"
+msgstr ""
+
+#: ../views/booking_step_3.htm.php:236 ../views/booking_step_4.htm.php:115
+msgid "Deposit Due Now"
+msgstr ""
+
+#: ../views/booking_step_3.htm.php:244 ../views/booking_step_4.htm.php:123
+#: ../views/payment_success.htm.php:109
+msgid "View Price Breakdown"
+msgstr ""
+
+#: ../views/booking_step_3.htm.php:259 ../views/booking_step_4.htm.php:138
+#: ../views/payment_success.htm.php:124
+#, php-format
+msgid "Room %d: %s"
+msgstr ""
+
+#: ../views/booking_step_3.htm.php:269 ../views/booking_step_4.htm.php:148
+#: ../views/payment_success.htm.php:134
+msgid "Subtotal"
+msgstr ""
+
+#: ../views/booking_step_4.htm.php:48
+msgid "Reservation Complete"
+msgstr ""
+
+#: ../views/booking_step_4.htm.php:74
+msgid "Bank Transfer Information"
+msgstr ""
+
+#: ../views/booking_step_4_redirect.htm.php:20
+msgid "Please wait while we forward you to the payment page"
+msgstr ""
+
+#: ../views/booking_step_4_redirect.htm.php:21
+msgid "Click here if it does not load"
+msgstr ""
+
+#: ../views/error.htm.php:27
+msgid "( Click here if page does not reload. )"
+msgstr ""
+
+#: ../views/mail_admin.mail.php:8
+#, php-format
+msgid ""
+"A new booking has been made. Please <a href=\"%s\">log in</a> to your "
+"website for complete details."
+msgstr ""
+
+#: ../views/mail_admin.mail.php:10 ../views/mail_user.mail.php:10
+#: ../views/admin/booking_details_meta.htm.php:3
+msgid "Booking ID"
+msgstr ""
+
+#: ../views/mail_admin.mail.php:14 ../views/mail_user.mail.php:14
+msgid "Room Info"
+msgstr ""
+
+#: ../views/mail_admin.mail.php:16 ../views/mail_user.mail.php:16
+#, php-format
+msgid "Room %d Info"
+msgstr ""
+
+#: ../views/mail_admin.mail.php:19 ../views/mail_user.mail.php:19
+msgid "Room Type"
+msgstr ""
+
+#: ../views/mail_admin.mail.php:24 ../views/mail_user.mail.php:24
+msgid "Guest Info"
+msgstr ""
+
+#: ../views/mail_admin.mail.php:26 ../views/mail_user.mail.php:26
+msgid "Name"
+msgstr ""
+
+#: ../views/mail_admin.mail.php:31
+msgid "IP Address"
+msgstr ""
+
+#: ../views/mail_admin.mail.php:33 ../views/mail_user.mail.php:31
+#: ../views/admin/admin_header.htm.php:6
+msgid "Payment"
+msgstr ""
+
+#: ../views/mail_admin.mail.php:36 ../views/mail_user.mail.php:34
+msgid "Deposit Due"
+msgstr ""
+
+#: ../views/payment_fail.htm.php:9
+msgid "Payment Canceled"
+msgstr ""
+
+#: ../views/payment_success.htm.php:48
+#: ../views/payment_success_error.htm.php:9
+msgid "Payment Successful"
+msgstr ""
+
+#: ../views/payment_success.htm.php:96
+#, php-format
+msgid "%d%% Deposit Paid"
+msgstr ""
+
+#: ../views/payment_success.htm.php:101
+msgid "Deposit Paid"
+msgstr ""
+
+#: ../views/admin/accommodation_beds_meta.htm.php:3
+msgid "Do not specify bed type"
+msgstr ""
+
+#: ../views/admin/accommodation_beds_meta.htm.php:13
+msgid ""
+"If this option is selected, a generic \"Select Room\" button will be "
+"displayed"
+msgstr ""
+
+#: ../views/admin/accommodation_details_meta.htm.php:3
+msgid "Number of rooms of this type available"
+msgstr ""
+
+#: ../views/admin/accommodation_details_meta.htm.php:19
+msgid "Maximum occupancy"
+msgstr ""
+
+#: ../views/admin/accommodation_details_meta.htm.php:30
+msgid "The maximum number of guests this room can accommodate"
+msgstr ""
+
+#: ../views/admin/accommodation_details_meta.htm.php:42
+msgid "e.g. \"35-40 sqm / 375-430 sqf\""
+msgstr ""
+
+#: ../views/admin/accommodation_details_meta.htm.php:54
+msgid "e.g. \"City\""
+msgstr ""
+
+#: ../views/admin/accommodation_details_meta.htm.php:71
+msgid ""
+"Number of bedrooms in this unit. If it's a regular one-room hotel room, just "
+"leave it set at the default \"1\" value"
+msgstr ""
+
+#: ../views/admin/accommodation_price_filters_meta.htm.php:9
+msgid ""
+"Price filters will be applied from top to bottom (prices below will override "
+"the ones above if their date ranges overlap). Drag the price filter boxes to "
+"rearrange them"
+msgstr ""
+
+#: ../views/admin/accommodation_price_filters_meta.htm.php:14
+#, php-format
+msgid "Filter %d"
+msgstr ""
+
+#: ../views/admin/accommodation_price_filters_meta.htm.php:24
+msgid "To"
+msgstr ""
+
+#: ../views/admin/accommodation_price_filters_meta.htm.php:31
+msgid "Date range"
+msgstr ""
+
+#: ../views/admin/accommodation_price_filters_meta.htm.php:73
+msgid "Remove filter"
+msgstr ""
+
+#: ../views/admin/accommodation_price_filters_meta.htm.php:79
+msgid "Add Filter"
+msgstr ""
+
+#: ../views/admin/accommodation_slideshow_meta.htm.php:39
+msgid "Add Images to Slideshow"
+msgstr ""
+
+#: ../views/admin/accommodation_slideshow_meta.htm.php:43
+msgid "Add to slideshow"
+msgstr ""
+
+#: ../views/admin/accommodation_slideshow_meta.htm.php:64
+#: ../views/admin/accommodation_slideshow_meta.htm.php:109
+msgid "Delete image"
+msgstr ""
+
+#: ../views/admin/accommodation_slideshow_meta.htm.php:64
+#: ../views/admin/accommodation_slideshow_meta.htm.php:109
+msgid "Delete"
+msgstr ""
+
+#: ../views/admin/accommodation_slideshow_meta.htm.php:118
+msgid "Add slideshow images"
+msgstr ""
+
+#: ../views/admin/accommodation_tab_meta.htm.php:4
+#, php-format
+msgid "Tab %d"
+msgstr ""
+
+#: ../views/admin/accommodation_tab_meta.htm.php:13
+msgid "Title"
+msgstr ""
+
+#: ../views/admin/accommodation_tab_meta.htm.php:27
+msgid "Content"
+msgstr ""
+
+#: ../views/admin/admin_email.htm.php:10
+msgid "Message templates"
+msgstr ""
+
+#: ../views/admin/admin_email.htm.php:16
+msgid "Confirmation email"
+msgstr ""
+
+#: ../views/admin/admin_email.htm.php:19
+msgid "The following tags may be used in the email:"
+msgstr ""
+
+#: ../views/admin/admin_email.htm.php:20
+msgid "Customer first name"
+msgstr ""
+
+#: ../views/admin/admin_email.htm.php:21
+msgid "Customer last name"
+msgstr ""
+
+#: ../views/admin/admin_email.htm.php:22
+msgid "Hotel name (from site title)"
+msgstr ""
+
+#: ../views/admin/admin_email.htm.php:28
+msgid "Outgoing mail server configuration"
+msgstr ""
+
+#: ../views/admin/admin_email.htm.php:31
+msgid "Send mail by SMTP"
+msgstr ""
+
+#: ../views/admin/admin_email.htm.php:34
+msgid ""
+"If checked, emails will be sent by SMTP. Otherwise, it will be sent by "
+"Wordpress' mailer.  Check this option if you are having trouble receiving "
+"email, as some providers block email sent by PHP"
+msgstr ""
+
+#: ../views/admin/admin_email.htm.php:38
+msgid "SMTP host name"
+msgstr ""
+
+#: ../views/admin/admin_email.htm.php:44
+msgid "SMTP port number"
+msgstr ""
+
+#: ../views/admin/admin_email.htm.php:47
+msgid "Typically 25 or 587 if not using encryption; 465 if using encryption"
+msgstr ""
+
+#: ../views/admin/admin_email.htm.php:51
+msgid "Encryption"
+msgstr ""
+
+#: ../views/admin/admin_email.htm.php:54
+msgid "No encryption"
+msgstr ""
+
+#: ../views/admin/admin_email.htm.php:55
+msgid "Use SSL encryption"
+msgstr ""
+
+#: ../views/admin/admin_email.htm.php:56
+msgid "Use TLS encryption"
+msgstr ""
+
+#: ../views/admin/admin_email.htm.php:61
+msgid "Enable SMTP authentication"
+msgstr ""
+
+#: ../views/admin/admin_email.htm.php:64
+msgid ""
+"If your SMTP server requires authentication, check this box and fill in the "
+"credentials below."
+msgstr ""
+
+#: ../views/admin/admin_email.htm.php:68
+msgid "User name"
+msgstr ""
+
+#: ../views/admin/admin_email.htm.php:74
+msgid "Password"
+msgstr ""
+
+#: ../views/admin/admin_email.htm.php:82
+#: ../views/admin/admin_general.htm.php:113
+#: ../views/admin/admin_maintenance.htm.php:25
+#: ../views/admin/admin_messages.htm.php:31
+#: ../views/admin/admin_pages.htm.php:97
+#: ../views/admin/admin_payment.htm.php:137
+msgid "Save Changes"
+msgstr ""
+
+#: ../views/admin/admin_general.htm.php:9
+msgid "Public contact information"
+msgstr ""
+
+#: ../views/admin/admin_general.htm.php:12
+#: ../views/admin/booking_details_meta.htm.php:21
+msgid "Email address"
+msgstr ""
+
+#: ../views/admin/admin_general.htm.php:15
+msgid ""
+"If provided, notifications will be sent to and from this address instead of "
+"the one specified in Settings &gt; General"
+msgstr ""
+
+#: ../views/admin/admin_general.htm.php:19
+msgid "Phone number"
+msgstr ""
+
+#: ../views/admin/admin_general.htm.php:23
+msgid "Fax number"
+msgstr ""
+
+#: ../views/admin/admin_general.htm.php:28
+msgid "Booking settings"
+msgstr ""
+
+#: ../views/admin/admin_general.htm.php:32
+msgid "Do not record bookings into database"
+msgstr ""
+
+#: ../views/admin/admin_general.htm.php:36
+msgid "The availability checker will not work if you check this option"
+msgstr ""
+
+#: ../views/admin/admin_general.htm.php:40
+msgid "Pricing scheme"
+msgstr ""
+
+#: ../views/admin/admin_general.htm.php:43
+msgid "Charge per person"
+msgstr ""
+
+#: ../views/admin/admin_general.htm.php:44
+msgid "Charge per room"
+msgstr ""
+
+#: ../views/admin/admin_general.htm.php:50
+msgid "Remove children from booking forms"
+msgstr ""
+
+#: ../views/admin/admin_general.htm.php:54
+msgid "Show multi-room link on booking widgets"
+msgstr ""
+
+#: ../views/admin/admin_general.htm.php:55
+msgid ""
+"Booking widgets assume a single-room booking and will proceed to step 2. "
+"This option will display a link to step 1"
+msgstr ""
+
+#: ../views/admin/admin_general.htm.php:58
+msgid "Maximum persons to show on booking form"
+msgstr ""
+
+#: ../views/admin/admin_general.htm.php:68
+msgid "Maximum rooms per booking"
+msgstr ""
+
+#: ../views/admin/admin_general.htm.php:79
+msgid "Display settings"
+msgstr ""
+
+#: ../views/admin/admin_general.htm.php:82
+msgid "Rooms displayed per page"
+msgstr ""
+
+#: ../views/admin/admin_general.htm.php:92
+msgid "Rooms display order"
+msgstr ""
+
+#: ../views/admin/admin_general.htm.php:95
+msgid "Newest first"
+msgstr ""
+
+#: ../views/admin/admin_general.htm.php:96
+msgid "Oldest first"
+msgstr ""
+
+#: ../views/admin/admin_general.htm.php:101
+msgid "Date format"
+msgstr ""
+
+#: ../views/admin/admin_general.htm.php:104
+msgid "DD/MM/YYYY"
+msgstr ""
+
+#: ../views/admin/admin_general.htm.php:105
+msgid "MM/DD/YYYY"
+msgstr ""
+
+#: ../views/admin/admin_general.htm.php:106
+msgid "YYYY/MM/DD"
+msgstr ""
+
+#: ../views/admin/admin_header.htm.php:3
+msgid "General"
+msgstr ""
+
+#: ../views/admin/admin_header.htm.php:4
+msgid "Pages"
+msgstr ""
+
+#: ../views/admin/admin_header.htm.php:7
+#: ../views/admin/admin_messages.htm.php:10
+msgid "Messages"
+msgstr ""
+
+#: ../views/admin/admin_header.htm.php:9
+msgid "Maintenance"
+msgstr ""
+
+#: ../views/admin/admin_maintenance.htm.php:15
+msgid "Uninstall"
+msgstr ""
+
+#: ../views/admin/admin_maintenance.htm.php:18
+msgid "Wipe data when uninstalling"
+msgstr ""
+
+#: ../views/admin/admin_maintenance.htm.php:24
+msgid ""
+"Checking this option will <strong>delete all accommodations and bookings</"
+"strong> when uninstalling the plugin via <em>Installed plugins &rarr; Quite "
+"Nice Booking &rarr; Delete</em>"
+msgstr ""
+
+#: ../views/admin/admin_maintenance.htm.php:30
+msgid "Backup"
+msgstr ""
+
+#: ../views/admin/admin_maintenance.htm.php:33
+msgid "Create backup"
+msgstr ""
+
+#: ../views/admin/admin_maintenance.htm.php:36
+msgid "Download"
+msgstr ""
+
+#: ../views/admin/admin_maintenance.htm.php:37
+msgid ""
+"Download a backup of the current plugin settings.  Note that it does not "
+"contain any of the accommodation or booking data"
+msgstr ""
+
+#: ../views/admin/admin_maintenance.htm.php:42
+msgid "Restore"
+msgstr ""
+
+#: ../views/admin/admin_maintenance.htm.php:47
+msgid "Upload"
+msgstr ""
+
+#: ../views/admin/admin_maintenance.htm.php:48
+msgid "Restore a backup of plugin settings"
+msgstr ""
+
+#: ../views/admin/admin_maintenance.htm.php:53
+msgid "Clean up and repair"
+msgstr ""
+
+#: ../views/admin/admin_maintenance.htm.php:57
+msgid "Repair accommodations"
+msgstr ""
+
+#: ../views/admin/admin_maintenance.htm.php:59
+#: ../views/admin/admin_maintenance.htm.php:66
+#: ../views/admin/admin_maintenance.htm.php:73
+#: ../views/admin/admin_maintenance.htm.php:80
+#: ../views/admin/admin_maintenance.htm.php:90
+msgid "Run"
+msgstr ""
+
+#: ../views/admin/admin_maintenance.htm.php:60
+msgid "Run this to clean up unused accommodation data"
+msgstr ""
+
+#: ../views/admin/admin_maintenance.htm.php:64
+msgid "Repair bookings"
+msgstr ""
+
+#: ../views/admin/admin_maintenance.htm.php:67
+msgid "Run this to clean up unused booking data and repair database errors"
+msgstr ""
+
+#: ../views/admin/admin_maintenance.htm.php:71
+msgid "Repair plugin settings"
+msgstr ""
+
+#: ../views/admin/admin_maintenance.htm.php:74
+msgid "Run this to clean up unused plugin settings"
+msgstr ""
+
+#: ../views/admin/admin_maintenance.htm.php:78
+msgid "Reset plugin"
+msgstr ""
+
+#: ../views/admin/admin_maintenance.htm.php:81
+msgid "Run this to restore the plugin to its default settings"
+msgstr ""
+
+#: ../views/admin/admin_maintenance.htm.php:85
+msgid "Troubleshooting"
+msgstr ""
+
+#: ../views/admin/admin_maintenance.htm.php:88
+msgid "Diagnostics"
+msgstr ""
+
+#: ../views/admin/admin_maintenance.htm.php:91
+msgid ""
+"If asked by QNS Support, run this to generate diagnostics to help "
+"troubleshoot your Wordpress installation"
+msgstr ""
+
+#: ../views/admin/admin_messages.htm.php:13
+msgid "Booking success message"
+msgstr ""
+
+#: ../views/admin/admin_messages.htm.php:17
+msgid "Payment success message"
+msgstr ""
+
+#: ../views/admin/admin_messages.htm.php:21
+msgid "Payment fail message"
+msgstr ""
+
+#: ../views/admin/admin_messages.htm.php:25
+msgid "Terms and conditions"
+msgstr ""
+
+#: ../views/admin/admin_pages.htm.php:14
+msgid "Page configuration"
+msgstr ""
+
+#: ../views/admin/admin_pages.htm.php:17
+msgid "Accommodation page"
+msgstr ""
+
+#: ../views/admin/admin_pages.htm.php:22 ../views/admin/admin_pages.htm.php:33
+#: ../views/admin/admin_pages.htm.php:44 ../views/admin/admin_pages.htm.php:55
+#: ../views/admin/admin_pages.htm.php:67 ../views/admin/admin_pages.htm.php:78
+#: ../views/admin/admin_pages.htm.php:89
+#, php-format
+msgid "[Page ID: %d]"
+msgstr ""
+
+#: ../views/admin/admin_pages.htm.php:28
+msgid "Booking step 1"
+msgstr ""
+
+#: ../views/admin/admin_pages.htm.php:39
+msgid "Booking step 2"
+msgstr ""
+
+#: ../views/admin/admin_pages.htm.php:50
+msgid "Booking step 3"
+msgstr ""
+
+#: ../views/admin/admin_pages.htm.php:62
+msgid "Booking step 4"
+msgstr ""
+
+#: ../views/admin/admin_pages.htm.php:73
+msgid "Payment success page"
+msgstr ""
+
+#: ../views/admin/admin_pages.htm.php:84
+msgid "Payment fail page"
+msgstr ""
+
+#: ../views/admin/admin_payment.htm.php:50
+msgid "Payment settings"
+msgstr ""
+
+#: ../views/admin/admin_payment.htm.php:54
+msgid "Currency symbol"
+msgstr ""
+
+#: ../views/admin/admin_payment.htm.php:55
+msgid "e.g. $, &pound;, &euro;, &yen;, USD"
+msgstr ""
+
+#: ../views/admin/admin_payment.htm.php:59
+msgid "Currency symbol position"
+msgstr ""
+
+#: ../views/admin/admin_payment.htm.php:60
+msgid "Display currency symbol right of the price"
+msgstr ""
+
+#: ../views/admin/admin_payment.htm.php:64
+msgid "Deposit type"
+msgstr ""
+
+#: ../views/admin/admin_payment.htm.php:67
+msgid "No deposit"
+msgstr ""
+
+#: ../views/admin/admin_payment.htm.php:68
+msgid "Percentage of total price"
+msgstr ""
+
+#: ../views/admin/admin_payment.htm.php:69
+msgid "Flat rate"
+msgstr ""
+
+#: ../views/admin/admin_payment.htm.php:70
+msgid "By length of stay"
+msgstr ""
+
+#: ../views/admin/admin_payment.htm.php:75
+msgid "Percentage"
+msgstr ""
+
+#: ../views/admin/admin_payment.htm.php:84
+msgid "Duration"
+msgstr ""
+
+#: ../views/admin/admin_payment.htm.php:89
+#, php-format
+msgid "%d night"
+msgid_plural "%d nights"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../views/admin/admin_payment.htm.php:93
+#, php-format
+msgid ""
+"A deposit for the price of %s will be taken for each room in the booking"
+msgstr ""
+
+#: ../views/admin/admin_payment.htm.php:101
+msgid "Accept deposit via Paypal"
+msgstr ""
+
+#: ../views/admin/admin_payment.htm.php:105
+msgid "Paypal email address"
+msgstr ""
+
+#: ../views/admin/admin_payment.htm.php:109
+msgid "Currency used for Paypal deposit"
+msgstr ""
+
+#: ../views/admin/admin_payment.htm.php:120
+msgid "Bank transfer"
+msgstr ""
+
+#: ../views/admin/admin_payment.htm.php:124
+msgid "Accept bank transfer"
+msgstr ""
+
+#: ../views/admin/admin_payment.htm.php:128
+msgid "Bank transfer information"
+msgstr ""
+
+#: ../views/admin/admin_payment.htm.php:131
+msgid ""
+"Banking details for transfers.  This will be shown on the payment screen.  "
+"HTML is allowed."
+msgstr ""
+
+#: ../views/admin/booking_details_meta.htm.php:10
+msgid "First name"
+msgstr ""
+
+#: ../views/admin/booking_details_meta.htm.php:14
+msgid "Last name"
+msgstr ""
+
+#: ../views/admin/booking_payment_meta.htm.php:3
+msgid "Deposit amount"
+msgstr ""
+
+#: ../views/admin/booking_payment_meta.htm.php:12
+msgid "Total price quoted"
+msgstr ""
+
+#: ../views/admin/booking_payment_meta.htm.php:22
+msgid "Coupons used"
+msgstr ""
+
+#: ../views/admin/booking_payment_meta.htm.php:32
+msgid "Deposit method"
+msgstr ""
+
+#: ../views/admin/booking_payment_meta.htm.php:36
+msgid ""
+"Method chosen by guest during booking; you may change this for your own "
+"records"
+msgstr ""
+
+#: ../views/admin/booking_payment_meta.htm.php:42
+msgid "Deposit status"
+msgstr ""
+
+#: ../views/admin/booking_payment_meta.htm.php:46
+msgid "Enter your memo here"
+msgstr ""
+
+#: ../views/admin/booking_rooms_meta.htm.php:9
+msgid "Check in date"
+msgstr ""
+
+#: ../views/admin/booking_rooms_meta.htm.php:13
+msgid "Check out date"
+msgstr ""
+
+#: ../views/admin/booking_rooms_meta.htm.php:19
+msgid "Room type"
+msgstr ""
+
+#: ../views/admin/booking_rooms_meta.htm.php:27
+msgid "Bed type"
+msgstr ""
+
+#: ../views/admin/booking_rooms_meta.htm.php:57
+msgid "Edit Room"
+msgstr ""
+
+#: ../views/admin/booking_rooms_meta.htm.php:58
+msgid "Remove Room"
+msgstr ""
+
+#: ../views/admin/booking_rooms_meta.htm.php:66
+msgid "Add Room"
+msgstr ""

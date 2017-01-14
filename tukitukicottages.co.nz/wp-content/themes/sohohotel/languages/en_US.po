@@ -1,0 +1,790 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Soho Hotel\n"
+"POT-Creation-Date: 2014-01-09 15:55+0800\n"
+"PO-Revision-Date: 2014-01-09 15:55+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:21
+msgid "Page Not Found"
+msgstr ""
+
+#: ../404.php:30
+msgid "Oops! we couldn't find the page you requested,"
+msgstr ""
+
+#: ../404.php:30
+msgid "Go home?"
+msgstr ""
+
+#: ../archive.php:26
+#, php-format
+msgid "All posts in: \"%s\""
+msgstr ""
+
+#: ../archive.php:30
+#, php-format
+msgid "All posts tagged: \"%s\""
+msgstr ""
+
+#: ../archive.php:35
+#, php-format
+msgid "All posts by: \"%s\""
+msgstr ""
+
+#: ../archive.php:39
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#: ../archive.php:43
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#: ../archive.php:47
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#: ../archive.php:50
+msgid "Archives"
+msgstr ""
+
+#: ../archive.php:75
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+
+#: ../comments.php:16
+msgid "No comments"
+msgstr ""
+
+#: ../comments.php:16 ../loop-style1.php:16 ../single-default.php:50
+msgid "1 Comment"
+msgstr ""
+
+#: ../comments.php:16 ../loop-style1.php:17 ../single-default.php:51
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:24
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:25
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:41
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:47
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: ../comments.php:49
+msgid "Leave a Comment<span class=\"title-block\"></span>"
+msgstr ""
+
+#: ../comments.php:51
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../comments.php:53
+msgid "Cancel Reply To Comment"
+msgstr ""
+
+#: ../comments.php:55
+msgid "Submit Comment"
+msgstr ""
+
+#: ../comments.php:61
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:61 ../comments.php:63
+msgid "required"
+msgstr ""
+
+#: ../comments.php:63 ../functions/widgets/widget-contact.php:40
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:65
+msgid "Website"
+msgstr ""
+
+#: ../functions.php:41 ../functions.php:242
+msgid "Primary Navigation"
+msgstr ""
+
+#: ../functions.php:115 ../includes/class-tgm-plugin-activation.php:155
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../functions.php:116 ../includes/class-tgm-plugin-activation.php:156
+msgid "Install Plugins"
+msgstr ""
+
+#: ../functions.php:117 ../includes/class-tgm-plugin-activation.php:157
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../functions.php:118
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions.php:129 ../includes/class-tgm-plugin-activation.php:169
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../functions.php:130 ../includes/class-tgm-plugin-activation.php:171
+#: ../includes/class-tgm-plugin-activation.php:1840
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../functions.php:131
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../functions.php:165
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../functions.php:167
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../functions.php:173
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:180
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions.php:207
+msgid "Standard Page Sidebar"
+msgstr ""
+
+#: ../functions.php:209
+msgid "Displayed in the sidebar of all pages except the homepage"
+msgstr ""
+
+#: ../functions.php:218
+msgid "Footer"
+msgstr ""
+
+#: ../functions.php:220
+msgid "Displayed at the bottom of all pages"
+msgstr ""
+
+#: ../functions.php:243
+msgid "Top Right Navigation"
+msgstr ""
+
+#: ../functions.php:244
+msgid "Footer Navigation"
+msgstr ""
+
+#: ../functions.php:877
+#, php-format
+msgid "Search results for %s"
+msgstr ""
+
+#: ../functions.php:879 ../functions.php:891
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../functions.php:983
+msgid ""
+"This post is password protected. To view it please enter your password below"
+msgstr ""
+
+#: ../functions.php:984
+msgid "Password"
+msgstr ""
+
+#: ../header.php:77
+msgid "Book Now"
+msgstr ""
+
+#: ../header.php:173
+msgid "Navigation"
+msgstr ""
+
+#: ../index.php:21 ../search.php:62 ../search.php:165
+#: ../page-templates/template-homepage-4.php:237
+#: ../page-templates/template-homepage-5.php:232
+msgid "Blog"
+msgstr ""
+
+#: ../loop-style1.php:14 ../single-default.php:48
+#: ../functions/widgets/widget-recent-posts.php:75
+#: ../page-templates/template-homepage-4.php:262
+#: ../page-templates/template-homepage-5.php:274
+msgid "By"
+msgstr ""
+
+#: ../loop-style1.php:15 ../single-default.php:49
+msgid "No Comments"
+msgstr ""
+
+#: ../loop-style1.php:19 ../single-default.php:53
+msgid "Off"
+msgstr ""
+
+#: ../loop-style1.php:23
+msgid "Read More"
+msgstr ""
+
+#: ../page.php:32 ../page-templates/template-full-width.php:36
+#: ../page-templates/template-left-sidebar.php:36
+#: ../page-templates/template-right-sidebar.php:36
+msgid "Pages:"
+msgstr ""
+
+#: ../search.php:21
+msgid "Search Results"
+msgstr ""
+
+#: ../search.php:33 ../search.php:153
+msgid "Pages"
+msgstr ""
+
+#: ../search.php:54 ../search.php:83 ../search.php:112 ../search.php:141
+#: ../search.php:159 ../search.php:171 ../search.php:183 ../search.php:195
+msgid "No results were found."
+msgstr ""
+
+#: ../search.php:91 ../search.php:177 ../functions/post-types/events.php:8
+#: ../page-templates/template-homepage-4.php:291
+#: ../page-templates/template-homepage-5.php:319
+msgid "Events"
+msgstr ""
+
+#: ../search.php:120 ../search.php:189
+msgid "Accommodation"
+msgstr ""
+
+#: ../single-default.php:58
+msgid "Tags: "
+msgstr ""
+
+#: ../single-event.php:56 ../functions/widgets/widget-events.php:94
+#: ../page-templates/template-events.php:93
+#: ../page-templates/template-homepage-4.php:325
+#: ../page-templates/template-homepage-5.php:369
+msgid "No time set"
+msgstr ""
+
+#: ../single-event.php:61 ../functions/widgets/widget-events.php:99
+#: ../page-templates/template-events.php:98
+#: ../page-templates/template-homepage-4.php:330
+#: ../page-templates/template-homepage-5.php:374
+msgid "No location set"
+msgstr ""
+
+#: ../single-event.php:78 ../functions/post-types/events.php:52
+#: ../page-templates/template-events.php:116
+#: ../page-templates/template-homepage-4.php:339
+#: ../page-templates/template-homepage-5.php:383
+msgid "Event Time"
+msgstr ""
+
+#: ../single-event.php:78 ../functions/post-types/events.php:58
+#: ../page-templates/template-events.php:116
+#: ../page-templates/template-homepage-4.php:339
+#: ../page-templates/template-homepage-5.php:383
+msgid "Event Location"
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:480
+msgid "Last Backup : "
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:551
+msgid "Upload"
+msgstr ""
+
+#: ../admin/front-end/options.php:43 ../admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr ""
+
+#: ../admin/front-end/options.php:68
+msgid "Options Reset"
+msgstr ""
+
+#: ../admin/functions/functions.mediauploader.php:20
+msgid "Options"
+msgstr ""
+
+#: ../admin/functions/functions.mediauploader.php:210
+msgid "Gallery"
+msgstr ""
+
+#: ../admin/functions/functions.mediauploader.php:210
+msgid "Previously Uploaded"
+msgstr ""
+
+#: ../functions/post-types/events.php:9
+msgid "Event"
+msgstr ""
+
+#: ../functions/post-types/events.php:10
+#: ../functions/post-types/testimonials.php:10
+msgid "Add New"
+msgstr ""
+
+#: ../functions/post-types/events.php:11
+msgid "Add New Event"
+msgstr ""
+
+#: ../functions/post-types/events.php:17
+msgid "event"
+msgstr ""
+
+#: ../functions/post-types/events.php:45
+#: ../functions/post-types/events.php:214
+msgid "Event Date"
+msgstr ""
+
+#: ../functions/post-types/page.php:22
+msgid "Page Header Image URL"
+msgstr ""
+
+#: ../functions/post-types/testimonials.php:8
+#: ../page-templates/template-homepage-1.php:146
+#: ../page-templates/template-homepage-4.php:151
+#: ../page-templates/template-homepage-5.php:151
+msgid "Testimonials"
+msgstr ""
+
+#: ../functions/post-types/testimonials.php:9
+msgid "Testimonial"
+msgstr ""
+
+#: ../functions/post-types/testimonials.php:11
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../functions/post-types/testimonials.php:17
+msgid "testimonial"
+msgstr ""
+
+#: ../functions/post-types/testimonials.php:45
+msgid "Guest Name"
+msgstr ""
+
+#: ../functions/post-types/testimonials.php:51
+msgid "Room Type"
+msgstr ""
+
+#: ../functions/shortcodes/toggle.php:6 ../functions/shortcodes/toggle.php:12
+msgid "Title"
+msgstr ""
+
+#: ../functions/widgets/widget-category-posts.php:12
+msgid "Display Posts from a Category"
+msgstr ""
+
+#: ../functions/widgets/widget-category-posts.php:14
+msgid "Custom Category Posts Widget"
+msgstr ""
+
+#: ../functions/widgets/widget-category-posts.php:117
+#: ../functions/widgets/widget-contact.php:78
+#: ../functions/widgets/widget-events.php:157
+#: ../functions/widgets/widget-flickr.php:75
+#: ../functions/widgets/widget-map.php:79
+#: ../functions/widgets/widget-recent-posts.php:113
+#: ../functions/widgets/widget-social.php:115
+msgid "Title:"
+msgstr ""
+
+#: ../functions/widgets/widget-category-posts.php:122
+msgid "Post Category ID (e.g. \"10\"):"
+msgstr ""
+
+#: ../functions/widgets/widget-category-posts.php:127
+#: ../functions/widgets/widget-recent-posts.php:118
+msgid "Post Limit:"
+msgstr ""
+
+#: ../functions/widgets/widget-contact.php:12
+msgid "Display Contact Details"
+msgstr ""
+
+#: ../functions/widgets/widget-contact.php:14
+msgid "Contact Widget"
+msgstr ""
+
+#: ../functions/widgets/widget-contact.php:38
+msgid "Phone"
+msgstr ""
+
+#: ../functions/widgets/widget-contact.php:39
+msgid "Fax"
+msgstr ""
+
+#: ../functions/widgets/widget-contact.php:41
+msgid "Address"
+msgstr ""
+
+#: ../functions/widgets/widget-contact.php:83
+msgid "Phone Number:"
+msgstr ""
+
+#: ../functions/widgets/widget-contact.php:88
+msgid "Fax Number:"
+msgstr ""
+
+#: ../functions/widgets/widget-contact.php:93
+msgid "Email Address:"
+msgstr ""
+
+#: ../functions/widgets/widget-contact.php:98
+msgid "Address/Location:"
+msgstr ""
+
+#: ../functions/widgets/widget-events.php:12
+msgid "Display Latest Events"
+msgstr ""
+
+#: ../functions/widgets/widget-events.php:14
+msgid "Events Widget"
+msgstr ""
+
+#: ../functions/widgets/widget-events.php:123
+#: ../page-templates/template-events.php:126
+#: ../page-templates/template-homepage-4.php:351
+#: ../page-templates/template-homepage-5.php:401
+msgid "No events have been added yet!"
+msgstr ""
+
+#: ../functions/widgets/widget-events.php:162
+msgid "Number of Events:"
+msgstr ""
+
+#: ../functions/widgets/widget-flickr.php:12
+msgid "Display Your Flickr Photos"
+msgstr ""
+
+#: ../functions/widgets/widget-flickr.php:14
+msgid "Custom Flickr Widget"
+msgstr ""
+
+#: ../functions/widgets/widget-flickr.php:80
+msgid "Flickr ID:"
+msgstr ""
+
+#: ../functions/widgets/widget-flickr.php:85
+msgid "How Many Photos:"
+msgstr ""
+
+#: ../functions/widgets/widget-flickr.php:94
+msgid "flickr_type (user or group):"
+msgstr ""
+
+#: ../functions/widgets/widget-map.php:12
+msgid "Display a Google Map"
+msgstr ""
+
+#: ../functions/widgets/widget-map.php:14
+msgid "Google Map Widget"
+msgstr ""
+
+#: ../functions/widgets/widget-map.php:84
+msgid "Map Address (e.g. 123 Main Road, London, UK):"
+msgstr ""
+
+#: ../functions/widgets/widget-map.php:89
+msgid "Map Description:"
+msgstr ""
+
+#: ../functions/widgets/widget-recent-posts.php:12
+msgid "Display Recent Posts"
+msgstr ""
+
+#: ../functions/widgets/widget-recent-posts.php:14
+msgid "Custom Recent Posts Widget"
+msgstr ""
+
+#: ../functions/widgets/widget-recent-posts.php:75
+msgid "Posted"
+msgstr ""
+
+#: ../functions/widgets/widget-social.php:12
+msgid "Display Your Social Networks"
+msgstr ""
+
+#: ../functions/widgets/widget-social.php:14
+msgid "Custom Social Widget"
+msgstr ""
+
+#: ../functions/widgets/widget-social.php:120
+msgid "Facebook URL:"
+msgstr ""
+
+#: ../functions/widgets/widget-social.php:125
+msgid "Twitter URL:"
+msgstr ""
+
+#: ../functions/widgets/widget-social.php:130
+msgid "Pinterest URL:"
+msgstr ""
+
+#: ../functions/widgets/widget-social.php:135
+msgid "Google Plus URL:"
+msgstr ""
+
+#: ../functions/widgets/widget-social.php:140
+msgid "Linkedin URL:"
+msgstr ""
+
+#: ../functions/widgets/widget-social.php:145
+msgid "Yelp URL:"
+msgstr ""
+
+#: ../functions/widgets/widget-social.php:150
+msgid "Instagram URL:"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:172
+#: ../includes/class-tgm-plugin-activation.php:1538
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1950
+#: ../includes/class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1950
+#: ../includes/class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../includes/pagination.php:12
+msgid "&larr; Older posts"
+msgstr ""
+
+#: ../includes/pagination.php:13
+msgid "Newer posts &rarr;"
+msgstr ""
+
+#: ../page-templates/template-events.php:119
+msgid "Event Details"
+msgstr ""
+
+#: ../page-templates/template-homepage-1.php:52
+#: ../page-templates/template-homepage-2.php:52
+#: ../page-templates/template-homepage-3.php:52
+#: ../page-templates/template-homepage-4.php:52
+#: ../page-templates/template-homepage-5.php:52
+msgid "No Slides"
+msgstr ""
+
+#: ../page-templates/template-homepage-1.php:205
+#: ../page-templates/template-homepage-4.php:210
+#: ../page-templates/template-homepage-5.php:210
+#: ../page-templates/template-testimonials.php:90
+msgid "No testimonials have been added yet"
+msgstr ""
+
+#: ../page-templates/template-homepage-4.php:274
+msgid "No posts have been added yet!"
+msgstr ""
+
+#: ../page-templates/template-homepage-5.php:289
+msgid "No blog posts have been added yet"
+msgstr ""
+
+#: ../page-templates/template-homepage-5.php:426
+msgid "Photo Gallery"
+msgstr ""

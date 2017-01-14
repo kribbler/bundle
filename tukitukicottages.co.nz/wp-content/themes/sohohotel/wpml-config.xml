@@ -1,0 +1,65 @@
+<wpml-config>
+	
+	<custom-types>
+		<custom-type translate="1">event</custom-type>
+		<custom-type translate="1">testimonials</custom-type>
+	</custom-types>
+	
+    <admin-texts>
+        <key name="sidebar_position" />
+        <key name="text_logo" />
+        <key name="image_logo" />
+        <key name="page_header" />
+        <key name="favicon_url" />
+        <key name="footer_msg" />
+        <key name="google_analytics" />
+        <key name="colour_scheme" />
+        <key name="body_background" />
+        <key name="body_background_image" />
+        <key name="background_repeat" />
+        <key name="main_color" />
+		<key name="nav_footer_color" />
+        <key name="nav_footer_border" />
+        <key name="custom_css" />
+        <key name="custom_font_code" />
+        <key name="custom_font" />
+        <key name="slideshow_display" />
+        <key name="slideshow_autoplay" />
+        <key name="homepage_slider" />
+        <key name="display_slideshow_booking" />
+        <key name="homepage_block_title_1" />
+        <key name="homepage_block_content_1" />
+        <key name="homepage_block_button_1" />
+		<key name="homepage_block_link_1" />
+        <key name="homepage_block_title_2" />
+        <key name="homepage_block_content_2" />
+        <key name="homepage_block_button_2" />
+        <key name="homepage_block_link_2" />
+        <key name="homepage_block_title_3" />
+        <key name="homepage_block_content_3" />
+        <key name="homepage_block_button_3" />
+        <key name="homepage_block_link_3" />
+        <key name="homepage_photo_slider" />
+        <key name="posts_per_page" />
+        <key name="event_items_pp" />
+        <key name="social_twitter" />
+        <key name="social_facebook" />
+        <key name="social_googleplus" />
+        <key name="social_pinterest" />
+        <key name="social_flickr" />
+        <key name="social_youtube" />
+        <key name="social_vimeo" />
+        <key name="social_skype" />
+        <key name="social_rss" />
+		<key name="street_address" />
+		<key name="phone_number" />
+		<key name="fax_number" />
+		<key name="email_address" />
+		<key name="gmap-lat" />
+		<key name="gmap-long" />
+		<key name="gmap-content" />
+		<key name="of_backup" />
+        <key name="of_transfer" />
+    </admin-texts>
+
+</wpml-config>

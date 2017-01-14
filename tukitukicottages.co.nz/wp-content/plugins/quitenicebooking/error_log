@@ -1,0 +1,1 @@
+[14-Mar-2014 06:35:00 Pacific/Auckland] PHP Fatal error:  Call to undefined function plugin_dir_path() in /home/tukituki/public_html/wp-content/plugins/quitenicebooking/quitenicebooking.php on line 26

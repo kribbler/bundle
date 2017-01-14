@@ -1,0 +1,4 @@
+<?php
+/* Wordfence temporary file security header */
+echo "Nothing to see here!\n"; exit(0);
+?>a:20:{s:9:"cacheType";s:0:"";s:15:"firewallEnabled";s:1:"1";s:6:"apiKey";s:160:"9cb0af97c1ecc1ee50b0430805a6e33881f4e4e260ccf8be490e0e6c849097e3f361e3286f6dbfab2ef4518df54ffc7d0f6c629619ad42343d446add2985ce9d92f1483e5c04fdffad9fa0d42c9aeb54";s:9:"howGetIPs";s:11:"REMOTE_ADDR";s:9:"IPGetFail";s:0:"";s:11:"whitelisted";s:0:"";s:13:"cbl_countries";s:0:"";s:18:"cbl_bypassRedirURL";s:0:"";s:17:"cbl_bypassViewURL";s:0:"";s:11:"blockedTime";s:3:"300";s:18:"liveTrafficEnabled";s:1:"1";s:14:"disableCookies";s:1:"0";s:10:"tourClosed";s:1:"1";s:10:"autoUpdate";s:1:"0";s:16:"autoUpdateChoice";s:1:"1";s:11:"alertEmails";s:24:"maree@studioeleven.co.nz";s:17:"actUpdateInterval";s:1:"2";s:7:"debugOn";s:1:"0";s:25:"liveTraf_ignorePublishers";s:1:"1";s:19:"other_hideWPVersion";s:1:"1";}

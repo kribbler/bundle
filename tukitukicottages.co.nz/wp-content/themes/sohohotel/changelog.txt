@@ -1,0 +1,549 @@
+= V1.0 - 12.09.2013 =
+* Initial Release
+
+= V1.1 - 14.09.2013 =
+* Fixed colour scheme selection not working
+	themes/sohohotel/functions.php
+	
+* Fixed custom datepicker colour issue
+	themes/sohohotel/functions.php
+	
+* Fixed Google Map marker content no displaying
+	themes/sohohotel/functions.php
+	themes/sohohotel/js/gmap.js
+	
+* Fixed guest email not sending correctly
+	plugins/quitenicebooking/includes/functions/core_functions.php
+	plugins/quitenicebooking/includes/shortcodes/booking_step4.php
+
+= V1.2 - 16.09.2013 =
+* Fixed menu naming mistake
+	themes/sohohotel/functions.php
+	
+= V1.3 - 18.09.2013 =
+* Added Yelp Social Icon
+	themes/sohohotel/functions.php
+	themes/sohohotel/style.css
+	themes/sohohotel/css/colours/blueblack.css
+	themes/sohohotel/css/colours/creamgreen.css
+	themes/sohohotel/css/colours/creamred.css
+	themes/sohohotel/css/colours/goldblack.css
+	themes/sohohotel/images/social_icons.png
+	
+* Added accommodation slideshow delete icon
+	themes/sohohotel/admin/assets/images/delete.png
+	
+* Fixed slideshow autoplay option
+	themes/sohohotel/functions.php
+	themes/sohohotel/js/scripts.js
+	
+* Added language translation files for QNS Booking plugin
+	plugins/quitenicebooking/quitenicebooking.php
+	plugins/quitenicebooking/languages
+	
+= V1.3.1 - 21.09.2013 =
+* Fixed Google map JavaScript error
+	themes/sohohotel/functions.php
+	
+* Fixed custom Google font error
+	themes/sohohotel/functions.php
+	
+= V1.3.2 - 24.09.2013 =
+* Fixed booking plugin availability checker bug which made the check out date of rooms unavailable
+	plugins/quitenicebooking
+	
+* Fixed datepicker z-index issue
+	themes/sohohotel/style.css
+
+* Added option to charge per room as opposed to just per person
+	plugins/quitenicebooking
+	
+= V1.4 - 26.09.2013 =
+* Fixed multi-room booking availability checker bug
+	plugins/quitenicebooking
+	
+* Added option to stop bookings being recorded in the database
+	plugins/quitenicebooking
+	
+* Added option to remove children from booking form
+	plugins/quitenicebooking
+	
+= V1.4.1 - 04.10.2013 =
+* Added Instagram social icon
+	themes/sohohotel/functions.php
+	themes/sohohotel/functions/widgets/widget-social.php
+	themes/sohohotel/style.css
+	themes/sohohotel/css/colours/blueblack.css
+	themes/sohohotel/css/colours/creamgreen.css
+	themes/sohohotel/css/colours/creamred.css
+	themes/sohohotel/css/colours/goldblack.css
+	
+* Fixed RSS bug
+	themes/sohohotel/header.php
+	
+* Made all JavaScript validation text translatable
+	plugins/quitenicebooking
+	
+* Added "Double Bed" option
+	plugins/quitenicebooking
+	
+* Added "No. of Bedrooms" option
+	plugins/quitenicebooking
+	
+= V1.4.2 - 09.10.2013 =
+* Fixed Google Maps Marker not displaying when its content contains line breaks or single quotes
+	themes/sohohotel/functions.php
+
+* Fixed booking total price calculation when room price contains a thousands (,) separator
+	plugins/quitenicebooking/includes/functions/core_functions.php
+
+* Added a "Select Room" button on booking step 2 if accommodation has no bed set
+	plugins/quitenicebooking/includes/functions/core_functions.php
+	plugins/quitenicebooking/includes/shortcodes/booking_step2.php
+
+* Fixed booking step 4 success message not being displayed
+	plugins/quitenicebooking/includes/shortcodes/booking_step4.php
+	
+* Fixed translation issue with WPML
+	plugins/quitenicebooking
+	themes/sohohotel/admin
+
+= V1.4.3 - 11.10.2013 =
+* Added booking ID to bookings
+	plugins/quitenicebooking/includes/functions/core_functions.php
+	plugins/quitenicebooking/includes/shortcodes/booking_step4.php
+
+* Fixed undecoded HTML entities in email subject header
+	plugins/quitenicebooking/includes/functions/core_functions.php
+
+* Added option to change datepicker unavailable, available and selected colours in theme options
+	themes/sohohotel/functions.php
+	themes/sohohotel/style.css
+	themes/sohohotel/admin
+
+= V1.4.4 - 16.10.2013 =
+* Fixed booking email name
+	plugins/quitenicebooking/includes/functions/core_functions.php
+	
+* Added two thirds shortcode
+	themes/sohohotel/functions/shortcodes/columns.php
+	themes/sohohotel/functions.php
+	themes/sohohotel/style.css
+	
+* Improved photo gallery styling
+	themes/sohohotel/style.css
+	
+* Improved WPML language switcher styling
+	themes/sohohotel/style.css
+	themes/sohohotel/css/colours/blueblack.css
+	themes/sohohotel/css/colours/creamgreen.css
+	themes/sohohotel/css/colours/creamred.css
+	themes/sohohotel/css/colours/goldblack.css
+	themes/sohohotel/functions.php
+
+= V1.5.0 - 04.11.2013 =
+* The QNS Booking plugin has been substantially upgraded.  Please back up your Wordpress installation before upgrading.  Then, deactivate and delete the old plugin (your data is retained).  Install the new theme, then install and activate the new plugin
+	themes/quitenicebooking/*
+
+* Plugin changes:
+* The QNS Booking options page has been reorganized for better usability
+* The maximum number of persons to show on the booking form can now be configured
+* The maximum number of rooms per booking can now be configured
+* Added 2 additional date formats (MM/DD/YYYY, YYYY/MM/DD)
+* Added bank transfer as a payment option
+* Moved the "price per room" option from the QNS Booking options page to the Accommodation post
+* The confirmation email message can now be customized
+
+* Accommodation changes:
+* The Accommodation post back end has been reorganized for better usability
+* The pricing scheme (per room/per person) is now configured via Accommodations instead of the plugin options
+* The number of beds available may now be configured.  If there is any existing data that was imported, by default, the number of beds available will be set to the number of rooms available
+* Shortcodes are now allowed in the tab contents
+
+* Booking changes:
+* The Booking post back end has been reorganized for better usability
+* The number of rooms per booking can now exceed 3
+* Bookings can now be manually added via the back end, though it is still preferable to use the front end, as an availability check is not performed
+* The "deposit paid" field has removed because it is an unreliable indicator of whether Paypal's payment processing has taken place.  Please track payments via your Paypal account or Paypal's notification emails
+* There must now be at least 1 adult per booking
+* The front end price breakdown now includes a per-room total
+
+* Import data has been updated.  Do not use the old import data with the new theme version
+
+* Minor admin CSS fixes
+	themes/sohohotel/admin/assets/css/admin-style.css
+
+= V1.5.1 - 05.11.2013 =
+* Fixed compatibility for web servers running PHP < 5.3.0
+	plugins/quitenicebooking/includes/quitenicebooking_booking_post.class.php
+	plugins/quitenicebooking/includes/quitenicebooking_controller.class.php
+	plugins/quitenicebooking/includes/quitenicebooking_settings.class.php
+
+= V1.5.2 - 06.11.2013 =
+* Fixed featured image not appearing in booking step 2
+	plugins/quitenicebooking/views/booking_step_2.htm.php
+
+= V1.5.3 - 08.11.2013 =
+* Room details such as size and view are now hidden on booking step 2 if they are not set
+	plugins/quitenicebooking/views/booking_step_2.htm.php
+
+* Fixed language files not loading
+	plugins/quitenicebooking/includes/quitenicebooking.class.php
+
+* Allow deposit percentages over 100
+	plugins/quitenicebooking/views/admin/admin_menu.htm.php
+
+* Added option to send emails by SMTP
+	plugins/quitenicebooking/includes/quitenicebooking.class.php
+	plugins/quitenicebooking/views/admin/admin_menu.htm.php
+
+* Using the reservation widget on the single accommodation template will now take the user directly to booking step 2, with the room highlighted
+	plugins/quitenicebooking/templates/single-accommodation.php
+	plugins/quitenicebooking/views/booking_step_2.htm.php
+	plugins/quitenicebooking/includes/quitenicebooking.class.php
+
+= V1.5.4 - 13.11.2013 =
+* Fixed booking confirmation emails being sent to the administrator instead of the email specified in the plugin
+	plugins/quitenicebooking/includes/quitenicebooking.class.php
+
+= V1.5.5 - 15.11.2013 =
+* Please read the updated documentation for using translations with the QNS Booking plugin, especially for Datepicker translations and installations using Codestyling Localization or Poedit
+	http://themes.quitenicestuff.com/docs/sohohotelwp/
+
+* Added localization template to plugin and changed the default names of the .mo/.po files to avoid confusion
+	plugins/quitenicebooking/languages/quitenicebooking.pot
+	plugins/quitenicebooking/languages/quitenicebooking-en_US.po
+	plugins/quitenicebooking/languages/quitenicebooking-en_US.mo
+
+* Changed location of Datepicker translation declaration.  Instead of editing quitenicebooking.class.php, it is now in datepicker_translations.php
+	plugins/quitenicebooking/includes/quitenicebooking.class.php
+	plugins/quitenicebooking/includes/datepicker_translations.php
+
+* Fixed situation where Datepicker translations are not being loaded
+	plugins/quitenicebooking/includes/quitenicebooking.class.php
+
+* Price breakdown dates are now translated if Wordpress' localization files are installed; see the documentation and http://codex.wordpress.org/WordPress_in_Your_Language
+	plugins/quitenicebooking/includes/quitenicebooking.class.php
+
+* Fixed error messages appearing when all payment methods are disabled
+	plugins/quitenicebooking/includes/quitenicebooking.class.php
+	plugins/quitenicebooking/views/booking_step_3.htm.php
+	plugins/quitenicebooking/views/booking_step_4.htm.php
+	plugins/quitenicebooking/views/payment_success.htm.php
+
+* Added localization for booking form Javascript error messages.  Fixes Datepicker not showing on booking step 1 when the 'Check In' and 'Check Out' strings have been translated
+	plugins/quitenicebooking/includes/quitenicebooking.class.php
+	plugins/quitenicebooking/includes/assets/js/jquery-settings.js
+
+= V1.6.0 - 18.11.2013 =
+* QNS Booking plugin version: 2.2.0
+
+* Added a setup prompt to automatically create and configure pages required by the plugin
+	plugins/quitenicebooking/includes/quitenicebooking.class.php
+	plugins/quitenicebooking/includes/quitenicebooking.settings_class.php
+
+* The Accommodation, Booking steps 1-4, Payment success/failure pages are now configured by their post IDs instead of URLs in the plugin settings.  The plugin will automatically upgrade these settings if set in a previous version
+
+* To show translations of the above pages in WPML, the post IDs of the translated pages must be supplied instead of their URLs
+
+* Fixed deposit amount still being calculated in booking admin when all payment methods have been disabled
+	plugins/quitenicebooking/includes/quitenicebooking.class.php
+
+* Fixed accommodation meta being zeroed out when saving using Quick Edit
+	plugins/quitenicebooking/includes/quitenicebooking_accommodation_post.class.php
+	plugins/quitenicebooking/views/admin/accommodation_beds_meta.htm.php
+
+= V1.6.1 - 20.11.2013 =
+* QNS Booking plugin version: 2.2.1
+
+* The "Charge per person"/"Charge per room" pricing scheme option has been moved back into QNS Booking settings.  After much consideration, it was deemed unlikely that both pricing schemes will be used within a single establishment.  The plugin will automatically detect which pricing scheme is most used for all existing accommodations, and convert any that are not of that type to it
+	plugins/quitenicebooking/includes/quitenicebooking_settings.class.php
+	plugins/quitenicebooking/views/admin/accommodation_pricing_meta.htm.php
+
+* Added availability checker to the booking admin.  It is now safe to add bookings via admin > Bookings > Add New
+	plugins/quitenicebooking/includes/quitenicebooking.class.php
+	plugins/quitenicebooking/assets/js/admin/booking_meta.js
+	plugins/quitenicebooking/views/admin/booking_rooms_meta.htm.php
+
+* Fixed deposit amount still being calculated in booking admin when all payment methods have been disabled
+	plugins/quitenicebooking/includes/quitenicebooking.class.php
+
+= V1.6.2 - 22.11.2013 =
+* QNS Booking plugin version: 2.3.0
+
+* Removed dependency on PDO SQLite.  The booking data is now stored in a separate table (instead of post meta) to speed up availability checks.  The plugin will automatically upgrade previous data into the new table.  Please note that this operation is not reversible; making a backup prior to upgrading is recommended
+	plugins/quitenicebooking/includes/quitenicebooking.class.php
+	plugins/quitenicebooking/includes/quitenicebooking_settings.class.php
+	plugins/quitenicebooking/includes/quitenicebooking_booking_post.class.php
+
+* Fixed step 1-2 validation loop when "Remove children from booking form" option is enabled
+	plugins/quitenicebooking/views/booking_step_2.htm.php
+	plugins/quitenicebooking/views/booking_form.htm.php
+	plugins/quitenicebooking/views/reservation_form_widget.htm.php
+	plugins/quitenicebooking/templates/single-accommodation.htm.php
+
+* Fixed localization of plural forms
+	plugins/quitenicebooking/languages/quitenicebooking.pot
+	themes/sohohotel/languages/en_US.po
+
+= V1.6.3 - 26.11.2013 =
+* QNS Booking plugin version: 2.3.1
+
+* Fixed overbooking issue
+	plugins/quitenicebooking/includes/quitenicebooking_booking_post.class.php
+
+* Fixed extraneous settings being saved
+	plugins/quitenicebooking/includes/quitenicebooking_settings.class.php
+
+= V1.6.4 - 29.11.2013 =
+* QNS Booking plugin version: 2.3.2
+
+* Fixed payment success page not showing the reservation details
+	plugins/quitenicebooking/includes/quitenicebooking.class.php
+
+* Additional translatable strings
+	themes/sohohotel/page-templates/template-events.php
+
+= V1.6.5 - 06.12.2013 =
+* QNS Booking plugin version: 2.3.3
+
+* Fixed accommodation template fax field
+	plugins/quitenicebooking/templates/single-accommodation.php
+
+* Flipped "More rooms" links on accommodations page
+	plugins/quitenicebooking/includes/quitenicebooking.class.php
+	plugins/quitenicebooking/views/accommodation.htm.php
+
+* Allow multiple Google maps to be displayed on the same page
+	themes/sohohotel/functions/shortcodes/googlemap.php
+
+* Allow multiple tabs containers on the same page
+	themes/sohohotel/functions/shortcodes/tabs.php
+	themes/sohohotel/js/scripts.js
+
+= V1.7.0 - 10.12.2013 =
+* QNS Booking plugin version: 2.4.0
+
+* Fixed tabs on accommodations page
+	plugins/quitenicebooking/templates/single-accommodation.php
+
+* Fixed "Quick edit" discarding booking data
+	plugins/quitenicebooking/includes/quitenicebooking_booking_post.class.php
+
+* Additional deposit types can now be selected in QNS Booking > Payment
+	plugins/quitenicebooking/includes/quitenicebooking_settings.class.php
+	plugins/quitenicebooking/views/admin/admin_payment.htm.php
+	plugins/quitenicebooking/includes/quitenicebooking.class.php
+	plugins/quitenicebooking/views/booking_step_3.htm.php
+	plugins/quitenicebooking/views/booking_step_4.htm.php
+	plugins/quitenicebooking/views/payment_success.htm.php
+	plugins/quitenicebooking/wpml-config.xml
+
+* Minor fixes to booking and accommodation editors
+	plugins/quitenicebooking/assets/css/admin/booking_meta.css
+	plugins/quitenicebooking/assets/js/admin/accommodation_meta.js
+	plugins/quitenicebooking/assets/js/admin/booking_meta.js
+	plugins/quitenicebooking/views/admin/accommodation_beds_meta.htm.php
+
+* Fixed default email message being displayed, but not actually set, in plugin settings
+	plugins/quitenicebooking/views/admin/admin_email.htm.php
+
+* Fixed default booking success message being displayed, but not actually set, in plugin settings
+	plugins/quitenicebooking/views/admin/admin_messages.htm.php
+
+* Added maintenance tab to plugin settings, allowing import, export, repair, resetting, and diagnostics of settings, accommodations, and bookings
+	plugins/quitenicebooking/includes/quitenicebooking_settings.class.php
+	plugins/quitenicebooking/views/admin/admin_maintenance.htm.php
+
+* Fixed plugin unable to save blank page IDs
+	plugins/quitenicebooking/includes/quitenicebooking_settings.class.php
+
+* Modularized bed definitions
+	plugins/quitenicebooking/includes/quitenicebooking_beds.class.php
+	plugins/quitenicebooking/views/admin/booking_rooms_meta.htm.php
+	plugins/quitenicebooking/views/booking_step_2.htm.php
+
+* Modularized "per person" and "per room" pricing schemes
+	plugins/quitenicebooking/includes/quitenicebooking_entity_per_person.class.php
+	plugins/quitenicebooking/includes/quitenicebooking_entity_per_room.class.php
+	plugins/quitenicebooking/views/admin/accommodation_pricing_meta.htm.php
+
+* Modularized pricing scheme
+	plugins/quitenicebooking/includes/quitenicebooking_prices_daily.class.php
+	includes/plugins/quitenicebooking/views/admin/admin_general.htm.php
+
+* Added utilities class
+	plugins/quitenicebooking/includes/quitenicebooking_utilities.class.php
+
+* Added premium feature hooks
+	plugins/quitenicebooking/includes/quitenicebooking.class.php
+	plugins/quitenicebooking/includes/quitenicebooking_accommodation_post.class.php
+	plugins/quitenicebooking/includes/quitenicebooking_booking_post.class.php
+
+= V1.7.1 - 16.12.2013 =
+* QNS Booking plugin version: 2.4.1
+
+* Allow shortcode content to be placed above or below other content in the booking and accommodation pages
+	plugins/quitenicebooking/includes/quitenicebooking.class.php
+
+* Fixed Google Maps not showing in homepage blocks
+	themes/sohohotel/functions/shortcodes/googlemap.php
+
+* Fixed display of deposit in confirmation email
+    plugins/quitenicebooking/views/mail_user.mail.php
+    plugins/quitenicebooking/views/mail_admin.mail.php
+
+* Fixed responsive CSS for 4 columns shortcode
+	themes/sohohotel/style.css
+	themes/sohohotel/css/responsive.css
+
+= V1.7.2 - 20.12.2013 =
+* QNS Booking plugin version: 2.4.2
+
+* Fixed WPML overbooking issue.  If you are using WPML, please go into QNS Booking > Maintenance and run the Repair Bookings task
+	plugins/quitenicebooking/includes/quitenicebooking.class.php
+	plugins/quitenicebooking/includes/quitenicebooking_accommodation_post.class.php
+	plugins/quitenicebooking/includes/quitenicebooking_booking_post.class.php
+	plugins/quitenicebooking/includes/quitenicebooking_settings.class.php
+
+* For accommodations translated with WPML: prices, room quantities, maximum occupancy, and bed types are now defined by the original untranslated accommodation.  These values will be copied over to the translated accommodations to ensure they are synchronized to avoid overbooking
+	plugins/quitenicebooking/wpml-config.xml
+
+* Fixed booking step 4 race condition that allowed overbooking
+	plugins/quitenicebooking/includes/quitenicebooking.class.php
+
+* Allow events to be sorted by event date, and allow past events to be hidden
+	themes/sohohotel/admin/functions/functions.options.php
+	themes/sohohotel/functions/post-types/events.php
+	themes/sohohotel/widgets/widget-events.php
+	themes/sohohotel/page-templates/template-events.php
+
+= V1.8.0 - 06.01.2014 =
+* QNS Booking plugin version: 2.5.0
+
+* Added seasonal price filters to accommodations
+	plugins/quitenicebooking/assets/js/admin/price_filters_meta.js
+	plugins/quitenicebooking/includes/quitenicebooking_accommodation_post.class.php
+	plugins/quitenicebooking/includes/quitenicebooking_price_filters.class.php
+	plugins/quitenicebooking/views/admin/accommodation_price_filters_meta.htm.php
+
+* Added deposit method and deposit status memo fields to booking admin
+	plugins/quitenicebooking/includes/quitenicebooking.class.php
+	plugins/quitenicebooking/includes/quitenicebooking_booking_post.class.php
+	plugins/quitenicebooking/views/admin/booking_payment_meta.htm.php
+
+* Added an option to place the currency symbol after the price (QNS Booking > Payment > Display currency symbol right of the price)
+	plugins/quitenicebooking/includes/quitenicebooking.class.php
+	plugins/quitenicebooking/includes/quitenicebooking_settings.class.php
+	plugins/quitenicebooking/includes/quitenicebooking_utilities.class.php
+	plugins/quitenicebooking/templates/single-accommodation.php
+	plugins/quitenicebooking/views/accommodation.htm.php
+	plugins/quitenicebooking/views/admin/admin_payment.htm.php
+	plugins/quitenicebooking/views/booking_step_2.htm.php
+	plugins/quitenicebooking/views/booking_step_3.htm.php
+	plugins/quitenicebooking/views/booking_step_4.htm.php
+	plugins/quitenicebooking/views/mail_admin.mail.php
+	plugins/quitenicebooking/views/mail_user.mail.php
+	plugins/quitenicebooking/views/payment_success.htm.php
+	plugins/quitenicebooking/wpml-config.xml
+
+* The homepage booking form and reservation widgets now assume a single-room booking and will direct to step 2.  An option has been added to display a link to step 1 if desired (QNS Booking > General > Show multi-room link on booking widgets)
+	plugins/quitenicebooking/includes/quitenicebooking.class.php
+	plugins/quitenicebooking/includes/quitenicebooking_settings.class.php
+	plugins/quitenicebooking/templates/single-accommodation.php
+	plugins/quitenicebooking/views/admin/admin_general.htm.php
+	plugins/quitenicebooking/views/booking_form.htm.php
+	plugins/quitenicebooking/views/reservation_form_widget.htm.php
+	plugins/quitenicebooking/wpml-config.xml
+
+* The "Check Availability" button on the accommodation page will direct to step 1.  After step 1 is submitted, the selected room will be highlighted in step 2
+	plugins/quitenicebooking/includes/quitenicebooking.class.php
+	plugins/quitenicebooking/views/accommodation.htm.php
+	plugins/quitenicebooking/views/booking_step_1.htm.php
+
+* Fixed accommodations not being shown on booking step 2 when there are more than 10 different accommodations available
+	plugins/quitenicebooking/includes/quitenicebooking_accommodation_post.class.php
+
+* Added uninstall script
+	plugins/quitenicebooking/includes/quitenicebooking_settings.class.php
+	plugins/quitenicebooking/uninstall.php
+	plugins/quitenicebooking/views/admin/admin_maintenance.htm.php
+
+* All emails are now handled by PHPMailer instead of wp_mail() for better compatibility
+	plugins/quitenicebooking/includes/quitenicebooking.class.php
+	plugins/quitenicebooking/includes/quitenicebooking_utilities.class.php
+
+* Fixed jQuery compatibility
+	themes/sohohotel/functions.php
+
+* Updated dashboard icons to use new Wordpress icon font
+	themes/sohohotel/functions/post-types/events.php
+	themes/sohohotel/functions/post-types/testimonials.php
+	plugins/quitenicebooking/includes/quitenicebooking_accommodation_post.class.php
+	plugins/quitenicebooking/includes/quitenicebooking_booking_post.class.php
+
+= V1.8.1 - 08.01.2014 =
+* QNS Booking plugin version: 2.5.1
+
+* Calendars now show room availability
+    plugins/quitenicebooking/assets/js/jquery-settings.js
+    plugins/quitenicebooking/includes/quitenicebooking.class.php
+    plugins/quitenicebooking/quitenicebooking.php
+    plugins/quitenicebooking/views/booking_step_1.htm.php
+
+* Reverted booking step 3 "Address Line 2" to an optional field
+    plugins/quitenicebooking/includes/quitenicebooking_settings.class.php
+
+* Added capability to have more than 3 seasonal pricing filters
+	plugins/quitenicebooking/assets/js/admin/price_filters_meta.js
+	plugins/quitenicebooking/includes/quitenicebooking_accommodation_post.class.php
+	plugins/quitenicebooking/includes/quitenicebooking_price_filters.class.php
+	plugins/quitenicebooking/includes/quitenicebooking_settings.class.php
+
+* Fixed single accommodation template slideshow caption
+	plugins/quitenicebooking/templates/single-accommodation.php
+
+* Fixed tabs responsive CSS
+	themes/sohohotel/css/responsive.css
+	themes/sohohotel/style.css
+
+= V1.8.2 - 10.01.2014 =
+* QNS Booking plugin version: 2.5.2
+
+* Fixed settings upgrade from Soho Hotel 1.5.x.  If you encountered upgrade errors in the previous update and this update does not fix them (e.g. errors during the booking process), please note down your current QNS Booking plugin settings.  Then go to QNS Booking > Maintenance > Reset plugin and click Run.  Dismiss the page installation prompt, then fill in your previous settings in each of the QNS Booking tabs
+    plugins/quitenicebooking/includes/quitenicebooking_settings.class.php
+    themes/sohohotel/admin/classes/class.options_machine.php
+
+* Configured WPML to copy seasonal price filter fields to translated accommodations.  If you have more 10 seasonal price filters per accommodation, please add them to the <custom-fields> section of wpml-config.xml
+    plugins/quitenicebooking/wpml-config.xml
+
+* Fixed WPML being unable to translate booking step 3 form
+    plugins/quitenicebooking/wpml-config.xml
+
+* Fixed Google map shortcode CSS
+    themes/sohohotel/functions/shortcodes/googlemap.php
+    themes/sohohotel/style.css
+
+* Minor UI fixes for seasonal price filters admin
+	plugins/quitenicebooking/assets/js/admin/price_filters_meta.js
+
+* Fixed booking step 3 email validation
+	plugins/quitenicebooking/includes/quitenicebooking.class.php
+
+* Added mailto: links to email contacts
+    themes/sohohotel/header.php
+    themes/sohohotel/functions/widgets/widget-contact.php
+    plugins/quitenicebooking/views/booking_step_4.htm.php
+    plugins/quitenicebooking/views/payment_fail.htm.php
+    plugins/quitenicebooking/views/payment_success.htm.php
+    plugins/quitenicebooking/views/payment_success_error.htm.php
+    plugins/quitenicebooking/templates/single-accommodation.php
+
+* Added [slideshow] shortcode
+    themes/sohohotel/functions.php
+    themes/sohohotel/functions/shortcodes/slideshow.php
+    themes/sohohotel/js/scripts.js
+    themes/sohohotel/style.css
+
+* Fixed responsive CSS for footer widgets
+	themes/sohohotel/style.css
