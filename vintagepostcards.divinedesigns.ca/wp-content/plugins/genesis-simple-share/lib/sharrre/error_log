@@ -1,0 +1,5 @@
+[20-Feb-2014 01:28:53 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Empty delimiter in /home/fottsp/public_html/wp-content/plugins/genesis-simple-share/lib/sharrre/sharrre.php on line 98
+[20-Feb-2014 01:30:09 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Empty delimiter in /home/fottsp/public_html/wp-content/plugins/genesis-simple-share/lib/sharrre/sharrre.php on line 98
+[20-Feb-2014 01:33:18 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/fottsp/public_html/wp-content/plugins/genesis-simple-share/lib/sharrre/sharrre.php on line 119
+[20-Feb-2014 01:34:20 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/fottsp/public_html/wp-content/plugins/genesis-simple-share/lib/sharrre/sharrre.php on line 121
+[20-Feb-2014 01:34:58 UTC] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/fottsp/public_html/wp-content/plugins/genesis-simple-share/lib/sharrre/sharrre.php on line 59

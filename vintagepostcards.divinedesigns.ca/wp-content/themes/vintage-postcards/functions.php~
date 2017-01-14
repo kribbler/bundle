@@ -1,0 +1,354 @@
+<?php
+
+add_theme_support( 'html5', array( 'search-form', 'comment-form', 'comment-list', 'gallery', 'caption' ) );
+
+add_theme_support( 'genesis-connect-woocommerce' );
+add_action( 'wp_enqueue_scripts', 'theme_enqueue_styles' );
+add_action( 'wp_enqueue_scripts', 'theme_enqueue_scripts' );
+function theme_enqueue_styles() {
+    wp_enqueue_style( 'bootstrap', 'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css');
+
+    wp_enqueue_style( 'bootstrap-theme', 'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css', array('bootstrap'));
+
+    wp_enqueue_style( 'parent-style', get_template_directory_uri() . '/style.css', array('bootstrap','bootstrap-theme'));
+
+    wp_enqueue_style( 'child-style',
+        get_stylesheet_directory_uri() . '/style.css',
+        array('bootstrap','bootstrap-theme','parent-style')
+    );
+
+    wp_enqueue_style( 'menu-style',
+        get_stylesheet_directory_uri() . '/css/postcard-menu.css',
+        array('bootstrap','bootstrap-theme','child-style','parent-style')
+    );
+}
+
+function theme_enqueue_scripts() {
+    wp_enqueue_script('bootstrap-js','https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js');
+}
+
+add_action( 'widgets_init', 'banner_widgets_init' );
+function banner_widgets_init() {
+    register_sidebar( array(
+        'name' => __( 'Banner', 'banner' ),
+        'id' => 'sidebar-1',
+        'description' => __( 'Widgets in this area will be shown on the top all posts and pages.', 'banner' ),
+        'before_widget' => '<div id="%1$s" class="widget %2$s">',
+	'after_widget'  => '</div>',
+	'before_title'  => '<section class="widget %2$s">',
+	'after_title'   => '</section>',
+    ) );
+}
+
+add_action( 'widgets_init', 'footer_widgets_init' );
+function footer_widgets_init() {
+    register_sidebar( array(
+        'name' => __( 'Footer', 'footer' ),
+        'id' => 'sidebar-2',
+        'description' => __( 'Widgets in this area will be shown at the bottom of all pages.', 'footer' ),
+        'before_widget' => '<div id="%1$s" class="widget %2$s">',
+	'after_widget'  => '</div>',
+	'before_title'  => '<section class="widget %2$s">',
+	'after_title'   => '</section>',
+    ) );
+}
+
+add_action( 'widgets_init', 'base_widgets_init' );
+function base_widgets_init() {
+	register_sidebar( array(
+		'name' => __('Base', 'base'),
+		'id' => 'sidebar-3',
+		'description' => __('Widgets in this area will be shown at the bottom of the current Wordpress page.','base'),
+		'before_widget' => '<div id="%1$s" class="widget %2$s">',
+		'after_widget' => '</div>',
+		'before_title' => '<section class="widget %2$s">',
+		'after_title' => '</section>',
+	) );
+}
+
+add_action( 'widgets_init', 'header_widgets_init' );
+function header_widgets_init() {
+	register_sidebar( array(
+		'name' => __('Header', 'header'),
+		'id' => 'sidebar-4',
+		'description' => __('Widgets in this area will be shown at the top of the every Wordpress page.','base'),
+		'before_widget' => '<div id="%1$s" class="widget %2$s">',
+		'after_widget' => '</div>',
+		'before_title' => '<section class="widget %2$s">',
+		'after_title' => '</section>',
+	) );
+}
+
+add_action( 'widgets_init', 'search_widgets_init' );
+function search_widgets_init() {
+	register_sidebar( array(
+		'name' => __('Search', 'search'),
+		'id' => 'sidebar-5',
+		'description' => __('Widgets in this area will be shown to the LEFT of the sidebar known as HEADER.','base'),
+		'before_widget' => '<div id="%1$s" class="widget %2$s">',
+		'after_widget' => '</div>',
+		'before_title' => '<section class="widget %2$s">',
+		'after_title' => '</section>',
+	) );
+}
+
+add_action( 'widgets_init', 'woocat_widgets_init' );
+function woocat_widgets_init() {
+   	register_sidebar( array(
+		'name' => __('Woocat', 'woocat'),
+		'id' => 'sidebar-6',
+		'description' => __('Widgets in this area will be shown at the very bottom of the Woocommerce post.','base'),
+		'before_widget' => '<div id="%1$s" class="widget %2$s">',
+		'after_widget' => '</div>',
+		'before_title' => '<section class="widget %2$s">',
+		'after_title' => '</section>',
+	) );
+}
+
+add_action('genesis_after_header','genesis_child_after_header',15);
+function genesis_child_after_header() {
+    echo("<div class='row'>");
+    echo("<div class='col-xs-12'>");
+	echo("<aside class='sidebar widget-area' style='display: block;'>");	
+	echo("<br>");
+	dynamic_sidebar('banner');
+	echo("</aside>");
+    echo("</div>");
+    echo("</div>");
+}
+
+remove_action( 'genesis_footer', 'genesis_do_footer' );
+add_action( 'genesis_footer', 'genesis_child_do_footer' );
+
+function genesis_child_do_footer() {
+    echo("<div class='row' style='margin-top: 2.5em;'>");
+    echo("<div class='col-xs-12'>");
+	echo("<aside class='sidebar widget-area' style='display: block;'>");
+	dynamic_sidebar('footer');
+	echo("</aside>");
+    echo("</div>");
+    echo("</div>");
+}
+
+add_action('genesis_after_loop','genesis_child_after_loop');
+function genesis_child_after_loop() {
+    echo("<div class='row'>");
+    echo("<div class='col-xs-12'>");
+	echo("<aside class='sidebar widget-area' style='display: block;'>");	
+	dynamic_sidebar('base');
+	echo("</aside>");
+    echo("</div>");
+    echo("</div>");
+}
+
+add_action( 'woocommerce_after_shop_loop', 'genesis_child_cat_content', 30 );
+function genesis_child_cat_content() {
+    echo("<div class='row'>");
+    echo("<div class='col-xs-12'>");
+	echo("<aside class='sidebar widget-area' style='display: block;'>");	
+	dynamic_sidebar('woocat');
+	echo("</aside>");
+    echo("</div>");
+    echo("</div>");
+}
+
+remove_action( 'woocommerce_after_shop_loop_item', 'woocommerce_template_loop_add_to_cart', 10 );
+remove_action( 'woocommerce_before_shop_loop_item_title', 'woocommerce_template_loop_product_thumbnail', 10 );
+remove_action( 'woocommerce_after_shop_loop_item_title', 'woocommerce_template_loop_price', 10 );
+remove_action( 'woocommerce_after_shop_loop_item_title', 'woocommerce_template_loop_rating', 5 );
+
+add_action( 'woocommerce_before_shop_loop_item_title', 'woocommerce_template_loop_product_thumbnail', 5 );
+add_action( 'woocommerce_after_shop_loop_item_title', 'woocommerce_template_loop_price', 10 );
+
+remove_action( 'woocommerce_before_shop_loop', 'woocommerce_result_count', 20 );
+remove_action( 'woocommerce_before_shop_loop', 'woocommerce_catalog_ordering', 30 );
+
+add_action( 'woocommerce_before_shop_loop', 'genesis_child_postage_open', 20 );
+add_action( 'woocommerce_after_shop_loop', 'genesis_child_postage_close', 20 );
+
+function genesis_child_postage_open() {
+?>
+    <div class="row">
+        <div class="col-xs-12">
+            <div class='cyan-postage-wrap'>
+                <div class='cyan-postage-bg-xl postcards'>
+                    <div class='ribbon-undef'><?php woocommerce_page_title(); ?></div>
+<?php
+}
+
+function genesis_child_postage_close() {
+?>
+                </div>
+            </div>
+        </div>
+    </div>
+<?php
+}
+
+add_action('woocommerce_before_single_product_summary', 'genesis_child_content_wrapper_open',10);
+add_action( 'woocommerce_after_single_product_summary','genesis_child_content_wrapper_close',10);
+remove_action( 'woocommerce_after_single_product_summary', 'woocommerce_upsell_display', 15 );
+remove_action( 'woocommerce_after_single_product_summary', 'woocommerce_output_related_products', 20 );
+remove_action( 'woocommerce_after_single_product_summary', 'woocommerce_output_product_data_tabs', 10 );
+
+add_action( 'woocommerce_after_single_product_summary', 'woocommerce_output_product_data_tabs', 20 );
+add_action( 'woocommerce_after_single_product_summary', 'genesis_child_single_product_adsense', 30 );
+
+function genesis_child_content_wrapper_open() {
+?>
+    <div class="row">
+        <div class="col-xs-12">
+            <div class='cyan-postage-wrap'>
+                <div class='cyan-postage-bg-xl postcards'>
+                    <?php echo(woocommerce_template_single_title()); ?>
+                    <?php
+	                    $args = array(
+			                    'delimiter' => '|',
+	                    );
+                    ?>
+                    <?php ob_start(); ?>
+                    <?php woocommerce_breadcrumb( $args ); ?>
+                    <?php $output = ob_get_contents(); ?>
+                    <?php ob_end_clean(); ?>
+                    <?php $cats = array_slice(explode('|',$output),2); ?>
+                    <?php array_pop($cats); ?>
+                    <?php $buff = implode(' &raquo; ', $cats); ?>
+                    <?php echo("<h3>$buff</h3>"); ?>
+                    <div class='ribbon-details'>
+                        <div style="background-image: url('/wp-content/themes/genesis-child/images/ribbon-details.png');">
+                            <div>
+                                <?php do_action( 'woocommerce_single_product_summary'); ?>                            
+</div>
+                        </div>
+                    </div>
+<?php
+}
+
+function genesis_child_content_wrapper_close() {
+?>
+                </div>
+            </div>
+        </div>
+    </div>
+<?php
+}
+
+function genesis_child_single_product_adsense() {
+?>
+<div class="row">
+<div class="col-xs-12">
+<img src="http://placehold.it/728x90" alt="Placeholder" class="center-block">
+<br>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12">
+<img src="http://placehold.it/728x14" alt="Placeholder" class="center-block">
+<br>
+</div>
+</div>
+<?php
+}
+
+
+add_filter( 'woocommerce_product_tabs', 'woo_remove_product_tabs', 98 );
+function woo_remove_product_tabs( $tabs ) {
+	unset( $tabs['reviews'] ); // Remove the reviews tab
+	unset( $tabs['additional_information'] ); // Remove the additional information tab
+	return $tabs;
+} 
+
+add_filter( 'woocommerce_product_tabs', 'woo_custom_description_tab', 98 );
+function woo_custom_description_tab( $tabs ) {
+    $tabs['description']['callback'] = 'woo_custom_description_tab_content'; // Custom description callback
+    return $tabs;
+}
+
+function woo_custom_description_tab_content($arg1,$arg2) {
+    echo('<div class="whitebg" style="margin-top: 2em; padding: 0.375em;">');
+    echo('<h2>What We Know About This Postcard</h2>');
+    echo('<p>');
+    the_content();    
+    echo('</p>');
+    echo('</div>');
+}
+
+remove_action( 'woocommerce_single_product_summary', 'woocommerce_template_single_title', 5 );
+remove_action( 'woocommerce_single_product_summary', 'woocommerce_template_single_rating', 10 );
+remove_action( 'woocommerce_single_product_summary', 'woocommerce_template_single_price', 10 );
+remove_action( 'woocommerce_single_product_summary', 'woocommerce_template_single_excerpt', 20 );
+remove_action( 'woocommerce_single_product_summary', 'woocommerce_template_single_meta', 40 );
+remove_action( 'woocommerce_single_product_summary', 'woocommerce_template_single_sharing', 50 );
+
+add_action( 'woocommerce_single_product_summary', 'genesis_child_single_price', 5 );
+function genesis_child_single_price($arg1) {
+	$product = new WC_Product( get_the_ID() );
+	$price = $product->price;	
+	echo("<div class='row'>");
+	echo("<div class='col-xs-12'>");
+        echo("<div class='spacer'>&nbsp;</div>");
+	echo("<h3>PRICE : \$$price</h3>");
+	echo("</div>");
+	echo("</div>");
+
+}
+
+add_action( 'woocommerce_single_product_summary', 'genesis_child_single_dim', 10 );
+function genesis_child_single_dim($arg1) {
+	$product = new WC_Product( get_the_ID() );
+	$dimensions_str = $product->get_dimensions();
+	$arr_dimensions = explode(' x ',$dimensions_str);
+	echo("<div class='row'>");
+	echo("<div class='col-xs-12'>");
+	echo("<img src='/wp-content/themes/genesis-child/images/hr-1.png' alt='hr'>");
+        echo("<h3>$arr_dimensions[0]cm x $arr_dimensions[1]cm</h3>");
+	echo("<img src='/wp-content/themes/genesis-child/images/hr-1.png' alt='hr'>");
+	echo("</div>");
+	echo("</div>");
+}
+
+add_action( 'woocommerce_single_product_summary', 'genesis_child_say_quantity', 15 );
+function genesis_child_say_quantity($arg1) {
+	echo("<div class='row'>");
+	echo("<div class='col-xs-12'>");
+        echo("<div class='pull-left'><h5>Quantity : </h5></div><div class='clearfix'></div>");
+	echo("</div>");
+	echo("</div>");
+}
+
+add_action( 'woocommerce_single_product_summary', 'genesis_child_buy_now', 30 );
+function genesis_child_buy_now($arg1) {
+	echo("<div class='row'>");
+	echo("<div class='col-xs-12'>");
+	$productid = get_the_ID();
+	$form = '<form data-productid="'.$productid.'" method="post" enctype="multipart/form-data">
+                <input  type="hidden" value="1" name="quantity" id="quantity">
+                <input  type="hidden" value="true" name="quick_buy" />
+                <input  type="hidden" name="add-to-cart" value="'.esc_attr($productid).'" />
+                <button data-productid="'.$productid.'" type="submit" class="button alt">Buy Now</button>';
+        $form .= '</form>';
+	echo($form);
+	echo("</div>");
+	echo("</div>");
+}
+
+add_action( 'woocommerce_single_product_summary', 'genesis_child_soc', 35 );
+function genesis_child_soc() {
+	$encoded_link = urlencode("http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]");
+	echo("<div class='row' style='margin-top: 2.5em;'>");
+	echo("<div class='col-xs-4'>");
+	echo("<a href='//pinterest.com/pin/create/button/
+        ?url=&$encoded_link&description=Vintage%20Postcard%3A%20Photo' class='center-block'><img src='/wp-content/themes/genesis-child/images/button-pinterest.png' alt='Pin it'></a>");
+	echo("</div>");
+	echo("<div class='col-xs-4'>");
+	echo("<a href='//facebook.com/sharer.php?u=$encoded_link' title='Like on Facebook' class='center-block'><img src='/wp-content/themes/genesis-child/images/button-facebook.png' alt='Like on Facebook'></a>");
+	echo("</div>");
+	echo("<div class='col-xs-4'>");
+	echo("<a href='//twitter.com/intent/tweet?url=$encoded_link' title='Share on Twitter' class='center-block'><img src='/wp-content/themes/genesis-child/images/button-twitter.png' alt='Share on Twitter'></a>");
+	echo("</div>");
+	echo("</div>");
+}
+
+
+add_filter('widget_text', 'do_shortcode');
+?>

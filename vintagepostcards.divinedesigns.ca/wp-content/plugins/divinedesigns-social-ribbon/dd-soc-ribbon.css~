@@ -1,0 +1,102 @@
+.dd-ribbon {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 44px 0;
+    padding-top: 22px;
+    padding-bottom: 44px;
+    background-image: url('ribbon-top.png'), url('ribbon-bottom.png');
+    background-repeat: no-repeat,no-repeat;
+    background-position: top center,bottom center;
+    background-size: 100% 138px,100% 138px;        
+}
+
+.dd-ribbon-flat {
+    display: block;
+    margin: 0 auto;
+    width: 80.93%;
+    max-width: 80.93%;
+    min-width: 80.93%;
+    height: auto;
+    padding: 0;
+    color: White;
+    background-image: url('ribbon-flat.png');
+    background-repeat: repeat-x repeat-y;
+}
+
+.dd-ribbon-title {
+    display: block;
+    margin: 0 ;
+    padding: 0;
+    border: 0;
+    width: auto;
+    height: auto;
+    text-align: center;
+}
+
+.socs {
+    display: block;
+    padding: 8% 0;
+    border: 0;
+    width: 80%;
+    margin: 0 auto;
+
+}
+
+.soc {
+    display: block;
+    margin: 0;
+    padding: 0;
+    border: 0 !important;
+}
+
+.soc a {
+    color: #FFFFFF !important;
+    vertical-align: middle;
+ 
+}
+
+.soc-icon {
+    display: inline-block;
+    width: auto;
+    height: auto;
+    vertical-align: middle;
+    margin-right: 4%;
+}
+
+.soc-cta {
+    display: inline-block;
+    width: auto;
+    height: auto;
+    vertical-align: middle;
+}
+
+.dd-ribbon h4 {
+}
+
+.ribbon-form {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.ribbon-button {
+    display: block !important;
+    background-color: #64BFBF !important;
+    color: #32777F !important;
+    width: 87.5% !important;
+    font-size: 1.4em !important;
+    margin: 0 auto !important;
+    text-align: center !important;
+    text-transform: none !important;
+}
+
+.ribbon-email {
+    display: block;
+    background-color: #FFFFFF;
+    color: #32777F;
+    width: 87.5%;
+    font-size: 0.8em;
+    margin: 0 auto;
+}
+
